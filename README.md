@@ -1,2 +1,2 @@
 # alt-3
-Alternative football leagues
+Better league tables
