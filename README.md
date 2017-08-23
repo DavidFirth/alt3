@@ -1,2 +1,5 @@
-# alt-3
-Better league tables
+# Better league tables!
+
+The purpose of this repository is to host the public "alt-3" web pages, where alternative league tables are presented for various prominent football leagues.
+
+For the league tables, the methodology behind them, and other related information, please visit the website:  http://davidfirth.github.io/alt-3
