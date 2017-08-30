@@ -6,16 +6,15 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
+locale                   : "en-GB"
 title                    : "alt-3.uk"
-header: 
-  image: "/assets/images/alt-3-banner-logo-v5-no-strapline.jpg"
+header                   :
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "David Firth"
+description              : "Better football league tables during the season."
+url                      : "http://alt-3.uk"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "davidfirth/alt-3"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -57,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "firthcity"
 facebook:
   username               :
   app_id                 :
@@ -79,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "alt-3.uk"
+  name             : "David Firth"
   avatar           : 
-  bio              : "...where maths meets footy."
+  bio              : "Statistics professor.  Quite interested in football."
   location         : 
   email            :
   uri              :
@@ -91,19 +90,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "davidfirth/alt-3"
+  github           : "davidfirth"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "firthcity"
   vine             :
   weibo            :
   xing             :
@@ -174,10 +173,10 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:year/:month/:day/:title/  #  was /:categories/:title/ until I changed it
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "Europe/London"
 
 
 # Plugins
@@ -243,8 +242,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
+      read_time: false
+      comments: false
       share: true
       related: true
       header: 
@@ -259,4 +258,5 @@ defaults:
       header: 
         image: /assets/images/alt-3-banner-logo-v5-no-strapline.jpg
 
-
+##  Next as suggested at https://github.com/github/pages-gem/issues/399
+github: [metadata]
