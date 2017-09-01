@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "firthcity"
+  username               : "footymath"
 facebook:
   username               :
   app_id                 :
@@ -79,11 +79,11 @@ analytics:
 # Site Author
 author:
   name             : "David Firth"
-  avatar           : 
-  bio              : "Statistics professor.  Quite interested in football."
-  location         : 
+  avatar           : "/assets/images/DavidFirth2-cropped-square-300.png"
+  bio              : "Statistics professor, at the University of Warwick and the Alan Turing Institute.  Quite interested in football."
+  location         : "Coventry and London, UK"
   email            :
-  uri              :
+  uri              : "http://warwick.ac.uk/dfirth"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -256,7 +256,7 @@ defaults:
       layout: single
       author_profile: false
       header: 
-        image: /assets/images/alt-3-banner-logo-v5-no-strapline.jpg
+        image: /assets/images/alt-3-banner-logo-v9.jpg
 
 ##  Next as suggested at https://github.com/github/pages-gem/issues/399
 github: [metadata]
