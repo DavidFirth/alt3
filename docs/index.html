@@ -1,19 +1,34 @@
 ---
 layout: single
+title: Maths. Footy. That's all.
 author_profile: false
+share: true
 header:
   image: /assets/images/alt-3-banner-logo-v8.jpg
 sidebar:
-  - text: <a class="twitter-timeline" data-tweet-limit="2" href="https://twitter.com/footymath">Tweets by footymath</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  - text: Latest tweets from <a href="https://twitter.com/footymath" target="_blank" title="@footymath">@footymath</a> <a class="twitter-timeline" data-tweet-limit="2" data-dnt="true" data-chrome="noheader" href="https://twitter.com/footymath"></a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 ---
 
+{% include base_path %}
 
-<h3 class="archive__subtitle">Latest Updates</h3>
+{% if paginator.page == 1 %}
+  {% assign pinned = site.posts | where:"pinned","true" %}
+  {% if pinned.size > 0 %}
+    <h3 class="archive__subtitle" ><i class="fa fa-thumb-tack" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].pinned_posts | default: "Pinned Post" }}</h3>
+    {% for post in pinned %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endif %}
+{% endif %}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Latest Posts" }}</h3>
 
 {% for post in paginator.posts %}
   {% include archive-single.html %}
 {% endfor %}
 
 {% include paginator.html %}
+
+
 
 

@@ -1,6 +1,7 @@
 ---
 title: "About alt-3.uk"
 permalink: /about/
+share: true
 ---
 
 - [**What alt-3 is, and why it exists**](what-why) 
