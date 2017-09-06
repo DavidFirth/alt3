@@ -8,7 +8,7 @@ sidebar:
 
 - [**What alt-3 is, and why it exists**](what-why) 
 
-- [**License and Disclaimer**](license) (coming soon)
+- [**License and Disclaimer**](license)
  
 - [**The league tables explained**](tables-explained) (coming soon)
  

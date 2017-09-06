@@ -10,11 +10,11 @@ sidebar:
 
 - [**England: Championship**](england-championship) (coming soon)
   
-- [**Germany: Bundesliga**](germany-bundesliga) (coming soon)
+- [**Germany: Bundesliga 1**](germany-bundesliga-1) (coming soon)
   
 - [**Italy: Serie A**](italy-serie-a) (coming soon)
     
-- [**Spain: La Liga**](spain-liga) (coming soon)
+- [**Spain: La Liga**](spain-la-liga) (coming soon)
 
 This is an initial list of the league tables that we aim to provide and keep up to date. 
 It is subject to change in the future. 
