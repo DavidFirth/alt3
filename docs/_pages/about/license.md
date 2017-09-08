@@ -16,7 +16,7 @@ the author.  For full detail of this condition, see Section 3 of the license tex
 A minimal way to satisfy the requirement, at the time of writing this
 notice, is to attach a brief attribution wherever the content is shared, 
 as follows:  
---- **Copyright (c) David Firth, http://alt-3.uk** ---  
+--- **Copyright &copy; David Firth, http://alt-3.uk** ---  
 [Quoting the web URL as above ensures that the license can easily be found,
 as there is a link to it from the alt-3 web pages.]  
 If you wish to refer to the underlying methodology, then please cite the published research paper by D Firth and H L Turner.
