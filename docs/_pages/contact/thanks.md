@@ -6,4 +6,5 @@ sitemap: false
 ---
 
 
-Thanks.
+Thank you for contacting *alt-3.uk*. We will aim to reply by email, as soon as possible.
+
