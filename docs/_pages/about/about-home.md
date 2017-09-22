@@ -10,9 +10,9 @@ sidebar:
 
 - [**License and Disclaimer**](license)
  
-- [**The league tables explained**](tables-explained) (coming soon)
+- [**The league tables explained**](tables-explained)
  
-- [**The mathematical method explained**](the-maths) (coming soon --- a fairly long read!)
+- [**The mathematical method explained**](the-maths) (a long-ish read!)
     
-- [**Acknowledgements**](acknowledge) (coming soon)
+- [**Acknowledgements**](acknowledge) 
 
