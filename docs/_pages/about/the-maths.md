@@ -165,8 +165,7 @@ As explained above, the fundamental quantities in the *alt-3* calculation are
 the team strengths $$s_i$$. It is those team strengths that determine the ranking 
 in an *alt-3* table.
 
-In each *alt-3* table we present also two further summary columns, labelled
-**sched** and **aP/M**.
+In each *alt-3* table we present also two further summary columns, labelled **sched** and **aP/M**.
 
 The *aP/M* or *adjusted points per match* 
 summary is always ranked in the same order as the team strengths $$s_i$$:

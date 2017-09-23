@@ -14,5 +14,5 @@ a more difficult schedule (i.e., the matches already played have been harder
 than average); and negative indicates an easier schedule.
 
 For further details on the method, see 
-[The league tables explained](/about/tables-explained) and (for the more 
-mathematically inclined reader) [The mathematical method explained](./the-maths/).
+[The league tables explained](/about/tables-explained/) and (for the more 
+mathematically inclined reader) [The mathematical method explained](/about/the-maths/).
