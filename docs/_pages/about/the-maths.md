@@ -46,7 +46,8 @@ to the team-specific strengths $$s_i$$.  These are:
 - $$\boldsymbol\gamma$$**:** the 'home advantage' parameter.  
 In football leagues, this
 will be a number greater than 1.  For example, a value of
-$$\gamma = 1.1$$ would mean that a home team's strength is enhanced by 10%.
+$$\gamma = 1.1$$ would mean that a team's strength is enhanced by 10%
+when playing at home.
 The *alt-3* model uses the same home-advantage effect for
 every team within a league.  
 (A more elaborate model, with home advantage allowed to
@@ -81,7 +82,7 @@ Yes, it is!
 Don't worry if you have never heard of the
 Bradley-Terry model before. The main point of *this* part of the page
 is to say briefly where that strange-looking 1/3 power comes from,
-in the formulae above, and why it is important.)
+in the formulae above --- and why it is important.)
 
 The Bradley-Terry model, and variants of it, are well established in the
 ranking of sports players and teams. A well-known example is the 

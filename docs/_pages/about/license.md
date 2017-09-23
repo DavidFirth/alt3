@@ -18,7 +18,7 @@ notice, is to attach a brief attribution wherever the content is shared,
 as follows:  
 --- **Copyright &copy; David Firth, http://alt-3.uk** ---  
 [Quoting the web URL as above ensures that the license can easily be found,
-as there is a link to it from the alt-3 web pages.]
+as there is a link to it from the *alt-3* web pages.]
 <!-- If you wish to refer to the underlying methodology, then please cite the published research paper by D Firth and H L Turner. -->
 
 2. **No guarantee is given, of fitness for any purpose.**   In particular, while we aim always to eliminate errors in our work, no guarantee is given that *any* of the *alt-3.uk* league tables is free of errors.
