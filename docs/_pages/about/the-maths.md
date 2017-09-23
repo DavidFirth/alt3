@@ -166,7 +166,7 @@ the team strengths $$s_i$$. It is those team strengths that determine the rankin
 in an *alt-3* table.
 
 In each *alt-3* table we present also two further summary columns, labelled
-**sched.s** and **aP/M**.
+**sched** and **aP/M**.
 
 The *aP/M* or *adjusted points per match* 
 summary is always ranked in the same order as the team strengths $$s_i$$:
@@ -179,7 +179,7 @@ $$\quad [3\times\textrm{pr}(i\textrm{ wins})] + [1\times\textrm{pr}(\textrm{draw
 
 with the probabilities as given by the formulae above.
 
-The *sched.s* or *schedule strength* column is computed, for each team $$i$$, as
+The *sched* or *schedule strength* column is computed, for each team $$i$$, as
 the total, over all matches played by $$i$$ to date, of match-specific
 opponent strengths defined as follows:
 

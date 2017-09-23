@@ -9,7 +9,7 @@
   - **_s_:** the current values of team strength *s*, in the *alt-3* calculation (an *average* strength is 1)
   - **aP/M:** adjusted points per match (or '*alt-3* points per match')
 * The *alt-3* measure of *schedule strength* for each team:
-  - **sched.s:** an *average* schedule strength is 0; a positive value indicates
+  - **sched:** an *average* schedule strength is 0; a positive value indicates
 a more difficult schedule (i.e., the matches already played have been harder
 than average); and negative indicates an easier schedule.
 

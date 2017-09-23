@@ -38,7 +38,7 @@ according to their assessed strength**, or
 
 The *third* new column in each *alt-3* table is:
 
-- **sched.s**, the assessed 'schedule strength' for each team.  This measures how
+- **sched**, the assessed 'schedule strength' for each team.  This measures how
 difficult a schedule each team has had, since the start of the season.  An 
 *average* 
 schedule strength would be zero. 
@@ -49,7 +49,7 @@ Teams that
 have schedule strength far from zero are likely to be ranked differently in the 
 *alt-3* table than in the 'standard' kind of table based on accumulated 
 league points.  So 
-the *sched.s* value helps to explain what is happening,
+the *sched* value helps to explain what is happening,
 whenever we see such changes in league-table position.
 
 Finally, it should be noted that an *alt-3* table is **not a prediction**.
