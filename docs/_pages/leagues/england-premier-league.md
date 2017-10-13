@@ -1,5 +1,5 @@
 ---
-title: "England: Premier League standings"
+title: "Premier League standings"
 permalink: /leagues/england-premier-league
 share: true
 sidebar:

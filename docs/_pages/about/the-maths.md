@@ -7,7 +7,7 @@ sidebar:
 ---
 
 A full academic research paper, for publication in a peer-reviewed journal, 
-is currently (September 2017) in preparation. That paper will contain all the 
+is currently (October 2017) in preparation. That paper will contain all the 
 details of the *alt-3* method, along with the mathematical justification for its
 use to produce routinely better league-table rankings.
 
@@ -165,34 +165,9 @@ As explained above, the fundamental quantities in the *alt-3* calculation are
 the team strengths $$s_i$$. It is those team strengths that determine the ranking 
 in an *alt-3* table.
 
-In each *alt-3* table we present also two further summary columns, labelled **sched** and **aP/M**.
+In each *alt-3* table we present also two further summary columns, labelled **sched** and **Pts\|m** (where *m* is the number of matchdays into the season).
 
-The *aP/M* or *adjusted points per match* 
-summary is always ranked in the same order as the team strengths $$s_i$$:
-it is simply an alternative numerical repsesentation of the same ranking.
-The *aP/M* value for each team $$i$$ 
-is computed simply as the average, across all matches that
-$$i$$ plays in the whole season, of
-
-$$\quad [3\times\textrm{pr}(i\textrm{ wins})] + [1\times\textrm{pr}(\textrm{draw})]$$,
-
-with the probabilities as given by the formulae above.
-
-The *sched* or *schedule strength* column is computed, for each team $$i$$, as
-the total, over all matches played by $$i$$ to date, of match-specific
-opponent strengths defined as follows:
-
-$$\quad s_j/(\gamma + s_j) -1/2\quad$$  (played at home against $$j$$)
-
-$$\quad s_j\gamma/(1 + s_j\gamma) - 1/2\quad$$  (played away against $$j$$)
-
-An 'average' schedule-strength value would be zero.
-
-The schedule strength measure provides fairly direct explanation for
-any differences found between the ranking based on *aP/M* and the `standard'
-league table based on the 
-accumulated points to date. For example, a strongly positive schedule 
-strength would correspond to a higher value of *aP/M*.
+[This section currently under construction. More coming soon!]
 
 
 

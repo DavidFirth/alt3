@@ -14,29 +14,11 @@ This includes the strength of the opponents played so far, and also
 any imbalance in the numbers of matches played at home and away.  (The 'home
 advantage' effect in many major football leagues can be substantial.)
 
-The *alt-3* table displays three new columns.  We say just briefly here 
+The *alt-3* table displays two new columns.  We say just briefly here 
 what each of those columns refers to.  For (quite a bit!) more detail, 
 see [the mathematical method explained](./the-maths/).
 
-### The three columns are as follows:
-
-- **s**, the strength of each team.  Average strength is 1. Teams that are 
-stronger --- as evidenced only by their match results in the present season 
---- have strength values larger than 1; and weaker teams have 
-correspondingly smaller values of *s*.
-
-- **aP/M**, the 'adjusted points per match' for each team. This is directly 
-related to the strength, *s*. Stronger teams are expected to do better across
-the whole season; and the *aP/M* value indicates each team's 
-likely points-per-match
-tally at the end of the season, on the assumption that all teams will continue
-to perform just as well (or badly) as they have done so far. 
-
-**Every *alt-3* league table ranks the teams 
-according to their assessed strength**, or
-*equivalently* **according to each team's adjusted points per match.**
-
-The *third* new column in each *alt-3* table is:
+### The two columns are as follows:
 
 - **sched**, the assessed 'schedule strength' for each team.  This measures how
 difficult a schedule each team has had, since the start of the season.  An 
@@ -52,12 +34,32 @@ league points.  So
 the *sched* value helps to explain what is happening,
 whenever we see such changes in league-table position.
 
-Finally, it should be noted that an *alt-3* table is **not a prediction**.
+- **Pts\|m**, the 'adjusted points total after *m* matches' for each team. The value
+of *m* used in the table is the largest number of matches so far played by any
+team in the league.  For teams that have played *m* matches, the Pts\|m is just
+the accumulated league points plus the team's schedule strength to date.  If a team has
+a game in hand, that is properly 
+accounted for by using the team's projected points-per-match
+across a fully balanced schedule. (In such instances we 
+deliberately do *not* predict the outcome of the game in hand!
+Remember, the *alt-3* table aims only to reflect teams' performances to date --- it
+is not a prediction.)
+
+
+**Every *alt-3* league table ranks the teams 
+according to each team's adjusted points total.**
+
+
+-----
+
+It really must be emphasized that an *alt-3* table is **not a prediction**.
 The *strength* value
 and its *adjusted points per match* representation are designed
 specifically to measure the relative performance of teams to date --- that is, to 
 *represent faithfully what has happened*, rather than to predict 
-what will happen in the future.  (A good *predictive* model would
+what will happen in the future. 
+
+(A good *predictive* model would
 most likely need to take into account much more information than
 simply the match results seen already within the current season.)
 
