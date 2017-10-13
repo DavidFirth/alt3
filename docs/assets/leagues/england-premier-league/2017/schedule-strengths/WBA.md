@@ -5,7 +5,7 @@ title: "West Brom: Cumulative schedule strength since the start of the season"
 Home matches in blue, away matches in red:
 
 
-![](/assets/leagues/england-premier-league/2017/schedule-strengths/WBA.png)
+<img src = "/assets/leagues/england-premier-league/2017/schedule-strengths/WBA.svg" width = "100%">
 
 (Total schedule strength over the *whole season* is always zero.)
 

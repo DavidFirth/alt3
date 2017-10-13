@@ -5,7 +5,7 @@ title: "Crystal Palace: Cumulative schedule strength since the start of the seas
 Home matches in blue, away matches in red:
 
 
-![](/assets/leagues/england-premier-league/2017/schedule-strengths/Cry.png)
+<img src = "/assets/leagues/england-premier-league/2017/schedule-strengths/Cry.svg" width = "100%">
 
 (Total schedule strength over the *whole season* is always zero.)
 

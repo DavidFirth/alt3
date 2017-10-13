@@ -5,7 +5,7 @@ title: "Brighton: Cumulative schedule strength since the start of the season"
 Home matches in blue, away matches in red:
 
 
-![](/assets/leagues/england-premier-league/2017/schedule-strengths/BHA.png)
+<img src = "/assets/leagues/england-premier-league/2017/schedule-strengths/BHA.svg" width = "100%">
 
 (Total schedule strength over the *whole season* is always zero.)
 
