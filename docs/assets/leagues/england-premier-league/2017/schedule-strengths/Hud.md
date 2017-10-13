@@ -1,10 +1,6 @@
 ---
+title: "Huddersfield: Cumulative schedule strength since the start of the season"
 ---
-([Back](/leagues/england-premier-league) to the league table.)
-
------
-
-## Huddersfield: Cumulative schedule strength since the start of the season
 
 Home matches in blue, away matches in red:
 
@@ -16,7 +12,7 @@ Home matches in blue, away matches in red:
 
 Download today's schedule-strength data: [Hud.csv](/assets/leagues/england-premier-league/2017/schedule-strengths/Hud.csv)
 
-**Note that this changes week by week, as the schedule strengths get re-evaluated on the
+**Note that this changes, week by week, as the schedule strengths get re-evaluated on the
 basis of the latest results.**
 
 -----
