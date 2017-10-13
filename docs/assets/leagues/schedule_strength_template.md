@@ -9,7 +9,7 @@
 Home matches in blue, away matches in red:
 
 
-![](/assets/leagues/england-premier-league/2017/schedule-strengths/abbrev.png/)
+![](/assets/leagues/england-premier-league/2017/schedule-strengths/abbrev.png)
 
 (Total schedule strength over the *whole season* is always zero.)
 
