@@ -137,29 +137,7 @@ matches already played.
 (It is the choice of **power 1/3** in the model that ensures that the method of 
 maximum likelihood has this *exact* relationship with league points.)
 
-What we actually use in the *alt-3* method, however, is a *penalized* version
-of the method of maximum likelihood, which keeps the same exact relationship with
-league points, but which performs better in the sense that it routinely 
-eliminates implausible probability values. For example, if a particular
-team $$i$$ has lost all of its matches to date, the method of maximum likelihood
-would deliver $$s_i = 0$$, and hence no chance at all for team $$i$$ to win any 
-match in the entire season; and such a degree of certainty would
-plainly be unwarranted.
-
-The particular device used in *alt-3*, 
-in order to implement penalized maximum likelihood,
-is to append to the actual match results a set of imagined 'pre-season' 
-matches between each team and a fictitious 'team 0' that has average 
-strength, i.e., $$s_0 = 1$$.  Specifically, we suppose that each real team 
-wins one match and loses one match against the average 'team 0' (with neither 
-team having any home advantage, and with draws disallowed, in these imagined
-'pre-season' matches). 
-
-At the start of the season, then, every team has equal strength $$s_i = 1$$. 
-The results of real matches played during the season then simply 
-update those 'prior' strengths.
-
-## The 'adjusted points per match' and 'schedule strength' summaries
+## The 'schedule strength' and 'adjusted points' summaries
 
 As explained above, the fundamental quantities in the *alt-3* calculation are 
 the team strengths $$s_i$$. It is those team strengths that determine the ranking 
