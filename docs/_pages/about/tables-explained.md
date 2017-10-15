@@ -53,9 +53,8 @@ according to each team's adjusted points total.**
 -----
 
 It really must be emphasized that an *alt-3* table is **not a prediction**.
-The *strength* value
-and its *adjusted points per match* representation are designed
-specifically to measure the relative performance of teams to date --- that is, to 
+The adjusted points totals are designed specifically to 
+reflect the relative performance of teams to date --- that is, to 
 *represent faithfully what has happened*, rather than to predict 
 what will happen in the future. 
 
