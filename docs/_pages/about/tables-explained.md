@@ -16,7 +16,7 @@ advantage' effect in many major football leagues can be substantial.)
 
 The *alt-3* table displays two new columns.  We say just briefly here 
 what each of those columns refers to.  For (quite a bit!) more detail, 
-see [the mathematical method explained](./the-maths/).
+see [the mathematical method explained](../the-maths/).
 
 ### The two columns are as follows:
 

@@ -143,9 +143,9 @@ As explained above, the fundamental quantities in the *alt-3* calculation are
 the team strengths $$s_i$$. It is those team strengths that determine the ranking 
 in an *alt-3* table.
 
-In each *alt-3* table we present also two further summary columns, labelled **sched** and **Pts\|m** (where *m* is the number of matchdays into the season).
+In each *alt-3* table, what we *actually* present are two summary columns, labelled **sched** and **Pts\|m** (where *m* is the number of matchdays into the season).
 
-[This section currently under construction. More coming soon!]
+[This section currently under construction. For now, please see [The league tables explained](../tables-explained/). More detailed explanations coming here soon!]
 
 
 
