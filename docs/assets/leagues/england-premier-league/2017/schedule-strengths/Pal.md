@@ -1,5 +1,5 @@
 ---
-title: "Brighton and Hove Albion" 
+title: "Crystal Palace" 
 ---
 
 **Schedule strength since the start of the league season** 
@@ -7,12 +7,12 @@ title: "Brighton and Hove Albion"
 <span style="color:#000088">Home matches in blue</span>; <span style="color:#880000">Away matches in red</span>.
 
 
-<img src = "/assets/leagues/england-premier-league/2017/schedule-strengths/BHA.svg" width = "100%">
+<img src = "/assets/leagues/england-premier-league/2017/schedule-strengths/Pal.svg" width = "100%">
 
 (Total schedule strength over the *whole season* is always zero.)
 
 
-Download today's schedule-strength data: [BHA.csv](/assets/leagues/england-premier-league/2017/schedule-strengths/BHA.csv)
+Download today's schedule-strength data: [Pal.csv](/assets/leagues/england-premier-league/2017/schedule-strengths/Pal.csv)
 
 **Note that this changes, week by week, as the schedule strengths get re-evaluated on the
 basis of the latest results.**

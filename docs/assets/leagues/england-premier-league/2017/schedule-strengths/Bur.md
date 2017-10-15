@@ -1,8 +1,10 @@
 ---
-title: "Burnley: Cumulative schedule strength since the start of the season"
+title: "Burnley" 
 ---
 
-Home matches in blue, away matches in red:
+**Schedule strength since the start of the league season** 
+
+<span style="color:#000088">Home matches in blue</span>; <span style="color:#880000">Away matches in red</span>.
 
 
 <img src = "/assets/leagues/england-premier-league/2017/schedule-strengths/Bur.svg" width = "100%">
