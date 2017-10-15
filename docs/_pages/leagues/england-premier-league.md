@@ -1,6 +1,6 @@
 ---
 title: "Premier League standings"
-permalink: /leagues/england-premier-league
+permalink: /leagues/england-premier-league/index.html
 share: true
 sidebar:
   - text: "If you want to use the *alt-3.uk* league tables elsewhere, please be sure to read the [License and Disclaimer](/about/license) page first."
