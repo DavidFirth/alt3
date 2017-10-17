@@ -7,6 +7,7 @@ header:
   image: /assets/images/alt-3-banner-logo-v8.jpg
 ---
 
+{% if paginator.page == 1 %}
 <center><table cellpadding=5 border=4 bordercolor="#ff7f2a" style="max-width:320px;margin-top:5px;">
 <tr>
 <td><h1>Quick links:</h1>
@@ -18,6 +19,7 @@ header:
 </tr>
 </table>
 </center>
+{% endif %}
 
 {% include base_path %}
 
@@ -31,11 +33,16 @@ header:
   {% endif %}
 {% endif %}
 
-<center><a class="twitter-timeline" width=300 data-tweet-limit="1" data-dnt="true" data-chrome="noheader"  data-theme="dark" data-cards="hidden" href="https://twitter.com/footymath"></a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+{% if paginator.page == 1 %}
+<hr>
+<center><a class="twitter-timeline" width=300 data-tweet-limit="1" data-dnt="true" data-chrome="noheader"  data-theme="dark" href="https://twitter.com/footymath"></a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+{% endif %}
 
 
+<h3 class="archive__subtitle">Blog posts{% if paginator.page != 1 %}
+ (page {{ paginator.page }}){% endif %}, newest first:<a name="latest-posts"></a></h3>
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Latest Posts" }}<a name="latest-posts"></a></h3>
+
 
 {% for post in paginator.posts %}
   {% include archive-single.html %}
