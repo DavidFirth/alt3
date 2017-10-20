@@ -9,8 +9,8 @@ sidebar:
 
 -----
 
-**<span style="color:darkgreen">\*\* New \*\*</span>** --- The numbers in the **sched** column of the table are now clickable, 
-to show graphically how each team's schedule strength changes through the season.
+**<span style="color:darkgreen">\*\* New \*\*</span>** --- Click on either the team name or the **sched** column of the table,
+to see graphically how any team's schedule strength changes through the season.
 
 -----
 
