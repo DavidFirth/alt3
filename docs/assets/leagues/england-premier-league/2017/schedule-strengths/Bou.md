@@ -1,5 +1,5 @@
 ---
-title: "Bournemouth"
+title: "AFC Bournemouth"
 permalink: /leagues/england-premier-league/schedule-strength-Bou/
 ---
 

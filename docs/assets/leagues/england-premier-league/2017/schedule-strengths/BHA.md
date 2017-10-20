@@ -1,5 +1,5 @@
 ---
-title: "Brighton and Hove Albion"
+title: "Brighton & Hove Albion"
 permalink: /leagues/england-premier-league/schedule-strength-BHA/
 ---
 
