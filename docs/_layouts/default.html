@@ -15,6 +15,9 @@
 
   <link rel="shortcut icon" type="image/png" href="{{ "/favicon.png" | prepend: site.baseurl }}" >
 
+  <link rel=”apple-touch-icon” href=”/apple-touch-icon.png”/>
+  <link rel=”apple-touch-icon-precomposed” href=”/apple-touch-icon.png”/>
+
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
