@@ -2,7 +2,7 @@
 
 The league-table **rankings** are shown in the centre of the table: the **_alt-3_ league position in bold**, and the more standard league-table position (based on points already in the bag, with goal-difference to resolve ties where needed) is shown in grey.
 
-Unless you have a very narrow web-browser window, or a very old web browser, you should also see blue or red arrows to incicate where teams are higher or lower in the *alt-3* table than in the standard table. A solid arrow <img src="/assets/images/up2.svg" width="15"> or <img src="/assets/images/down2.svg" width="15"> indicates a difference of 3 or more league places.
+Unless you have a very narrow web-browser window, or a very old web browser, you should also see blue or red arrows to indicate where teams are higher or lower in the *alt-3* table than in the standard table. A solid arrow <img src="/assets/images/up2.svg" width="15"> or <img src="/assets/images/down2.svg" width="15"> indicates a difference of 3 or more league places.
 
 The other numbers shown in the table are:
 
@@ -10,13 +10,13 @@ The other numbers shown in the table are:
   - **P:** matches played to date
   - **GD:** goal difference
   - **Pts:** league points accumulated to date
-* The *alt-3* league table:
+* The **_alt-3_** league table:
   - **sched:** the *alt-3* measure of each team's *schedule strength* to date.  Numbers greater than zero appear for teams that have played tougher opposition than average and/or have played fewer matches at home than away; and vice-versa for numbers less than zero. 
   - **Pts\|9:** the adjusted points total based on 9 matches played.  This is normally --- unless a team has one or more *games in hand* --- the league points accumulated to date, adjusted for schedule strength:
 <center>            Pts|9 = Pts + sched  </center>
 
 <br>
-[Where a team has one or more *games in hand*, i.e., has played fewer than 9 matches, the Pts|9 total allows for that coherently by including additional points for each game in hand.]
+[Where a team has one or more *games in hand*, i.e., has played fewer than 9 matches, the Pts|9 total accounts coherently for that by including additional points for each game in hand.]
   
 
 <br>

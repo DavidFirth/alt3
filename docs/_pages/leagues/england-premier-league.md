@@ -7,12 +7,11 @@ sidebar:
   - text: "If you want to use the *alt-3.uk* league tables elsewhere, please be sure to read the [License and Disclaimer](/about/license) page first."
 ---
 
------
+### 'It's all in the sched'
 
-**<span style="color:darkgreen">\*\* New \*\*</span>** --- Click on either the team name or the **sched** column of the table,
+Click either on the *team name* or in the *sched* column of the table,
 to see graphically how any team's schedule strength changes through the season.
 
------
 
 {% include leagues/england-premier-league.html %}
 
