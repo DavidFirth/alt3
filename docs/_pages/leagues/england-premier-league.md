@@ -10,7 +10,7 @@ sidebar:
 ### 'It's all in the sched'
 
 Click either on the *team name* or in the *sched* column of the table,
-to see graphically how any team's schedule strength changes through the season.
+to see graphically how any team's schedule strength evolves through the season.
 
 
 {% include leagues/england-premier-league.html %}

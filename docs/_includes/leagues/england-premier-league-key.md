@@ -6,17 +6,22 @@ Unless you have a very narrow web-browser window, or a very old web browser, you
 
 The other numbers shown in the table are:
 
-* The usual league-table summaries:
-  - **P:** matches played to date
-  - **GD:** goal difference
-  - **Pts:** league points accumulated to date
-* The **_alt-3_** league table:
-  - **sched:** the *alt-3* measure of each team's *schedule strength* to date.  Numbers greater than zero appear for teams that have played tougher opposition than average and/or have played fewer matches at home than away; and vice-versa for numbers less than zero. 
-  - **Pts\|9:** the adjusted points total based on 9 matches played.  This is normally --- unless a team has one or more *games in hand* --- the league points accumulated to date, adjusted for schedule strength:
-<center>            Pts|9 = Pts + sched  </center>
+<ul>
+	<li>The usual league-table summaries:
+        <ul>
+		<li><b>P:</b> matches played to date</li>
+        <li><b>GD:</b> goal difference</li>
+        <li><b>Pts:</b> league points accumulated to date</li>
+		</ul>
+	</li>
+    <li>The <b><i>alt-3</i></b> league table:
+        <ul>
+		<li><b>sched:</b> the <i>alt-3</i> measure of each team's <i>schedule strength</i> to date.  Numbers greater than zero appear for teams that have played tougher opposition than average and/or have played fewer matches at home than away; and vice-versa for numbers less than zero.</li> 
+        <li><b>Pts\|9:</b> the adjusted points total based on 9 matches played.  This is normally &mdash; unless a team has one or more <i>games in hand</i> &mdash; the league points accumulated to date, adjusted for schedule strength:
+<center>         <b>   Pts|9 = Pts + sched </b> </center>
+[Where a team has one or more <i>games in hand</i>, i.e., has played fewer than 9 matches, the Pts|9 total accounts coherently for that by including additional points for each game in hand.]</li></ul></li>
+	</ul>
 
-<br>
-[Where a team has one or more *games in hand*, i.e., has played fewer than 9 matches, the Pts|9 total accounts coherently for that by including additional points for each game in hand.]
   
 
 <br>
