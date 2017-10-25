@@ -1,12 +1,6 @@
 ---
-title: "AFC Bournemouth"
 permalink: /leagues/england-premier-league/schedule-strength-Bou/
 ---
-
-**Schedule strength since the start of the league season** 
-
-<span style="color:#000088">Home matches in blue</span>. <span style="color:#880000">Away matches in red</span>.
-
 
 <img src = "/assets/leagues/england-premier-league/2017/schedule-strengths/Bou.svg" width = "100%">
 
