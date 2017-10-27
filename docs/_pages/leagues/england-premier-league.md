@@ -13,9 +13,9 @@ Click either on the *team name* or in the *sched* column of the table,
 to see graphically how any team's schedule strength evolves through the season.
 
 
-{% include leagues/england-premier-league.html %}
+{% include leagues/england-premier-league/alt3-table.html %}
 
-{% include leagues/england-premier-league-key.md %}
+{% include leagues/england-premier-league/key.md %}
 
 
 

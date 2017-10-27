@@ -2,7 +2,31 @@
 permalink: /leagues/england-premier-league/schedule-strength-BHA/
 ---
 
-<img src = "/assets/leagues/england-premier-league/2017/schedule-strengths/BHA.svg" width = "100%">
+<style>
+.svg-wrap {
+    background-color:red;
+    height:0;
+    padding-top:250%; /* 350px/550px */
+    position: relative;
+}
+
+svg {
+    background-color: cyan;
+    height: 100%;
+    display:block;
+    width: 100%;
+    position: absolute;
+    top:0;
+    left:0;
+}
+</style>
+
+
+<div class="svg-wrap">
+{% include leagues/england-premier-league/schedule-strengths/BHA.svg %}
+</div>
+
+-----
 
 (Total schedule strength over the *whole season* is always zero.)
 
@@ -14,6 +38,6 @@ basis of the latest results.**
 
 -----
 
-[Back](/leagues/england-premier-league) to the league table.
+[**Back to the league table...**](/leagues/england-premier-league)
 
 
