@@ -11,7 +11,7 @@ permalink: /leagues/thisleague/schedule-strength-abbrev/
 }
 
 svg {
-    background-color: cyan;
+    background-color: white;
     height: 100%;
     display:block;
     width: 100%;
