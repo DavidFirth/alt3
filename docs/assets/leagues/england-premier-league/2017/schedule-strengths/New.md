@@ -11,7 +11,7 @@ permalink: /leagues/england-premier-league/schedule-strength-New/
 }
 
 svg {
-    background-color: cyan;
+    background-color: white;
     height: 100%;
     display:block;
     width: 100%;
