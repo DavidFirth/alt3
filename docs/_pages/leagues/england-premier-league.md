@@ -10,7 +10,7 @@ sidebar:
 ### 'It's all in the sched'
 
 Click either on the *team name* or in the *sched* column of the table,
-to see graphically how any team's schedule strength evolves through the season.
+to see graphically how any team's schedule strength evolves through the season.  A negative number indicates an easier schedule, to date.
 
 
 {% include leagues/england-premier-league/alt3-table.html %}
