@@ -9,7 +9,7 @@ The other numbers shown in the table are:
 <ul>
 	<li>The usual league-table summaries:
         <ul>
-		<li><b>P:</b> matches played to date</li>
+		<li><b>Pld:</b> matches played to date</li>
         <li><b>GD:</b> goal difference</li>
         <li><b>Pts:</b> league points accumulated to date</li>
 		</ul>
