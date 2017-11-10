@@ -18,8 +18,9 @@
     margin: 0;
     padding: 0;
     min-height: auto !important;
-    font-size: 16px;
-  }
+    font-size: 80%;
+}	
+
 
   body {
     margin: 0 auto;
@@ -71,7 +72,6 @@
   a,
   a:visited {
     color: #000;
-    text-decoration: underline;
     word-wrap: break-word;
   }
 
@@ -91,12 +91,15 @@
 
   td,
   th {
-    padding: 8px 16px;
+    padding: 8px 16px;	
+  }
+
+  td:nth-child(1) {
+      display:none;
   }
 
   img {
     border: 0;
-    display: block;
     max-width: 100% !important;
     vertical-align: middle;
   }
@@ -228,6 +231,14 @@
     }
   }
 
+  .page__hero-image {
+    display: none;
+  }
+
+  .page__hero-image-for-print {
+    display: block;
+  }
+  
 /*
    Hide the following elements on print
    ========================================================================== */

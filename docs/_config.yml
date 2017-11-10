@@ -248,6 +248,7 @@ defaults:
       related: true
       header: 
         image: /assets/images/alt-3-banner-logo-v8.jpg
+        image_for_print: /assets/images/alt-3-header-logo-v6.png
   # _pages
   - scope:
       path: ""
@@ -257,6 +258,7 @@ defaults:
       author_profile: false
       header: 
         image: /assets/images/alt-3-banner-logo-v8.jpg
+        image_for_print: /assets/images/alt-3-header-logo-v6.png
 
 ##  Next as suggested at https://github.com/github/pages-gem/issues/399
 github: [metadata]

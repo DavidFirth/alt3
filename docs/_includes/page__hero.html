@@ -4,6 +4,12 @@
   {% capture img_path %}{{ page.header.image | absolute_url }}{% endcapture %}
 {% endif %}
 
+{% if page.header.image_for_print contains "://" %}
+  {% capture img_path_for_print %}{{ page.header.image_for_print }}{% endcapture %}
+{% else %}
+  {% capture img_path_for_print %}{{ page.header.image_for_print | absolute_url }}{% endcapture %}
+{% endif %}
+
 {% if page.header.cta_url contains "://" %}
   {% capture cta_path %}{{ page.header.cta_url }}{% endcapture %}
 {% else %}
@@ -54,6 +60,7 @@
     </div>
   {% else %}
     <img src="{{ img_path }}" alt="{{ image_description }}" class="page__hero-image">
+    <img src="{{ img_path_for_print }}" alt="{{ image_description }}" class="page__hero-image-for-print">
   {% endif %}
   {% if page.header.caption %}
     <span class="page__hero-caption">{{ page.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
