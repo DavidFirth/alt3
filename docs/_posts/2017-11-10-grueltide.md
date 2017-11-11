@@ -9,15 +9,15 @@ a football league season.
 
 This year, if all Premier League fixtures go ahead as planned,
 then by December 24th every team will have played 19 matches --- that's exactly half of the season completed.   At Christmas most teams will have played every other 
-team in the league once. (There are some exceptions, more on that below.)
+team in the league once. (There are some exceptions --- more on that below.)
 
 <img align="right" src="/assets/images/alt-tree.svg" style="width: 30%;" title="The 'alt-tree' (image), derived from https://commons.wikimedia.org/wiki/File:Christmas_tree.svg --- please 
 respect the original license as described there">
-Now, it should be admitted that
-**Christmas is a relatively dull day** for the 
-[*alt-3* league table](/leagues/england-premier-league). There 
-is no match played on that day.  Moreover, the sort of 
-schedule-strength imbalance that the *alt-3* method eliminates is
+It should be admitted that
+**Christmas is a relatively dull time** for the 
+[*alt-3* league table](/leagues/england-premier-league). 
+The sort of 
+fixture-list imbalance that the *alt-3* method eliminates is
 almost *absent* at the half-way point of the season --- precisely
 because most teams have played everyone else in the league once, at that point.
 
