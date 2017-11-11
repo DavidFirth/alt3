@@ -93,7 +93,7 @@ will instead be tested twice by City in the weeks that come after Christmas.
 
 So **Newcastle, Southampton and Swansea will all have Premier League points totals at 
 Christmas that flatter them a bit** --- regardless of their position in the league at
-that time.  Their supporters probably should try to enjoy it while it lasts.
+that time.  Their supporters probably should try to enjoy it while it lasts?
 
 
 
