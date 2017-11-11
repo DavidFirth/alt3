@@ -30,7 +30,7 @@ I highlight here the four clubs whose *alt-3 schedule strength* for fixtures bef
 Christmas differs appreciably from zero (i.e., whose schedule strength is rated at +1.5 
 league points or higher, or &minus;1.5 league points or lower). 
 
-## Bournemouth's Gruelling run up to Christmas
+## Bournemouth's gruelling run up to Christmas
 
 <img align="right" src="/assets/images/2017-11-11-Bou.svg" style="width:33%; 
 margin-left:10px;" title="Schedule strength chart, AFC Bournemouth, as at 2017-11-10">
