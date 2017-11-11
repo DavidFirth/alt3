@@ -52,12 +52,15 @@ Premier League points total at Christmas --- *whatever* that total turns out to
 be at the time 
 --- will not
 really be the best indication of their season up to that point. To take account of
-the fact that Bournemouth's first-half fixtures have been quite a bit harder than typical,
-we should add 1.9 points to their Christmas tally. 
-
-(That kind of adjustment is what the
-[*alt-3* league table](/leagues/england-premier-league) does consistently,
-every week, for every team in the league.)
+the fact that Bournemouth's first-half-season 
+fixtures have been quite a bit harder than typical,
+we should add 1.9 points to their Christmas tally 
+--- which is precisely the kind of adjustment that the
+[*alt-3* league table](/leagues/england-premier-league) makes consistently,
+every week, for every team in the league.
+(Note that the exact figure '1.9' just mentioned for Bournemouth 
+might change slightly over time, to take account of match results between now and 
+Christmas.  But it's very unlikely to change by *much*, if at all.)
 
 The 'official' Premier League table at Christmas will be a rather mean one, then, for 
 Bournemouth supporters. But of course the flip-side of all this is that
