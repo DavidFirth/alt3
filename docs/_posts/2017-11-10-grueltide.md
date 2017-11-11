@@ -1,5 +1,5 @@
 ---
-title: "Grueltide for Cherries (but happy new year?) --- and Santa visits Magpies, Saints and Swans"
+title: "Grueltide for Cherries (but happy new year?) --- and Santa will visit Magpies, Saints and Swans"
 excerpt_separator: "<!--more-->"
 comments: false
 ---
@@ -81,15 +81,15 @@ Here is a snapshot of those three clubs' schedule-strength charts, as they stand
 
 After completion of the last round of Premier League matches before Christmas, then:
 
-+ **Southampton** will have played 11 of their first 19 matches at home.
++ **Southampton** will have played **11 of their first 19 matches at home**.
 
 + **Swansea** will have played 10 of their first 19 at home; and 
 after the match on 23 December they will already have 
-played struggling Crystal Palace twice.
+played struggling **Crystal Palace twice**.
 
 + **Newcastle**, although playing away from home in 10 of the first 19 matches,
-will not face league-leaders Manchester City at all in the first half of the season: they
-will instead be tested twice by City in the weeks that come after Christmas.
+**will not face league-leaders Manchester City** in the first half of the season: they
+will instead be tested twice by City in the weeks that come *after* Christmas.
 
 So **Newcastle, Southampton and Swansea will all have Premier League points totals at 
 Christmas that flatter them a bit** --- regardless of their position in the league at
