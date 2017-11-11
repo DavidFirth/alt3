@@ -1,5 +1,5 @@
 ---
-title: "Grueltide for Cherries (but happy new year?) --- and Santa will visit Magpies, Saints and Swans"
+title: "Grueltide for Cherries (and happy new year?) --- but Santa will visit Magpies, Saints and Swans"
 excerpt_separator: "<!--more-->"
 comments: false
 ---
