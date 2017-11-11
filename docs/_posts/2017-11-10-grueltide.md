@@ -79,7 +79,7 @@ Here is a snapshot of those three clubs' schedule-strength charts, as they stand
 
 <img width="100%" src="/assets/images/2017-11-11-New-Sou-Swa.svg" title="Schedule strength charts, Newcastle, Southampton and Swansea, as at 2017-11-10">
 
-After completion of the last round of Premier League matches before Christmas, then:
+After completion of the last round of Premier League matches before Christmas:
 
 + **Southampton** will have played **11 of their first 19 matches at home**.
 
