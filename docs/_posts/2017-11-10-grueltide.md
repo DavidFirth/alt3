@@ -96,6 +96,11 @@ Christmas that flatter them a bit** --- regardless of their position in the leag
 that time.  Their supporters probably should try to enjoy it while it lasts?
 
 
+## What about other Premier League clubs?
+
+To see your own team's schedule-strength graph, just click on the team name in the 
+current [*alt-3* league table](/leagues/england-premier-league).
+
 
 
 
