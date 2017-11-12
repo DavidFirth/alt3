@@ -66,6 +66,12 @@ The picture of a football that is used in the *alt-3.uk* logo is derived from an
 <https://commons.wikimedia.org/wiki/File:Soccer_ball.svg>  
 for the original image and other details. 
 
+The 'alt-tree' image that appeared in [this blog post](/2017/11/10/grueltide) is derived
+from a drawing of a Christmas Tree that has been kindly shared through 
+Wikimedia Commons.  See  
+<https://commons.wikimedia.org/wiki/File:Christmas_tree.svg>
+for the original image and other details, including license.
+
 ### Some individual acknowledgements
 
 The details of the *alt-3* method and its implementation have been informed by
