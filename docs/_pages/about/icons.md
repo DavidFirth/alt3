@@ -8,11 +8,13 @@ Icons are available for use on all the major touch-screen platforms.
 
 <img width="100%" src = "/assets/images/homescreen-icons-link.png">
 
-To get an **alt-3** icon on your home screen, using some of the most common web browsers:
+To put an **alt-3** icon on your home screen, from some of the most common web browsers:
 
 - **Firefox:** From the Firefox menu, pick **Page > Add to Home Screen**
 
 - **Chrome:** From the Chrome menu, pick **Add to Home screen**
+
+- **Opera:** From the Opera menu, pick **Home screen**
 
 - **Safari:** Hit the *share* button in Safari (the little square with an up-arrow), and then pick **Add to Home Screen**.
 
