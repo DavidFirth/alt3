@@ -20,8 +20,6 @@ To put an **alt-3** icon on your home screen, from some of the most common web b
 
 You can of course add *multiple* home-screen icons if you want, linked to different pages of *alt-3.uk*.
 
-Enjoy!
-
 ## Naming your icon(s)
 
 Most web browsers seem to allow you to specify the label that will appear beneath your icon on your home screen.  (For example, "alt-3" as above, or perhaps "Premier League", or some other label that you choose to relate to the page that's linked with the icon.)
