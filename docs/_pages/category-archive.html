@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /categories/
-title: "Posts by Category"
+title: "<a name='top'>Posts by Category"
 author_profile: false
 sidebar:
   - text: "<a class='twitter-follow-button' data-show-count='false' data-size='large' href='https://twitter.com/footymath'>Follow @footymath</a>"
@@ -11,6 +11,7 @@ sidebar:
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
 // ]]></script>
 
+
 <p class="page__taxonomy">
     <strong><i class="fa fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
     <span itemprop="keywords">
@@ -19,7 +20,7 @@ sidebar:
       <a href="#premier-league" class="page__taxonomy-item" rel="tag">Premier League</a>
     
     </span>
-  </p>
+</p>
 
 {% include group-by-array collection=site.posts field="categories" %}
 
@@ -29,5 +30,7 @@ sidebar:
   {% for post in posts %}
     {% include archive-single.html %}
   {% endfor %}
+  <p class="page__taxonomy">
+    <strong><a title="Top of this page (list of categories)" href="#top">&#8625; <i class="fa fa-fw fa-folder-open" aria-hidden="true"></i>Categories</a></strong></p>
 {% endfor %}
 
