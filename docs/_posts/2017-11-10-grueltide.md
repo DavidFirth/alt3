@@ -2,6 +2,8 @@
 title: "Grueltide for Cherries (and happy new year?) --- but Santa will visit Magpies, Saints and Swans"
 excerpt_separator: "<!--more-->"
 comments: false
+categories: 
+  - "Premier League"
 ---
 
 Christmas comes but once a year...and so does the half-way point of 

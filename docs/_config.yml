@@ -81,7 +81,7 @@ author:
   name             : "David Firth"
   avatar           : "/assets/images/DavidFirth2-cropped-square-300.png"
   bio              : "Statistics professor, at the University of Warwick and the Alan Turing Institute.  Quite interested in football."
-  location         : "Coventry and London, UK"
+  location         : # "Coventry and London, UK"
   email            :
   uri              : "http://warwick.ac.uk/dfirth"
   bitbucket        :
@@ -90,7 +90,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "davidfirth"
+  github           : # "davidfirth"
   gitlab           :
   google_plus      :
   keybase          :
@@ -102,11 +102,11 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "firthcity"
+  twitter          : # "firthcity"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : 
 
 
 # Reading Files
@@ -213,16 +213,16 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 
 # HTML Compression
