@@ -10,7 +10,7 @@ sidebar:
   - text: "(Negative *sched* means relatlvely easy fixtures to date, positive *sched* means harder fixtures.)"
 ---
 
-Next update will be soon after the City vs Spurs match ends.
+Next update will be soon after Sunday's matches have ended.
 
 {% include leagues/england-premier-league/alt3-table.html %}
 
