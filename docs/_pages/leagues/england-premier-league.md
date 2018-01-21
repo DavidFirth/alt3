@@ -10,7 +10,7 @@ sidebar:
   - text: "(Negative *sched* means relatlvely easy fixtures to date, positive *sched* means harder fixtures.)"
 ---
 
-Next update will be during the weekend of 20&ndash;21 January.
+Next update will be on Tuesday morning..
 
 {% include leagues/england-premier-league/alt3-table.html %}
 
