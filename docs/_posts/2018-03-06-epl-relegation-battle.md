@@ -48,7 +48,12 @@ forward than the officlal league table does --- no more, no less than that.
 
 Right now, the [**_alt-3_ league table**](/leagues/england-premier-league) shows that two
 clubs --- Brighton and Southampton --- face particularly tough fixture lists in their 
-remaining 9 matches.
+remaining 9 matches.  Here is a snapshot (at the time of writing this) 
+of the relevant part of the _alt-3_ 
+table:
+<center>
+<img src="/assets/images/2018-03-07-EPL-table.png" title="Snapshot of lower part of the alt-3 table, as at 2018-03-06" style="width:80%;">
+</center>
 
 ## Southampton in the relegation zone
 
@@ -73,9 +78,10 @@ in the above schedule-strength chart, is
 more than enough to move them below Crystal Palace.
 
 As **an aside**: 
-A remarkable feature of Southampton's schedule-strength chart is that it shows that their 
-position in the official league table has probably 
-flattered the Saints, _through the whole of this
+A remarkable feature of Southampton's schedule-strength chart is that it sits 
+_entirely to the left of the zero-line_, which indicates that their 
+position in the official league table has 
+flattered the Saints _throughout the whole of this
 season_. This is just an accident of the fixture-list scheduling.  At no point
 this season have Southampton been in the position of having an easier fixture 
 list ahead of them than the matches they had already played!
