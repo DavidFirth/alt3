@@ -23,7 +23,7 @@ stage of the season.
 
 The [**_alt-3_ league table**](/leagues/england-premier-league) re-orders the official
 Premier League table, in a mathematically principled way to take account of how easy
-of hard each team's season has been up to now (and therefore, at the same time, 
+or hard each team's season has been up to now (and therefore, at the same time, 
 how hard or easy is each team's remaining fixture list). The _alt-3_ table 
 takes into account,
 for each team, which other teams have been played already, and whether matches were
