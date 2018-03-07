@@ -110,8 +110,8 @@ To see any club's current *alt-3*
 schedule-strength chart, just click on the club name in
 the [*alt-3* league table](/leagues/england-premier-league).
 
-When the end of the season gets very near, the schedule-strength imbalances
-all steadily vanish, of course: in the end, every team will have played all 
+As the end of the season gets very near, the schedule-strength imbalances
+will all steadily vanish, of course: in the end, every team will have played all 
 others twice, once at home and once away.  The _alt-3_ method will therefore 
 agree perfectly with the official league table at the end of the season.
 Until then, though, the *alt-3* table continues to provide a more informative
