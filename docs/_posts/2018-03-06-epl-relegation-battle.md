@@ -113,7 +113,7 @@ the [*alt-3* league table](/leagues/england-premier-league).
 As the end of the season gets very near, the schedule-strength imbalances
 will all steadily vanish, of course: in the end, every team will have played all 
 others twice, once at home and once away.  The _alt-3_ method will therefore 
-agree perfectly with the official league table at the end of the season.
+agree perfectly with the official league table by the end of the season.
 Until then, though, the *alt-3* table continues to provide a more informative
 view of where each team stands.
 
