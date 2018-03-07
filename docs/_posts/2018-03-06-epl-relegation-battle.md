@@ -78,7 +78,7 @@ position in the official league table has probably
 flattered the Saints, _through the whole of this
 season_. This is just an accident of the fixture-list scheduling.  At no point
 this season have Southampton been in the position of having an easier fixture 
-list ahead of them than the matches they have already played!
+list ahead of them than the matches they had already played!
 
 ## Brighton not really a top-half club, just yet
 
