@@ -6,7 +6,7 @@ categories:
   - "Premier League"
 ---
 
-While most of the current interest in the 
+Although most of the current interest in the 
 [**_alt-3_ league table**](/leagues/england-premier-league)
 relates to the [relegation battle](/2018/03/06/epl-relegation-battle),
 there's also a nice side-note to make about the contest for the important 4th place
