@@ -1,21 +1,21 @@
-team,teamId,playedGames,goalDifference,points,rank
-ManCity,65,30,65,81,1
-ManU,66,30,35,65,2
-Spurs,73,30,34,61,3
-Liverpool,64,30,34,60,4
-Chelsea,61,30,25,56,5
-Arsenal,57,30,14,48,6
-Burnley,328,30,1,43,7
-Foxes,338,30,2,40,8
-Everton,62,30,-14,37,9
-Watford,346,30,-11,36,10
-Brighton,397,30,-12,34,11
-Bournemouth,1044,30,-13,33,12
-Newcastle,67,30,-10,32,13
-Swans,72,30,-17,31,14
-Huddersfield,394,30,-25,31,15
-West Ham,563,30,-21,30,16
-Southampton,340,30,-15,28,17
-Crystal,354,30,-20,27,18
-Stoke,70,30,-28,27,19
-West Bromwich,74,30,-24,20,20
+"team","teamId","playedGames","goalDifference","points","rank"
+"ManCity","65",30,65,81,1
+"ManU","66",30,35,65,2
+"Liverpool","64",31,39,63,3
+"Spurs","73",30,34,61,4
+"Chelsea","61",30,25,56,5
+"Arsenal","57",30,14,48,6
+"Burnley","328",30,1,43,7
+"Foxes","338",30,2,40,8
+"Everton","62",31,-13,40,9
+"Bournemouth","1044",31,-12,36,10
+"Watford","346",31,-16,36,11
+"Brighton","397",30,-12,34,12
+"Newcastle","67",30,-10,32,13
+"Swans","72",30,-17,31,14
+"Huddersfield","394",31,-27,31,15
+"Crystal","354",31,-18,30,16
+"West Ham","563",30,-21,30,17
+"Southampton","340",30,-15,28,18
+"Stoke","70",31,-29,27,19
+"West Bromwich","74",31,-25,20,20
