@@ -299,10 +299,15 @@ matchday,homeTeamName,homeTeamId,awayTeamName,awayTeamId,FTHG,FTAG,FTR
 30,Arsenal FC,57,Watford FC,346,3,0,H
 30,AFC Bournemouth,1044,Tottenham Hotspur FC,73,1,4,A
 30,Stoke City FC,70,Manchester City FC,65,0,2,A
+31,Tottenham Hotspur FC,73,Newcastle United FC,67,NA,NA,NA
 31,AFC Bournemouth,1044,West Bromwich Albion FC,74,2,1,H
 31,Huddersfield Town,394,Crystal Palace FC,354,0,2,A
+31,Leicester City FC,338,Arsenal FC,57,NA,NA,NA
 31,Stoke City FC,70,Everton FC,62,1,2,A
+31,Swansea City FC,72,Southampton FC,340,NA,NA,NA
 31,Liverpool FC,64,Watford FC,346,5,0,H
+31,West Ham United FC,563,Manchester United FC,66,NA,NA,NA
+31,Manchester City FC,65,Brighton & Hove Albion,397,NA,NA,NA
 32,Crystal Palace FC,354,Liverpool FC,64,1,2,A
 32,West Ham United FC,563,Southampton FC,340,3,0,H
 32,Brighton & Hove Albion,397,Leicester City FC,338,0,2,A
@@ -364,11 +369,6 @@ matchday,homeTeamName,homeTeamId,awayTeamName,awayTeamId,FTHG,FTAG,FTR
 37,Manchester City FC,65,Huddersfield Town,394,NA,NA,NA
 37,Stoke City FC,70,Crystal Palace FC,354,NA,NA,NA
 37,Watford FC,346,Newcastle United FC,67,NA,NA,NA
-31,Tottenham Hotspur FC,73,Newcastle United FC,67,NA,NA,NA
-31,Leicester City FC,338,Arsenal FC,57,NA,NA,NA
-31,Swansea City FC,72,Southampton FC,340,NA,NA,NA
-31,West Ham United FC,563,Manchester United FC,66,NA,NA,NA
-31,Manchester City FC,65,Brighton & Hove Albion,397,NA,NA,NA
 38,Crystal Palace FC,354,West Bromwich Albion FC,74,NA,NA,NA
 38,Huddersfield Town,394,Arsenal FC,57,NA,NA,NA
 38,Liverpool FC,64,Brighton & Hove Albion,397,NA,NA,NA
