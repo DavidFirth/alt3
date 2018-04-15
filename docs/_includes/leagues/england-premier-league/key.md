@@ -17,9 +17,9 @@ The other numbers shown in the table are:
     <li>The <b><i>alt-3</i></b> league table:
         <ul>
 		<li><b>sched:</b> the <i>alt-3</i> measure of each team's <i>schedule strength</i> to date.  Numbers greater than zero appear for teams that have played tougher opposition than average and/or have played fewer matches at home than away; and vice-versa for numbers less than zero.</li> 
-        <li><b>Pts|33:</b> the adjusted points total based on 33 matches played.  This is normally &mdash; unless a team has one or more <i>games in hand</i> &mdash; the league points accumulated to date, adjusted for schedule strength:
-<center>         <b>   Pts|33 = Pts + sched </b> </center>
-[Where a team has one or more <i>games in hand</i>, i.e., has played fewer than 33 matches, the Pts|33 total accounts coherently for that by including additional points for each game in hand.]</li></ul></li>
+        <li><b>Pts|34:</b> the adjusted points total based on 34 matches played.  This is normally &mdash; unless a team has one or more <i>games in hand</i> &mdash; the league points accumulated to date, adjusted for schedule strength:
+<center>         <b>   Pts|34 = Pts + sched </b> </center>
+[Where a team has one or more <i>games in hand</i>, i.e., has played fewer than 34 matches, the Pts|34 total accounts coherently for that by including additional points for each game in hand.]</li></ul></li>
 	</ul>
 
   
