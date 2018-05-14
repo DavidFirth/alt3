@@ -10,7 +10,10 @@ sidebar:
   - text: "(Negative *sched* means relatlvely easy fixtures to date, positive *sched* means harder fixtures.)"
 ---
 
-Next update will be on Sunday, 13 May.
+This is the last _alt-3_ table before the end of the season.
+
+(Any further update, to take account of the final round of match results, would merely
+reproduce the official league table --- which is exactly as it should be!)
 
 {% include leagues/england-premier-league/alt3-table.html %}
 
