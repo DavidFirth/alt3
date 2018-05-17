@@ -10,6 +10,7 @@ sidebar:
   - text: "(Negative *sched* means relatlvely easy fixtures to date, positive *sched* means harder fixtures.)"
 ---
 
+
 This is the final _alt-3_ table for the 2017--2018 Premier League season.  It
 agrees perfectly with the official league table --- exactly as it should do!
 
