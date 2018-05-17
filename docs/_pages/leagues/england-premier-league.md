@@ -10,7 +10,11 @@ sidebar:
   - text: "(Negative *sched* means relatlvely easy fixtures to date, positive *sched* means harder fixtures.)"
 ---
 
-Next update will be on Sunday, 13 May.
+This is the final _alt-3_ table for the 2017--2018 Premier League season.  It
+agrees perfectly with the official league table --- exactly as it should do!
+
+The next update here will be after 3 rounds (i.e., 3 matches played by each
+    team) of the 2018--2019 season. 
 
 {% include leagues/england-premier-league/alt3-table.html %}
 
