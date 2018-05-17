@@ -12,7 +12,7 @@ sidebar:
 
 
 This is the final _alt-3_ table for the 2017--2018 Premier League season.  It
-agrees perfectly with the official league table --- exactly as it should do!
+agrees perfectly with the official league table --- exactly as it should do, at the end of the season!
 
 The next update here will be after 3 rounds (i.e., 3 matches played by each
     team) of the 2018--2019 season. 
