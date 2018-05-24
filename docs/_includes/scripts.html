@@ -3,6 +3,38 @@
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
 
-<script type="text/javascript" async
+<!-- <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+-->
+
+<!-- from https://passatgt.github.io/gdpr-cookie-notice/ -->
+<script type="text/javascript" src="/assets/gdpr-cookie-notice/dist/script.js"></script>
+<script type="text/javascript" src="/assets/gdpr-cookie-notice/config.js"></script>
+
+
+<script type="text/javascript">
+  document.addEventListener('gdprCookiesEnabled', function (e) {
+    if(e.detail.performance) { //checks if performance cookies are enabled
+      var imported = document.createElement('script');
+      imported.src = 'https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+      document.head.appendChild(imported);
+    }
+  });
 </script>
+
+<!-- Default Statcounter code for alt-3 http://alt-3.uk -->
+<script type="text/javascript">
+var sc_project=11720721; 
+var sc_invisible=1; 
+var sc_security="ecd62036"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="//c.statcounter.com/11720721/0/ecd62036/1/" alt="Web
+Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->
