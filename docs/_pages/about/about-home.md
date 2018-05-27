@@ -17,3 +17,5 @@ sidebar:
 - [**Acknowledgements**](acknowledge) 
 
 - [**Putting alt-3 on your home screen**](icons)
+
+- [**Cookies used on this website**](cookies)
