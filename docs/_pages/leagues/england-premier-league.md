@@ -5,12 +5,11 @@ permalink: /leagues/england-premier-league/index.html
 share: true
 sidebar:
   - text: "If you want to use the *alt-3.uk* league tables elsewhere, please be sure to read the [License and Disclaimer](/about/license) page first."
-  - text: "### 'It's all in the sched'"
-  - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season." 
-  - text: "(Negative *sched* means relatlvely easy fixtures to date, positive *sched* means harder fixtures.)"
+  - text: "### Click on any team name..."
+  - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-Next update will be on Tuesday, 6 November.
+Next update will be on Sunday, 11 November.
 	
 {% include leagues/england-premier-league/alt3-table.html %}
 

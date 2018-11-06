@@ -7,7 +7,7 @@ sidebar:
 ---
 
 A full academic research paper, for publication in a peer-reviewed journal, 
-is currently (October 2017) in preparation. That paper will contain all the 
+is currently in preparation. That paper will contain all the 
 details of the *alt-3* method, along with the mathematical justification for its
 use to produce routinely better league-table rankings.
 
@@ -137,15 +137,98 @@ matches already played.
 (It is the choice of **power 1/3** in the model that ensures that the method of 
 maximum likelihood has this *exact* relationship with league points.)
 
-## The 'schedule strength' and 'adjusted points' summaries
 
-As explained above, the fundamental quantities in the *alt-3* calculation are 
-the team strengths $$s_i$$. It is those team strengths that determine the ranking 
-in an *alt-3* table.
+## The 'schedule strength', 'effective matches played' and 'points per effective match played' summaries
 
-In each *alt-3* table, what we *actually* present are two summary columns, labelled **sched** and **Pts\|m** (where *m* is the number of matchdays into the season).
+### Expected points per match
 
-[This section currently under construction. For now, please see [The league tables explained](../tables-explained/). More detailed explanations coming here soon!]
+The assumed probabilities shown above,
+    for the three
+    possible match outcomes '$$i$$ beats $$j$$', '$$i$$ and $$j$$ draw' and
+    '$$j$$ beats $$i$$', can be used straightforwardly to obtain team
+    $$i$$'s expected
+    points ($$e_{ij,\textrm{home}}$$, say) in the home match against $$j$$.
+    With 3 points for a win and 1 for a draw:
+    
+$$ e_{ij,\textrm{home}} =
+   [3 \times \textrm{pr}(i\textrm{ beats }j\textrm{ at home})] +
+    [1 \times \textrm{pr}(\textrm{draw})].$$
+
+Let $$\bar e_i$$ denote the average of all such $$e_{ij,\textrm{home}}$$
+    and $$e_{ij,\textrm{away}}$$ values,
+   i.e., averaged over all of the matches played by $$i$$ in a whole
+   double-round-robin season.  That is, $$\bar e_i$$ is the expected (or projected)
+   points per match for team $$i$$ (both home and away)
+   over the entire season --- based on all of the
+   current
+   team-strength values $$(s_1,s_2,s_3,\ldots)$$, and on the structural constants
+   $$\gamma$$ (home advantage) and $$\delta$$ (draw prevalence).
+
+Then an easily established (and fairly obvious?)
+     fact is that the values of $$\bar e_i$$ are monotonically
+     related to the strengths $$s_i$$.  In other words, ordering the teams by
+     their values of $$s_i$$ is equivalent to ordering them by the the values
+     of $$\bar e_i$$.
+
+The projected, season-long points per match rate $$\bar e_i$$ is precisely
+    the **Rate** column that is used to order the _alt-3_ table.
+
+### Expression in terms of 'schedule strength' and 'effective matches played'
+
+For any match in which $$i$$ plays $$j$$, with $$i$$ at home say, we define
+    the **schedule strength** of that match for team $$i$$ to be
+
+$$ 1 - {e_{ij,\textrm{home}} \over \bar e_i} .$$
+
+In this way, an 'average' match for $$i$$ has schedule-strength zero.
+   Tougher than average matches have positive-valued schedule strength; while
+   easier matches than average have negative schedule strength.
+
+The total schedule strength of all of $$i$$'s matches over the whole season
+is then (by design) exactly zero.
+
+At any point during the season, we now define the
+**effective number of matches played** by team $$i$$, by subtracting $$i$$'s total
+_schedule strength_ (to date) from the number of actual matches already
+played by $$i$$:
+> ePld = Pld &minus; (schedule strength)
+
+And finally we will see the reason for these definitions.  The beauty of
+ranking via the _alt-3_ method is that, for $$i$$'s matches already played,
+the total league points accumulated by $$i$$ (denoted by **Pts**
+ in the league table) is exactly the same as the sum of the model-expected
+points --- i.e., precisely the same sum that
+appears in $$i$$'s total schedule strength.
+
+So we can now write
+   > ePld = Pld &minus; (Pld &minus; Pts / $$\bar e_i$$)
+   >      = Pts / $$\bar e_i$$,
+
+and hence the projected whole-season points per match for
+$$i$$ can be usefully re-expressed as
+   > $$\bar e_i$$ = Pts / ePld.
+
+This provides a cleaner interpretation for that all-important
+     **Rate** column in the _alt-3_ table
+--- an interpretation that completely avoids any (potentially misleading)
+    predictive connotations.  The
+**Rate** for any given team is best thought of as
+	 **league points gained per
+	 effective match played**.
+
+The difference between the actual and effective matches played is the current
+(cumulative total)
+schedule strength for team $$i$$.  This is the key to understanding the positions
+	 of teams on the _alt-3_ table.  For that reason, a graph of
+	 every team's match-by-match schedule strength is provided along
+	 with the _alt-3_ table itself: just click on any team's name
+	 to see the full (current) schedule-strength chart.     
+   
+
+   
+   
+
+
 
 
 
