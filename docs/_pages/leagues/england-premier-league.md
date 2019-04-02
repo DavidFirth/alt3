@@ -9,7 +9,7 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-Next update will not appear here until Tuesday 2 April.
+Next update will be on Wednesday 3 April.
 	
 {% include leagues/england-premier-league/alt3-table.html %}
 
