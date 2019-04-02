@@ -2,7 +2,7 @@
 title: "New format for alt-3 league tables"
 excerpt_separator: "<!--more-->"
 comments: false
-pinned: true
+pinned: false
 categories: 
   - "Alt-3 announcements"
   - Pinned
