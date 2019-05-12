@@ -9,8 +9,7 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-Next update will be on Sunday 12 May (at which point all matches will have been played, and the _alt-3_ table will of course agree **exactly** with the official 
-league table).
+All done!  This league table is now completely redundant.  Until next season...
 	
 {% include leagues/england-premier-league/alt3-table.html %}
 
