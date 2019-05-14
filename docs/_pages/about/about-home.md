@@ -1,5 +1,5 @@
 ---
-title: "About alt-3.uk"
+title: "About alt-3"
 permalink: /about/
 share: true
 sidebar:
