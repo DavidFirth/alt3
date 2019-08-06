@@ -9,7 +9,13 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-All done!  This league table is now completely redundant.  Until next season...
+**The first _alt-3_ table of the new season will appear here during the week of September 16th**, after the 5th Premier League matchweek.
+
+(The table that appears below is the end-of-season table from _last_ season!)
+
+-----
+
+Season 2018-19: now all done!  This league table is now completely redundant.  Until we start on the 2019-20 season...
 	
 {% include leagues/england-premier-league/alt3-table.html %}
 
