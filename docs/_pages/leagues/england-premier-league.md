@@ -15,7 +15,7 @@ sidebar:
 
 -----
 
-Season 2018-19: now all done!  This league table is now completely redundant.  Until we start on the 2019-20 season...
+**Season 2018-19: now all done!**  This league table is now completely redundant.  Until we start on the 2019-20 season...
 	
 {% include leagues/england-premier-league/alt3-table.html %}
 
