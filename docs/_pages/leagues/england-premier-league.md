@@ -9,7 +9,7 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-All done!  This league table is now completely redundant.  Until next season...
+Next update will be on Saturday 21 September (evening).
 	
 {% include leagues/england-premier-league/alt3-table.html %}
 
