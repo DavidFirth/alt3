@@ -10,9 +10,11 @@
 _asset_bundler_cache
 _site/
 codekit-config.json
+Gemfile
 Gemfile.lock
 node_modules
 npm-debug.log*
 *~
 *.~*\#
 \#*
+/docs/assets/leagues/england-premier-league/2019/leagueTable not live.html

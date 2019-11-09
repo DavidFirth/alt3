@@ -1,9 +1,12 @@
 ---
-title: "Spain: La Liga"
-permalink: /leagues/spain-liga
+layout: league-table-single
+title: "Spain: La Liga Primera"
+permalink: /leagues/spain-la-liga/index.html
 share: true
 sidebar:
   - text: "If you want to use the *alt-3.uk* league tables elsewhere, please be sure to read the [License and Disclaimer](/about/license) page first."
+  - text: "### Click on any team name..."
+  - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
 some text

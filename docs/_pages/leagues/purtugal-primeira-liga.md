@@ -1,7 +1,7 @@
 ---
 layout: league-table-single
-title: "Italy: Serie A"
-permalink: /leagues/italy-serie-a/index.html
+title: "Portugal: Primeira Liga"
+permalink: /leagues/portugal-primeira-liga/index.html
 share: true
 sidebar:
   - text: "If you want to use the *alt-3.uk* league tables elsewhere, please be sure to read the [License and Disclaimer](/about/license) page first."
@@ -9,5 +9,4 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-some text
-
+some text 
