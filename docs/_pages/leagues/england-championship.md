@@ -9,6 +9,7 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-some text
+{% include leagues/england-championship/alt3-table.html %}
 
+{% include leagues/england-premier-league/key.md %}
 
