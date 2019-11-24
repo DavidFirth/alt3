@@ -1,6 +1,6 @@
 ---
 layout: league-table-single
-title: "England: Championship"
+title: "EFL Championship standings"
 permalink: /leagues/england-championship/index.html
 share: true
 sidebar:
@@ -11,5 +11,5 @@ sidebar:
 
 {% include leagues/england-championship/alt3-table.html %}
 
-{% include leagues/england-premier-league/key.md %}
+{% include leagues/key.md %}
 
