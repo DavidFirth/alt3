@@ -8,7 +8,7 @@ sidebar:
 
 - [**England: Premier League**](england-premier-league)
 
-- **England: Championship** (coming soon)
+- [**England: Championship**](england-championship)
   
 - **Germany: Bundesliga 1** (coming soon)
   
@@ -19,6 +19,6 @@ sidebar:
 This is an initial list of the league tables that we aim to provide and keep up to date. 
 It is subject to change in the future. 
 
-(We hope to be able to add more leagues later, if there is demand for it.)
+
 
 
