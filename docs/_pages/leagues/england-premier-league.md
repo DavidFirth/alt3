@@ -11,7 +11,7 @@ sidebar:
 
 {% include leagues/england-premier-league/alt3-table.html %}
 
-{% include leagues/england-premier-league/key.md %}
+{% include leagues/key.md %}
 
 
 
