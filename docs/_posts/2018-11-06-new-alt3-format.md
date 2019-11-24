@@ -5,7 +5,6 @@ comments: false
 pinned: false
 categories: 
   - "Alt-3 announcements"
-  - Pinned
 ---
 
 Today's [*alt-3* Premier League table](/leagues/england-premier-league) is the first
