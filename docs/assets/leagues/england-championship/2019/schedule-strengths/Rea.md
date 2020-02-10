@@ -31,7 +31,7 @@ svg {
 (Total schedule strength over the *whole season* is always zero.)
 
 
-Download today's schedule-strength data: [Rea.csv](/assets/leagues/england-premier-league/2019/schedule-strengths/Rea.csv)
+Download today's schedule-strength data: [Rea.csv](/assets/leagues/england-championship/2019/schedule-strengths/Rea.csv)
 
 **Note that this changes, week by week, as the schedule strengths get re-evaluated on the
 basis of the latest results.**
