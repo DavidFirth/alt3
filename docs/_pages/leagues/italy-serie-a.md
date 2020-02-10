@@ -1,6 +1,6 @@
 ---
 layout: league-table-single
-title: "Italy: Serie A"
+title: "Serie A (Italy) standings"
 permalink: /leagues/italy-serie-a/index.html
 share: true
 sidebar:
@@ -9,5 +9,6 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-some text
+{% include leagues/italy-serie-a/alt3-table.html %}
 
+{% include leagues/key.md %}

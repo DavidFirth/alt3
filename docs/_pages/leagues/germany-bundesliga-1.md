@@ -1,6 +1,6 @@
 ---
 layout: league-table-single
-title: "Germany: Bundesliga 1"
+title: "Bundesliga 1 (Germany) standings"
 permalink: /leagues/germany-bundesliga-1/index.html
 share: true
 sidebar:
@@ -9,5 +9,6 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-some text
+{% include leagues/germany-bundesliga-1/alt3-table.html %}
 
+{% include leagues/key.md %}
