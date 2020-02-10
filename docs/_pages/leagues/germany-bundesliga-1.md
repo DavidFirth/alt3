@@ -9,6 +9,8 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
+This page will normally be updated at 21:45 (London time) on match days.
+
 {% include leagues/germany-bundesliga-1/alt3-table.html %}
 
 {% include leagues/key.md %}
