@@ -1,6 +1,6 @@
 ---
 layout: league-table-single
-title: "France: Ligue 1"
+title: "Ligue 1 (France)"
 permalink: /leagues/france-ligue-1/index.html
 share: true
 sidebar:
@@ -9,4 +9,8 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-some text 
+This page will normally be updated at 22:30 (London time) on match days.
+
+{% include leagues/france-ligue-1/alt3-table.html %}
+
+{% include leagues/key.md %}

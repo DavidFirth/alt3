@@ -1,6 +1,6 @@
 ---
 layout: league-table-single
-title: "Netherlands: Eredivisie"
+title: "Eredivisie (Netherlands)"
 permalink: /leagues/netherlands-eredivisie/index.html
 share: true
 sidebar:
@@ -9,4 +9,8 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-some text 
+This page will normally be updated at 22:05 (London time) on match days.
+
+{% include leagues/netherlands-eredivisie/alt3-table.html %}
+
+{% include leagues/key.md %}

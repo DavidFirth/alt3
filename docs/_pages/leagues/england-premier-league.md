@@ -1,6 +1,6 @@
 ---
 layout: league-table-single
-title: "Premier League standings"
+title: "Premier League"
 permalink: /leagues/england-premier-league/index.html
 share: true
 sidebar:

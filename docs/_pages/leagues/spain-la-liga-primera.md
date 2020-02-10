@@ -1,6 +1,6 @@
 ---
 layout: league-table-single
-title: "La Liga Primera (Spain) standings"
+title: "La Liga Primera (Spain)"
 permalink: /leagues/spain-la-liga-primera/index.html
 share: true
 sidebar:

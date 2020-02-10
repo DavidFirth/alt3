@@ -1,6 +1,6 @@
 ---
 layout: league-table-single
-title: "Bundesliga 1 (Germany) standings"
+title: "Bundesliga 1 (Germany)"
 permalink: /leagues/germany-bundesliga-1/index.html
 share: true
 sidebar:

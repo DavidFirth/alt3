@@ -1,6 +1,6 @@
 ---
 layout: league-table-single
-title: "Serie A (Italy) standings"
+title: "Serie A (Italy)"
 permalink: /leagues/italy-serie-a/index.html
 share: true
 sidebar:

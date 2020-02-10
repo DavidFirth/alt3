@@ -1,6 +1,6 @@
 ---
 layout: league-table-single
-title: "Portugal: Primeira Liga"
+title: "Primeira Liga (Portugal)"
 permalink: /leagues/portugal-primeira-liga/index.html
 share: true
 sidebar:
@@ -9,4 +9,8 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-some text 
+This page will normally be updated at 22:45 (London time) on match days.
+
+{% include leagues/portugal-primeira-liga/alt3-table.html %}
+
+{% include leagues/key.md %}
