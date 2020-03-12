@@ -42,16 +42,17 @@ finishing the season without spectators could be in doubt.
 So I got to thinking a bit about the idea of using the current
 league table to decide things. In some sense, that would be fair.
 But some clubs might reasonably complain, perhaps, that current
-points totals disadvantage them, because they would have faced
+points totals disadvantage them -- either because they would have faced
 a relatively easy run-in (having played all the strongest teams
-in the league already, perhaps). 
+in the league already, perhaps), or because they have played fewer 
+matches than other teams.
 
 That's where the _alt-3_ method comes into its own. 
 It provides a mathematically
 principled way to order the teams at any point during the season, in such
 a way that:
-- strength of opponents already faced, and home advantage, are coherently
-accounted for;
+- strength of opponents already faced, home advantage, and games in hand, 
+are coherently accounted for;
 - there is perfect agreement with the official league table whenever
 there is no imbalance between teams in their fixture schedules ---
 as is always the case at the end of a full season, after every team has
@@ -75,7 +76,7 @@ I would be nervous about the use of _alt-3_ for that purpose.
 **But here's the thing.** It just so happens that **right now
 the official standings and the _alt-3_ standings, at the top and bottom
 of all eight leagues currently covered by 
-[alt-3.uk](https://alt-3.uk/leagues), are in perfect agreement**.
+[alt-3.uk](https://alt-3.uk), are in perfect agreement**.
 That applies to the 
 [Premier League](https://alt-3.uk/leagues/england-premier-league) and 
 [Championship](https://alt-3.uk/leagues/england-championship) in England,
