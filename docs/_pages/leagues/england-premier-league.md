@@ -9,6 +9,8 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
+This page will normally be updated at 14:40, 17:10 and 19:40 (London time) on Saturdays, at 14:10, 16:10 and 18:40 on Sundays, and at 20:10 and 22:25 on weekdays.
+
 {% include leagues/england-premier-league/alt3-table.html %}
 
 {% include leagues/key.md %}

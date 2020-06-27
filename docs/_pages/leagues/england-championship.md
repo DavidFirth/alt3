@@ -9,6 +9,8 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
+This page will normally be updated at 17:10 (London time) on Saturdays, at 14:10 and 17:10 on Sundays, and at 22:25 on weekdays.
+
 {% include leagues/england-championship/alt3-table.html %}
 
 {% include leagues/key.md %}
