@@ -2,8 +2,8 @@
    MASTHEAD
    ========================================================================== */
 
-$background-color: #000;
-$masthead-link-color: #eee;
+$background-color: #344;
+$masthead-link-color: #ff9f3b;
 $masthead-link-color-hover: #fff;
 
 .masthead {
@@ -14,7 +14,7 @@ $masthead-link-color-hover: #fff;
           animation-delay: 0.15s;
   z-index: 20;
   border-bottom: 2px solid #333;
-  background-color: #000;
+  background-color: #344;
 
   &__inner-wrap {
     @include clearfix;
@@ -50,6 +50,7 @@ $masthead-link-color-hover: #fff;
   -webkit-box-align: center;
         align-items: center;
   font-weight: bold;
+  color: "#ff7f2a";
   z-index: 20;
 }
 
