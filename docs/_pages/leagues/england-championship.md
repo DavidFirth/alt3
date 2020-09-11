@@ -1,6 +1,6 @@
 ---
 layout: league-table-single
-title: "EFL Championship"
+title: "EFL Championship 2019--2020"
 permalink: /leagues/england-championship/index.html
 share: true
 sidebar:
@@ -9,7 +9,11 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-This page will normally be updated at 17:10 (London time) on Saturdays, at 14:10 and 17:10 on Sundays, and at 22:25 on weekdays.
+Below is the _alt-3_ table as it stood at the end of last season. The _alt-3_ table will start again here for the new season after 8 full matchweeks have been played.
+
+-----
+
+<!-- This page will normally be updated at 17:10 (London time) on Saturdays, at 14:10 and 17:10 on Sundays, and at 22:25 on weekdays. -->
 
 {% include leagues/england-championship/alt3-table.html %}
 

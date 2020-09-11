@@ -1,6 +1,6 @@
 ---
 layout: league-table-single
-title: "Eredivisie (Netherlands)"
+title: "Eredivisie (Netherlands) 2019--2020"
 permalink: /leagues/netherlands-eredivisie/index.html
 share: true
 sidebar:
@@ -9,7 +9,11 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-This page will normally be updated at 22:05 (London time) on match days.
+Below is the _alt-3_ table as it stood at the end of last season. The _alt-3_ table will start again here for the new season after 8 full matchweeks have been played.
+
+-----
+
+<!-- This page will normally be updated at 22:05 (London time) on match days. -->
 
 {% include leagues/netherlands-eredivisie/alt3-table.html %}
 
