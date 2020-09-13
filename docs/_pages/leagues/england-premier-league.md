@@ -9,7 +9,7 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-Below is the _alt-3_ table as it stood at the end of last season. The _alt-3_ table will start again here for the new season after 8 full matchweeks have been played.
+Below is the _alt-3_ table as it stood at the end of the 2019--20 season. The _alt-3_ table will start again here for the new season after 8 full matchweeks have been played.
 
 -----
 
