@@ -9,7 +9,7 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-Below is the _alt-3_ table as it stood at the end of last season. The _alt-3_ table will start again here for the new season by the end of November.
+Below is the _alt-3_ table as it stood at the end of last season. The _alt-3_ table will start again here for the new season by Monday 7 December.  (Apologies for the delay!  Demands of the day job...)
 
 -----
 
