@@ -1,7 +1,7 @@
 ---
 layout: league-table-single
-title: "Eredivisie (Netherlands) 2019--2020"
-permalink: /leagues/netherlands-eredivisie/index.html
+title: "Primeira Liga (Portugal) 2019--2020"
+permalink: /leagues/portugal-primeira-liga/index.html
 share: true
 sidebar:
   - text: "If you want to use the *alt-3.uk* league tables elsewhere, please be sure to read the [License and Disclaimer](/about/license) page first."
@@ -15,8 +15,8 @@ The new season 2020--21 presents a new and interesting chellenge: the previously
 
 -----
 
-<!-- This page will normally be updated at 22:05 (London time) on match days. -->
+<!-- This page will normally be updated at 22:45 (London time) on match days. -->
 
-{% include leagues/netherlands-eredivisie/alt3-table.html %}
+{% include leagues/portugal-primeira-liga/alt3-table.html %}
 
 {% include leagues/key.md %}
