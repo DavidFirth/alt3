@@ -21,8 +21,8 @@ The other numbers shown in the table are:
 		<ul><li>Where <b>ePld</b> is less than the
 		actual number <b>Pld</b> of matches played,
 		the team has
-		played tougher opposition than average and/or has played fewer
-		matches at home than away; and vice-versa where <b>ePld</b>
+		played tougher opposition than average; 
+		and vice-versa where <b>ePld</b>
 		exceeds <b>Pld</b>.</li>
 		<li>Where the difference between <b>Pld</b> and <b>ePld</b>
 		is a whole match or more,
