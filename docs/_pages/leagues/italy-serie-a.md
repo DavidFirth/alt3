@@ -39,6 +39,4 @@ svg {
 {% include leagues/italy-serie-a/rates.svg %}
 </div>
 
-Graph shows **points per effective match played, home and away**.
-
 {% include leagues/key.md %}

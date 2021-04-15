@@ -305,6 +305,12 @@
 <symbol overflow="visible" id="glyph6-8">
 <path style="stroke:none;" d="M 4.5625 -1.890625 L 6.515625 -8.453125 L 8.8125 -8.453125 L 5.46875 0.453125 C 5.050781 1.472656 4.613281 2.195312 4.15625 2.625 C 3.664062 3.09375 3.019531 3.328125 2.21875 3.328125 C 1.6875 3.328125 1.222656 3.289062 0.828125 3.21875 L 0.828125 1.65625 C 1.109375 1.695312 1.359375 1.71875 1.578125 1.71875 C 1.796875 1.71875 1.988281 1.691406 2.15625 1.640625 C 2.320312 1.597656 2.472656 1.523438 2.609375 1.421875 C 2.878906 1.203125 3.117188 0.828125 3.328125 0.296875 L 3.46875 -0.09375 L 0.125 -8.453125 L 2.453125 -8.453125 Z M 4.5625 -1.890625 "/>
 </symbol>
+<symbol overflow="visible" id="glyph6-9">
+<path style="stroke:none;" d=""/>
+</symbol>
+<symbol overflow="visible" id="glyph6-10">
+<path style="stroke:none;" d="M 1.125 -9.984375 L 1.125 -11.59375 L 3.3125 -11.59375 L 3.3125 -9.984375 Z M 1.125 0 L 1.125 -8.453125 L 3.3125 -8.453125 L 3.3125 0 Z M 1.125 0 "/>
+</symbol>
 </g>
 <clipPath id="clip1">
   <path d="M 2.738281 59.644531 L 288 59.644531 L 288 720 L 2.738281 720 Z M 2.738281 59.644531 "/>
@@ -352,7 +358,7 @@
   <path d="M 2.738281 91 L 288 91 L 288 94 L 2.738281 94 Z M 2.738281 91 "/>
 </clipPath>
 </defs>
-<g id="surface1234">
+<g id="surface526">
 <rect x="0" y="0" width="288" height="720" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <path style="fill:none;stroke-width:1.066978;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0 720 L 288 720 L 288 0 L 0 0 Z M 0 720 "/>
 <g clip-path="url(#clip1)" clip-rule="nonzero">
@@ -3088,6 +3094,11 @@
   <use xlink:href="#glyph6-6" x="51.636719" y="11.007812"/>
   <use xlink:href="#glyph6-7" x="56.964844" y="11.007812"/>
   <use xlink:href="#glyph6-8" x="63.191406" y="11.007812"/>
+  <use xlink:href="#glyph6-9" x="72.089844" y="11.007812"/>
+  <use xlink:href="#glyph6-1" x="76.535156" y="11.007812"/>
+  <use xlink:href="#glyph6-10" x="88.089844" y="11.007812"/>
+  <use xlink:href="#glyph6-6" x="92.535156" y="11.007812"/>
+  <use xlink:href="#glyph6-8" x="97.863281" y="11.007812"/>
 </g>
 </g>
 </svg>
