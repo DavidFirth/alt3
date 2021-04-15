@@ -18,7 +18,7 @@ This page will normally be updated at 14:45, 17:15 and 22:25 (London time) on Sa
     background-color:red;
     height:0;
     padding-top:100%; /* 350px/550px */
-	margin-top:10px;
+	margin-top:-10px;
     position: relative;
 }
 
@@ -33,11 +33,13 @@ svg {
 }
 </style>
 
+## Points per effective match played:
+
 <div class="svg-wrap">
 {% include leagues/england-premier-league/rates.svg %}
 </div>
 
-Graph shows **points per effective match played, home and away**.
+
 
 {% include leagues/key.md %}
 

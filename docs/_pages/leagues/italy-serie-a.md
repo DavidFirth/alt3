@@ -18,7 +18,7 @@ This page will normally be updated at 22:15 (London time) on match days.
     background-color:red;
     height:0;
     padding-top:100%; /* 350px/550px */
-	margin-top:10px;
+	margin-top:-10px;
     position: relative;
 }
 
@@ -32,6 +32,8 @@ svg {
     left:0;
 }
 </style>
+
+## Points per effective match played:
 
 <div class="svg-wrap">
 {% include leagues/italy-serie-a/rates.svg %}
