@@ -7,12 +7,8 @@ sidebar:
 ---
 
 An *alt-3* ranking takes proper account of each team's **schedule strength** ---
-that is, whether they have played (on average, to date) unusually 'easy' or
-'hard' matches.
-
-This includes the strength of the opponents played so far, and also 
-any imbalance in the numbers of matches played at home and away.  (The 'home
-advantage' effect in many major football leagues can be substantial.)
+that is, whether they have played (on average, to date) relatively 'easy' or
+'hard' opponents. The easy/hard assessment is made in a mathematically coherent way, and is based only on the current season's match results. Home advantage (or, perhaps, disadvantage) is automatically taken into account, by recognising that some teams do better when playing at home than when playing away (or, perhaps, better away than at home).
 
 The *alt-3* table displays two new columns, labelled **ePld** and **Rate**.
 We describe here, just briefly,
@@ -32,7 +28,7 @@ please see the companion page to this one:
   _actual_ number of matches played to date.  But if a team has faced a
   particularly _tough_ set of matches so far --- i.e., matches against a
   stronger than
-  average set of opponents, and/or more matches played away than at home
+  average set of opponents
   --- then that team has in effect used up fewer of their realistic chances to
   accumulate
   league points than their _actual_ number of matches played would indicate.  The
