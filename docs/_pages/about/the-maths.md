@@ -7,7 +7,7 @@ sidebar:
 ---
 
 <div style="color:darkgreen;">
-<p><b>April 2021:</b> This page is currently a bit out of date, because it describes the older _alt-3_ method. It will be updated here by Monday 19 April, to describe the current _alt-3_, which accounts for differing 'home advantage' (or perhaps home disadvantage) across teams.</p>
+<p><b>April 2021:</b> This page is currently a bit out of date, because it describes the older <i>alt-3</i> method. It will be updated here by Monday 19 April, to describe the current <i>alt-3</i>, which accounts for differing 'home advantage' (or perhaps home disadvantage) across teams.</p>
 
 <p>The bones of the method remain unchanged from below, though.</p>
 </div>
