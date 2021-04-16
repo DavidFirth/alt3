@@ -6,6 +6,13 @@ sidebar:
   - text: "If you want to use the *alt-3.uk* league tables elsewhere, please be sure to read the [License and Disclaimer](/about/license) page first."
 ---
 
+<div style="color:darkgreen;">
+<p><b>April 2021:</b> This page is currently a bit out of date, because it describes the older _alt-3_ method. It will be updated here by Monday 19 April, to describe the current _alt-3_, which accounts for differing 'home advantage' (or perhaps home disadvantage) across teams.</p>
+
+<p>The bones of the method remain unchanged from below, though.</p>
+</div>
+-----
+
 A full academic research paper, for publication in a peer-reviewed journal, 
 is currently in preparation. That paper will contain all the 
 details of the *alt-3* method, along with the mathematical justification for its
