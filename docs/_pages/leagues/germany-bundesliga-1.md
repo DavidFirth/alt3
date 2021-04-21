@@ -9,15 +9,34 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-Below is the _alt-3_ table as it stood at the end of last season. 
-
-The new season 2020--21 presents a new and interesting chellenge: the previously stable phenomenon of _home advantage_, which it had been possible to model with just a single parameter for each league, looks very different this season (for perhaps obvious reasons). A revised _alt-3_ method will handle the change in a very general way; but (as of early December 2020) we're still testing the new method before publishing a new _alt-3_ league table here.  Apologies again for the long delay!  It should be worth the wait in the end --- please follow [@footymath](https://twitter.com/footymath) on Twitter to hear when it's ready.
-
-
------
-
-<!-- This page will normally be updated at 21:45 (London time) on match days. -->
+This page will normally be updated at 21:45 (London time) on match days.
 
 {% include leagues/germany-bundesliga-1/alt3-table.html %}
+
+<style>
+.svg-wrap {
+    background-color:red;
+    height:0;
+    padding-top:100%; /* 350px/550px */
+	margin-top:-10px;
+    position: relative;
+}
+
+svg {
+    background-color: white;
+    height: 100%;
+    display:block;
+    width: 100%;
+    position: absolute;
+    top:0;
+    left:0;
+}
+</style>
+
+## Points per effective match played:
+
+<div class="svg-wrap">
+{% include leagues/germany-bundesliga-1/rates.svg %}
+</div>
 
 {% include leagues/key.md %}
