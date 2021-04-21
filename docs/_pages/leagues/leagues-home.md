@@ -10,7 +10,7 @@ sidebar:
 - **France:** [**Ligue 1**](france-ligue-1) 
 - **Germany:** [**Bundesliga 1**](germany-bundesliga-1)
 - **Italy:** [**Serie A**](italy-serie-a)
-- **Netherlands:** [**Eredivisie**](netherlands-eredivisie) (not yet in 2020--21)
+- **Netherlands:** [**Eredivisie**](netherlands-eredivisie)
 - **Portugal:** [**Primeira Liga**](portugal-primeira-liga) (not yet in 2020--21)
 - **Spain:** [**La Liga**](spain-la-liga-primera)
 
