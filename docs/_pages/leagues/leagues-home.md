@@ -11,7 +11,7 @@ sidebar:
 - **Germany:** [**Bundesliga 1**](germany-bundesliga-1)
 - **Italy:** [**Serie A**](italy-serie-a)
 - **Netherlands:** [**Eredivisie**](netherlands-eredivisie)
-- **Portugal:** [**Primeira Liga**](portugal-primeira-liga) (not yet in 2020--21)
+- **Portugal:** [**Primeira Liga**](portugal-primeira-liga)
 - **Spain:** [**La Liga**](spain-la-liga-primera)
 
 This is an initial list of the league tables that we aim to provide and keep up to date. 
