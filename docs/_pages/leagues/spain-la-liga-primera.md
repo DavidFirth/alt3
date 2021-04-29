@@ -9,7 +9,7 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-This page will normally be updated at 23:05 (London time) on match days.
+This page will normally be updated 2 hours after each scheduled match kickoff time.
 
 {% include leagues/spain-la-liga-primera/alt3-table.html %}
 
