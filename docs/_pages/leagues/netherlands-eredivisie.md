@@ -1,6 +1,6 @@
 ---
 layout: league-table-single
-title: "Eredivisie (Netherlands) 2019--2020"
+title: "Eredivisie (Netherlands) 2020--2021"
 permalink: /leagues/netherlands-eredivisie/index.html
 share: true
 sidebar:

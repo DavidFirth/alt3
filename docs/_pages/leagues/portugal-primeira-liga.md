@@ -1,6 +1,6 @@
 ---
 layout: league-table-single
-title: "Primeira Liga (Portugal) 2019--2020"
+title: "Primeira Liga (Portugal) 2020--2021"
 permalink: /leagues/portugal-primeira-liga/index.html
 share: true
 sidebar:

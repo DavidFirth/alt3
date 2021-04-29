@@ -1,6 +1,6 @@
 ---
 layout: league-table-single
-title: "Ligue 1 (France) 2019--2020"
+title: "Ligue 1 (France) 2020--2021"
 permalink: /leagues/france-ligue-1/index.html
 share: true
 sidebar:

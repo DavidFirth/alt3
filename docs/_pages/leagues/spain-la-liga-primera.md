@@ -1,6 +1,6 @@
 ---
 layout: league-table-single
-title: "La Liga Primera (Spain) 2019--2020"
+title: "La Liga Primera (Spain) 2020--2021"
 permalink: /leagues/spain-la-liga-primera/index.html
 share: true
 sidebar:

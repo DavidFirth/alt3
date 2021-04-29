@@ -1,6 +1,6 @@
 ---
 layout: league-table-single
-title: "Bundesliga 1 (Germany) 2019--2020"
+title: "Bundesliga 1 (Germany) 2020--2021"
 permalink: /leagues/germany-bundesliga-1/index.html
 share: true
 sidebar:
