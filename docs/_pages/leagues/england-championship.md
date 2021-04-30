@@ -9,7 +9,7 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-This page will normally be updated 2 hours after each scheduled match kickoff time. 
+This page will normally be updated 2 hours after each scheduled match kickoff time, unless a match is still in play.
 
 {% include leagues/england-championship/alt3-table.html %}
 
