@@ -9,7 +9,7 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-This page will normally be updated 2 hours after each scheduled match kickoff time, unless a match is still in play.
+This page is normally updated 2 hours after each scheduled match kickoff time, unless a match is still in play.
 
 {% include leagues/portugal-primeira-liga/alt3-table.html %}
 
@@ -33,7 +33,7 @@ svg {
 }
 </style>
 
-## Points per effective match played:
+## Home and away points-per-match rates:
 
 <div class="svg-wrap">
 {% include leagues/portugal-primeira-liga/rates.svg %}
