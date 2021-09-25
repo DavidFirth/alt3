@@ -17,7 +17,7 @@ sidebar:
 This is an initial list of the league tables that we aim to provide and keep up to date. 
 It is subject to change in the future. 
 
-In season 2020--21 things have been delayed, and some of the above leagues are not yet included in _alt-3_ this season.
+
 
 
 

@@ -9,7 +9,7 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-The table below is as at the end of the 2020--2021 season. The _alt-3_ table for the new season will appear here after all teams have played 8 matches.
+The table below is as at the end of the 2020--2021 season. The _alt-3_ table for the new season will appear here in mid-October.  (Sorry for the delay, due to some local difficulties.)
 
 <!-- This page is normally updated 2 hours after each scheduled match kickoff time, unless a match is still in play. -->
 
