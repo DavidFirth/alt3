@@ -1,6 +1,6 @@
 ---
 layout: league-table-single
-title: "Eredivisie (Netherlands) 2020--2021"
+title: "Eredivisie (Netherlands)"
 permalink: /leagues/netherlands-eredivisie/index.html
 share: true
 sidebar:
@@ -9,9 +9,9 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-The table below is as at the end of the 2020--2021 season. The _alt-3_ table for the new season will appear here in early November.  (Sorry for the delay, due to some local difficulties.)
+<!-- The table below is as at the end of the 2020--2021 season. The _alt-3_ table for the new season will appear here in early November.  (Sorry for the delay, due to some local difficulties.) -->
 
-<!-- This page is normally updated 2 hours after each scheduled match kickoff time, unless a match is still in play. -->
+This page is normally updated 2 hours after each scheduled match kickoff time, unless a match is still in play. 
 
 {% include leagues/netherlands-eredivisie/alt3-table.html %}
 
