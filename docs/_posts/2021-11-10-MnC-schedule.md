@@ -1,5 +1,5 @@
 ---
-title: "West Ham at home, harder than Chelsea/Liverpool away?"
+title: "A home match against West Ham is harder than playing Chelsea or Liverpool away?"
 excerpt_separator: "<!--more-->"
 comments: false
 pinned: false
@@ -19,7 +19,7 @@ In fact, like many other Premier League clubs this season so far, all of the top
 
 <img align="center" src="/assets/images/2021-11-10-PL-rates-diamond.png">
 
-## How can West Ham at home be rated as harder than Chelsea or Liverpool away?
+## How can a home match against West Ham be rated as harder than playing Chelsea or Liverpool away?
 
 This is a question that I got asked yesterday.  It comes from looking at a current _alt-3_ schedule-strength graph such as this one for Man City:
 
