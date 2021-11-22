@@ -15,6 +15,8 @@ This page is normally updated 2 hours after each scheduled match kickoff time, u
 
 {% include leagues/england-championship/alt3-table.html %}
 
+Currently Derby and Reading are subject to points deductions (21 and 6 pts respectively).  These have been accounted for.
+
 <style>
 .svg-wrap {
     background-color:red;
