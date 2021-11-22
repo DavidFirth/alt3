@@ -61,13 +61,25 @@ please see the companion page to this one:
   **This is the column that determines the ordering of teams** in the _alt-3_ table.
 
   The _Rate_ --- or league points per effective match played ---
-  is simply the ratio of two other columns in the table:
+  is (normally, i.e., for teams that have not had any points deducted by the league)
+  just the ratio of two other columns in the table:
   > **Rate = Pts &#247; ePld**.
 
+  Where any team has had points deducted by the league, the _Rate_ formula is
+  generalized to
+  > **Rate = [(Pts + deduction) &#247; ePld] - [deduction &#247; seasonLength]**
+  
+  where _seasonLength_ is the total number of matches that each team will play
+  in the full season (for example, in a 20-team league the _seasonLength_ will be 38).
+  In other words, the normal _alt-3_ Rate is adjusted downwards by the appropriate 
+  per-match points deduction.
+  
   Where a team's fixture schedule to date is unusually tough, or unusually easy,
   the _alt-3_ **Rate** will be substantially more informative than the
   simple tally of league points accumulated, as an indicator of current
   standing in the league.
+  
+  
 
 -----
 

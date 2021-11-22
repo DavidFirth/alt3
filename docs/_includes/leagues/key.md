@@ -11,7 +11,7 @@ The other numbers shown in the table are:
 	        <ul>
 			<li><b>Pld:</b> matches played to date</li>
         		<li><b>GD:</b> goal difference</li>
-        		<li><b>Pts:</b> league points accumulated to date</li>
+        		<li><b>Pts:</b> league points won to date, minus any points deducted by the league</li>
 		</ul>
 	</li>
     	<li>The <b><i>alt-3</i></b> league table:
@@ -36,9 +36,13 @@ The other numbers shown in the table are:
 		<b>Pld</b> and <b>ePld</b> differ by more than 2.0, the
 		entry in the <b>ePld</b> column is shown in <b>bold type</b> </li>
 		</ul></li>
-        	<li><b>Rate:</b> the <b><i>league points per effective
-		match played</i></b>, i.e., 
+        	<li><b>Rate:</b> the <b><i>league points won per effective
+		match played</i></b>, i.e.,
 		<center>   <b>  Rate = Pts &#247; ePld </b>. </center>
+		[That's the <i>alt-3</i> Rate calculation for a "normal" team with no points
+		deducted by
+		the league. Where points have been deducted, the appropriate adjustment is made:
+		see <a href="/about/tables-explained/">The league tables explained</a> for details.]
 		</li>
 	</ul>
 	The <i>alt-3</i> league table is sorted according to the current
