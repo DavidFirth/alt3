@@ -7,7 +7,7 @@ sidebar:
 ---
 
 - **England:** [**Premier League**](england-premier-league), [**Championship**](england-championship)
-- **France:** [**Ligue 1**](france-ligue-1) 
+- **France:** [**Ligue 1**](france-ligue-1) (**not currently updated**)
 - **Germany:** [**Bundesliga 1**](germany-bundesliga-1)
 - **Italy:** [**Serie A**](italy-serie-a)
 - **Netherlands:** [**Eredivisie**](netherlands-eredivisie)

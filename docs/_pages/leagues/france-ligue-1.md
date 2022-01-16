@@ -11,7 +11,9 @@ sidebar:
 
 <!-- The table below is as at the end of the 2020--2021 season. The _alt-3_ table for the new season will appear here in early November.  (Sorry for the delay, due to some local difficulties.) -->
 
-This page is normally updated 2 hours after each scheduled match kickoff time, unless a match is still in play. 
+This page is not currently updated, because of a problem with the regular results feed for Ligue 1.
+
+<!-- This page is normally updated 2 hours after each scheduled match kickoff time, unless a match is still in play. -->
 
 {% include leagues/france-ligue-1/alt3-table.html %}
 
