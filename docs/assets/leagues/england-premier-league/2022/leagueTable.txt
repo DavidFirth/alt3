@@ -99,15 +99,15 @@ Brighton &amp; Hove Albion
 DResult DrawLResult LossLResult LossDResult DrawLResult LossWResult Win
 9
 Liverpool
-11
+12
 4
 4
-3
-22
-13
-9
+4
+23
+15
+8
 16
-DResult DrawDResult DrawLResult LossWResult WinWResult WinLResult Loss
+DResult DrawLResult LossWResult WinWResult WinLResult LossLResult Loss
 10
 Crystal Palace
 12
@@ -164,6 +164,17 @@ AFC Bournemouth
 13
 DResult DrawWResult WinDResult DrawLResult LossLResult LossLResult Loss
 15
+Leeds United
+12
+3
+3
+6
+15
+19
+-4
+12
+DResult DrawLResult LossLResult LossLResult LossLResult LossWResult Win
+16
 Aston Villa
 13
 3
@@ -174,7 +185,7 @@ Aston Villa
 -9
 12
 DResult DrawDResult DrawLResult LossLResult LossWResult WinLResult Loss
-16
+17
 Southampton
 13
 3
@@ -185,7 +196,7 @@ Southampton
 -9
 12
 LResult LossLResult LossDResult DrawWResult WinDResult DrawLResult Loss
-17
+18
 Leicester City
 13
 3
@@ -196,7 +207,7 @@ Leicester City
 -4
 11
 WResult WinLResult LossDResult DrawWResult WinWResult WinLResult Loss
-18
+19
 Wolverhampton Wanderers
 13
 2
@@ -207,17 +218,6 @@ Wolverhampton Wanderers
 -13
 10
 LResult LossLResult LossWResult WinLResult LossLResult LossDResult Draw
-19
-Leeds United
-11
-2
-3
-6
-13
-18
--5
-9
-LResult LossDResult DrawLResult LossLResult LossLResult LossLResult Loss
 20
 Nottingham Forest
 12
