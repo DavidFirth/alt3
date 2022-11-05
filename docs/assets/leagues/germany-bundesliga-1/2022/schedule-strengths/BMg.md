@@ -1,5 +1,5 @@
 ---
-permalink: /leagues/germany-bundesliga-1/schedule-strength-Bmg/
+permalink: /leagues/germany-bundesliga-1/schedule-strength-BMg/
 ---
 
 <style>
@@ -23,7 +23,7 @@ svg {
 
 
 <div class="svg-wrap">
-{% include leagues/germany-bundesliga-1/schedule-strengths/Bmg.svg %}
+{% include leagues/germany-bundesliga-1/schedule-strengths/BMg.svg %}
 </div>
 
 -----
@@ -31,7 +31,7 @@ svg {
 (Total schedule strength over the *whole season* is always zero.)
 
 
-Download today's schedule-strength data: [Bmg.csv](/assets/leagues/germany-bundesliga-1/2022/schedule-strengths/Bmg.csv)
+Download today's schedule-strength data: [BMg.csv](/assets/leagues/germany-bundesliga-1/2022/schedule-strengths/BMg.csv)
 
 **Note that this changes, week by week, as the schedule strengths get re-evaluated on the
 basis of the latest results.**
