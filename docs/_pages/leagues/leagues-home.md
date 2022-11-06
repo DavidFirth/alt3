@@ -9,7 +9,7 @@ sidebar:
 - **England:** [**Premier League**](england-premier-league), [**Championship**](england-championship)
 - **France:** [**Ligue 1**](france-ligue-1) (not yet updated to 2022-23 season)
 - **Germany:** [**Bundesliga 1**](germany-bundesliga-1)
-- **Italy:** [**Serie A**](italy-serie-a) (not yet updated to 2022-23 season)
+- **Italy:** [**Serie A**](italy-serie-a)
 - **Netherlands:** [**Eredivisie**](netherlands-eredivisie) (not yet updated to 2022-23 season)
 - **Portugal:** [**Primeira Liga**](portugal-primeira-liga) (not yet updated to 2022-23 season)
 - **Spain:** [**La Liga**](spain-la-liga-primera) (not yet updated to 2022-23 season)
