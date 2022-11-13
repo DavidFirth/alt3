@@ -59,11 +59,11 @@ Manchester United
 8
 2
 4
-19
-19
+20
+20
 0
 26
-WResult WinDResult DrawWResult WinDResult DrawWResult WinLResult Loss
+DResult DrawWResult WinDResult DrawWResult WinLResult LossWResult Win
 6
 Liverpool
 14
@@ -98,6 +98,17 @@ Chelsea
 21
 WResult WinDResult DrawDResult DrawLResult LossLResult LossLResult Loss
 9
+Fulham
+15
+5
+4
+6
+24
+26
+-2
+19
+DResult DrawWResult WinWResult WinDResult DrawLResult LossLResult Loss
+10
 Brentford
 15
 4
@@ -108,17 +119,6 @@ Brentford
 -2
 19
 WResult WinDResult DrawLResult LossDResult DrawDResult DrawWResult Win
-10
-Fulham
-15
-5
-4
-6
-23
-25
--2
-19
-LResult LossDResult DrawWResult WinWResult WinDResult DrawLResult Loss
 11
 Crystal Palace
 14
