@@ -44,15 +44,15 @@ Newcastle United
 DResult DrawWResult WinWResult WinWResult WinWResult WinWResult Win
 4
 Tottenham Hotspur
-15
+16
 9
-2
+3
 4
-31
-21
+33
+23
 10
-29
-WResult WinLResult LossLResult LossWResult WinLResult LossWResult Win
+30
+LResult LossLResult LossWResult WinLResult LossWResult WinDResult Draw
 5
 Manchester United
 14
@@ -98,6 +98,17 @@ Chelsea
 21
 WResult WinDResult DrawDResult DrawLResult LossLResult LossLResult Loss
 9
+Brentford
+16
+4
+8
+4
+25
+27
+-2
+20
+DResult DrawLResult LossDResult DrawDResult DrawWResult WinDResult Draw
+10
 Fulham
 15
 5
@@ -108,17 +119,6 @@ Fulham
 -2
 19
 DResult DrawWResult WinWResult WinDResult DrawLResult LossLResult Loss
-10
-Brentford
-15
-4
-7
-4
-23
-25
--2
-19
-WResult WinDResult DrawLResult LossDResult DrawDResult DrawWResult Win
 11
 Crystal Palace
 14
