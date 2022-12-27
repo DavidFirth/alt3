@@ -19,7 +19,7 @@ Arsenal
 12
 24
 40
-WResult WinWResult WinDResult DrawWResult WinWResult WinWResult Win
+WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
 2
 Newcastle United
 16
@@ -87,6 +87,17 @@ Brighton &amp; Hove Albion
 24
 DResult DrawLResult LossWResult WinWResult WinLResult LossWResult Win
 8
+Chelsea
+15
+7
+3
+5
+19
+17
+2
+24
+DResult DrawDResult DrawLResult LossLResult LossLResult LossWResult Win
+9
 Fulham
 16
 6
@@ -97,17 +108,6 @@ Fulham
 1
 22
 WResult WinWResult WinDResult DrawLResult LossLResult LossWResult Win
-9
-Chelsea
-14
-6
-3
-5
-17
-17
-0
-21
-WResult WinDResult DrawDResult DrawLResult LossLResult LossLResult Loss
 10
 Brentford
 16
@@ -154,15 +154,15 @@ Leicester City
 WResult WinWResult WinLResult LossWResult WinWResult WinLResult Loss
 14
 AFC Bournemouth
-15
-4
-4
-7
-18
-32
--14
 16
-DResult DrawLResult LossLResult LossLResult LossLResult LossWResult Win
+4
+4
+8
+18
+34
+-16
+16
+LResult LossLResult LossLResult LossLResult LossWResult WinLResult Loss
 15
 Leeds United
 14
@@ -184,7 +184,7 @@ West Ham United
 20
 -7
 14
-DResult DrawLResult LossWResult WinLResult LossLResult LossLResult Loss
+LResult LossWResult WinLResult LossLResult LossLResult LossLResult Loss
 17
 Everton
 16
