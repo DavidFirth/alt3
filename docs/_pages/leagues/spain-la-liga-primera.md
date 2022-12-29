@@ -2,7 +2,7 @@
 layout: league-table-single
 title: "La Liga Primera (Spain)"
 permalink: /leagues/spain-la-liga-primera/index.html
-share: true
+share: false
 sidebar:
   - text: "If you want to use the *alt-3.uk* league tables elsewhere, please be sure to read the [License and Disclaimer](/about/license) page first."
   - text: "### Click on any team name..."
