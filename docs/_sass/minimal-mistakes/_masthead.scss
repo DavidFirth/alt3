@@ -7,12 +7,16 @@ $masthead-link-color: #ffaf5c;
 $masthead-link-color-hover: #fff;
 
 .masthead {
-  position: relative;
+  position: fixed;
+  top: 0;  
   -webkit-animation: $intro-transition;
           animation: $intro-transition;
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
+  width: 100%;
+  background: white;
+  height: 85px;
   border-bottom: 2px solid #333;
   background-color: #233;
 
@@ -64,7 +68,6 @@ $masthead-link-color-hover: #fff;
 
   .site-nav {
     margin-left: 0;
-
     @include breakpoint($small) {
       float: right;
     }
@@ -84,7 +87,7 @@ $masthead-link-color-hover: #fff;
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
+    padding-right: 2em;  
     font-weight: 700;
   }
 }

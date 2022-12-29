@@ -18,7 +18,7 @@ To put an **alt-3** icon on your home screen, from some of the most common web b
 
 - **Safari:** Hit the *share* button in Safari (the little square with an up-arrow), and then pick **Add to Home Screen**.
 
-You can of course add *multiple* home-screen icons if you want, linked to different pages of *alt-3.uk*.
+You can of course add *multiple* home-screen icons if you want, linked to different pages of *alt3.uk*.
 
 ## Naming your icon(s)
 

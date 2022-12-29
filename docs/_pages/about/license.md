@@ -1,12 +1,12 @@
 ---
 title: "License and Disclaimer"
 permalink: "/about/license"
-share: true
+share: false
 ---
 
-The content of this website is provided under the Creative Commons license, <a href="https://creativecommons.org/licenses/">CC BY</a>. 
+The content of this website is provided under the Creative Commons license, <a href="https://creativecommons.org/licenses/" target="_blank">CC BY</a>. 
 
-Full text of the license is at: [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode).
+Full text of the license is at: <a href="https://creativecommons.org/licenses/by/4.0/legalcode" target="_blank">https://creativecommons.org/licenses/by/4.0/legalcode</a>.
 
 Some specifics:
 
@@ -16,7 +16,7 @@ the author.  For full detail of this condition, see Section 3 of the license tex
 A minimal way to satisfy the requirement, at the time of writing this
 notice, is to attach a brief attribution wherever the content is shared, 
 as follows:  
---- **Copyright &copy; David Firth, http://alt-3.uk** ---  
+--- **Copyright &copy; David Firth, https://alt3.uk** ---  
 [Quoting the web URL as above ensures that the license can easily be found,
 as there is a link to it from the *alt-3* web pages.]
 <!-- If you wish to refer to the underlying methodology, then please cite the published research paper by D Firth and H L Turner. -->
