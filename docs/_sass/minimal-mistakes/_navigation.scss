@@ -411,8 +411,8 @@
       padding: 0.25em 0;
 
       @include breakpoint($large) {
-        padding-top: 0.125em;
-        padding-bottom: 0.125em;
+          padding-top: 0.125em;
+          padding-bottom: 0.125em;
       }
 
       &:hover {
