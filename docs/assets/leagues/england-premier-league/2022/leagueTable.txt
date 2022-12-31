@@ -22,25 +22,25 @@ Arsenal
 WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
 2
 Manchester City
-15
+16
 11
+3
 2
-2
-43
-15
+44
+16
 28
-35
+36
 LResult LossWResult WinWResult WinWResult WinLResult LossWResult Win
 3
 Newcastle United
-16
+17
 9
-6
+7
 1
 32
 11
 21
-33
+34
 WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
 4
 Manchester United
@@ -76,6 +76,17 @@ Liverpool
 28
 LResult LossLResult LossWResult WinWResult WinWResult WinWResult Win
 7
+Fulham
+17
+7
+4
+6
+29
+27
+2
+25
+WResult WinWResult WinDResult DrawLResult LossLResult LossWResult Win
+8
 Brighton &amp; Hove Albion
 15
 7
@@ -86,7 +97,7 @@ Brighton &amp; Hove Albion
 6
 24
 DResult DrawLResult LossWResult WinWResult WinLResult LossWResult Win
-8
+9
 Chelsea
 15
 7
@@ -97,7 +108,7 @@ Chelsea
 2
 24
 DResult DrawDResult DrawLResult LossLResult LossLResult LossWResult Win
-9
+10
 Brentford
 17
 5
@@ -108,28 +119,17 @@ Brentford
 0
 23
 LResult LossDResult DrawDResult DrawWResult WinDResult DrawWResult Win
-10
-Fulham
+11
+Crystal Palace
 16
 6
 4
 6
-27
-26
-1
-22
-WResult WinWResult WinDResult DrawLResult LossLResult LossWResult Win
-11
-Crystal Palace
-15
-5
-4
-6
-15
+17
 21
--6
-19
-WResult WinLResult LossWResult WinWResult WinLResult LossLResult Loss
+-4
+22
+LResult LossWResult WinWResult WinLResult LossLResult LossWResult Win
 12
 Aston Villa
 16
@@ -153,37 +153,37 @@ Leicester City
 17
 WResult WinLResult LossWResult WinWResult WinLResult LossLResult Loss
 14
-AFC Bournemouth
-16
-4
-4
-8
-18
-34
--16
-16
-LResult LossLResult LossLResult LossLResult LossWResult WinLResult Loss
-15
 Leeds United
-15
+16
 4
-3
+4
 8
 23
 29
 -6
-15
+16
 LResult LossLResult LossWResult WinWResult WinLResult LossLResult Loss
+15
+AFC Bournemouth
+17
+4
+4
+9
+18
+36
+-18
+16
+LResult LossLResult LossLResult LossWResult WinLResult LossLResult Loss
 16
 Everton
-16
+17
 3
-5
+6
 8
-12
-19
+13
+20
 -7
-14
+15
 LResult LossWResult WinDResult DrawLResult LossLResult LossLResult Loss
 17
 West Ham United
@@ -220,11 +220,11 @@ Nottingham Forest
 DResult DrawWResult WinLResult LossDResult DrawWResult WinLResult Loss
 20
 Southampton
-16
+17
 3
 3
-10
-14
-30
--16
+11
+15
+32
+-17
 12
