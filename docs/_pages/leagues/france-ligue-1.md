@@ -17,7 +17,7 @@ This page is normally updated 2 hours after each scheduled match kickoff time, u
 
 {% include leagues/france-ligue-1/alt3-table.html %}
 
-Currently Lyon and Nice are subject to 1-point deductions.  This has been accounted for in the _Rate_ calculation.
+<!-- Currently Lyon and Nice are subject to 1-point deductions.  This has been accounted for in the _Rate_ calculation. -->
 
 
 <style>
