@@ -11,15 +11,15 @@ Points
 Form, Last 6 games, Oldest first
 1
 Arsenal
-16
+17
 14
-1
+2
 1
 40
 14
 26
-43
-DResult DrawWResult WinWResult WinWResult WinWResult WinWResult Win
+44
+WResult WinWResult WinWResult WinWResult WinWResult WinDResult Draw
 2
 Manchester City
 16
@@ -33,25 +33,25 @@ Manchester City
 WResult WinWResult WinWResult WinLResult LossWResult WinDResult Draw
 3
 Newcastle United
-17
+18
 9
-7
+8
 1
 32
 11
 21
-34
-WResult WinWResult WinWResult WinWResult WinWResult WinDResult Draw
+35
+WResult WinWResult WinWResult WinWResult WinDResult DrawDResult Draw
 4
 Manchester United
-16
-10
+17
+11
 2
 4
-24
+27
 20
-4
-32
+7
+35
 DResult DrawWResult WinLResult LossWResult WinWResult WinWResult Win
 5
 Tottenham Hotspur
@@ -76,6 +76,28 @@ Liverpool
 28
 LResult LossWResult WinWResult WinWResult WinWResult WinLResult Loss
 7
+Fulham
+18
+8
+4
+6
+30
+27
+3
+28
+DResult DrawLResult LossLResult LossWResult WinWResult WinWResult Win
+8
+Brighton &amp; Hove Albion
+17
+8
+3
+6
+32
+25
+7
+27
+WResult WinWResult WinLResult LossWResult WinLResult LossWResult Win
+9
 Brentford
 18
 6
@@ -86,18 +108,7 @@ Brentford
 2
 26
 DResult DrawDResult DrawWResult WinDResult DrawWResult WinWResult Win
-8
-Fulham
-17
-7
-4
-6
-29
-27
-2
-25
-WResult WinDResult DrawLResult LossLResult LossWResult WinWResult Win
-9
+10
 Chelsea
 16
 7
@@ -108,17 +119,6 @@ Chelsea
 2
 25
 DResult DrawLResult LossLResult LossLResult LossWResult WinDResult Draw
-10
-Brighton &amp; Hove Albion
-16
-7
-3
-6
-28
-24
-4
-24
-LResult LossWResult WinWResult WinLResult LossWResult WinLResult Loss
 11
 Crystal Palace
 16
@@ -143,15 +143,15 @@ Aston Villa
 WResult WinLResult LossWResult WinWResult WinLResult LossWResult Win
 13
 Leicester City
-17
+18
 5
 2
-10
+11
 26
-30
--4
+31
+-5
 17
-WResult WinLResult LossWResult WinWResult WinLResult LossLResult Loss
+LResult LossWResult WinWResult WinLResult LossLResult LossLResult Loss
 14
 Leeds United
 16
@@ -165,26 +165,26 @@ Leeds United
 LResult LossWResult WinWResult WinLResult LossLResult LossDResult Draw
 15
 AFC Bournemouth
-17
-4
-4
-9
 18
-36
--18
+4
+4
+10
+18
+39
+-21
 16
 LResult LossLResult LossLResult LossWResult WinLResult LossLResult Loss
 16
 Everton
-17
+18
 3
 6
-8
-13
-20
--7
+9
+14
+24
+-10
 15
-WResult WinDResult DrawLResult LossLResult LossLResult LossDResult Draw
+DResult DrawLResult LossLResult LossLResult LossDResult DrawLResult Loss
 17
 West Ham United
 17
