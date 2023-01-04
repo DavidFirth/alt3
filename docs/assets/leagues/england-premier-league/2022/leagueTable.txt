@@ -63,7 +63,7 @@ Tottenham Hotspur
 25
 12
 33
-LResult LossWResult WinLResult LossWResult WinDResult DrawLResult Loss
+WResult WinLResult LossWResult WinDResult DrawLResult LossWResult Win
 6
 Liverpool
 17
@@ -129,7 +129,7 @@ Aston Villa
 26
 -6
 22
-WResult WinLResult LossWResult WinWResult WinLResult LossWResult Win
+LResult LossWResult WinWResult WinLResult LossWResult WinDResult Draw
 12
 Crystal Palace
 17
@@ -140,7 +140,7 @@ Crystal Palace
 25
 -8
 22
-LResult LossWResult WinWResult WinLResult LossLResult LossWResult Win
+WResult WinWResult WinLResult LossLResult LossWResult WinLResult Loss
 13
 Leicester City
 18
@@ -217,7 +217,7 @@ Wolverhampton Wanderers
 27
 -16
 14
-LResult LossDResult DrawLResult LossLResult LossWResult WinLResult Loss
+DResult DrawLResult LossLResult LossWResult WinLResult LossDResult Draw
 20
 Southampton
 18
