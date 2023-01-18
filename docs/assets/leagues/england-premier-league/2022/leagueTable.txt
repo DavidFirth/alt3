@@ -19,7 +19,7 @@ Arsenal
 14
 28
 47
-WResult WinWResult WinWResult WinWResult WinWResult WinDResult Draw
+WResult WinWResult WinWResult WinWResult WinDResult DrawWResult Win
 2
 Manchester City
 18
@@ -32,6 +32,17 @@ Manchester City
 39
 WResult WinLResult LossWResult WinDResult DrawWResult WinLResult Loss
 3
+Manchester United
+19
+12
+3
+4
+30
+22
+8
+39
+WResult WinWResult WinWResult WinWResult WinWResult WinDResult Draw
+4
 Newcastle United
 19
 10
@@ -42,17 +53,6 @@ Newcastle United
 22
 38
 WResult WinWResult WinWResult WinDResult DrawDResult DrawWResult Win
-4
-Manchester United
-18
-12
-2
-4
-29
-21
-8
-38
-LResult LossWResult WinWResult WinWResult WinWResult WinWResult Win
 5
 Tottenham Hotspur
 19
@@ -63,7 +63,7 @@ Tottenham Hotspur
 27
 10
 33
-WResult WinLResult LossWResult WinDResult DrawLResult LossWResult Win
+LResult LossWResult WinDResult DrawLResult LossWResult WinLResult Loss
 6
 Fulham
 20
@@ -132,15 +132,15 @@ Aston Villa
 WResult WinWResult WinLResult LossWResult WinDResult DrawWResult Win
 12
 Crystal Palace
-18
+19
 6
-4
+5
 8
-17
-26
+18
+27
 -9
-22
-WResult WinLResult LossLResult LossWResult WinLResult LossLResult Loss
+23
+LResult LossLResult LossWResult WinLResult LossLResult LossDResult Draw
 13
 Nottingham Forest
 19
