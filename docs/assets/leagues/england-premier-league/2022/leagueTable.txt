@@ -33,15 +33,15 @@ Manchester City
 DResult DrawWResult WinLResult LossWResult WinWResult WinLResult Loss
 3
 Manchester United
-21
+22
 13
-3
+4
 5
-34
-26
+36
+28
 8
-42
-WResult WinWResult WinWResult WinDResult DrawLResult LossWResult Win
+43
+WResult WinWResult WinDResult DrawLResult LossWResult WinDResult Draw
 4
 Newcastle United
 21
@@ -175,6 +175,17 @@ Wolverhampton Wanderers
 20
 WResult WinLResult LossDResult DrawWResult WinLResult LossWResult Win
 16
+Leeds United
+21
+4
+7
+10
+28
+36
+-8
+19
+DResult DrawDResult DrawLResult LossDResult DrawLResult LossDResult Draw
+17
 West Ham United
 21
 5
@@ -185,17 +196,6 @@ West Ham United
 -8
 19
 LResult LossLResult LossDResult DrawLResult LossWResult WinDResult Draw
-17
-Leeds United
-20
-4
-6
-10
-26
-34
--8
-18
-LResult LossDResult DrawDResult DrawLResult LossDResult DrawLResult Loss
 18
 Everton
 21
