@@ -27,10 +27,10 @@ Manchester City
 4
 4
 64
-24
-40
+25
+39
 55
-WResult WinWResult WinLResult LossWResult WinWResult WinDResult Draw
+WResult WinLResult LossWResult WinWResult WinDResult DrawWResult Win
 3
 Manchester United
 24
@@ -76,6 +76,17 @@ Fulham
 39
 LResult LossLResult LossDResult DrawWResult WinWResult WinDResult Draw
 7
+Liverpool
+23
+10
+6
+7
+38
+28
+10
+36
+LResult LossLResult LossDResult DrawLResult LossWResult WinWResult Win
+8
 Brighton &amp; Hove Albion
 22
 10
@@ -86,17 +97,6 @@ Brighton &amp; Hove Albion
 10
 35
 WResult WinWResult WinDResult DrawWResult WinDResult DrawLResult Loss
-8
-Liverpool
-22
-10
-5
-7
-38
-28
-10
-35
-LResult LossLResult LossDResult DrawLResult LossWResult WinWResult Win
 9
 Brentford
 23
@@ -132,14 +132,14 @@ Aston Villa
 WResult WinWResult WinLResult LossLResult LossLResult LossWResult Win
 12
 Crystal Palace
-23
+24
 6
-8
+9
 9
 21
 31
 -10
-26
+27
 LResult LossDResult DrawDResult DrawLResult LossDResult DrawDResult Draw
 13
 Nottingham Forest
@@ -213,11 +213,11 @@ AFC Bournemouth
 5
 6
 13
-21
+22
 48
--27
+-26
 21
-LResult LossLResult LossDResult DrawLResult LossDResult DrawWResult Win
+LResult LossDResult DrawLResult LossDResult DrawWResult WinLResult Loss
 20
 Southampton
 24
