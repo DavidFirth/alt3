@@ -11,9 +11,9 @@ sidebar:
 
 <!-- The table below is as at the end of the 2021--2022 season. The _alt-3_ table for the new season will appear here after all teams have played 6 matches. -->
 
-The _alt-3_ computer is currently out for a long walk.  Next update here will be on Tuesday 14 March.
 
-<!-- This page is normally updated 2 hours after each scheduled match kickoff time, unless a match is still in play. -->
+
+This page is normally updated 2 hours after each scheduled match kickoff time, unless a match is still in play.
 
 {% include leagues/england-championship/alt3-table.html %}
 

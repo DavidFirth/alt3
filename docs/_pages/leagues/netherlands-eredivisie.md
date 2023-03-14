@@ -15,9 +15,7 @@ sidebar:
 
 <!-- **This page is not currently updated.**  There is a problem at the moment with the results feed for the Eredivisie. -->
 
-The _alt-3_ computer is currently out for a long walk.  Next update here will be on Tuesday 14 March.
-
-<!-- This page is normally updated 2 hours after each scheduled match kickoff time, unless a match is still in play. -->
+This page is normally updated 2 hours after each scheduled match kickoff time, unless a match is still in play.
 
 {% include leagues/netherlands-eredivisie/alt3-table.html %}
 
