@@ -1,0 +1,20 @@
+name: 'Test action'
+
+# **What it does**: Renders the content of every page and check all internal links.
+# **Why we have it**: To make sure all links connect correctly.
+# **Who does it impact**: Docs content.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  first-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: pwd-step
+        run: echo `pwd`
+      - name: ls-step
+        run: echo `ls`
+
