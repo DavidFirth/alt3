@@ -15,4 +15,3 @@ jobs:
           git add 'report.txt'
           git commit -am "Automated report"
           git push
-	  
