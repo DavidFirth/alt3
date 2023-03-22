@@ -1,5 +1,6 @@
-name: Push commit
-on: workflow_dispatch:
+name: 'Push commit'
+on:
+  workflow_dispatch:
 jobs:
   report:
     runs-on: ubuntu-latest
