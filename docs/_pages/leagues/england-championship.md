@@ -13,7 +13,7 @@ sidebar:
 
 
 
-This page is normally updated 2 hours after each scheduled match kickoff time, unless a match is still in play.
+This page is normally updated at around 0700 (UK time), on days after a match has been played.
 
 {% include leagues/england-championship/alt3-table.html %}
 
