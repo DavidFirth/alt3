@@ -19,6 +19,8 @@ This page is normally updated at around 0700 (UK time), on days after a match ha
 
 <!-- Derby and Reading were subject to points deductions (21 and 6 pts respectively).  These have been accounted for in the _Rate_ calculation. -->
 
+Currently Wigan are subject to 3-points deduction.  This has been accounted for in the _Rate_ calculation.
+
 <style>
 .svg-wrap {
     background-color:red;
