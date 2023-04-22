@@ -18,8 +18,6 @@ This page is normally updated at around 0700 (UK time), on days after a match ha
 
 {% include leagues/italy-serie-a/alt3-table.html %}
 
-Currently Juventus are subject to 15-points deduction.  This has been accounted for in the _Rate_ calculation.
-
 <style>
 .svg-wrap {
     background-color:red;
