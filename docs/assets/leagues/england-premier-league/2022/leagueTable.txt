@@ -11,25 +11,25 @@ Points
 Form, Last 6 games, Oldest first
 1
 Arsenal
-32
+33
 23
 6
-3
-77
-34
-43
-75
-WResult WinWResult WinWResult WinDResult DrawDResult DrawDResult Draw
-2
-Manchester City
-30
-22
-4
 4
 78
-28
-50
-70
+38
+40
+75
+WResult WinWResult WinDResult DrawDResult DrawDResult DrawLResult Loss
+2
+Manchester City
+31
+23
+4
+4
+82
+29
+53
+73
 WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
 3
 Newcastle United
@@ -65,6 +65,17 @@ Aston Villa
 54
 WResult WinWResult WinWResult WinWResult WinDResult DrawWResult Win
 6
+Liverpool
+32
+15
+8
+9
+61
+39
+22
+53
+LResult LossDResult DrawDResult DrawWResult WinWResult WinWResult Win
+7
 Tottenham Hotspur
 32
 16
@@ -75,29 +86,29 @@ Tottenham Hotspur
 7
 53
 WResult WinDResult DrawDResult DrawWResult WinLResult LossLResult Loss
-7
-Liverpool
-31
-14
-8
-9
-59
-38
-21
-50
-LResult LossLResult LossDResult DrawDResult DrawWResult WinWResult Win
 8
 Brighton &amp; Hove Albion
-29
+30
 14
 7
-8
-54
-37
-17
-49
-DResult DrawWResult WinDResult DrawWResult WinLResult LossWResult Win
 9
+55
+40
+15
+49
+WResult WinDResult DrawWResult WinLResult LossWResult WinLResult Loss
+9
+Brentford
+33
+11
+14
+8
+50
+43
+7
+47
+DResult DrawLResult LossLResult LossLResult LossDResult DrawWResult Win
+10
 Fulham
 32
 13
@@ -108,28 +119,17 @@ Fulham
 1
 45
 LResult LossLResult LossLResult LossWResult WinWResult WinLResult Loss
-10
-Brentford
-32
-10
-14
-8
-48
-43
-5
-44
-DResult DrawDResult DrawLResult LossLResult LossLResult LossDResult Draw
 11
 Chelsea
-31
+32
 10
 9
-12
+13
 30
-33
--3
+35
+-5
 39
-WResult WinDResult DrawLResult LossDResult DrawLResult LossLResult Loss
+DResult DrawLResult LossDResult DrawLResult LossLResult LossLResult Loss
 12
 Crystal Palace
 33
@@ -154,15 +154,15 @@ Wolverhampton Wanderers
 LResult LossDResult DrawWResult WinWResult WinLResult LossWResult Win
 14
 West Ham United
-31
+32
 9
 7
-15
-33
-41
--8
+16
 34
-DResult DrawWResult WinLResult LossWResult WinDResult DrawWResult Win
+43
+-9
+34
+WResult WinLResult LossWResult WinDResult DrawWResult WinLResult Loss
 15
 AFC Bournemouth
 32
@@ -186,6 +186,17 @@ Leeds United
 30
 LResult LossWResult WinLResult LossLResult LossLResult LossDResult Draw
 17
+Nottingham Forest
+33
+7
+9
+17
+29
+60
+-31
+30
+DResult DrawLResult LossLResult LossLResult LossLResult LossWResult Win
+18
 Leicester City
 33
 8
@@ -196,7 +207,7 @@ Leicester City
 -13
 29
 LResult LossLResult LossLResult LossLResult LossWResult WinDResult Draw
-18
+19
 Everton
 32
 6
@@ -207,17 +218,6 @@ Everton
 -22
 28
 WResult WinDResult DrawDResult DrawLResult LossLResult LossDResult Draw
-19
-Nottingham Forest
-32
-6
-9
-17
-26
-59
--33
-27
-LResult LossDResult DrawLResult LossLResult LossLResult LossLResult Loss
 20
 Southampton
 32
