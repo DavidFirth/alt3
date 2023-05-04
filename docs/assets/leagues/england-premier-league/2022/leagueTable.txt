@@ -44,15 +44,15 @@ Newcastle United
 WResult WinWResult WinLResult LossWResult WinWResult WinWResult Win
 4
 Manchester United
-32
+33
 19
 6
-7
+8
 49
-39
-10
+40
+9
 63
-LResult LossWResult WinWResult WinWResult WinDResult DrawWResult Win
+WResult WinWResult WinWResult WinDResult DrawWResult WinLResult Loss
 5
 Liverpool
 34
@@ -65,6 +65,17 @@ Liverpool
 59
 DResult DrawWResult WinWResult WinWResult WinWResult WinWResult Win
 6
+Brighton &amp; Hove Albion
+32
+16
+7
+9
+62
+40
+22
+55
+WResult WinLResult LossWResult WinLResult LossWResult WinWResult Win
+7
 Tottenham Hotspur
 34
 16
@@ -75,7 +86,7 @@ Tottenham Hotspur
 6
 54
 DResult DrawWResult WinLResult LossLResult LossDResult DrawLResult Loss
-7
+8
 Aston Villa
 34
 16
@@ -86,17 +97,6 @@ Aston Villa
 4
 54
 WResult WinWResult WinWResult WinDResult DrawWResult WinLResult Loss
-8
-Brighton &amp; Hove Albion
-31
-15
-7
-9
-61
-40
-21
-52
-DResult DrawWResult WinLResult LossWResult WinLResult LossWResult Win
 9
 Brentford
 34
