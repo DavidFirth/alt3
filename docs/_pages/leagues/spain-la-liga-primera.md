@@ -13,7 +13,9 @@ sidebar:
 
 <!-- The table below is as at the end of the 2020--2021 season. The _alt-3_ table for the new season will appear here in early November.  (Sorry for the delay, due to some local difficulties.) -->
 
-This page is normally updated at around 1 a.m. (UK time), on days after a match has been played.
+{% include leagues/update-time.md %}
+
+<!-- This page is normally updated at around 1 a.m. (UK time), on days after a match has been played. -->
 
 
 {% include leagues/spain-la-liga-primera/alt3-table.html %}

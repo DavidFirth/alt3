@@ -11,9 +11,9 @@ sidebar:
 
 <!-- The table below is as at the end of the 2021--2022 season. The _alt-3_ table for the new season will appear here after all teams have played 6 matches. -->
 
+{% include leagues/update-time.md %}
 
-
-This page is normally updated at around 1 a.m. (UK time), on days after a match has been played.
+<!-- This page is normally updated at around 1 a.m. (UK time), on days after a match has been played. -->
 
 {% include leagues/england-championship/alt3-table.html %}
 
