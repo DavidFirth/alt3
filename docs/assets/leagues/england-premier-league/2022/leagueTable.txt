@@ -11,26 +11,26 @@ Points
 Form, Last 6 games, Oldest first
 1
 Manchester City
-34
-26
+35
+27
 4
 4
-89
+92
 31
-58
-82
+61
+85
 WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
 2
 Arsenal
-35
+36
 25
 6
-4
+5
 83
-39
-44
+42
+41
 81
-DResult DrawDResult DrawDResult DrawLResult LossWResult WinWResult Win
+DResult DrawDResult DrawLResult LossWResult WinWResult WinLResult Loss
 3
 Newcastle United
 35
@@ -65,6 +65,17 @@ Liverpool
 62
 WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
 6
+Brighton &amp; Hove Albion
+34
+17
+7
+10
+66
+45
+21
+58
+WResult WinLResult LossWResult WinWResult WinLResult LossWResult Win
+7
 Tottenham Hotspur
 36
 17
@@ -75,7 +86,7 @@ Tottenham Hotspur
 6
 57
 LResult LossLResult LossDResult DrawLResult LossWResult WinLResult Loss
-7
+8
 Aston Villa
 36
 17
@@ -86,18 +97,18 @@ Aston Villa
 4
 57
 WResult WinDResult DrawWResult WinLResult LossLResult LossWResult Win
-8
-Brighton &amp; Hove Albion
-33
-16
-7
-10
-63
-45
-18
-55
-LResult LossWResult WinLResult LossWResult WinWResult WinLResult Loss
 9
+Brentford
+36
+13
+14
+9
+54
+45
+9
+53
+LResult LossDResult DrawWResult WinWResult WinLResult LossWResult Win
+10
 Fulham
 36
 15
@@ -108,17 +119,6 @@ Fulham
 3
 51
 WResult WinLResult LossLResult LossLResult LossWResult WinWResult Win
-10
-Brentford
-35
-12
-14
-9
-52
-45
-7
-50
-LResult LossLResult LossDResult DrawWResult WinWResult WinLResult Loss
 11
 Chelsea
 35
@@ -165,15 +165,15 @@ AFC Bournemouth
 WResult WinLResult LossWResult WinWResult WinLResult LossLResult Loss
 15
 West Ham United
-35
+36
 10
 7
-18
+19
 38
-50
--12
+52
+-14
 37
-DResult DrawWResult WinLResult LossLResult LossLResult LossWResult Win
+WResult WinLResult LossLResult LossLResult LossWResult WinLResult Loss
 16
 Nottingham Forest
 36
@@ -187,15 +187,15 @@ Nottingham Forest
 LResult LossLResult LossWResult WinLResult LossWResult WinDResult Draw
 17
 Everton
-35
+36
 7
 11
-17
+18
 32
-53
--21
+56
+-24
 32
-LResult LossLResult LossDResult DrawLResult LossDResult DrawWResult Win
+LResult LossDResult DrawLResult LossDResult DrawWResult WinLResult Loss
 18
 Leeds United
 36
