@@ -33,15 +33,15 @@ Arsenal
 DResult DrawLResult LossWResult WinWResult WinLResult LossLResult Loss
 3
 Newcastle United
-36
+37
 19
-12
+13
 5
 67
 32
 35
-69
-WResult WinWResult WinWResult WinLResult LossDResult DrawWResult Win
+70
+WResult WinWResult WinLResult LossDResult DrawWResult WinDResult Draw
 4
 Manchester United
 36
@@ -197,6 +197,17 @@ Everton
 33
 DResult DrawLResult LossDResult DrawWResult WinLResult LossDResult Draw
 18
+Leicester City
+37
+8
+7
+22
+49
+67
+-18
+31
+WResult WinDResult DrawDResult DrawLResult LossLResult LossDResult Draw
+19
 Leeds United
 37
 7
@@ -207,17 +218,6 @@ Leeds United
 -27
 31
 LResult LossDResult DrawLResult LossLResult LossDResult DrawLResult Loss
-19
-Leicester City
-36
-8
-6
-22
-49
-67
--18
-30
-LResult LossWResult WinDResult DrawDResult DrawLResult LossLResult Loss
 20
 Southampton
 37
