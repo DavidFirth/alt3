@@ -15,10 +15,11 @@ sidebar:
 
 {% include leagues/update-time.md %}
 
-<!-- This page is normally updated at around 1 a.m. (UK time), on days after a match has been played. -->
 
 
 {% include leagues/italy-serie-a/alt3-table.html %}
+
+Currently Juventus are subject to 10 points deduction. This has been accounted for in the _Rate_ calculation.
 
 <style>
 .svg-wrap {
