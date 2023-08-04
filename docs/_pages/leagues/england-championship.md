@@ -9,7 +9,7 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-<!-- The table below is as at the end of the 2021--2022 season. The _alt-3_ table for the new season will appear here after all teams have played 6 matches. -->
+The table below is as at the end of the 2022--2023 season. The _alt-3_ table for the new season will appear here after all teams have played 6 matches.
 
 {% include leagues/update-time.md %}
 
@@ -19,7 +19,7 @@ sidebar:
 
 <!-- Derby and Reading were subject to points deductions (21 and 6 pts respectively).  These have been accounted for in the _Rate_ calculation. -->
 
-Currently Wigan and Reading are subject to points deduction (3 and 6 points respectively).  This has been accounted for in the _Rate_ calculation.
+Wigan and Reading are subject to points deduction (3 and 6 points respectively).  This has been accounted for in the _Rate_ calculation.
 
 <style>
 .svg-wrap {
