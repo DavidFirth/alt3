@@ -57,6 +57,8 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : "footymath"
+fediverse:
+  username               : "footymath"
 facebook:
   username               :
   app_id                 :
@@ -64,10 +66,10 @@ facebook:
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : Person
-  name                   : "footymath"
-  links: "https://fedisience.org/@firthstat"
+#social:
+#  type                   : Person
+#  name                   : "footymath"
+#  links: "https://fedisience.org/@firthstat"
 
 # Analytics
 analytics:
