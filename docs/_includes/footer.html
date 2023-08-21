@@ -7,7 +7,7 @@
       <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
     {% endif %}
     {% if site.fediverse.username %}
-      <li><a href="https://fediscience.org/@firthstat{{ site.fediverse.username }}"><i class="fab fa-fw fa-mastodon" aria-hidden="true"></i> Fediverse/Mastodon</a></li>
+      <li><a href="https://fediscience.org/@{{ site.fediverse.username }}"><i class="fa-brands fa-mastodon" aria-hidden="true"></i> Fediverse (Mastodon)</a></li>
     {% endif %}  
     {% if site.facebook.username %}
       <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
@@ -21,7 +21,7 @@
     {% if site.author.bitbucket %}
       <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
     {% endif %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "RSS/Atom Feed" }}</a></li>
   </ul>
 </div>
 
