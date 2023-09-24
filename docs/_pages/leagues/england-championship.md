@@ -9,7 +9,7 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-The table below is as at the end of the 2022--2023 season. The _alt-3_ table for the new season will appear here after all teams have played 6 matches.
+{% include leagues/sabbatical-message.md %}
 
 {% include leagues/update-time.md %}
 

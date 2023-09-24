@@ -9,14 +9,10 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-The table below is as at the end of the 2022--2023 season. The _alt-3_ table for the new season will appear here after all teams have played 6 matches.
 
-<!-- The table below is as at the end of the 2020--2021 season. The _alt-3_ table for the new season will appear here in early November.  (Sorry for the delay, due to some local difficulties.) -->
+{% include leagues/sabbatical-message.md %}
 
 {% include leagues/update-time.md %}
-
-<!-- This page is normally updated at around 1 a.m. (UK time), on days after a match has been played. -->
-
 
 {% include leagues/portugal-primeira-liga/alt3-table.html %}
 
