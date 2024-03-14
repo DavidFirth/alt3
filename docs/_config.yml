@@ -14,7 +14,7 @@ name                     : "David Firth"
 description              : "Better football league tables during the season."
 url                      : "https://alt3.uk"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "davidfirth/alt-3"
+repository               : "davidfirth/alt3"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "davidfirth/alt-3"
+  github           : "davidfirth/alt3"
   gitlab           :
   google_plus      :
   keybase          :
@@ -139,7 +139,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /*#
+  - "/.*#"
   - /*~*
   - "*/leagues/*/2017/*"
   - "*/leagues/*/2018/*"
