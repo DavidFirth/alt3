@@ -9,8 +9,6 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-{% include leagues/sabbatical-message.md %}
-
 {% include leagues/update-time.md %}
 
 <!-- This page is normally updated at around 1 a.m. (UK time), on days after a match has been played. -->
@@ -18,8 +16,6 @@ sidebar:
 {% include leagues/england-championship/alt3-table.html %}
 
 <!-- Derby and Reading were subject to points deductions (21 and 6 pts respectively).  These have been accounted for in the _Rate_ calculation. -->
-
-Wigan and Reading are subject to points deduction (3 and 6 points respectively).  This has been accounted for in the _Rate_ calculation.
 
 <style>
 .svg-wrap {
