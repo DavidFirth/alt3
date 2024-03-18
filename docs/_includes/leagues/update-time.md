@@ -1,1 +1,1 @@
-This page is normally updated at around midnight (UK time), on days when a match has been played.
+This page is normally updated by around 0900 (UK time), on days after a match has been played.

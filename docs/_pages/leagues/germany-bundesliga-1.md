@@ -9,8 +9,6 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-{% include leagues/sabbatical-message.md %}
-
 {% include leagues/update-time.md %}
 
 <!-- This page is normally updated at around 1 a.m. (UK time), on days after a match has been played. -->

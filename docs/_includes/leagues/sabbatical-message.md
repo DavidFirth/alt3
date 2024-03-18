@@ -1,5 +1,5 @@
 <b style="color:red;">
-After 6 years of online updating, the <i>alt-3</i> tables are currently taking a sabbatical &#8212; returning at some point in 2024.
+After 6 years of online updating, some <i>alt-3</i> tables are currently taking a sabbatical &#8212; hopefully returning at some point in 2024.
 </b>
 
 <b>

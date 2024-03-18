@@ -9,15 +9,13 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-{% include leagues/sabbatical-message.md %}
-
 {% include leagues/update-time.md %}
 
 
 
 {% include leagues/italy-serie-a/alt3-table.html %}
 
-Currently Juventus are subject to 10 points deduction. This has been accounted for in the _Rate_ calculation.
+<!-- Currently Juventus are subject to 10 points deduction. This has been accounted for in the _Rate_ calculation. -->
 
 <style>
 .svg-wrap {

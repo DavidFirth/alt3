@@ -10,8 +10,6 @@ sidebar:
 ---
 
 
-{% include leagues/sabbatical-message.md %}
-
 {% include leagues/update-time.md %}
 
 {% include leagues/portugal-primeira-liga/alt3-table.html %}

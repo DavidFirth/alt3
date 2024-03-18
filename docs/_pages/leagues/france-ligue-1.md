@@ -9,15 +9,13 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-{% include leagues/sabbatical-message.md %}
-
 {% include leagues/update-time.md %}
 
 <!-- This page is normally updated at around 1 a.m. (UK time), on days after a match has been played. -->
 
 {% include leagues/france-ligue-1/alt3-table.html %}
 
-<!-- Currently Lyon and Nice are subject to 1-point deductions.  This has been accounted for in the _Rate_ calculation. -->
+Currently Montpellier are subject to a 1-point deduction.  This has been accounted for in the _Rate_ calculation. 
 
 
 <style>
