@@ -15,7 +15,7 @@ sidebar:
 
 {% include leagues/england-premier-league/alt3-table.html %}
 
-Everton are subject to a 6-points deduction.  This has been accounted for in the _Rate_ calculation.
+Everton are subject to a 6-points deduction, and Nottingham Forest to a 4-points deduction.  These have been accounted for in the _Rate_ calculation.
 
 <style>
 .svg-wrap {
