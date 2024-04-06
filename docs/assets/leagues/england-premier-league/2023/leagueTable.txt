@@ -10,6 +10,17 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1
+Liverpool
+30
+21
+7
+2
+70
+28
+42
+70
+WResult WinWResult WinWResult WinDResult DrawWResult WinWResult Win
+2
 Arsenal
 30
 21
@@ -19,17 +30,6 @@ Arsenal
 24
 48
 68
-WResult WinWResult WinWResult WinWResult WinDResult DrawWResult Win
-2
-Liverpool
-29
-20
-7
-2
-67
-27
-40
-67
 WResult WinWResult WinWResult WinWResult WinDResult DrawWResult Win
 3
 Manchester City
@@ -66,15 +66,15 @@ Tottenham Hotspur
 LResult LossWResult WinWResult WinLResult LossWResult WinDResult Draw
 6
 Manchester United
-29
+30
 15
 3
-11
-40
-40
-0
+12
+43
+44
+-1
 48
-WResult WinWResult WinLResult LossLResult LossWResult WinDResult Draw
+WResult WinLResult LossLResult LossWResult WinDResult DrawLResult Loss
 7
 West Ham United
 31
@@ -109,6 +109,17 @@ Brighton &amp; Hove Albion
 43
 WResult WinDResult DrawLResult LossWResult WinLResult LossDResult Draw
 10
+Chelsea
+29
+12
+7
+10
+53
+50
+3
+43
+WResult WinDResult DrawDResult DrawWResult WinDResult DrawWResult Win
+11
 Wolverhampton Wanderers
 30
 12
@@ -119,7 +130,7 @@ Wolverhampton Wanderers
 -4
 42
 WResult WinWResult WinLResult LossWResult WinLResult LossDResult Draw
-11
+12
 AFC Bournemouth
 30
 11
@@ -130,17 +141,6 @@ AFC Bournemouth
 -9
 41
 LResult LossWResult WinDResult DrawWResult WinWResult WinWResult Win
-12
-Chelsea
-28
-11
-7
-10
-49
-47
-2
-40
-LResult LossWResult WinDResult DrawDResult DrawWResult WinDResult Draw
 13
 Fulham
 31
@@ -220,11 +220,11 @@ Burnley
 LResult LossLResult LossDResult DrawWResult WinDResult DrawDResult Draw
 20
 Sheffield United
-29
+30
 3
 6
-20
-27
-77
--50
+21
+28
+80
+-52
 15
