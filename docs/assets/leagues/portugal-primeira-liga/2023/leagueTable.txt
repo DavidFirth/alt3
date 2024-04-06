@@ -11,26 +11,26 @@ Points
 Form, Last 6 games, Oldest first
 1
 Sporting CP
-26
-22
+27
+23
 2
 2
-77
-26
-51
-68
-WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
+79
+27
+52
+71
+DResult DrawWResult WinWResult WinWResult WinWResult WinWResult Win
 2
 Benfica
-27
+28
 21
 4
-2
-61
-21
-40
+3
+62
+23
+39
 67
-WResult WinWResult WinLResult LossWResult WinWResult WinWResult Win
+WResult WinLResult LossWResult WinWResult WinWResult WinLResult Loss
 3
 Porto
 27
@@ -44,15 +44,15 @@ Porto
 WResult WinDResult DrawWResult WinWResult WinWResult WinLResult Loss
 4
 Sporting Braga
-27
+28
 17
 5
-5
+6
 60
-37
-23
+40
+20
 56
-WResult WinWResult WinWResult WinDResult DrawWResult WinWResult Win
+WResult WinWResult WinDResult DrawWResult WinWResult WinLResult Loss
 5
 Vitória Guimarães
 27
@@ -77,26 +77,26 @@ Moreirense
 LResult LossWResult WinDResult DrawLResult LossWResult WinLResult Loss
 7
 Arouca
-27
-11
+28
+12
 4
 12
-45
+48
 38
-7
-37
-LResult LossWResult WinWResult WinLResult LossLResult LossWResult Win
+10
+40
+WResult WinWResult WinLResult LossLResult LossWResult WinWResult Win
 8
 Famalicão
-26
-7
+27
+8
 10
 9
-26
-31
--5
-31
-WResult WinLResult LossDResult DrawLResult LossDResult DrawWResult Win
+29
+33
+-4
+34
+LResult LossDResult DrawLResult LossDResult DrawWResult WinWResult Win
 9
 Casa Pia
 27
@@ -120,6 +120,17 @@ Farense
 30
 LResult LossLResult LossLResult LossDResult DrawLResult LossWResult Win
 11
+Rio Ave
+28
+5
+14
+9
+29
+35
+-6
+29
+DResult DrawDResult DrawDResult DrawDResult DrawDResult DrawWResult Win
+12
 Boavista
 28
 7
@@ -130,18 +141,18 @@ Boavista
 -20
 29
 LResult LossDResult DrawWResult WinLResult LossDResult DrawLResult Loss
-12
+13
 Gil Vicente
-27
-7
-7
-13
-36
-41
--5
 28
-WResult WinDResult DrawDResult DrawDResult DrawLResult LossLResult Loss
-13
+7
+7
+14
+36
+44
+-8
+28
+DResult DrawDResult DrawDResult DrawLResult LossLResult LossLResult Loss
+14
 Estoril
 27
 8
@@ -152,17 +163,6 @@ Estoril
 -6
 28
 LResult LossDResult DrawLResult LossLResult LossWResult WinWResult Win
-14
-Rio Ave
-27
-4
-14
-9
-26
-35
--9
-26
-LResult LossDResult DrawDResult DrawDResult DrawDResult DrawDResult Draw
 15
 Estrela
 27
@@ -187,15 +187,15 @@ Portimonense
 DResult DrawLResult LossDResult DrawLResult LossLResult LossLResult Loss
 17
 Vizela
-27
+28
 4
 9
-14
-26
-56
--30
+15
+28
+59
+-31
 21
-LResult LossDResult DrawDResult DrawWResult WinLResult LossLResult Loss
+DResult DrawDResult DrawWResult WinLResult LossLResult LossLResult Loss
 18
 Chaves
 27
