@@ -33,15 +33,15 @@ Benfica
 WResult WinLResult LossWResult WinWResult WinWResult WinLResult Loss
 3
 Porto
-27
+28
 18
 4
-5
-50
-19
-31
+6
+51
+21
+30
 58
-WResult WinDResult DrawWResult WinWResult WinWResult WinLResult Loss
+DResult DrawWResult WinWResult WinWResult WinLResult LossLResult Loss
 4
 Sporting Braga
 28
@@ -55,26 +55,26 @@ Sporting Braga
 WResult WinWResult WinDResult DrawWResult WinWResult WinLResult Loss
 5
 Vitória Guimarães
-27
-16
+28
+17
 5
 6
-42
-27
-15
-53
-DResult DrawLResult LossWResult WinWResult WinWResult WinWResult Win
+44
+28
+16
+56
+LResult LossWResult WinWResult WinWResult WinWResult WinWResult Win
 6
 Moreirense
-27
+28
 12
-6
+7
 9
-28
-28
+30
+30
 0
-42
-LResult LossWResult WinDResult DrawLResult LossWResult WinLResult Loss
+43
+WResult WinDResult DrawLResult LossWResult WinLResult LossDResult Draw
 7
 Arouca
 28
@@ -165,26 +165,26 @@ Estoril
 LResult LossDResult DrawLResult LossLResult LossWResult WinWResult Win
 15
 Estrela
-27
+28
 6
-8
+9
 13
-27
-41
+29
+43
 -14
-26
-LResult LossDResult DrawLResult LossWResult WinDResult DrawLResult Loss
+27
+DResult DrawLResult LossWResult WinDResult DrawLResult LossDResult Draw
 16
 Portimonense
-27
-6
+28
+7
 5
 16
-27
-58
--31
-23
-DResult DrawLResult LossDResult DrawLResult LossLResult LossLResult Loss
+30
+60
+-30
+26
+LResult LossDResult DrawLResult LossLResult LossLResult LossWResult Win
 17
 Vizela
 28
@@ -198,11 +198,11 @@ Vizela
 DResult DrawDResult DrawWResult WinLResult LossLResult LossLResult Loss
 18
 Chaves
-27
+28
 4
 7
-16
-25
-57
--32
+17
+27
+60
+-33
 19
