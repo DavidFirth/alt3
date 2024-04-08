@@ -99,15 +99,15 @@ Famalicão
 LResult LossDResult DrawLResult LossDResult DrawWResult WinWResult Win
 9
 Casa Pia
-27
+28
 8
-6
+7
 13
 27
 39
 -12
-30
-WResult WinWResult WinDResult DrawLResult LossLResult LossWResult Win
+31
+WResult WinDResult DrawLResult LossLResult LossWResult WinDResult Draw
 10
 Farense
 28
@@ -120,17 +120,6 @@ Farense
 30
 LResult LossLResult LossLResult LossDResult DrawLResult LossWResult Win
 11
-Rio Ave
-28
-5
-14
-9
-29
-35
--6
-29
-DResult DrawDResult DrawDResult DrawDResult DrawDResult DrawWResult Win
-12
 Boavista
 28
 7
@@ -141,7 +130,29 @@ Boavista
 -20
 29
 LResult LossDResult DrawWResult WinLResult LossDResult DrawLResult Loss
+12
+Rio Ave
+28
+5
+14
+9
+29
+35
+-6
+29
+DResult DrawDResult DrawDResult DrawDResult DrawDResult DrawWResult Win
 13
+Estoril
+28
+8
+5
+15
+43
+49
+-6
+29
+DResult DrawLResult LossLResult LossWResult WinWResult WinDResult Draw
+14
 Gil Vicente
 28
 7
@@ -152,17 +163,6 @@ Gil Vicente
 -8
 28
 DResult DrawDResult DrawDResult DrawLResult LossLResult LossLResult Loss
-14
-Estoril
-27
-8
-4
-15
-43
-49
--6
-28
-LResult LossDResult DrawLResult LossLResult LossWResult WinWResult Win
 15
 Estrela
 28
