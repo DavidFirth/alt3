@@ -1,15 +1,16 @@
-
+Position
 Team
-P
-W
-D
-L
-F
-A
-GD
-Pts
+Played
+Won
+Drawn
+Lost
+Goals For
+Goals Against
+Goal Difference
+Points
+Form, Last 6 games, Oldest first
 1
-Inter Milan
+Internazionale
 31
 26
 4
@@ -18,8 +19,9 @@ Inter Milan
 15
 60
 82
+WResult WinWResult WinWResult WinDResult DrawWResult WinWResult Win
 2
-AC Milan
+Milan
 31
 21
 5
@@ -28,6 +30,7 @@ AC Milan
 34
 26
 68
+DResult DrawWResult WinWResult WinWResult WinWResult WinWResult Win
 3
 Juventus
 31
@@ -38,6 +41,7 @@ Juventus
 24
 21
 62
+WResult WinLResult LossDResult DrawDResult DrawLResult LossWResult Win
 4
 Bologna
 31
@@ -48,6 +52,7 @@ Bologna
 25
 20
 58
+WResult WinWResult WinLResult LossWResult WinWResult WinDResult Draw
 5
 Roma
 31
@@ -58,6 +63,7 @@ Roma
 35
 21
 55
+WResult WinWResult WinDResult DrawWResult WinDResult DrawWResult Win
 6
 Atalanta
 30
@@ -68,7 +74,19 @@ Atalanta
 34
 21
 50
+DResult DrawLResult LossLResult LossDResult DrawWResult WinLResult Loss
 7
+Lazio
+32
+15
+4
+13
+41
+35
+6
+49
+LResult LossLResult LossWResult WinWResult WinLResult LossWResult Win
+8
 Napoli
 31
 13
@@ -78,16 +96,7 @@ Napoli
 38
 10
 48
-8
-Lazio
-31
-14
-4
-13
-37
-34
-3
-46
+WResult WinWResult WinDResult DrawDResult DrawLResult LossWResult Win
 9
 Torino
 31
@@ -98,6 +107,7 @@ Torino
 29
 2
 44
+LResult LossDResult DrawDResult DrawWResult WinWResult WinLResult Loss
 10
 Fiorentina
 30
@@ -108,6 +118,7 @@ Fiorentina
 35
 7
 43
+DResult DrawWResult WinDResult DrawDResult DrawLResult LossLResult Loss
 11
 Monza
 31
@@ -118,6 +129,7 @@ Monza
 41
 -7
 42
+WResult WinLResult LossWResult WinWResult WinLResult LossLResult Loss
 12
 Genoa
 31
@@ -128,6 +140,7 @@ Genoa
 38
 -4
 38
+WResult WinLResult LossLResult LossDResult DrawDResult DrawWResult Win
 13
 Cagliari
 31
@@ -138,6 +151,7 @@ Cagliari
 52
 -20
 30
+DResult DrawWResult WinWResult WinLResult LossDResult DrawWResult Win
 14
 Lecce
 31
@@ -148,6 +162,7 @@ Lecce
 48
 -22
 29
+LResult LossDResult DrawLResult LossWResult WinDResult DrawLResult Loss
 15
 Udinese
 31
@@ -158,6 +173,7 @@ Udinese
 47
 -17
 28
+LResult LossDResult DrawWResult WinLResult LossDResult DrawLResult Loss
 16
 Empoli
 31
@@ -168,6 +184,7 @@ Empoli
 47
 -22
 28
+WResult WinLResult LossLResult LossLResult LossLResult LossWResult Win
 17
 Hellas Verona
 31
@@ -178,6 +195,7 @@ Hellas Verona
 42
 -14
 27
+LResult LossWResult WinWResult WinLResult LossDResult DrawLResult Loss
 18
 Frosinone
 31
@@ -188,6 +206,7 @@ Frosinone
 61
 -23
 26
+LResult LossDResult DrawLResult LossLResult LossDResult DrawDResult Draw
 19
 Sassuolo
 31
@@ -198,13 +217,14 @@ Sassuolo
 59
 -23
 25
+LResult LossLResult LossWResult WinLResult LossDResult DrawDResult Draw
 20
 Salernitana
-31
+32
 2
 9
-20
-25
-64
--39
+21
+26
+68
+-42
 15
