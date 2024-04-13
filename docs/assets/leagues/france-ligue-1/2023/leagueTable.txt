@@ -77,15 +77,15 @@ Lens
 WResult WinWResult WinLResult LossLResult LossDResult DrawLResult Loss
 7
 Reims
-28
+29
 11
 7
-10
-35
+11
 36
--1
+39
+-3
 40
-WResult WinLResult LossDResult DrawWResult WinDResult DrawDResult Draw
+LResult LossDResult DrawWResult WinDResult DrawDResult DrawLResult Loss
 8
 Olympique Marseille
 28
@@ -99,15 +99,15 @@ Olympique Marseille
 WResult WinWResult WinWResult WinLResult LossLResult LossLResult Loss
 9
 Rennes
-28
+29
 10
 9
-9
-40
-34
-6
+10
+41
+36
+5
 39
-DResult DrawLResult LossDResult DrawWResult WinLResult LossLResult Loss
+LResult LossDResult DrawWResult WinLResult LossLResult LossLResult Loss
 10
 Olympique Lyonnais
 28
@@ -121,26 +121,26 @@ Olympique Lyonnais
 WResult WinLResult LossWResult WinWResult WinDResult DrawWResult Win
 11
 Toulouse
-28
-8
+29
+9
 9
 11
-32
+34
+37
+-3
 36
--4
-33
-WResult WinWResult WinLResult LossLResult LossWResult WinDResult Draw
+WResult WinLResult LossLResult LossWResult WinDResult DrawWResult Win
 12
 Strasbourg
-28
-8
+29
+9
 9
 11
-30
-39
--9
 33
-LResult LossDResult DrawLResult LossWResult WinWResult WinDResult Draw
+40
+-7
+36
+DResult DrawLResult LossWResult WinWResult WinDResult DrawWResult Win
 13
 Montpellier
 28
