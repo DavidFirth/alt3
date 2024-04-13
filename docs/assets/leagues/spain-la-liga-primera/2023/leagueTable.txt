@@ -11,48 +11,48 @@ Points
 Form, Last 6 games, Oldest first
 1
 Real Madrid
-30
-23
+31
+24
 6
 1
-66
+67
 20
-46
-75
-DResult DrawWResult WinDResult DrawWResult WinWResult WinWResult Win
+47
+78
+WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
 2
 Barcelona
-30
-20
+31
+21
 7
 3
-61
+62
 34
-27
-67
-WResult WinWResult WinDResult DrawWResult WinWResult WinWResult Win
+28
+70
+WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
 3
 Girona
-30
+31
 20
 5
-5
-62
-36
-26
+6
+63
+39
+24
 65
-LResult LossWResult WinLResult LossWResult WinLResult LossWResult Win
+WResult WinLResult LossWResult WinLResult LossWResult WinLResult Loss
 4
 Atlético Madrid
-30
-18
+31
+19
 4
 8
-56
-35
-21
-58
-WResult WinDResult DrawWResult WinLResult LossLResult LossWResult Win
+59
+36
+23
+61
+DResult DrawWResult WinLResult LossLResult LossWResult WinWResult Win
 5
 Athletic Club
 30
@@ -98,6 +98,17 @@ Valencia
 44
 DResult DrawDResult DrawWResult WinLResult LossDResult DrawWResult Win
 9
+Getafe
+31
+9
+12
+10
+37
+43
+-6
+39
+LResult LossDResult DrawLResult LossWResult WinLResult LossDResult Draw
+10
 Osasuna
 30
 11
@@ -108,7 +119,7 @@ Osasuna
 -7
 39
 WResult WinDResult DrawWResult WinLResult LossLResult LossWResult Win
-10
+11
 Villarreal
 30
 10
@@ -119,17 +130,6 @@ Villarreal
 -5
 38
 DResult DrawWResult WinWResult WinWResult WinWResult WinLResult Loss
-11
-Getafe
-30
-9
-11
-10
-37
-43
--6
-38
-DResult DrawLResult LossDResult DrawLResult LossWResult WinLResult Loss
 12
 Las Palmas
 30
@@ -165,26 +165,26 @@ Sevilla
 DResult DrawLResult LossWResult WinDResult DrawLResult LossWResult Win
 15
 Mallorca
-30
+31
 6
 13
-11
+12
 25
-35
--10
+36
+-11
 31
-LResult LossDResult DrawWResult WinLResult LossWResult WinDResult Draw
+DResult DrawWResult WinLResult LossWResult WinDResult DrawLResult Loss
 16
 Rayo Vallecano
-30
+31
 6
-12
+13
 12
 25
 38
 -13
-30
-DResult DrawLResult LossDResult DrawLResult LossWResult WinDResult Draw
+31
+LResult LossDResult DrawLResult LossWResult WinDResult DrawDResult Draw
 17
 Celta de Vigo
 31
@@ -198,15 +198,15 @@ Celta de Vigo
 DResult DrawWResult WinLResult LossWResult WinDResult DrawLResult Loss
 18
 Cádiz
-30
+31
 4
 13
-13
+14
 21
-40
--19
+41
+-20
 25
-LResult LossDResult DrawDResult DrawWResult WinLResult LossWResult Win
+DResult DrawDResult DrawWResult WinLResult LossWResult WinLResult Loss
 19
 Granada
 30
