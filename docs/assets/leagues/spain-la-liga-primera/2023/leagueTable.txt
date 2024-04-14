@@ -55,26 +55,26 @@ Atlético Madrid
 DResult DrawWResult WinLResult LossLResult LossWResult WinWResult Win
 5
 Athletic Club
-30
+31
 16
-8
+9
 6
-50
-28
+51
+29
 22
-56
-WResult WinLResult LossDResult DrawWResult WinWResult WinLResult Loss
+57
+LResult LossDResult DrawWResult WinWResult WinLResult LossDResult Draw
 6
 Real Sociedad
-30
-13
-10
-7
-43
 31
+13
+11
+7
+45
+33
 12
-49
-WResult WinLResult LossLResult LossWResult WinWResult WinWResult Win
+50
+LResult LossLResult LossWResult WinWResult WinWResult WinDResult Draw
 7
 Real Betis
 31
@@ -98,6 +98,17 @@ Valencia
 44
 DResult DrawDResult DrawWResult WinLResult LossDResult DrawWResult Win
 9
+Villarreal
+31
+10
+9
+12
+49
+54
+-5
+39
+WResult WinWResult WinWResult WinWResult WinLResult LossDResult Draw
+10
 Getafe
 31
 9
@@ -108,7 +119,7 @@ Getafe
 -6
 39
 LResult LossDResult DrawLResult LossWResult WinLResult LossDResult Draw
-10
+11
 Osasuna
 30
 11
@@ -119,50 +130,39 @@ Osasuna
 -7
 39
 WResult WinDResult DrawWResult WinLResult LossLResult LossWResult Win
-11
-Villarreal
-30
-10
-8
-12
-48
-53
--5
-38
-DResult DrawWResult WinWResult WinWResult WinWResult WinLResult Loss
 12
 Las Palmas
-30
-10
-7
-13
-29
-33
--4
-37
-LResult LossDResult DrawDResult DrawLResult LossLResult LossLResult Loss
-13
-Deportivo Alavés
-30
-8
-8
-14
-26
-36
--10
-32
-DResult DrawDResult DrawLResult LossWResult WinLResult LossLResult Loss
-14
-Sevilla
-30
-7
-10
-13
-37
-44
--7
 31
-DResult DrawLResult LossWResult WinDResult DrawLResult LossWResult Win
+10
+7
+14
+29
+35
+-6
+37
+DResult DrawDResult DrawLResult LossLResult LossLResult LossLResult Loss
+13
+Sevilla
+31
+8
+10
+13
+39
+44
+-5
+34
+LResult LossWResult WinDResult DrawLResult LossWResult WinWResult Win
+14
+Deportivo Alavés
+31
+8
+8
+15
+26
+38
+-12
+32
+DResult DrawLResult LossWResult WinLResult LossLResult LossLResult Loss
 15
 Mallorca
 31
@@ -209,22 +209,22 @@ Cádiz
 DResult DrawDResult DrawWResult WinLResult LossWResult WinLResult Loss
 19
 Granada
-30
-2
+31
+3
 8
 20
-30
+32
 60
--30
-14
-DResult DrawLResult LossLResult LossLResult LossLResult LossLResult Loss
+-28
+17
+LResult LossLResult LossLResult LossLResult LossLResult LossWResult Win
 20
 Almería
-30
+31
 1
-10
+11
 19
-28
-60
+30
+62
 -32
-13
+14
