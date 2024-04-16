@@ -1,15 +1,16 @@
-
+Position
 Team
-P
-W
-D
-L
-F
-A
-GD
-Pts
+Played
+Won
+Drawn
+Lost
+Goals For
+Goals Against
+Goal Difference
+Points
+Form, Last 6 games, Oldest first
 1
-Ipswich
+Ipswich Town
 43
 26
 11
@@ -18,8 +19,9 @@ Ipswich
 53
 32
 89
+WResult WinWResult WinWResult WinLResult LossDResult DrawDResult Draw
 2
-Leicester
+Leicester City
 42
 28
 4
@@ -28,8 +30,9 @@ Leicester
 38
 41
 88
+DResult DrawLResult LossWResult WinWResult WinLResult LossLResult Loss
 3
-Leeds
+Leeds United
 43
 26
 9
@@ -38,18 +41,20 @@ Leeds
 34
 42
 87
+WResult WinDResult DrawWResult WinLResult LossDResult DrawLResult Loss
 4
 Southampton
-41
-24
+42
+25
 9
 8
-81
+84
 54
-27
-81
+30
+84
+DResult DrawLResult LossDResult DrawWResult WinWResult WinWResult Win
 5
-West Brom
+West Bromwich Albion
 43
 20
 12
@@ -58,8 +63,9 @@ West Brom
 42
 24
 72
+WResult WinDResult DrawDResult DrawDResult DrawWResult WinLResult Loss
 6
-Norwich
+Norwich City
 43
 21
 8
@@ -68,8 +74,9 @@ Norwich
 60
 16
 71
+WResult WinWResult WinLResult LossWResult WinDResult DrawWResult Win
 7
-Hull
+Hull City
 42
 18
 11
@@ -78,8 +85,9 @@ Hull
 54
 8
 65
+DResult DrawLResult LossLResult LossWResult WinDResult DrawWResult Win
 8
-Coventry
+Coventry City
 42
 17
 12
@@ -88,6 +96,7 @@ Coventry
 52
 14
 63
+WResult WinWResult WinLResult LossWResult WinLResult LossLResult Loss
 9
 Middlesbrough
 43
@@ -98,18 +107,19 @@ Middlesbrough
 56
 5
 63
+DResult DrawDResult DrawWResult WinWResult WinDResult DrawDResult Draw
 10
-Preston
-42
+43
 18
 9
-15
+16
 56
-57
--1
+60
+-4
 63
+WResult WinLResult LossDResult DrawWResult WinLResult LossLResult Loss
 11
-Cardiff
+Cardiff City
 43
 18
 5
@@ -118,6 +128,7 @@ Cardiff
 60
 -12
 59
+LResult LossLResult LossWResult WinLResult LossWResult WinLResult Loss
 12
 Bristol City
 43
@@ -128,6 +139,7 @@ Bristol City
 46
 4
 58
+LResult LossWResult WinWResult WinDResult DrawWResult WinDResult Draw
 13
 Sunderland
 43
@@ -138,8 +150,9 @@ Sunderland
 50
 2
 56
+DResult DrawWResult WinLResult LossDResult DrawDResult DrawWResult Win
 14
-Swansea
+Swansea City
 43
 14
 11
@@ -148,6 +161,7 @@ Swansea
 62
 -9
 53
+WResult WinDResult DrawLResult LossLResult LossWResult WinWResult Win
 15
 Watford
 43
@@ -158,6 +172,7 @@ Watford
 58
 1
 52
+WResult WinDResult DrawDResult DrawDResult DrawDResult DrawLResult Loss
 16
 Millwall
 43
@@ -168,8 +183,9 @@ Millwall
 55
 -13
 50
+LResult LossDResult DrawLResult LossLResult LossWResult WinWResult Win
 17
-Blackburn
+Blackburn Rovers
 43
 13
 10
@@ -178,8 +194,8 @@ Blackburn
 71
 -14
 49
+DResult DrawLResult LossWResult WinDResult DrawLResult LossWResult Win
 18
-Plymouth
 43
 12
 12
@@ -188,8 +204,9 @@ Plymouth
 66
 -8
 48
+LResult LossLResult LossLResult LossWResult WinDResult DrawWResult Win
 19
-QPR
+Queens Park Rangers
 43
 12
 11
@@ -198,8 +215,9 @@ QPR
 57
 -17
 47
+DResult DrawWResult WinWResult WinLResult LossDResult DrawLResult Loss
 20
-Stoke
+Stoke City
 43
 12
 11
@@ -208,8 +226,9 @@ Stoke
 60
 -19
 47
+LResult LossWResult WinDResult DrawDResult DrawLResult LossDResult Draw
 21
-Birmingham
+Birmingham City
 43
 12
 9
@@ -218,8 +237,9 @@ Birmingham
 64
 -16
 45
+LResult LossLResult LossWResult WinLResult LossLResult LossWResult Win
 22
-Huddersfield
+Huddersfield Town
 43
 9
 17
@@ -228,8 +248,9 @@ Huddersfield
 70
 -23
 44
+DResult DrawLResult LossDResult DrawWResult WinLResult LossDResult Draw
 23
-Sheff Wed
+Sheffield Wednesday
 43
 12
 8
@@ -238,8 +259,9 @@ Sheff Wed
 67
 -31
 44
+LResult LossDResult DrawLResult LossWResult WinDResult DrawDResult Draw
 24
-Rotherham
+Rotherham United
 43
 4
 11
