@@ -32,6 +32,17 @@ Benfica
 70
 LResult LossWResult WinWResult WinWResult WinLResult LossWResult Win
 3
+Sporting Braga
+30
+19
+5
+6
+63
+41
+22
+62
+DResult DrawWResult WinWResult WinLResult LossWResult WinWResult Win
+4
 Porto
 29
 18
@@ -42,17 +53,6 @@ Porto
 30
 59
 WResult WinWResult WinWResult WinLResult LossLResult LossDResult Draw
-4
-Sporting Braga
-29
-18
-5
-6
-61
-40
-21
-59
-WResult WinDResult DrawWResult WinWResult WinLResult LossWResult Win
 5
 Vitória Guimarães
 29
@@ -77,15 +77,15 @@ Arouca
 LResult LossLResult LossWResult WinWResult WinWResult WinDResult Draw
 7
 Moreirense
-29
+30
 12
 7
-10
+11
 30
-33
--3
+34
+-4
 43
-DResult DrawLResult LossWResult WinLResult LossDResult DrawLResult Loss
+LResult LossWResult WinLResult LossDResult DrawLResult LossLResult Loss
 8
 Famalicão
 29
@@ -131,17 +131,28 @@ Rio Ave
 31
 DResult DrawDResult DrawDResult DrawWResult WinDResult DrawDResult Draw
 12
-Boavista
-29
-7
+Gil Vicente
+30
 8
-14
-34
-55
--21
-29
-DResult DrawWResult WinLResult LossDResult DrawLResult LossLResult Loss
+7
+15
+37
+48
+-11
+31
+DResult DrawLResult LossLResult LossLResult LossLResult LossWResult Win
 13
+Boavista
+30
+7
+9
+14
+35
+56
+-21
+30
+WResult WinLResult LossDResult DrawLResult LossLResult LossDResult Draw
+14
 Estoril
 29
 8
@@ -152,28 +163,17 @@ Estoril
 -7
 29
 LResult LossLResult LossWResult WinWResult WinDResult DrawLResult Loss
-14
-Gil Vicente
-29
-7
-7
-15
-36
-48
--12
-28
-DResult DrawDResult DrawLResult LossLResult LossLResult LossLResult Loss
 15
 Estrela
-29
+30
 6
-10
+11
 13
-31
-45
+32
+46
 -14
-28
-LResult LossWResult WinDResult DrawLResult LossDResult DrawDResult Draw
+29
+WResult WinDResult DrawLResult LossDResult DrawDResult DrawDResult Draw
 16
 Portimonense
 29
@@ -198,11 +198,11 @@ Chaves
 LResult LossDResult DrawLResult LossLResult LossLResult LossWResult Win
 18
 Vizela
-29
+30
 4
 9
-16
-28
-60
--32
+17
+29
+62
+-33
 21
