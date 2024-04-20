@@ -66,16 +66,27 @@ Nice
 LResult LossLResult LossWResult WinLResult LossDResult DrawWResult Win
 6
 Lens
-29
-12
+30
+13
 7
 10
-38
+39
 32
-6
-43
-WResult WinWResult WinLResult LossLResult LossDResult DrawLResult Loss
 7
+46
+WResult WinLResult LossLResult LossDResult DrawLResult LossWResult Win
+7
+Rennes
+30
+11
+9
+10
+44
+36
+8
+42
+DResult DrawWResult WinLResult LossLResult LossLResult LossWResult Win
+8
 Olympique Lyonnais
 29
 12
@@ -86,7 +97,7 @@ Olympique Lyonnais
 -7
 41
 LResult LossWResult WinWResult WinDResult DrawWResult WinWResult Win
-8
+9
 Reims
 29
 11
@@ -97,7 +108,7 @@ Reims
 -3
 40
 LResult LossDResult DrawWResult WinDResult DrawDResult DrawLResult Loss
-9
+10
 Olympique Marseille
 28
 10
@@ -108,17 +119,6 @@ Olympique Marseille
 8
 39
 WResult WinWResult WinWResult WinLResult LossLResult LossLResult Loss
-10
-Rennes
-29
-10
-9
-10
-41
-36
-5
-39
-LResult LossDResult DrawWResult WinLResult LossLResult LossLResult Loss
 11
 Toulouse
 29
@@ -154,15 +154,15 @@ Montpellier
 DResult DrawWResult WinLResult LossWResult WinWResult WinDResult Draw
 14
 Nantes
-29
+30
 9
 4
-16
+17
 28
-45
--17
+48
+-20
 31
-LResult LossLResult LossLResult LossWResult WinLResult LossWResult Win
+LResult LossLResult LossWResult WinLResult LossWResult WinLResult Loss
 15
 Le Havre
 29
@@ -198,11 +198,11 @@ Lorient
 WResult WinLResult LossDResult DrawLResult LossLResult LossLResult Loss
 18
 Clermont
-29
+30
 4
 10
-15
+16
 21
-48
--27
+49
+-28
 22
