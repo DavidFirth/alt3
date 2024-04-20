@@ -10,6 +10,17 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1
+Leicester City
+43
+29
+4
+10
+81
+39
+42
+91
+LResult LossWResult WinWResult WinLResult LossLResult LossWResult Win
+2
 Ipswich Town
 43
 26
@@ -20,17 +31,6 @@ Ipswich Town
 32
 89
 WResult WinWResult WinWResult WinLResult LossDResult DrawDResult Draw
-2
-Leicester City
-42
-28
-4
-10
-79
-38
-41
-88
-DResult DrawLResult LossWResult WinWResult WinLResult LossLResult Loss
 3
 Leeds United
 43
@@ -44,48 +44,48 @@ Leeds United
 WResult WinDResult DrawWResult WinLResult LossDResult DrawLResult Loss
 4
 Southampton
-42
+43
 25
 9
-8
+9
+85
+56
+29
 84
-54
-30
-84
-DResult DrawLResult LossDResult DrawWResult WinWResult WinWResult Win
+LResult LossDResult DrawWResult WinWResult WinWResult WinLResult Loss
 5
 West Bromwich Albion
-43
+44
 20
 12
-11
-66
-42
-24
+12
+67
+44
+23
 72
-WResult WinDResult DrawDResult DrawDResult DrawWResult WinLResult Loss
+DResult DrawDResult DrawDResult DrawWResult WinLResult LossLResult Loss
 6
 Norwich City
-43
+44
 21
-8
+9
 14
-76
-60
+77
+61
 16
-71
-WResult WinWResult WinLResult LossWResult WinDResult DrawWResult Win
+72
+WResult WinLResult LossWResult WinDResult DrawWResult WinDResult Draw
 7
 Hull City
-42
+43
 18
-11
+12
 13
 62
 54
 8
-65
-DResult DrawLResult LossLResult LossWResult WinDResult DrawWResult Win
+66
+LResult LossLResult LossWResult WinDResult DrawWResult WinDResult Draw
 8
 Coventry City
 42
@@ -110,82 +110,104 @@ Middlesbrough
 DResult DrawDResult DrawWResult WinWResult WinDResult DrawDResult Draw
 10
 Preston North End
-43
+44
 18
 9
-16
+17
 56
-60
--4
+61
+-5
 63
-WResult WinLResult LossDResult DrawWResult WinLResult LossLResult Loss
+LResult LossDResult DrawWResult WinLResult LossLResult LossLResult Loss
 11
 Cardiff City
-43
-18
+44
+19
 5
 20
-48
-60
--12
-59
-LResult LossLResult LossWResult WinLResult LossWResult WinLResult Loss
+50
+61
+-11
+62
+LResult LossWResult WinLResult LossWResult WinLResult LossWResult Win
 12
 Bristol City
-43
+44
 16
-10
+11
 17
-50
-46
+51
+47
 4
-58
-LResult LossWResult WinWResult WinDResult DrawWResult WinDResult Draw
+59
+WResult WinWResult WinDResult DrawWResult WinDResult DrawDResult Draw
 13
 Sunderland
-43
+44
 16
 8
-19
+20
 52
-50
-2
+51
+1
 56
-DResult DrawWResult WinLResult LossDResult DrawDResult DrawWResult Win
+WResult WinLResult LossDResult DrawDResult DrawWResult WinLResult Loss
 14
 Swansea City
-43
-14
+44
+15
 11
 18
-53
+57
 62
--9
-53
-WResult WinDResult DrawLResult LossLResult LossWResult WinWResult Win
+-5
+56
+DResult DrawLResult LossLResult LossWResult WinWResult WinWResult Win
 15
 Watford
-43
+44
 12
-16
+17
 15
 59
 58
 1
-52
-WResult WinDResult DrawDResult DrawDResult DrawDResult DrawLResult Loss
+53
+DResult DrawDResult DrawDResult DrawDResult DrawLResult LossDResult Draw
 16
 Millwall
-43
-13
+44
+14
 11
 19
-42
+43
 55
--13
-50
-LResult LossDResult DrawLResult LossLResult LossWResult WinWResult Win
+-12
+53
+DResult DrawLResult LossLResult LossWResult WinWResult WinWResult Win
 17
+Stoke City
+44
+13
+11
+20
+44
+60
+-16
+50
+WResult WinDResult DrawDResult DrawLResult LossDResult DrawWResult Win
+18
+Queens Park Rangers
+44
+13
+11
+20
+41
+57
+-16
+50
+WResult WinWResult WinLResult LossDResult DrawLResult LossWResult Win
+19
 Blackburn Rovers
 43
 13
@@ -196,61 +218,39 @@ Blackburn Rovers
 -14
 49
 DResult DrawLResult LossWResult WinDResult DrawLResult LossWResult Win
-18
+20
 Plymouth Argyle
-43
+44
 12
 12
-19
+20
 58
-66
--8
+69
+-11
 48
-LResult LossLResult LossLResult LossWResult WinDResult DrawWResult Win
-19
-Queens Park Rangers
-43
-12
-11
-20
-40
-57
--17
-47
-DResult DrawWResult WinWResult WinLResult LossDResult DrawLResult Loss
-20
-Stoke City
-43
-12
-11
-20
-41
-60
--19
-47
-LResult LossWResult WinDResult DrawDResult DrawLResult LossDResult Draw
+LResult LossLResult LossWResult WinDResult DrawWResult WinLResult Loss
 21
 Birmingham City
-43
+44
 12
-9
+10
 22
 48
 64
 -16
-45
-LResult LossLResult LossWResult WinLResult LossLResult LossWResult Win
+46
+LResult LossWResult WinLResult LossLResult LossWResult WinDResult Draw
 22
 Huddersfield Town
-43
+44
 9
 17
-17
+18
 47
-70
--23
+74
+-27
 44
-DResult DrawLResult LossDResult DrawWResult WinLResult LossDResult Draw
+LResult LossDResult DrawWResult WinLResult LossDResult DrawLResult Loss
 23
 Sheffield Wednesday
 43
@@ -264,11 +264,11 @@ Sheffield Wednesday
 LResult LossDResult DrawLResult LossWResult WinDResult DrawDResult Draw
 24
 Rotherham United
-43
+44
 4
-11
+12
 28
 32
 85
 -53
-23
+24
