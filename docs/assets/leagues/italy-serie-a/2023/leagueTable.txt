@@ -65,6 +65,17 @@ Roma
 55
 WResult WinWResult WinDResult DrawWResult WinDResult DrawWResult Win
 6
+Atalanta
+32
+16
+6
+10
+59
+37
+22
+54
+LResult LossDResult DrawWResult WinLResult LossDResult DrawWResult Win
+7
 Lazio
 33
 16
@@ -75,17 +86,6 @@ Lazio
 7
 52
 LResult LossWResult WinWResult WinLResult LossWResult WinWResult Win
-7
-Atalanta
-31
-15
-6
-10
-57
-36
-21
-51
-LResult LossLResult LossDResult DrawWResult WinLResult LossDResult Draw
 8
 Napoli
 33
@@ -98,38 +98,38 @@ Napoli
 49
 DResult DrawDResult DrawLResult LossWResult WinDResult DrawLResult Loss
 9
-Torino
+Fiorentina
 32
+13
+8
 11
-12
+45
+36
+9
+47
+DResult DrawDResult DrawLResult LossLResult LossDResult DrawWResult Win
+10
+Torino
+33
+11
+13
 9
 31
 29
 2
-45
-DResult DrawDResult DrawWResult WinWResult WinLResult LossDResult Draw
-10
-Fiorentina
-31
-12
-8
-11
-43
-36
-7
-44
-WResult WinDResult DrawDResult DrawLResult LossLResult LossDResult Draw
+46
+DResult DrawWResult WinWResult WinLResult LossDResult DrawDResult Draw
 11
 Monza
-32
+33
 11
 10
-11
-34
-41
--7
+12
+35
 43
-LResult LossWResult WinWResult WinLResult LossLResult LossDResult Draw
+-8
+43
+WResult WinWResult WinLResult LossLResult LossDResult DrawLResult Loss
 12
 Genoa
 33
@@ -143,15 +143,15 @@ Genoa
 LResult LossDResult DrawDResult DrawWResult WinDResult DrawLResult Loss
 13
 Lecce
-32
-7
+33
+8
 11
 14
-27
+30
 48
--21
-32
-DResult DrawLResult LossWResult WinDResult DrawLResult LossWResult Win
+-18
+35
+LResult LossWResult WinDResult DrawLResult LossWResult WinWResult Win
 14
 Cagliari
 33
@@ -198,33 +198,33 @@ Udinese
 DResult DrawWResult WinLResult LossDResult DrawLResult LossLResult Loss
 18
 Frosinone
-32
+33
 6
-9
+10
 17
 40
 63
 -23
-27
-DResult DrawLResult LossLResult LossDResult DrawDResult DrawDResult Draw
+28
+LResult LossLResult LossDResult DrawDResult DrawDResult DrawDResult Draw
 19
 Sassuolo
-32
+33
 6
 8
-18
+19
 39
-62
--23
+65
+-26
 26
-LResult LossWResult WinLResult LossDResult DrawDResult DrawDResult Draw
+WResult WinLResult LossDResult DrawDResult DrawDResult DrawLResult Loss
 20
 Salernitana
-32
+33
 2
 9
-21
+22
 26
-68
--42
+70
+-44
 15
