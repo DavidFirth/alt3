@@ -22,15 +22,15 @@ Arsenal
 DResult DrawWResult WinWResult WinLResult LossWResult WinWResult Win
 2
 Liverpool
-33
+34
 22
 8
-3
+4
 75
-32
-43
+34
+41
 74
-DResult DrawWResult WinWResult WinDResult DrawLResult LossWResult Win
+WResult WinWResult WinDResult DrawLResult LossWResult WinLResult Loss
 3
 Manchester City
 32
@@ -65,27 +65,27 @@ Tottenham Hotspur
 60
 WResult WinLResult LossWResult WinDResult DrawWResult WinLResult Loss
 6
-Newcastle United
-32
-15
-5
-12
-69
-52
-17
-50
-WResult WinLResult LossWResult WinDResult DrawWResult WinWResult Win
-7
 Manchester United
-32
-15
+33
+16
 5
 12
-47
-48
--1
+51
 50
-LResult LossWResult WinDResult DrawLResult LossDResult DrawDResult Draw
+1
+53
+WResult WinDResult DrawLResult LossDResult DrawDResult DrawWResult Win
+7
+Newcastle United
+33
+15
+5
+13
+69
+54
+15
+50
+LResult LossWResult WinDResult DrawWResult WinWResult WinLResult Loss
 8
 West Ham United
 34
@@ -109,6 +109,17 @@ Chelsea
 47
 WResult WinDResult DrawWResult WinDResult DrawWResult WinLResult Loss
 10
+AFC Bournemouth
+34
+12
+9
+13
+49
+60
+-11
+45
+WResult WinWResult WinLResult LossDResult DrawLResult LossWResult Win
+11
 Brighton &amp; Hove Albion
 32
 11
@@ -119,18 +130,18 @@ Brighton &amp; Hove Albion
 2
 44
 LResult LossWResult WinLResult LossDResult DrawLResult LossDResult Draw
-11
+12
 Wolverhampton Wanderers
-33
+34
 12
 7
-14
+15
 46
-53
--7
+54
+-8
 43
-WResult WinLResult LossDResult DrawLResult LossDResult DrawLResult Loss
-12
+LResult LossDResult DrawLResult LossDResult DrawLResult LossLResult Loss
+13
 Fulham
 34
 12
@@ -141,28 +152,17 @@ Fulham
 -4
 42
 WResult WinDResult DrawLResult LossLResult LossWResult WinLResult Loss
-13
-AFC Bournemouth
-33
-11
-9
-13
-48
-60
--12
-42
-WResult WinWResult WinWResult WinLResult LossDResult DrawLResult Loss
 14
 Crystal Palace
-33
-9
+34
+10
 9
 15
-42
+44
 56
--14
-36
-DResult DrawDResult DrawLResult LossLResult LossWResult WinWResult Win
+-12
+39
+DResult DrawLResult LossLResult LossWResult WinWResult WinWResult Win
 15
 Brentford
 34
@@ -176,15 +176,15 @@ Brentford
 LResult LossDResult DrawDResult DrawDResult DrawWResult WinWResult Win
 16
 Everton
-33
-10
+34
+11
 8
 15
-34
+36
 48
--14
-30
-LResult LossLResult LossDResult DrawWResult WinLResult LossWResult Win
+-12
+33
+LResult LossDResult DrawWResult WinLResult LossWResult WinWResult Win
 17
 Nottingham Forest
 34
@@ -220,11 +220,11 @@ Burnley
 WResult WinDResult DrawDResult DrawLResult LossDResult DrawWResult Win
 20
 Sheffield United
-33
+34
 3
 7
-23
-31
-88
--57
+24
+33
+92
+-59
 16
