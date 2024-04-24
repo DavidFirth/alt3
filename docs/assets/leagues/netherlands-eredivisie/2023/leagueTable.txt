@@ -33,15 +33,15 @@ Feyenoord
 WResult WinWResult WinWResult WinDResult DrawWResult WinWResult Win
 3
 Twente
-30
-18
+31
+19
 6
 6
-56
-30
-26
-60
-WResult WinLResult LossWResult WinDResult DrawWResult WinLResult Loss
+59
+31
+28
+63
+LResult LossWResult WinDResult DrawWResult WinLResult LossWResult Win
 4
 AZ
 30
@@ -55,15 +55,15 @@ AZ
 WResult WinWResult WinWResult WinLResult LossLResult LossWResult Win
 5
 Ajax
-30
+31
 13
-9
+10
 8
-63
-56
+65
+58
 7
-48
-DResult DrawDResult DrawWResult WinDResult DrawLResult LossWResult Win
+49
+DResult DrawWResult WinDResult DrawLResult LossWResult WinDResult Draw
 6
 NEC
 30
@@ -132,15 +132,15 @@ Fortuna Sittard
 DResult DrawWResult WinLResult LossDResult DrawLResult LossLResult Loss
 12
 Almere City
-30
+31
 7
 12
-11
-30
-48
--18
+12
+31
+51
+-20
 33
-DResult DrawDResult DrawDResult DrawDResult DrawDResult DrawLResult Loss
+DResult DrawDResult DrawDResult DrawDResult DrawLResult LossLResult Loss
 13
 PEC Zwolle
 30
@@ -165,15 +165,15 @@ Heracles
 LResult LossWResult WinLResult LossWResult WinWResult WinLResult Loss
 15
 Excelsior
-30
+31
 5
-10
+11
 15
-44
-64
+46
+66
 -20
-25
-LResult LossDResult DrawLResult LossLResult LossLResult LossWResult Win
+26
+DResult DrawLResult LossLResult LossLResult LossWResult WinDResult Draw
 16
 RKC Waalwijk
 30
@@ -205,4 +205,4 @@ Vitesse
 22
 68
 -46
-17
+-1
