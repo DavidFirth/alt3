@@ -13,6 +13,8 @@ sidebar:
 
 {% include leagues/netherlands-eredivisie/alt3-table.html %}
 
+Vitesse are subject to a 18-points deduction.  This has been accounted for in the _Rate_ calculation.
+
 <style>
 .svg-wrap {
     background-color:red;
