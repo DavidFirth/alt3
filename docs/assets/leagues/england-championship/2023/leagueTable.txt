@@ -22,15 +22,15 @@ Leicester City
 WResult WinWResult WinLResult LossLResult LossWResult WinWResult Win
 2
 Leeds United
-44
+45
 27
 9
-8
+9
 80
-37
-43
+41
+39
 90
-DResult DrawWResult WinLResult LossDResult DrawLResult LossWResult Win
+WResult WinLResult LossDResult DrawLResult LossWResult WinLResult Loss
 3
 Ipswich Town
 43
@@ -175,6 +175,17 @@ Watford
 53
 DResult DrawDResult DrawDResult DrawDResult DrawLResult LossDResult Draw
 16
+Queens Park Rangers
+45
+14
+11
+20
+45
+57
+-12
+53
+WResult WinLResult LossDResult DrawLResult LossWResult WinWResult Win
+17
 Millwall
 44
 14
@@ -185,7 +196,7 @@ Millwall
 -12
 53
 DResult DrawLResult LossLResult LossWResult WinWResult WinWResult Win
-17
+18
 Stoke City
 44
 13
@@ -196,17 +207,6 @@ Stoke City
 -16
 50
 WResult WinDResult DrawDResult DrawLResult LossDResult DrawWResult Win
-18
-Queens Park Rangers
-44
-13
-11
-20
-41
-57
--16
-50
-WResult WinWResult WinLResult LossDResult DrawLResult LossWResult Win
 19
 Blackburn Rovers
 44
