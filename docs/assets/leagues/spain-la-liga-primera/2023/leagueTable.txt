@@ -21,6 +21,17 @@ Real Madrid
 84
 WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
 2
+Girona
+33
+22
+5
+6
+69
+40
+29
+71
+WResult WinLResult LossWResult WinLResult LossWResult WinWResult Win
+3
 Barcelona
 32
 21
@@ -31,39 +42,28 @@ Barcelona
 27
 70
 DResult DrawWResult WinWResult WinWResult WinWResult WinLResult Loss
-3
-Girona
-32
-21
-5
-6
-67
-40
-27
-68
-LResult LossWResult WinLResult LossWResult WinLResult LossWResult Win
 4
 Atlético Madrid
-32
-19
+33
+20
 4
 9
-59
-38
-21
-61
-WResult WinLResult LossLResult LossWResult WinWResult WinLResult Loss
+62
+39
+23
+64
+LResult LossLResult LossWResult WinWResult WinLResult LossWResult Win
 5
 Athletic Club
-32
+33
 16
 10
-6
-52
-30
-22
+7
+53
+33
+20
 58
-DResult DrawWResult WinWResult WinLResult LossDResult DrawDResult Draw
+WResult WinWResult WinLResult LossDResult DrawDResult DrawLResult Loss
 6
 Real Sociedad
 33
@@ -98,6 +98,17 @@ Valencia
 47
 WResult WinLResult LossDResult DrawWResult WinWResult WinLResult Loss
 9
+Getafe
+33
+10
+13
+10
+41
+45
+-4
+43
+LResult LossWResult WinLResult LossDResult DrawDResult DrawWResult Win
+10
 Villarreal
 32
 11
@@ -108,17 +119,6 @@ Villarreal
 -4
 42
 WResult WinWResult WinWResult WinLResult LossDResult DrawWResult Win
-10
-Getafe
-32
-9
-13
-10
-38
-44
--6
-40
-DResult DrawLResult LossWResult WinLResult LossDResult DrawDResult Draw
 11
 Osasuna
 32
@@ -131,6 +131,17 @@ Osasuna
 39
 WResult WinLResult LossLResult LossWResult WinLResult LossLResult Loss
 12
+Deportivo Alavés
+33
+10
+8
+15
+31
+38
+-7
+38
+WResult WinLResult LossLResult LossLResult LossWResult WinWResult Win
+13
 Sevilla
 32
 9
@@ -141,28 +152,17 @@ Sevilla
 -4
 37
 WResult WinDResult DrawLResult LossWResult WinWResult WinWResult Win
-13
+14
 Las Palmas
-32
+33
 10
 7
-15
+16
 30
-39
--9
+41
+-11
 37
-DResult DrawLResult LossLResult LossLResult LossLResult LossLResult Loss
-14
-Deportivo Alavés
-32
-9
-8
-15
-28
-38
--10
-35
-LResult LossWResult WinLResult LossLResult LossLResult LossWResult Win
+LResult LossLResult LossLResult LossLResult LossLResult LossLResult Loss
 15
 Rayo Vallecano
 32
@@ -187,15 +187,15 @@ Mallorca
 WResult WinLResult LossWResult WinDResult DrawLResult LossLResult Loss
 17
 Celta de Vigo
-32
+33
 7
 10
-15
+16
 37
-47
--10
+50
+-13
 31
-WResult WinLResult LossWResult WinDResult DrawLResult LossWResult Win
+LResult LossWResult WinDResult DrawLResult LossWResult WinLResult Loss
 18
 Cádiz
 32
@@ -220,11 +220,11 @@ Granada
 LResult LossLResult LossLResult LossLResult LossWResult WinDResult Draw
 20
 Almería
-32
+33
 1
 11
-20
-31
-64
--33
+21
+32
+67
+-35
 14
