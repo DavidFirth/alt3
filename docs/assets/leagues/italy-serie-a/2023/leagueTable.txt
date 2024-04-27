@@ -22,26 +22,26 @@ Internazionale
 WResult WinDResult DrawWResult WinWResult WinDResult DrawWResult Win
 2
 Milan
-33
+34
 21
-6
+7
 6
 64
 39
 25
-69
-WResult WinWResult WinWResult WinWResult WinDResult DrawLResult Loss
+70
+WResult WinWResult WinWResult WinDResult DrawLResult LossDResult Draw
 3
 Juventus
-33
+34
 18
-10
+11
 5
 47
 26
 21
-64
-DResult DrawDResult DrawLResult LossWResult WinDResult DrawDResult Draw
+65
+DResult DrawLResult LossWResult WinDResult DrawDResult DrawDResult Draw
 4
 Bologna
 33
@@ -65,6 +65,17 @@ Roma
 58
 DResult DrawWResult WinDResult DrawWResult WinLResult LossWResult Win
 6
+Lazio
+34
+17
+4
+13
+43
+35
+8
+55
+WResult WinWResult WinLResult LossWResult WinWResult WinWResult Win
+7
 Atalanta
 32
 16
@@ -75,17 +86,6 @@ Atalanta
 22
 54
 LResult LossDResult DrawWResult WinLResult LossDResult DrawWResult Win
-7
-Lazio
-33
-16
-4
-13
-42
-35
-7
-52
-LResult LossWResult WinWResult WinLResult LossWResult WinWResult Win
 8
 Napoli
 33
@@ -121,15 +121,15 @@ Torino
 DResult DrawWResult WinWResult WinLResult LossDResult DrawDResult Draw
 11
 Monza
-33
+34
 11
-10
+11
 12
-35
-43
+36
+44
 -8
-43
-WResult WinWResult WinLResult LossLResult LossDResult DrawLResult Loss
+44
+WResult WinLResult LossLResult LossDResult DrawLResult LossDResult Draw
 12
 Genoa
 33
@@ -143,15 +143,15 @@ Genoa
 LResult LossDResult DrawDResult DrawWResult WinDResult DrawLResult Loss
 13
 Lecce
-33
+34
 8
-11
+12
 14
-30
-48
+31
+49
 -18
-35
-LResult LossWResult WinDResult DrawLResult LossWResult WinWResult Win
+36
+WResult WinDResult DrawLResult LossWResult WinWResult WinDResult Draw
 14
 Cagliari
 33
@@ -164,17 +164,6 @@ Cagliari
 32
 WResult WinLResult LossDResult DrawWResult WinDResult DrawDResult Draw
 15
-Hellas Verona
-33
-7
-10
-16
-31
-44
--13
-31
-WResult WinLResult LossDResult DrawLResult LossDResult DrawWResult Win
-16
 Empoli
 33
 8
@@ -185,7 +174,7 @@ Empoli
 -22
 31
 LResult LossLResult LossLResult LossWResult WinLResult LossWResult Win
-17
+16
 Frosinone
 34
 7
@@ -196,6 +185,17 @@ Frosinone
 -20
 31
 LResult LossDResult DrawDResult DrawDResult DrawDResult DrawWResult Win
+17
+Hellas Verona
+34
+7
+10
+17
+31
+45
+-14
+31
+LResult LossDResult DrawLResult LossDResult DrawWResult WinLResult Loss
 18
 Udinese
 33
