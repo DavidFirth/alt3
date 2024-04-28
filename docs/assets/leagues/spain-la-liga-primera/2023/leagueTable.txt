@@ -77,15 +77,15 @@ Real Sociedad
 WResult WinWResult WinWResult WinDResult DrawDResult DrawLResult Loss
 7
 Real Betis
-32
+33
 12
-12
+13
 8
-40
-38
+41
+39
 2
-48
-LResult LossLResult LossLResult LossLResult LossWResult WinWResult Win
+49
+LResult LossLResult LossLResult LossWResult WinWResult WinDResult Draw
 8
 Valencia
 32
@@ -98,6 +98,17 @@ Valencia
 47
 WResult WinLResult LossDResult DrawWResult WinWResult WinLResult Loss
 9
+Villarreal
+33
+12
+9
+12
+54
+55
+-1
+45
+WResult WinWResult WinLResult LossDResult DrawWResult WinWResult Win
+10
 Getafe
 33
 10
@@ -108,28 +119,17 @@ Getafe
 -4
 43
 LResult LossWResult WinLResult LossDResult DrawDResult DrawWResult Win
-10
-Villarreal
-32
-11
-9
-12
-51
-55
--4
-42
-WResult WinWResult WinWResult WinLResult LossDResult DrawWResult Win
 11
 Osasuna
-32
+33
 11
 6
-15
+16
 37
-46
--9
+49
+-12
 39
-WResult WinLResult LossLResult LossWResult WinLResult LossLResult Loss
+LResult LossLResult LossWResult WinLResult LossLResult LossLResult Loss
 12
 Deportivo Alavés
 33
@@ -143,15 +143,15 @@ Deportivo Alavés
 WResult WinLResult LossLResult LossLResult LossWResult WinWResult Win
 13
 Sevilla
-32
+33
 9
-10
+11
 13
-41
-45
+42
+46
 -4
-37
-WResult WinDResult DrawLResult LossWResult WinWResult WinWResult Win
+38
+DResult DrawLResult LossWResult WinWResult WinWResult WinDResult Draw
 14
 Las Palmas
 33
@@ -165,26 +165,26 @@ Las Palmas
 LResult LossLResult LossLResult LossLResult LossLResult LossLResult Loss
 15
 Rayo Vallecano
-32
+33
 7
 13
-12
+13
+27
+42
+-15
+34
+LResult LossWResult WinDResult DrawDResult DrawWResult WinLResult Loss
+16
+Mallorca
+33
+6
+14
+13
 27
 39
 -12
-34
-DResult DrawLResult LossWResult WinDResult DrawDResult DrawWResult Win
-16
-Mallorca
 32
-6
-13
-13
-26
-38
--12
-31
-WResult WinLResult LossWResult WinDResult DrawLResult LossLResult Loss
+LResult LossWResult WinDResult DrawLResult LossLResult LossDResult Draw
 17
 Celta de Vigo
 33
@@ -198,26 +198,26 @@ Celta de Vigo
 LResult LossWResult WinDResult DrawLResult LossWResult WinLResult Loss
 18
 Cádiz
-32
+33
 4
-13
+14
 15
-22
-45
+23
+46
 -23
-25
-DResult DrawWResult WinLResult LossWResult WinLResult LossLResult Loss
+26
+WResult WinLResult LossWResult WinLResult LossLResult LossDResult Draw
 19
 Granada
-32
-3
+33
+4
 9
 20
-33
+36
 61
--28
-18
-LResult LossLResult LossLResult LossLResult LossWResult WinDResult Draw
+-25
+21
+LResult LossLResult LossLResult LossWResult WinDResult DrawWResult Win
 20
 Almería
 33
