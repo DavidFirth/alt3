@@ -6,7 +6,5 @@ gem "nokogiri", ">= 1.10.4"
 gem "kramdown", ">= 2.3.0"
 gem "commonmarker"
 gem "faraday-retry" 
-
-
-
 gem "webrick", "~> 1.7"
+gem "csv"
