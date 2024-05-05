@@ -22,26 +22,26 @@ PSG
 WResult WinWResult WinDResult DrawWResult WinWResult WinDResult Draw
 2
 Monaco
-31
-17
+32
+18
 7
 7
-58
-41
-17
-58
-DResult DrawWResult WinWResult WinWResult WinWResult WinLResult Loss
+62
+42
+20
+61
+WResult WinWResult WinWResult WinWResult WinLResult LossWResult Win
 3
 Brest
-31
+32
 16
-8
+9
 7
 49
 33
 16
-56
-DResult DrawWResult WinWResult WinLResult LossLResult LossWResult Win
+57
+WResult WinWResult WinLResult LossLResult LossWResult WinDResult Draw
 4
 Lille
 31
@@ -76,6 +76,17 @@ Lens
 49
 LResult LossDResult DrawLResult LossWResult WinLResult LossWResult Win
 7
+Rennes
+32
+12
+9
+11
+51
+43
+8
+45
+LResult LossLResult LossLResult LossWResult WinLResult LossWResult Win
+8
 Olympique Marseille
 31
 11
@@ -86,7 +97,7 @@ Olympique Marseille
 9
 44
 LResult LossLResult LossLResult LossDResult DrawDResult DrawWResult Win
-8
+9
 Olympique Lyonnais
 31
 13
@@ -97,17 +108,6 @@ Olympique Lyonnais
 -9
 44
 WResult WinDResult DrawWResult WinWResult WinLResult LossWResult Win
-9
-Rennes
-31
-11
-9
-11
-48
-41
-7
-42
-WResult WinLResult LossLResult LossLResult LossWResult WinLResult Loss
 10
 Montpellier
 32
@@ -143,48 +143,48 @@ Reims
 WResult WinDResult DrawDResult DrawLResult LossLResult LossLResult Loss
 13
 Strasbourg
-31
+32
 9
 9
-13
-34
-44
--10
+14
+35
+47
+-12
 36
-WResult WinWResult WinDResult DrawWResult WinLResult LossLResult Loss
+WResult WinDResult DrawWResult WinLResult LossLResult LossLResult Loss
 14
 Nantes
-31
+32
 9
-5
+6
 17
 29
 49
 -20
-32
-LResult LossWResult WinLResult LossWResult WinLResult LossDResult Draw
+33
+WResult WinLResult LossWResult WinLResult LossDResult DrawDResult Draw
 15
 Le Havre
-31
-6
+32
+7
 11
 14
-30
-41
--11
-29
-LResult LossLResult LossDResult DrawLResult LossLResult LossDResult Draw
+33
+42
+-9
+32
+LResult LossDResult DrawLResult LossLResult LossDResult DrawWResult Win
 16
 Metz
-31
+32
 8
 5
-18
-32
-51
--19
+19
+34
+54
+-20
 29
-LResult LossLResult LossLResult LossWResult WinWResult WinLResult Loss
+LResult LossLResult LossWResult WinWResult WinLResult LossLResult Loss
 17
 Lorient
 32
@@ -198,11 +198,11 @@ Lorient
 LResult LossLResult LossLResult LossLResult LossLResult LossLResult Loss
 18
 Clermont
-31
+32
 5
 10
-16
-25
-50
--25
+17
+26
+54
+-28
 25
