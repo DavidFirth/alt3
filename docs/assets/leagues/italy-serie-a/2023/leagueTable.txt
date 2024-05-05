@@ -11,15 +11,15 @@ Points
 Form, Last 6 games, Oldest first
 1
 Internazionale
-34
+35
 28
 5
-1
+2
 81
-18
-63
+19
+62
 89
-DResult DrawWResult WinWResult WinDResult DrawWResult WinWResult Win
+WResult WinWResult WinDResult DrawWResult WinWResult WinLResult Loss
 2
 Milan
 34
@@ -77,15 +77,15 @@ Atalanta
 DResult DrawWResult WinLResult LossDResult DrawWResult WinWResult Win
 7
 Lazio
-34
-17
-4
-13
-43
 35
+17
+5
+13
+45
+37
 8
-55
-WResult WinWResult WinLResult LossWResult WinWResult WinWResult Win
+56
+WResult WinLResult LossWResult WinWResult WinWResult WinDResult Draw
 8
 Fiorentina
 33
@@ -121,15 +121,15 @@ Torino
 WResult WinLResult LossDResult DrawDResult DrawLResult LossDResult Draw
 11
 Monza
-34
-11
+35
 11
 12
-36
-44
+12
+38
+46
 -8
-44
-WResult WinLResult LossLResult LossDResult DrawLResult LossDResult Draw
+45
+LResult LossLResult LossDResult DrawLResult LossDResult DrawDResult Draw
 12
 Genoa
 34
@@ -209,15 +209,15 @@ Udinese
 LResult LossDResult DrawLResult LossLResult LossLResult LossDResult Draw
 19
 Sassuolo
-34
-6
+35
+7
 8
 20
-40
+41
 70
--30
-26
-LResult LossDResult DrawDResult DrawDResult DrawLResult LossLResult Loss
+-29
+29
+DResult DrawDResult DrawDResult DrawLResult LossLResult LossWResult Win
 20
 Salernitana
 34
