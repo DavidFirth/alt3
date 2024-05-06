@@ -22,26 +22,26 @@ Internazionale
 WResult WinWResult WinDResult DrawWResult WinWResult WinLResult Loss
 2
 Milan
-34
+35
 21
-7
+8
 6
-64
-39
+67
+42
 25
-70
-WResult WinWResult WinWResult WinDResult DrawLResult LossDResult Draw
+71
+WResult WinWResult WinDResult DrawLResult LossDResult DrawDResult Draw
 3
 Juventus
-34
+35
 18
-11
+12
 5
-47
-26
+48
+27
 21
-65
-DResult DrawLResult LossWResult WinDResult DrawDResult DrawDResult Draw
+66
+LResult LossWResult WinDResult DrawDResult DrawDResult DrawDResult Draw
 4
 Bologna
 35
@@ -55,15 +55,15 @@ Bologna
 WResult WinDResult DrawDResult DrawWResult WinDResult DrawDResult Draw
 5
 Roma
-34
+35
 17
-8
 9
-61
-41
+9
+62
+42
 20
-59
-WResult WinDResult DrawWResult WinLResult LossWResult WinDResult Draw
+60
+DResult DrawWResult WinLResult LossWResult WinDResult DrawDResult Draw
 6
 Atalanta
 33
@@ -88,15 +88,15 @@ Lazio
 WResult WinLResult LossWResult WinWResult WinWResult WinDResult Draw
 8
 Fiorentina
-33
+34
 14
 8
-11
+12
+51
+39
+12
 50
-37
-13
-50
-DResult DrawLResult LossLResult LossDResult DrawWResult WinWResult Win
+LResult LossLResult LossDResult DrawWResult WinWResult WinLResult Loss
 9
 Napoli
 34
@@ -132,70 +132,70 @@ Monza
 LResult LossLResult LossDResult DrawLResult LossDResult DrawDResult Draw
 12
 Genoa
-34
+35
 10
+13
 12
-12
-38
-40
+41
+43
 -2
-42
-DResult DrawDResult DrawWResult WinDResult DrawLResult LossWResult Win
+43
+DResult DrawWResult WinDResult DrawLResult LossWResult WinDResult Draw
 13
 Lecce
-34
+35
 8
-12
+13
 14
-31
-49
--18
-36
-WResult WinDResult DrawLResult LossWResult WinWResult WinDResult Draw
-14
-Cagliari
-34
-7
-11
-16
-36
-59
--23
 32
-LResult LossDResult DrawWResult WinDResult DrawDResult DrawLResult Loss
-15
+50
+-18
+37
+DResult DrawLResult LossWResult WinWResult WinDResult DrawDResult Draw
+14
 Hellas Verona
-34
-7
+35
+8
 10
 17
-31
-45
--14
-31
-LResult LossDResult DrawLResult LossDResult DrawWResult WinLResult Loss
+33
+46
+-13
+34
+DResult DrawLResult LossDResult DrawWResult WinLResult LossWResult Win
+15
+Cagliari
+35
+7
+12
+16
+37
+60
+-23
+33
+DResult DrawWResult WinDResult DrawDResult DrawLResult LossDResult Draw
 16
 Frosinone
-34
+35
 7
-10
+11
 17
 43
 63
 -20
-31
-LResult LossDResult DrawDResult DrawDResult DrawDResult DrawWResult Win
+32
+DResult DrawDResult DrawDResult DrawDResult DrawWResult WinDResult Draw
 17
 Empoli
-34
+35
 8
-7
+8
 19
 26
 50
 -24
-31
-LResult LossLResult LossWResult WinLResult LossWResult WinLResult Loss
+32
+LResult LossWResult WinLResult LossWResult WinLResult LossDResult Draw
 18
 Udinese
 34
