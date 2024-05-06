@@ -44,15 +44,15 @@ Brest
 WResult WinWResult WinLResult LossLResult LossWResult WinDResult Draw
 4
 Lille
-31
+32
 15
 10
-6
-45
-27
-18
+7
+48
+31
+17
 55
-DResult DrawWResult WinWResult WinWResult WinLResult LossWResult Win
+WResult WinWResult WinWResult WinLResult LossWResult WinLResult Loss
 5
 Nice
 31
@@ -76,6 +76,17 @@ Lens
 49
 LResult LossDResult DrawLResult LossWResult WinLResult LossWResult Win
 7
+Olympique Lyonnais
+32
+14
+5
+13
+46
+54
+-8
+47
+DResult DrawWResult WinWResult WinLResult LossWResult WinWResult Win
+8
 Rennes
 32
 12
@@ -86,7 +97,7 @@ Rennes
 8
 45
 LResult LossLResult LossLResult LossWResult WinLResult LossWResult Win
-8
+9
 Olympique Marseille
 31
 11
@@ -97,17 +108,6 @@ Olympique Marseille
 9
 44
 LResult LossLResult LossLResult LossDResult DrawDResult DrawWResult Win
-9
-Olympique Lyonnais
-31
-13
-5
-13
-42
-51
--9
-44
-WResult WinDResult DrawWResult WinWResult WinLResult LossWResult Win
 10
 Montpellier
 32
