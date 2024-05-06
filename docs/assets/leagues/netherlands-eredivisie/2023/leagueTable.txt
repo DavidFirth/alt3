@@ -11,60 +11,71 @@ Points
 Form, Last 6 games, Oldest first
 1
 PSV
-31
-27
+32
+28
 3
 1
-103
-17
-86
-84
-WResult WinLResult LossWResult WinWResult WinWResult WinWResult Win
+107
+19
+88
+87
+LResult LossWResult WinWResult WinWResult WinWResult WinWResult Win
 2
 Feyenoord
-31
-23
+32
+24
 6
 2
-80
+85
 24
-56
-75
-WResult WinWResult WinDResult DrawWResult WinWResult WinWResult Win
+61
+78
+WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
 3
 Twente
-31
+32
 19
 6
-6
-59
-31
-28
+7
+60
+33
+27
 63
-LResult LossWResult WinDResult DrawWResult WinLResult LossWResult Win
+WResult WinDResult DrawWResult WinLResult LossWResult WinLResult Loss
 4
 AZ
-31
-17
+32
+18
 7
 7
-62
-35
-27
-58
-WResult WinWResult WinLResult LossLResult LossWResult WinWResult Win
+64
+36
+28
+61
+WResult WinLResult LossLResult LossWResult WinWResult WinWResult Win
 5
 Ajax
-31
-13
+32
+14
 10
 8
-65
-58
-7
-49
-DResult DrawWResult WinDResult DrawLResult LossWResult WinDResult Draw
+69
+59
+10
+52
+WResult WinDResult DrawLResult LossWResult WinDResult DrawWResult Win
 6
+Utrecht
+32
+13
+10
+9
+46
+43
+3
+49
+LResult LossWResult WinWResult WinWResult WinDResult DrawWResult Win
+7
 NEC
 31
 12
@@ -75,29 +86,7 @@ NEC
 12
 47
 LResult LossWResult WinDResult DrawWResult WinDResult DrawLResult Loss
-7
-Utrecht
-31
-12
-10
-9
-45
-43
-2
-46
-WResult WinLResult LossWResult WinWResult WinWResult WinDResult Draw
 8
-Sparta Rotterdam
-31
-12
-7
-12
-46
-43
-3
-43
-DResult DrawWResult WinWResult WinLResult LossWResult WinWResult Win
-9
 Go Ahead Eagles
 32
 11
@@ -108,6 +97,17 @@ Go Ahead Eagles
 3
 43
 WResult WinDResult DrawDResult DrawLResult LossLResult LossDResult Draw
+9
+Sparta Rotterdam
+32
+12
+7
+13
+48
+47
+1
+43
+WResult WinWResult WinLResult LossWResult WinWResult WinLResult Loss
 10
 Heerenveen
 32
@@ -132,15 +132,15 @@ Fortuna Sittard
 LResult LossDResult DrawLResult LossLResult LossLResult LossDResult Draw
 12
 PEC Zwolle
-31
+32
 9
 8
-14
+15
 43
-59
--16
+64
+-21
 35
-LResult LossLResult LossLResult LossWResult WinDResult DrawWResult Win
+LResult LossLResult LossWResult WinDResult DrawWResult WinLResult Loss
 13
 Almere City
 32
@@ -154,16 +154,27 @@ Almere City
 DResult DrawDResult DrawDResult DrawLResult LossLResult LossDResult Draw
 14
 Heracles
-31
+32
 9
 5
-17
+18
 41
-65
--24
+70
+-29
 32
-WResult WinLResult LossWResult WinWResult WinLResult LossLResult Loss
+LResult LossWResult WinWResult WinLResult LossLResult LossLResult Loss
 15
+RKC Waalwijk
+32
+7
+7
+18
+36
+52
+-16
+28
+DResult DrawDResult DrawLResult LossLResult LossDResult DrawWResult Win
+16
 Excelsior
 31
 5
@@ -174,35 +185,24 @@ Excelsior
 -20
 26
 DResult DrawLResult LossLResult LossLResult LossWResult WinDResult Draw
-16
-RKC Waalwijk
-31
-6
-7
-18
-31
-52
--21
-25
-DResult DrawDResult DrawDResult DrawLResult LossLResult LossDResult Draw
 17
 Volendam
-31
+32
 4
 7
-20
-30
-75
--45
+21
+31
+79
+-48
 19
-LResult LossDResult DrawDResult DrawWResult WinLResult LossLResult Loss
+DResult DrawDResult DrawWResult WinLResult LossLResult LossLResult Loss
 18
 Vitesse
-31
+32
 5
 5
-21
+22
 25
-70
--45
+71
+-46
 2
