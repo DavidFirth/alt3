@@ -11,15 +11,15 @@ Points
 Form, Last 6 games, Oldest first
 1
 Internazionale
-35
-28
+36
+29
 5
 2
-81
+86
 19
-62
-89
-WResult WinWResult WinDResult DrawWResult WinWResult WinLResult Loss
+67
+92
+WResult WinDResult DrawWResult WinWResult WinLResult LossWResult Win
 2
 Milan
 35
@@ -175,17 +175,6 @@ Cagliari
 33
 DResult DrawWResult WinDResult DrawDResult DrawLResult LossDResult Draw
 16
-Frosinone
-35
-7
-11
-17
-43
-63
--20
-32
-DResult DrawDResult DrawDResult DrawDResult DrawWResult WinDResult Draw
-17
 Empoli
 35
 8
@@ -196,6 +185,17 @@ Empoli
 -24
 32
 LResult LossWResult WinLResult LossWResult WinLResult LossDResult Draw
+17
+Frosinone
+36
+7
+11
+18
+43
+68
+-25
+32
+DResult DrawDResult DrawDResult DrawWResult WinDResult DrawLResult Loss
 18
 Udinese
 35
