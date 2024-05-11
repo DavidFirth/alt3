@@ -11,15 +11,15 @@ Points
 Form, Last 6 games, Oldest first
 1
 Sporting CP
-32
-27
+33
+28
 3
 2
-92
+93
 29
-63
-84
-WResult WinWResult WinWResult WinWResult WinDResult DrawWResult Win
+64
+87
+WResult WinWResult WinWResult WinDResult DrawWResult WinWResult Win
 2
 Benfica
 32
@@ -32,6 +32,17 @@ Benfica
 76
 WResult WinLResult LossWResult WinWResult WinWResult WinLResult Loss
 3
+Sporting Braga
+33
+21
+5
+7
+71
+49
+22
+68
+LResult LossWResult WinWResult WinLResult LossWResult WinWResult Win
+4
 Porto
 32
 20
@@ -42,28 +53,17 @@ Porto
 34
 66
 LResult LossLResult LossDResult DrawWResult WinDResult DrawWResult Win
-4
-Sporting Braga
-32
-20
-5
-7
-68
-47
-21
-65
-WResult WinLResult LossWResult WinWResult WinLResult LossWResult Win
 5
 Vitória Guimarães
-32
+33
 18
 6
-8
-47
-34
-13
+9
+49
+37
+12
 60
-WResult WinWResult WinDResult DrawLResult LossWResult WinLResult Loss
+WResult WinDResult DrawLResult LossWResult WinLResult LossLResult Loss
 6
 Moreirense
 32
@@ -110,15 +110,15 @@ Farense
 LResult LossWResult WinDResult DrawLResult LossWResult WinWResult Win
 10
 Rio Ave
-32
+33
 6
-17
+18
 9
-35
-40
+37
+42
 -5
-35
-DResult DrawWResult WinDResult DrawDResult DrawDResult DrawWResult Win
+36
+WResult WinDResult DrawDResult DrawDResult DrawWResult WinDResult Draw
 11
 Casa Pia
 32
@@ -143,15 +143,15 @@ Gil Vicente
 LResult LossLResult LossLResult LossWResult WinDResult DrawDResult Draw
 13
 Estoril
-32
+33
 9
 6
-17
+18
 48
-55
--7
+56
+-8
 33
-WResult WinDResult DrawLResult LossDResult DrawWResult WinLResult Loss
+DResult DrawLResult LossDResult DrawWResult WinLResult LossLResult Loss
 14
 Boavista
 32
@@ -165,27 +165,38 @@ Boavista
 DResult DrawLResult LossLResult LossDResult DrawLResult LossDResult Draw
 15
 Estrela
-32
+33
 6
 12
-14
+15
 32
-49
--17
+53
+-21
 30
-LResult LossDResult DrawDResult DrawDResult DrawLResult LossDResult Draw
+DResult DrawDResult DrawDResult DrawLResult LossDResult DrawLResult Loss
 16
 Portimonense
-32
+33
 7
-7
+8
+18
+36
+71
+-35
+29
+WResult WinDResult DrawDResult DrawLResult LossLResult LossDResult Draw
+17
+Vizela
+33
+5
+10
 18
 34
-69
--35
-28
-LResult LossWResult WinDResult DrawDResult DrawLResult LossLResult Loss
-17
+64
+-30
+25
+LResult LossLResult LossLResult LossDResult DrawLResult LossWResult Win
+18
 Chaves
 33
 5
@@ -195,14 +206,3 @@ Chaves
 69
 -38
 23
-LResult LossWResult WinDResult DrawLResult LossLResult LossLResult Loss
-18
-Vizela
-32
-4
-10
-18
-30
-64
--34
-22
