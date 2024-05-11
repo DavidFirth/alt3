@@ -11,14 +11,14 @@ Points
 Form, Last 6 games, Oldest first
 1
 Real Madrid
-34
-27
+35
+28
 6
 1
-74
+78
 22
-52
-87
+56
+90
 WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
 2
 Girona
@@ -55,15 +55,15 @@ Atlético Madrid
 LResult LossWResult WinWResult WinLResult LossWResult WinWResult Win
 5
 Athletic Club
-34
+35
 17
-10
+11
 7
-55
-33
+57
+35
 22
-61
-WResult WinLResult LossDResult DrawDResult DrawLResult LossWResult Win
+62
+LResult LossDResult DrawDResult DrawLResult LossWResult WinDResult Draw
 6
 Real Sociedad
 34
@@ -87,6 +87,17 @@ Real Betis
 52
 LResult LossLResult LossWResult WinWResult WinDResult DrawWResult Win
 8
+Villarreal
+35
+13
+9
+13
+59
+60
+-1
+48
+LResult LossDResult DrawWResult WinWResult WinLResult LossWResult Win
+9
 Valencia
 34
 13
@@ -97,17 +108,6 @@ Valencia
 -2
 47
 DResult DrawWResult WinWResult WinLResult LossLResult LossLResult Loss
-9
-Villarreal
-34
-12
-9
-13
-56
-58
--2
-45
-WResult WinLResult LossDResult DrawWResult WinWResult WinLResult Loss
 10
 Getafe
 34
@@ -132,38 +132,49 @@ Deportivo Alavés
 LResult LossLResult LossWResult WinWResult WinWResult WinDResult Draw
 12
 Sevilla
-34
+35
 10
 11
-13
-45
-46
--1
+14
+47
+49
+-2
 41
-LResult LossWResult WinWResult WinWResult WinDResult DrawWResult Win
+WResult WinWResult WinWResult WinDResult DrawWResult WinLResult Loss
 13
 Osasuna
-34
+35
 11
-6
-17
-37
-51
--14
-39
-LResult LossWResult WinLResult LossLResult LossLResult LossLResult Loss
-14
-Las Palmas
-34
-10
 7
 17
+39
+53
+-14
+40
+WResult WinLResult LossLResult LossLResult LossLResult LossDResult Draw
+14
+Las Palmas
+35
+10
+7
+18
 30
-43
--13
+44
+-14
 37
 LResult LossLResult LossLResult LossLResult LossLResult LossLResult Loss
 15
+Mallorca
+35
+7
+14
+14
+28
+40
+-12
+35
+DResult DrawLResult LossLResult LossDResult DrawLResult LossWResult Win
+16
 Celta de Vigo
 34
 8
@@ -174,7 +185,7 @@ Celta de Vigo
 -12
 34
 WResult WinDResult DrawLResult LossWResult WinLResult LossWResult Win
-16
+17
 Rayo Vallecano
 34
 7
@@ -185,17 +196,6 @@ Rayo Vallecano
 -16
 34
 WResult WinDResult DrawDResult DrawWResult WinLResult LossLResult Loss
-17
-Mallorca
-34
-6
-14
-14
-27
-40
--13
-32
-WResult WinDResult DrawLResult LossLResult LossDResult DrawLResult Loss
 18
 Cádiz
 34
@@ -209,15 +209,15 @@ Cádiz
 LResult LossWResult WinLResult LossLResult LossDResult DrawLResult Loss
 19
 Granada
-34
+35
 4
 9
-21
+22
 36
-64
--28
+68
+-32
 21
-LResult LossLResult LossWResult WinDResult DrawWResult WinLResult Loss
+LResult LossWResult WinDResult DrawWResult WinLResult LossLResult Loss
 20
 Almería
 34
