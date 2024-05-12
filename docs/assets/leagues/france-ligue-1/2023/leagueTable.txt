@@ -11,27 +11,38 @@ Points
 Form, Last 6 games, Oldest first
 1
 PSG
-31
+32
 20
 10
-1
-76
-29
-47
+2
+77
+32
+45
 70
-WResult WinWResult WinDResult DrawWResult WinWResult WinDResult Draw
+WResult WinDResult DrawWResult WinWResult WinDResult DrawLResult Loss
 2
 Monaco
+33
+19
+7
+7
+64
+42
+22
+64
+WResult WinWResult WinWResult WinLResult LossWResult WinWResult Win
+3
+Lille
+33
+16
+10
+7
+50
 32
 18
-7
-7
-62
-42
-20
-61
-WResult WinWResult WinWResult WinWResult WinLResult LossWResult Win
-3
+58
+WResult WinWResult WinLResult LossWResult WinLResult LossWResult Win
+4
 Brest
 33
 16
@@ -42,17 +53,6 @@ Brest
 16
 58
 WResult WinLResult LossLResult LossWResult WinDResult DrawDResult Draw
-4
-Lille
-32
-15
-10
-7
-48
-31
-17
-55
-WResult WinWResult WinWResult WinLResult LossWResult WinLResult Loss
 5
 Nice
 32
@@ -66,49 +66,60 @@ Nice
 LResult LossDResult DrawWResult WinDResult DrawWResult WinWResult Win
 6
 Lens
-32
+33
 14
-7
-11
-42
-34
 8
-49
-LResult LossDResult DrawLResult LossWResult WinLResult LossWResult Win
+11
+43
+35
+8
+50
+DResult DrawLResult LossWResult WinLResult LossWResult WinDResult Draw
 7
 Olympique Lyonnais
-32
-14
+33
+15
 5
 13
-46
-54
--8
 47
-DResult DrawWResult WinWResult WinLResult LossWResult WinWResult Win
+54
+-7
+50
+WResult WinWResult WinLResult LossWResult WinWResult WinWResult Win
 8
-Rennes
+Olympique Marseille
 32
 12
-9
-11
-51
-43
-8
-45
-LResult LossLResult LossLResult LossWResult WinLResult LossWResult Win
-9
-Olympique Marseille
-31
-11
 11
 9
+50
+39
+11
 47
-38
+LResult LossLResult LossDResult DrawDResult DrawWResult WinWResult Win
 9
-44
-LResult LossLResult LossLResult LossDResult DrawDResult DrawWResult Win
+Rennes
+33
+12
 10
+11
+52
+44
+8
+46
+LResult LossLResult LossWResult WinLResult LossWResult WinDResult Draw
+10
+Toulouse
+33
+11
+10
+12
+42
+43
+-1
+43
+DResult DrawWResult WinDResult DrawWResult WinLResult LossWResult Win
+11
 Reims
 32
 11
@@ -119,50 +130,39 @@ Reims
 -7
 41
 DResult DrawDResult DrawLResult LossLResult LossLResult LossDResult Draw
-11
+12
 Montpellier
-32
+33
 10
 11
-11
+12
 41
-44
--3
-40
-WResult WinWResult WinDResult DrawWResult WinDResult DrawWResult Win
-12
-Toulouse
-32
-10
-10
-12
-39
-42
--3
+46
+-5
 40
 WResult WinDResult DrawWResult WinDResult DrawWResult WinLResult Loss
 13
 Strasbourg
-32
-9
+33
+10
 9
 14
-35
-47
--12
-36
-WResult WinDResult DrawWResult WinLResult LossLResult LossLResult Loss
+37
+48
+-11
+39
+DResult DrawWResult WinLResult LossLResult LossLResult LossWResult Win
 14
 Nantes
-32
+33
 9
 6
-17
-29
-49
--20
+18
+30
+51
+-21
 33
-WResult WinLResult LossWResult WinLResult LossDResult DrawDResult Draw
+LResult LossWResult WinLResult LossDResult DrawDResult DrawLResult Loss
 15
 Le Havre
 33
@@ -176,33 +176,33 @@ Le Havre
 DResult DrawLResult LossLResult LossDResult DrawWResult WinLResult Loss
 16
 Metz
-32
+33
 8
 5
-19
-34
-54
--20
+20
+35
+56
+-21
 29
-LResult LossLResult LossWResult WinWResult WinLResult LossLResult Loss
+LResult LossWResult WinWResult WinLResult LossLResult LossLResult Loss
 17
 Lorient
-32
+33
 6
 8
-18
-37
-63
--26
+19
+38
+66
+-28
 26
 LResult LossLResult LossLResult LossLResult LossLResult LossLResult Loss
 18
 Clermont
-32
+33
 5
 10
-17
+18
 26
-54
--28
+55
+-29
 25
