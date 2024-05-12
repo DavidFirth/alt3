@@ -22,16 +22,27 @@ Sporting CP
 WResult WinWResult WinWResult WinDResult DrawWResult WinWResult Win
 2
 Benfica
-32
-24
+33
+25
 4
 4
-71
-27
-44
 76
-WResult WinLResult LossWResult WinWResult WinWResult WinLResult Loss
+27
+49
+79
+LResult LossWResult WinWResult WinWResult WinLResult LossWResult Win
 3
+Porto
+33
+21
+6
+6
+62
+27
+35
+69
+LResult LossDResult DrawWResult WinDResult DrawWResult WinWResult Win
+4
 Sporting Braga
 33
 21
@@ -42,17 +53,6 @@ Sporting Braga
 22
 68
 LResult LossWResult WinWResult WinLResult LossWResult WinWResult Win
-4
-Porto
-32
-20
-6
-6
-60
-26
-34
-66
-LResult LossLResult LossDResult DrawWResult WinDResult DrawWResult Win
 5
 Vitória Guimarães
 33
@@ -66,26 +66,26 @@ Vitória Guimarães
 WResult WinDResult DrawLResult LossWResult WinLResult LossLResult Loss
 6
 Moreirense
-32
-14
+33
+15
 7
 11
-33
 34
--1
-49
-LResult LossDResult DrawLResult LossLResult LossWResult WinWResult Win
+34
+0
+52
+DResult DrawLResult LossLResult LossWResult WinWResult WinWResult Win
 7
 Arouca
-32
+33
 13
 7
-12
+13
 53
-42
-11
+47
+6
 46
-WResult WinWResult WinWResult WinDResult DrawDResult DrawDResult Draw
+WResult WinWResult WinDResult DrawDResult DrawDResult DrawLResult Loss
 8
 Famalicão
 33
@@ -99,15 +99,15 @@ Famalicão
 DResult DrawLResult LossDResult DrawLResult LossWResult WinWResult Win
 9
 Farense
-32
+33
 10
 7
-15
+16
 45
-46
--1
+48
+-3
 37
-LResult LossWResult WinDResult DrawLResult LossWResult WinWResult Win
+WResult WinDResult DrawLResult LossWResult WinWResult WinLResult Loss
 10
 Rio Ave
 33
@@ -120,27 +120,27 @@ Rio Ave
 36
 WResult WinDResult DrawDResult DrawDResult DrawWResult WinDResult Draw
 11
-Casa Pia
-32
-9
-8
-15
-36
-48
--12
-35
-WResult WinDResult DrawDResult DrawLResult LossWResult WinLResult Loss
-12
 Gil Vicente
-32
-8
+33
+9
 9
 15
-40
+42
 51
--11
+-9
+36
+LResult LossLResult LossWResult WinDResult DrawDResult DrawWResult Win
+12
+Casa Pia
 33
-LResult LossLResult LossLResult LossWResult WinDResult DrawDResult Draw
+9
+8
+16
+36
+49
+-13
+35
+DResult DrawDResult DrawLResult LossWResult WinLResult LossLResult Loss
 13
 Estoril
 33
@@ -154,15 +154,15 @@ Estoril
 DResult DrawLResult LossDResult DrawWResult WinLResult LossLResult Loss
 14
 Boavista
-32
+33
 7
 10
-15
-36
-58
--22
+16
+37
+60
+-23
 31
-DResult DrawLResult LossLResult LossDResult DrawLResult LossDResult Draw
+LResult LossLResult LossDResult DrawLResult LossDResult DrawLResult Loss
 15
 Estrela
 33
