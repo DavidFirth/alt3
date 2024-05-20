@@ -33,26 +33,26 @@ Milan
 DResult DrawLResult LossDResult DrawDResult DrawWResult WinLResult Loss
 3
 Bologna
-36
+37
 18
-13
+14
 5
-51
-27
+54
+30
 24
-67
-DResult DrawDResult DrawWResult WinDResult DrawDResult DrawWResult Win
+68
+DResult DrawWResult WinDResult DrawDResult DrawWResult WinDResult Draw
 4
 Juventus
-36
+37
 18
-13
+14
 5
-49
-28
+52
+31
 21
-67
-WResult WinDResult DrawDResult DrawDResult DrawDResult DrawDResult Draw
+68
+DResult DrawDResult DrawDResult DrawDResult DrawDResult DrawDResult Draw
 5
 Atalanta
 36
@@ -142,6 +142,17 @@ Monza
 45
 DResult DrawLResult LossDResult DrawDResult DrawLResult LossLResult Loss
 13
+Hellas Verona
+37
+9
+10
+18
+36
+49
+-13
+37
+DResult DrawWResult WinLResult LossWResult WinLResult LossWResult Win
+14
 Lecce
 37
 8
@@ -152,7 +163,7 @@ Lecce
 -22
 37
 WResult WinWResult WinDResult DrawDResult DrawLResult LossLResult Loss
-14
+15
 Cagliari
 37
 8
@@ -163,7 +174,7 @@ Cagliari
 -25
 36
 DResult DrawDResult DrawLResult LossDResult DrawLResult LossWResult Win
-15
+16
 Frosinone
 37
 8
@@ -174,17 +185,6 @@ Frosinone
 -24
 35
 DResult DrawDResult DrawWResult WinDResult DrawLResult LossWResult Win
-16
-Hellas Verona
-36
-8
-10
-18
-34
-48
--14
-34
-LResult LossDResult DrawWResult WinLResult LossWResult WinLResult Loss
 17
 Udinese
 37
@@ -220,11 +220,11 @@ Sassuolo
 DResult DrawLResult LossLResult LossWResult WinLResult LossLResult Loss
 20
 Salernitana
-36
+37
 2
 10
-24
-28
-76
--48
+25
+29
+78
+-49
 16
