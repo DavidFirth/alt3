@@ -11,15 +11,15 @@ Points
 Form, Last 6 games, Oldest first
 1
 Internazionale
-37
+38
 29
-6
+7
 2
-87
-20
+89
+22
 67
-93
-DResult DrawWResult WinWResult WinLResult LossWResult WinDResult Draw
+94
+WResult WinWResult WinLResult LossWResult WinDResult DrawDResult Draw
 2
 Milan
 38
@@ -30,7 +30,7 @@ Milan
 49
 27
 75
-DResult DrawLResult LossDResult DrawDResult DrawWResult WinLResult Loss
+LResult LossDResult DrawDResult DrawWResult WinLResult LossDResult Draw
 3
 Juventus
 38
@@ -43,6 +43,17 @@ Juventus
 71
 DResult DrawDResult DrawDResult DrawDResult DrawDResult DrawWResult Win
 4
+Atalanta
+37
+21
+6
+10
+70
+39
+31
+69
+WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
+5
 Bologna
 38
 18
@@ -53,39 +64,28 @@ Bologna
 22
 68
 WResult WinDResult DrawDResult DrawWResult WinDResult DrawLResult Loss
-5
-Atalanta
-36
-20
-6
-10
-67
-39
-28
-66
-DResult DrawWResult WinWResult WinWResult WinWResult WinWResult Win
 6
 Roma
-37
+38
 18
 9
-10
-64
-44
-20
+11
+65
+46
+19
 63
-LResult LossWResult WinDResult DrawDResult DrawLResult LossWResult Win
+WResult WinDResult DrawDResult DrawLResult LossWResult WinLResult Loss
 7
 Lazio
-37
-18
-6
-13
-48
 38
+18
+7
+13
+49
+39
 10
-60
-WResult WinWResult WinWResult WinDResult DrawWResult WinDResult Draw
+61
+WResult WinWResult WinDResult DrawWResult WinDResult DrawDResult Draw
 8
 Fiorentina
 37
@@ -99,26 +99,26 @@ Fiorentina
 WResult WinWResult WinLResult LossWResult WinDResult DrawWResult Win
 9
 Torino
-37
+38
 13
 14
-10
+11
 36
-33
-3
+36
+0
 53
-DResult DrawDResult DrawLResult LossDResult DrawWResult WinWResult Win
+DResult DrawLResult LossDResult DrawWResult WinWResult WinLResult Loss
 10
 Napoli
-37
+38
 13
-13
+14
 11
 55
 48
 7
-52
-DResult DrawLResult LossDResult DrawDResult DrawLResult LossDResult Draw
+53
+LResult LossDResult DrawDResult DrawLResult LossDResult DrawDResult Draw
 11
 Genoa
 38
@@ -143,27 +143,38 @@ Monza
 LResult LossDResult DrawDResult DrawLResult LossLResult LossLResult Loss
 13
 Hellas Verona
-37
+38
 9
-10
+11
 18
-36
-49
+38
+51
 -13
-37
-DResult DrawWResult WinLResult LossWResult WinLResult LossWResult Win
+38
+WResult WinLResult LossWResult WinLResult LossWResult WinDResult Draw
 14
 Lecce
-37
+38
 8
-13
+14
 16
 32
 54
 -22
-37
-WResult WinWResult WinDResult DrawDResult DrawLResult LossLResult Loss
+38
+WResult WinDResult DrawDResult DrawLResult LossLResult LossDResult Draw
 15
+Udinese
+38
+6
+19
+13
+37
+53
+-16
+37
+LResult LossDResult DrawDResult DrawWResult WinDResult DrawWResult Win
+16
 Cagliari
 38
 8
@@ -174,50 +185,39 @@ Cagliari
 -26
 36
 DResult DrawLResult LossDResult DrawLResult LossWResult WinLResult Loss
-16
-Frosinone
-37
-8
-11
-18
-44
-68
--24
-35
-DResult DrawDResult DrawWResult WinDResult DrawLResult LossWResult Win
 17
-Udinese
-37
-5
-19
-13
-36
-53
--17
-34
-LResult LossLResult LossDResult DrawDResult DrawWResult WinDResult Draw
-18
 Empoli
-37
-8
+38
+9
 9
 20
-27
-53
--26
-33
-LResult LossWResult WinLResult LossDResult DrawLResult LossDResult Draw
+29
+54
+-25
+36
+WResult WinLResult LossDResult DrawLResult LossDResult DrawWResult Win
+18
+Frosinone
+38
+8
+11
+19
+44
+69
+-25
+35
+DResult DrawWResult WinDResult DrawLResult LossWResult WinLResult Loss
 19
 Sassuolo
-37
+38
 7
-8
+9
 22
-42
-74
+43
+75
 -32
-29
-DResult DrawLResult LossLResult LossWResult WinLResult LossLResult Loss
+30
+LResult LossLResult LossWResult WinLResult LossLResult LossDResult Draw
 20
 Salernitana
 38
