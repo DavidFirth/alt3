@@ -9,6 +9,8 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
+{% include leagues/new-season-message.md %}
+
 {% include leagues/update-time.md %}
 
 {% include leagues/netherlands-eredivisie/alt3-table.html %}
