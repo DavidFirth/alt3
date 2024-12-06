@@ -3,7 +3,7 @@ title: "About alt-3"
 permalink: /about/
 share: false
 sidebar:
-  - text: "If you want to use the *alt-3.uk* league tables elsewhere, please be sure to read the [License and Disclaimer](/about/license) page first."
+  - text: "If you want to use the *alt3.uk* league tables elsewhere, please be sure to read the [License and Disclaimer](/about/license) page first."
 ---
 
 - [**What alt-3 is, and why it exists**](what-why) 

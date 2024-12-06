@@ -9,7 +9,7 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-{% include leagues/new-season-message.md %}
+<!-- {% include leagues/new-season-message.md %} -->
 
 {% include leagues/update-time.md %}
 
@@ -17,7 +17,7 @@ sidebar:
 
 {% include leagues/england-championship/alt3-table.html %}
 
-<!-- Derby and Reading were subject to points deductions (21 and 6 pts respectively).  These have been accounted for in the _Rate_ calculation. -->
+Sheffield United are subject to a 2-points deduction.  This has been accounted for in the _Rate_ calculation.
 
 <style>
 .svg-wrap {

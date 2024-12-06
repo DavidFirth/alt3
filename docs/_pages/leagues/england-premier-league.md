@@ -9,7 +9,7 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-{% include leagues/new-season-message.md %}
+<!-- {% include leagues/new-season-message.md %} -->
 
 {% include leagues/update-time.md %}
 
@@ -17,7 +17,7 @@ sidebar:
 
 {% include leagues/england-premier-league/alt3-table.html %}
 
-Everton are subject to a 8-points deduction, and Nottingham Forest to a 4-points deduction.  These have been accounted for in the _Rate_ calculation.
+<!-- Everton are subject to a 8-points deduction, and Nottingham Forest to a 4-points deduction.  These have been accounted for in the _Rate_ calculation. -->
 
 <style>
 .svg-wrap {

@@ -3,7 +3,7 @@ title: "The mathematical method explained"
 permalink: "/about/the-maths/"
 share: false
 sidebar:
-  - text: "If you want to use the *alt-3.uk* league tables elsewhere, please be sure to read the [License and Disclaimer](/about/license) page first."
+  - text: "If you want to use the *alt3.uk* league tables elsewhere, please be sure to read the [License and Disclaimer](/about/license) page first."
 ---
 
 A full academic research paper, for publication in a peer-reviewed journal, 

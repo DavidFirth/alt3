@@ -3,7 +3,7 @@ title: "The league tables explained"
 permalink: "/about/tables-explained/"
 share: false
 sidebar:
-  - text: "If you want to use the *alt-3.uk* league tables elsewhere, please be sure to read the [License and Disclaimer](/about/license) page first."
+  - text: "If you want to use the *alt3.uk* league tables elsewhere, please be sure to read the [License and Disclaimer](/about/license) page first."
 ---
 
 An *alt-3* ranking takes proper account of each team's **schedule strength** ---
