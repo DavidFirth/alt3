@@ -21,7 +21,7 @@ as follows:
 as there is a link to it from the *alt-3* web pages.]
 <!-- If you wish to refer to the underlying methodology, then please cite the published research paper by D Firth and H L Turner. -->
 
-2. **No guarantee is given, of fitness for any purpose.**   In particular, while we aim always to eliminate errors in our work, no guarantee is given that *any* of the *alt-3.uk* league tables is free of errors.
+2. **No guarantee is given, of fitness for any purpose.**   In particular, while we aim always to eliminate errors in our work, no guarantee is given that *any* of the *alt3.uk* league tables is free of errors.
 
 3. **If you do not accept this as the basis for our sharing of this work, then you must not use it.**
 
