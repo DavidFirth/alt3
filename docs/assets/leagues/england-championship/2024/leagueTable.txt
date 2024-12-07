@@ -10,6 +10,17 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1
+Leeds United
+19
+11
+5
+3
+33
+13
+20
+38
+LResult LossWResult WinWResult WinWResult WinLResult LossWResult Win
+2
 Sheffield United
 18
 12
@@ -20,7 +31,7 @@ Sheffield United
 16
 38
 WResult WinWResult WinWResult WinDResult DrawWResult WinWResult Win
-2
+3
 Burnley
 19
 10
@@ -31,28 +42,17 @@ Burnley
 17
 37
 DResult DrawWResult WinWResult WinWResult WinWResult WinDResult Draw
-3
-Leeds United
-18
-10
-5
-3
-31
-13
-18
-35
-WResult WinLResult LossWResult WinWResult WinWResult WinLResult Loss
 4
 Sunderland
-18
-9
+19
+10
 6
 3
-26
-13
-13
-33
-DResult DrawDResult DrawDResult DrawDResult DrawDResult DrawLResult Loss
+28
+14
+14
+36
+DResult DrawDResult DrawDResult DrawDResult DrawLResult LossWResult Win
 5
 Middlesbrough
 19
@@ -98,6 +98,17 @@ Blackburn Rovers
 28
 LResult LossLResult LossLResult LossWResult WinWResult WinWResult Win
 9
+Sheffield Wednesday
+19
+7
+5
+7
+23
+28
+-5
+26
+WResult WinLResult LossDResult DrawWResult WinWResult WinDResult Draw
+10
 Norwich City
 18
 6
@@ -108,7 +119,7 @@ Norwich City
 8
 25
 LResult LossLResult LossLResult LossDResult DrawWResult WinWResult Win
-10
+11
 Millwall
 17
 6
@@ -119,7 +130,7 @@ Millwall
 5
 25
 WResult WinWResult WinWResult WinDResult DrawDResult DrawDResult Draw
-11
+12
 Bristol City
 18
 6
@@ -130,17 +141,6 @@ Bristol City
 3
 25
 WResult WinLResult LossWResult WinLResult LossLResult LossWResult Win
-12
-Sheffield Wednesday
-18
-7
-4
-7
-22
-27
--5
-25
-LResult LossWResult WinLResult LossDResult DrawWResult WinWResult Win
 13
 Swansea City
 18
@@ -154,27 +154,38 @@ Swansea City
 WResult WinWResult WinLResult LossLResult LossWResult WinDResult Draw
 14
 Stoke City
-18
+19
 5
 6
-7
-19
-22
--3
+8
+20
+24
+-4
 21
-WResult WinWResult WinDResult DrawDResult DrawDResult DrawLResult Loss
+WResult WinDResult DrawDResult DrawDResult DrawLResult LossLResult Loss
 15
 Derby County
-18
+19
 5
 5
-8
+9
 22
-24
--2
+26
+-4
 20
-LResult LossWResult WinDResult DrawDResult DrawLResult LossLResult Loss
+WResult WinDResult DrawDResult DrawLResult LossLResult LossLResult Loss
 16
+Preston North End
+19
+3
+10
+6
+18
+26
+-8
+19
+DResult DrawLResult LossDResult DrawDResult DrawDResult DrawDResult Draw
+17
 Coventry City
 18
 4
@@ -185,7 +196,7 @@ Coventry City
 -3
 18
 WResult WinLResult LossDResult DrawDResult DrawLResult LossDResult Draw
-17
+18
 Oxford United
 18
 4
@@ -196,17 +207,6 @@ Oxford United
 -8
 18
 LResult LossWResult WinLResult LossLResult LossLResult LossDResult Draw
-18
-Preston North End
-18
-3
-9
-6
-17
-25
--8
-18
-LResult LossDResult DrawLResult LossDResult DrawDResult DrawDResult Draw
 19
 Luton Town
 18
