@@ -6,7 +6,9 @@ sidebar:
   - text: "If you want to use the *alt3.uk* league tables elsewhere, please be sure to read the [License and Disclaimer](/about/license) page first."
 ---
 
-- **England:** [**Premier League**](england-premier-league), [**Championship**](england-championship)
+- **England:** 
+  - [**Premier League**](england-premier-league) 
+  - [**Championship**](england-championship)
 - **France:** [**Ligue 1**](france-ligue-1) (not yet updated for 2024--25 season)
 - **Germany:** [**Bundesliga 1**](germany-bundesliga-1) (not yet updated for 2024--25 season)
 - **Italy:** [**Serie A**](italy-serie-a) (not yet updated for 2024--25 season)
