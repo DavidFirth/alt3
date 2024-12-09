@@ -11,7 +11,7 @@ sidebar:
   - [**Championship**](england-championship)
 - **France:** [**Ligue 1**](france-ligue-1)
 - **Germany:** [**Bundesliga 1**](germany-bundesliga-1)
-- **Italy:** [**Serie A**](italy-serie-a) (not yet updated for 2024--25 season)
+- **Italy:** [**Serie A**](italy-serie-a)
 - **Netherlands:** [**Eredivisie**](netherlands-eredivisie) (not yet updated for 2024--25 season)
 - **Portugal:** [**Primeira Liga**](portugal-primeira-liga) (not yet updated for 2024--25 season)
 - **Spain:** [**La Liga**](spain-la-liga-primera) (not yet updated for 2024--25 season)
