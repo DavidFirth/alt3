@@ -21,6 +21,17 @@ PSG
 34
 WResult WinWResult WinWResult WinWResult WinDResult DrawDResult Draw
 2
+Olympique Marseille
+14
+9
+2
+3
+31
+17
+14
+29
+LResult LossWResult WinLResult LossWResult WinWResult WinWResult Win
+3
 Monaco
 14
 9
@@ -31,17 +42,6 @@ Monaco
 12
 29
 LResult LossLResult LossWResult WinWResult WinLResult LossWResult Win
-3
-Olympique Marseille
-13
-8
-2
-3
-29
-17
-12
-26
-WResult WinLResult LossWResult WinLResult LossWResult WinWResult Win
 4
 Lille
 14
@@ -77,15 +77,15 @@ Nice
 WResult WinWResult WinDResult DrawWResult WinLResult LossWResult Win
 7
 Lens
-13
-5
+14
+6
 5
 3
-15
+17
 12
-3
-20
-WResult WinLResult LossLResult LossWResult WinLResult LossWResult Win
+5
+23
+LResult LossLResult LossWResult WinLResult LossWResult WinWResult Win
 8
 Auxerre
 14
@@ -99,15 +99,15 @@ Auxerre
 DResult DrawWResult WinWResult WinWResult WinLResult LossDResult Draw
 9
 Reims
-13
+14
 5
-3
+4
 5
 20
 18
 2
-18
-LResult LossLResult LossLResult LossWResult WinDResult DrawLResult Loss
+19
+LResult LossLResult LossWResult WinDResult DrawLResult LossDResult Draw
 10
 Toulouse
 14
@@ -132,27 +132,38 @@ Brest
 WResult WinLResult LossLResult LossLResult LossWResult WinLResult Loss
 12
 Rennes
-13
+14
 4
 2
-7
+8
 18
-19
--1
+20
+-2
 14
-DResult DrawWResult WinLResult LossLResult LossLResult LossWResult Win
+WResult WinLResult LossLResult LossLResult LossWResult WinLResult Loss
 13
-Strasbourg
-13
+Nantes
+14
 3
-4
+5
+6
+16
+20
+-4
+14
+LResult LossLResult LossLResult LossLResult LossDResult DrawWResult Win
+14
+Strasbourg
+14
+3
+5
 6
 22
 27
 -5
-13
-LResult LossWResult WinLResult LossLResult LossLResult LossLResult Loss
 14
+WResult WinLResult LossLResult LossLResult LossLResult LossDResult Draw
+15
 Angers SCO
 14
 3
@@ -163,18 +174,18 @@ Angers SCO
 -10
 13
 WResult WinWResult WinLResult LossLResult LossWResult WinLResult Loss
-15
+16
 Saint-Étienne
-13
+14
 4
 1
-8
+9
 11
-30
--19
+32
+-21
 13
-LResult LossLResult LossWResult WinLResult LossWResult WinLResult Loss
-16
+LResult LossWResult WinLResult LossWResult WinLResult LossLResult Loss
+17
 Le Havre
 14
 4
@@ -185,24 +196,13 @@ Le Havre
 -15
 12
 LResult LossWResult WinLResult LossWResult WinLResult LossLResult Loss
-17
-Nantes
-13
-2
-5
-6
-15
-20
--5
-11
-DResult DrawLResult LossLResult LossLResult LossLResult LossDResult Draw
 18
 Montpellier
-13
+14
 2
 2
-9
+10
 13
-34
--21
+36
+-23
 8
