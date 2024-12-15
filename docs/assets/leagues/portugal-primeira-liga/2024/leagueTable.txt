@@ -11,15 +11,15 @@ Points
 Form, Last 6 games, Oldest first
 1
 Sporting CP
-13
-11
+14
+12
 0
 2
-40
-8
-32
+43
+10
 33
-WResult WinWResult WinWResult WinWResult WinLResult LossLResult Loss
+36
+WResult WinWResult WinWResult WinLResult LossLResult LossWResult Win
 2
 Benfica
 12
@@ -77,15 +77,15 @@ Vitória Guimarães
 DResult DrawDResult DrawWResult WinLResult LossWResult WinLResult Loss
 7
 Moreirense
-13
+14
 6
 2
-5
+6
 19
-18
-1
+19
+0
 20
-WResult WinWResult WinLResult LossWResult WinLResult LossWResult Win
+WResult WinLResult LossWResult WinLResult LossWResult WinLResult Loss
 8
 Famalicão
 13
@@ -98,6 +98,17 @@ Famalicão
 18
 DResult DrawLResult LossWResult WinDResult DrawLResult LossDResult Draw
 9
+Gil Vicente
+14
+4
+4
+6
+17
+24
+-7
+16
+LResult LossLResult LossLResult LossLResult LossWResult WinWResult Win
+10
 Rio Ave
 13
 4
@@ -108,7 +119,7 @@ Rio Ave
 -10
 15
 DResult DrawLResult LossDResult DrawWResult WinWResult WinLResult Loss
-10
+11
 Casa Pia
 13
 3
@@ -119,7 +130,7 @@ Casa Pia
 -6
 14
 LResult LossWResult WinDResult DrawDResult DrawLResult LossDResult Draw
-11
+12
 Estoril
 13
 3
@@ -130,17 +141,6 @@ Estoril
 -7
 14
 LResult LossWResult WinLResult LossDResult DrawWResult WinDResult Draw
-12
-Gil Vicente
-13
-3
-4
-6
-16
-24
--8
-13
-WResult WinLResult LossLResult LossLResult LossLResult LossWResult Win
 13
 Estrela
 13
@@ -153,17 +153,28 @@ Estrela
 12
 LResult LossDResult DrawLResult LossWResult WinLResult LossWResult Win
 14
-Boavista
+Nacional
 13
+3
+3
+7
+8
+17
+-9
+12
+LResult LossWResult WinLResult LossDResult DrawLResult LossWResult Win
+15
+Boavista
+14
 2
 5
-6
-8
-16
--8
+7
+10
+19
+-9
 11
-DResult DrawLResult LossWResult WinLResult LossDResult DrawDResult Draw
-15
+LResult LossWResult WinLResult LossDResult DrawDResult DrawLResult Loss
+16
 AVS
 13
 2
@@ -174,28 +185,17 @@ AVS
 -11
 11
 DResult DrawLResult LossLResult LossDResult DrawLResult LossDResult Draw
-16
-Nacional
-12
-2
-3
-7
-7
-17
--10
-9
-DResult DrawLResult LossWResult WinLResult LossDResult DrawLResult Loss
 17
 Farense
-13
+14
 2
 3
-8
-7
-19
--12
 9
-WResult WinLResult LossLResult LossDResult DrawWResult WinDResult Draw
+7
+20
+-13
+9
+LResult LossLResult LossDResult DrawWResult WinDResult DrawLResult Loss
 18
 Arouca
 13
