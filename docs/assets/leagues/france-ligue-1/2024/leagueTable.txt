@@ -22,37 +22,37 @@ PSG
 WResult WinWResult WinWResult WinWResult WinDResult DrawDResult Draw
 2
 Olympique Marseille
-14
+15
 9
-2
 3
-31
-17
+3
+32
+18
 14
-29
-LResult LossWResult WinLResult LossWResult WinWResult WinWResult Win
+30
+WResult WinLResult LossWResult WinWResult WinWResult WinDResult Draw
 3
 Monaco
-14
+15
 9
-2
+3
 3
 24
 12
 12
-29
-LResult LossLResult LossWResult WinWResult WinLResult LossWResult Win
+30
+LResult LossWResult WinWResult WinLResult LossWResult WinDResult Draw
 4
 Lille
-14
+15
 7
-5
+6
 2
-24
-14
+25
+15
 10
-26
-WResult WinDResult DrawDResult DrawWResult WinDResult DrawWResult Win
+27
+DResult DrawDResult DrawWResult WinDResult DrawWResult WinDResult Draw
 5
 Olympique Lyonnais
 14
@@ -65,6 +65,17 @@ Olympique Lyonnais
 25
 DResult DrawDResult DrawWResult WinDResult DrawWResult WinWResult Win
 6
+Lens
+15
+6
+6
+3
+19
+14
+5
+24
+LResult LossWResult WinLResult LossWResult WinWResult WinDResult Draw
+7
 Nice
 14
 6
@@ -75,50 +86,39 @@ Nice
 9
 23
 WResult WinWResult WinDResult DrawWResult WinLResult LossWResult Win
-7
-Lens
-14
-6
-5
-3
-17
-12
-5
-23
-LResult LossLResult LossWResult WinLResult LossWResult WinWResult Win
 8
 Auxerre
-14
+15
 6
-2
-6
-21
-21
-0
-20
-DResult DrawWResult WinWResult WinWResult WinLResult LossDResult Draw
-9
-Reims
-14
-5
-4
-5
-20
-18
-2
-19
-LResult LossLResult LossWResult WinDResult DrawLResult LossDResult Draw
-10
-Toulouse
-14
-5
 3
 6
+23
+23
+0
+21
+WResult WinWResult WinWResult WinLResult LossDResult DrawDResult Draw
+9
+Toulouse
 15
-16
--1
+6
+3
+6
+17
+17
+0
+21
+WResult WinWResult WinLResult LossWResult WinLResult LossWResult Win
+10
+Reims
+15
+5
+5
+5
+20
 18
-WResult WinWResult WinWResult WinLResult LossWResult WinLResult Loss
+2
+20
+LResult LossWResult WinDResult DrawLResult LossDResult DrawDResult Draw
 11
 Brest
 14
@@ -176,15 +176,15 @@ Angers SCO
 WResult WinWResult WinLResult LossLResult LossWResult WinLResult Loss
 16
 Saint-Étienne
-14
+15
 4
 1
-9
-11
-32
--21
+10
+12
+34
+-22
 13
-LResult LossWResult WinLResult LossWResult WinLResult LossLResult Loss
+WResult WinLResult LossWResult WinLResult LossLResult LossLResult Loss
 17
 Le Havre
 14
