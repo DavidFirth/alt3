@@ -22,15 +22,15 @@ Barcelona
 WResult WinLResult LossDResult DrawLResult LossWResult WinDResult Draw
 2
 Real Madrid
-16
+17
 11
-3
+4
 2
-34
-13
+37
+16
 21
-36
-LResult LossWResult WinWResult WinWResult WinLResult LossWResult Win
+37
+WResult WinWResult WinWResult WinLResult LossWResult WinDResult Draw
 3
 Atlético Madrid
 16
@@ -54,6 +54,17 @@ Athletic Club
 32
 DResult DrawDResult DrawWResult WinWResult WinWResult WinWResult Win
 5
+Mallorca
+18
+8
+3
+7
+18
+21
+-3
+27
+LResult LossWResult WinWResult WinLResult LossLResult LossWResult Win
+6
 Villarreal
 15
 7
@@ -64,7 +75,18 @@ Villarreal
 2
 26
 DResult DrawWResult WinWResult WinDResult DrawDResult DrawLResult Loss
+7
+Osasuna
+17
 6
+7
+4
+22
+25
+-3
+25
+WResult WinLResult LossDResult DrawDResult DrawDResult DrawDResult Draw
+8
 Real Sociedad
 16
 7
@@ -75,50 +97,28 @@ Real Sociedad
 5
 24
 LResult LossWResult WinWResult WinLResult LossWResult WinWResult Win
-7
-Osasuna
-16
-6
-6
-4
-22
-25
--3
-24
-WResult WinWResult WinLResult LossDResult DrawDResult DrawDResult Draw
-8
-Mallorca
-17
-7
-3
-7
-16
-20
--4
-24
-LResult LossLResult LossWResult WinWResult WinLResult LossLResult Loss
 9
 Girona
-16
+17
 6
 4
-6
-22
-23
--1
-22
-LResult LossWResult WinWResult WinWResult WinDResult DrawLResult Loss
-10
-Celta Vigo
-16
-6
-3
 7
+23
 25
-27
 -2
-21
-LResult LossWResult WinDResult DrawDResult DrawLResult LossWResult Win
+22
+WResult WinWResult WinWResult WinDResult DrawLResult LossLResult Loss
+10
+Sevilla
+17
+6
+4
+7
+18
+23
+-5
+22
+LResult LossLResult LossWResult WinDResult DrawLResult LossWResult Win
 11
 Real Betis
 16
@@ -131,27 +131,27 @@ Real Betis
 21
 WResult WinDResult DrawDResult DrawLResult LossLResult LossDResult Draw
 12
-Rayo Vallecano
-15
-5
-4
-6
-15
-16
--1
-19
-LResult LossWResult WinLResult LossLResult LossLResult LossWResult Win
-13
-Sevilla
-16
-5
-4
-7
+Celta Vigo
 17
-23
--6
+6
+3
+8
+25
+28
+-3
+21
+WResult WinDResult DrawDResult DrawLResult LossWResult WinLResult Loss
+13
+Rayo Vallecano
+16
+5
+5
+6
+18
 19
-WResult WinLResult LossLResult LossWResult WinDResult DrawLResult Loss
+-1
+20
+WResult WinLResult LossLResult LossLResult LossWResult WinDResult Draw
 14
 Las Palmas
 16
@@ -198,33 +198,33 @@ Leganés
 WResult WinLResult LossWResult WinLResult LossDResult DrawLResult Loss
 18
 Espanyol
-15
+16
 4
-1
+2
 10
 15
 28
 -13
-13
-LResult LossLResult LossLResult LossLResult LossWResult WinLResult Loss
-19
-Valencia
 14
-2
-4
-8
-13
-22
--9
-10
-DResult DrawLResult LossDResult DrawWResult WinLResult LossLResult Loss
-20
+LResult LossLResult LossLResult LossWResult WinLResult LossDResult Draw
+19
 Real Valladolid
-16
-2
+17
+3
 3
 11
-11
+12
 34
--23
+-22
+12
+LResult LossDResult DrawLResult LossLResult LossLResult LossWResult Win
+20
+Valencia
+15
+2
+4
 9
+13
+23
+-10
+10
