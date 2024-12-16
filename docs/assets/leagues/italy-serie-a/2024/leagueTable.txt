@@ -44,15 +44,15 @@ Inter Milan
 DResult DrawWResult WinWResult WinDResult DrawWResult WinWResult Win
 4
 Fiorentina
-14
+15
 9
 4
-1
+2
 28
-10
-18
+11
+17
 31
-WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
+WResult WinWResult WinWResult WinWResult WinWResult WinLResult Loss
 5
 Lazio
 15
@@ -76,27 +76,27 @@ Juventus
 28
 WResult WinWResult WinDResult DrawDResult DrawDResult DrawDResult Draw
 7
-AC Milan
-14
+Bologna
+15
 6
-4
+7
+2
+21
+18
+3
+25
+WResult WinWResult WinLResult LossWResult WinDResult DrawWResult Win
+8
+AC Milan
+15
+6
+5
 4
 24
 16
 8
-22
-LResult LossWResult WinDResult DrawDResult DrawWResult WinLResult Loss
-8
-Bologna
-14
-5
-7
-2
-20
-18
-2
-22
-WResult WinWResult WinWResult WinLResult LossWResult WinDResult Draw
+23
+WResult WinDResult DrawDResult DrawWResult WinLResult LossDResult Draw
 9
 Udinese
 16
@@ -132,38 +132,71 @@ Torino
 LResult LossLResult LossDResult DrawLResult LossDResult DrawWResult Win
 12
 Roma
-15
-4
-4
-7
-18
-21
--3
 16
-WResult WinLResult LossLResult LossLResult LossLResult LossWResult Win
+4
+4
+8
+18
+23
+-5
+16
+LResult LossLResult LossLResult LossLResult LossWResult WinLResult Loss
 13
-Parma
-15
-3
-6
-6
-21
-25
--4
-15
-DResult DrawLResult LossWResult WinLResult LossWResult WinLResult Loss
-14
 Genoa
-15
+16
 3
-6
+7
 6
 13
 24
 -11
+16
+WResult WinDResult DrawDResult DrawWResult WinDResult DrawDResult Draw
+14
+Lecce
+16
+4
+4
+8
+10
+27
+-17
+16
+LResult LossDResult DrawWResult WinDResult DrawLResult LossWResult Win
 15
-LResult LossWResult WinDResult DrawDResult DrawWResult WinDResult Draw
+Parma
+16
+3
+6
+7
+23
+28
+-5
 15
+LResult LossWResult WinLResult LossWResult WinLResult LossLResult Loss
+16
+Como
+16
+3
+6
+7
+18
+28
+-10
+15
+LResult LossDResult DrawLResult LossDResult DrawDResult DrawWResult Win
+17
+Hellas Verona
+16
+5
+0
+11
+21
+39
+-18
+15
+WResult WinLResult LossLResult LossLResult LossLResult LossWResult Win
+18
 Cagliari
 16
 3
@@ -174,50 +207,17 @@ Cagliari
 -11
 14
 LResult LossDResult DrawDResult DrawWResult WinLResult LossLResult Loss
-16
-Lecce
-15
-3
-4
-8
-8
-26
--18
-13
-WResult WinLResult LossDResult DrawWResult WinDResult DrawLResult Loss
-17
-Como
-15
-2
-6
-7
-16
-28
--12
-12
-LResult LossLResult LossDResult DrawLResult LossDResult DrawDResult Draw
-18
-Hellas Verona
-15
-4
-0
-11
-18
-37
--19
-12
-LResult LossWResult WinLResult LossLResult LossLResult LossLResult Loss
 19
 Monza
-15
+16
 1
 7
-7
-13
-19
--6
+8
+14
+21
+-7
 10
-LResult LossLResult LossLResult LossDResult DrawDResult DrawLResult Loss
+LResult LossLResult LossDResult DrawDResult DrawLResult LossLResult Loss
 20
 Venezia
 16
