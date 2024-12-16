@@ -22,15 +22,15 @@ Sporting CP
 WResult WinWResult WinWResult WinLResult LossLResult LossWResult Win
 2
 Benfica
-12
+13
 10
+2
 1
-1
-31
-7
+32
+8
 24
-31
-WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
+32
+WResult WinWResult WinWResult WinWResult WinWResult WinDResult Draw
 3
 Porto
 13
@@ -44,15 +44,15 @@ Porto
 WResult WinWResult WinWResult WinLResult LossWResult WinDResult Draw
 4
 Santa Clara
-13
+14
 9
 0
-4
+5
 16
-12
-4
+13
+3
 27
-LResult LossWResult WinLResult LossWResult WinWResult WinWResult Win
+WResult WinLResult LossWResult WinWResult WinWResult WinLResult Loss
 5
 Sporting Braga
 13
@@ -98,6 +98,17 @@ Famalicão
 18
 DResult DrawLResult LossWResult WinDResult DrawLResult LossDResult Draw
 9
+Casa Pia
+14
+4
+5
+5
+13
+17
+-4
+17
+WResult WinDResult DrawDResult DrawLResult LossDResult DrawWResult Win
+10
 Gil Vicente
 14
 4
@@ -108,7 +119,7 @@ Gil Vicente
 -7
 16
 LResult LossLResult LossLResult LossLResult LossWResult WinWResult Win
-10
+11
 Rio Ave
 13
 4
@@ -119,28 +130,17 @@ Rio Ave
 -10
 15
 DResult DrawLResult LossDResult DrawWResult WinWResult WinLResult Loss
-11
-Casa Pia
-13
-3
-5
-5
-11
-17
--6
-14
-LResult LossWResult WinDResult DrawDResult DrawLResult LossDResult Draw
 12
 Estoril
-13
+14
 3
 5
-5
+6
 12
-19
--7
+21
+-9
 14
-LResult LossWResult WinLResult LossDResult DrawWResult WinDResult Draw
+WResult WinLResult LossDResult DrawWResult WinDResult DrawLResult Loss
 13
 Estrela
 13
@@ -164,6 +164,17 @@ Nacional
 12
 LResult LossWResult WinLResult LossDResult DrawLResult LossWResult Win
 15
+AVS
+14
+2
+6
+6
+11
+22
+-11
+12
+LResult LossLResult LossDResult DrawLResult LossDResult DrawDResult Draw
+16
 Boavista
 14
 2
@@ -174,18 +185,18 @@ Boavista
 -9
 11
 LResult LossWResult WinLResult LossDResult DrawDResult DrawLResult Loss
-16
-AVS
-13
-2
-5
-6
-10
-21
--11
-11
-DResult DrawLResult LossLResult LossDResult DrawLResult LossDResult Draw
 17
+Arouca
+14
+3
+2
+9
+8
+23
+-15
+11
+LResult LossLResult LossDResult DrawLResult LossLResult LossWResult Win
+18
 Farense
 14
 2
@@ -195,14 +206,3 @@ Farense
 20
 -13
 9
-LResult LossLResult LossDResult DrawWResult WinDResult DrawLResult Loss
-18
-Arouca
-13
-2
-2
-9
-7
-23
--16
-8
