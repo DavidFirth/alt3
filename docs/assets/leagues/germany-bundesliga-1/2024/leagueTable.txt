@@ -33,26 +33,26 @@ Bayer Leverkusen
 DResult DrawDResult DrawWResult WinWResult WinWResult WinWResult Win
 3
 Eintracht Frankfurt
-13
+14
 8
 3
-2
-33
-18
-15
+3
+34
+20
+14
 27
-DResult DrawWResult WinWResult WinWResult WinWResult WinDResult Draw
+WResult WinWResult WinWResult WinWResult WinDResult DrawLResult Loss
 4
 RB Leipzig
-13
-7
-3
-3
-21
 14
-7
-24
-WResult WinLResult LossDResult DrawLResult LossLResult LossWResult Win
+8
+3
+3
+23
+15
+8
+27
+LResult LossDResult DrawLResult LossLResult LossWResult WinWResult Win
 5
 Freiburg
 14
@@ -65,6 +65,17 @@ Freiburg
 24
 DResult DrawDResult DrawLResult LossWResult WinDResult DrawWResult Win
 6
+Stuttgart
+14
+6
+5
+3
+29
+24
+5
+23
+DResult DrawLResult LossWResult WinDResult DrawWResult WinWResult Win
+7
 Mainz 05
 14
 6
@@ -75,7 +86,18 @@ Mainz 05
 6
 22
 DResult DrawWResult WinWResult WinWResult WinLResult LossWResult Win
-7
+8
+Borussia Dortmund
+14
+6
+4
+4
+25
+21
+4
+22
+WResult WinLResult LossWResult WinDResult DrawDResult DrawDResult Draw
+9
 Werder Bremen
 14
 6
@@ -86,7 +108,7 @@ Werder Bremen
 -2
 22
 LResult LossWResult WinLResult LossDResult DrawWResult WinWResult Win
-8
+10
 Wolfsburg
 14
 6
@@ -97,18 +119,7 @@ Wolfsburg
 6
 21
 DResult DrawWResult WinWResult WinWResult WinWResult WinLResult Loss
-9
-Borussia Dortmund
-13
-6
-3
-4
-24
-20
-4
-21
-LResult LossWResult WinLResult LossWResult WinDResult DrawDResult Draw
-10
+11
 Borussia M&#x27;gladbach
 14
 6
@@ -119,17 +130,6 @@ Borussia M&#x27;gladbach
 4
 21
 WResult WinDResult DrawWResult WinLResult LossDResult DrawWResult Win
-11
-Stuttgart
-13
-5
-5
-3
-26
-23
-3
-20
-WResult WinDResult DrawLResult LossWResult WinDResult DrawWResult Win
 12
 Union Berlin
 14
@@ -154,15 +154,15 @@ Augsburg
 DResult DrawDResult DrawLResult LossWResult WinDResult DrawLResult Loss
 14
 Hoffenheim
-13
+14
 3
-4
+5
 6
-18
-25
+19
+26
 -7
-13
-DResult DrawLResult LossDResult DrawWResult WinLResult LossDResult Draw
+14
+LResult LossDResult DrawWResult WinLResult LossDResult DrawDResult Draw
 15
 St. Pauli
 14
@@ -176,15 +176,15 @@ St. Pauli
 WResult WinLResult LossLResult LossWResult WinLResult LossLResult Loss
 16
 Heidenheim
-13
+14
 3
 1
-9
-17
-28
--11
 10
-DResult DrawLResult LossLResult LossLResult LossLResult LossLResult Loss
+18
+31
+-13
+10
+LResult LossLResult LossLResult LossLResult LossLResult LossLResult Loss
 17
 Holstein Kiel
 14
