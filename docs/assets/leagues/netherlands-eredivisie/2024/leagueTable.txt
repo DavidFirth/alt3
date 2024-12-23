@@ -11,48 +11,48 @@ Points
 Form, Last 6 games, Oldest first
 1
 PSV
-16
-14
+17
+15
 0
 2
-56
+59
 13
-43
-42
-LResult LossWResult WinWResult WinWResult WinWResult WinLResult Loss
+46
+45
+WResult WinWResult WinWResult WinWResult WinLResult LossWResult Win
 2
 Ajax
-16
-11
+17
+12
 3
 2
-35
+37
 16
-19
-36
-DResult DrawWResult WinWResult WinDResult DrawLResult LossWResult Win
+21
+39
+WResult WinWResult WinDResult DrawLResult LossWResult WinWResult Win
 3
 Utrecht
-16
+17
 11
 3
-2
-32
-23
-9
+3
+34
+28
+6
 36
-WResult WinWResult WinLResult LossDResult DrawWResult WinDResult Draw
+WResult WinLResult LossDResult DrawWResult WinDResult DrawLResult Loss
 4
 Feyenoord
-16
+17
 10
 5
-1
+2
 40
-18
-22
+21
+19
 35
-WResult WinWResult WinWResult WinDResult DrawWResult WinWResult Win
+WResult WinWResult WinDResult DrawWResult WinWResult WinLResult Loss
 5
 AZ
 17
@@ -88,16 +88,27 @@ Go Ahead Eagles
 LResult LossWResult WinLResult LossWResult WinDResult DrawWResult Win
 8
 Fortuna Sittard
-16
-6
+17
+7
 4
 6
-20
-23
--3
-22
-WResult WinLResult LossLResult LossDResult DrawDResult DrawWResult Win
+25
+25
+0
+25
+LResult LossLResult LossDResult DrawDResult DrawWResult WinWResult Win
 9
+Willem II
+17
+6
+4
+7
+21
+19
+2
+22
+WResult WinDResult DrawLResult LossLResult LossWResult WinWResult Win
+10
 NAC Breda
 17
 7
@@ -108,7 +119,7 @@ NAC Breda
 -8
 22
 LResult LossDResult DrawWResult WinWResult WinLResult LossLResult Loss
-10
+11
 Heerenveen
 17
 6
@@ -119,28 +130,17 @@ Heerenveen
 -14
 21
 WResult WinLResult LossDResult DrawWResult WinWResult WinLResult Loss
-11
-Willem II
-16
-5
-4
-7
-17
-18
--1
-19
-LResult LossWResult WinDResult DrawLResult LossLResult LossWResult Win
 12
 NEC
-16
+17
 5
 2
-9
-22
-20
-2
+10
+23
+24
+-1
 17
-WResult WinWResult WinLResult LossLResult LossLResult LossDResult Draw
+WResult WinLResult LossLResult LossLResult LossDResult DrawLResult Loss
 13
 PEC Zwolle
 17
@@ -176,15 +176,15 @@ Heracles
 WResult WinLResult LossDResult DrawLResult LossDResult DrawLResult Loss
 16
 Sparta Rotterdam
-16
+17
 2
 6
-8
+9
 14
-24
--10
+26
+-12
 12
-LResult LossLResult LossLResult LossLResult LossLResult LossDResult Draw
+LResult LossLResult LossLResult LossLResult LossDResult DrawLResult Loss
 17
 Almere City
 17
