@@ -33,15 +33,15 @@ Napoli
 DResult DrawWResult WinWResult WinLResult LossWResult WinWResult Win
 3
 Inter Milan
-15
-10
+16
+11
 4
 1
-40
+42
 15
-25
-34
-WResult WinWResult WinDResult DrawWResult WinWResult WinWResult Win
+27
+37
+WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
 4
 Lazio
 17
@@ -55,15 +55,15 @@ Lazio
 WResult WinWResult WinLResult LossWResult WinLResult LossWResult Win
 5
 Fiorentina
-15
+16
 9
 4
-2
-28
-11
-17
+3
+29
+13
+16
 31
-WResult WinWResult WinWResult WinWResult WinWResult WinLResult Loss
+WResult WinWResult WinWResult WinWResult WinLResult LossLResult Loss
 6
 Juventus
 17
@@ -99,15 +99,15 @@ AC Milan
 DResult DrawDResult DrawWResult WinLResult LossDResult DrawWResult Win
 9
 Udinese
-16
-6
+17
+7
 2
 8
-19
-25
--6
-20
-LResult LossLResult LossDResult DrawLResult LossWResult WinLResult Loss
+21
+26
+-5
+23
+LResult LossDResult DrawLResult LossWResult WinLResult LossWResult Win
 10
 Roma
 17
@@ -164,17 +164,6 @@ Lecce
 16
 DResult DrawWResult WinDResult DrawLResult LossWResult WinLResult Loss
 15
-Como
-16
-3
-6
-7
-18
-28
--10
-15
-LResult LossDResult DrawLResult LossDResult DrawDResult DrawWResult Win
-16
 Parma
 17
 3
@@ -185,6 +174,17 @@ Parma
 -10
 15
 WResult WinLResult LossWResult WinLResult LossLResult LossLResult Loss
+16
+Como
+17
+3
+6
+8
+18
+30
+-12
+15
+DResult DrawLResult LossDResult DrawDResult DrawWResult WinLResult Loss
 17
 Hellas Verona
 17
