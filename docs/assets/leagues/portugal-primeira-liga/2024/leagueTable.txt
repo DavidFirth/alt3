@@ -10,6 +10,17 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1
+Benfica
+15
+12
+2
+1
+37
+8
+29
+38
+WResult WinWResult WinWResult WinDResult DrawWResult WinWResult Win
+2
 Sporting CP
 15
 12
@@ -20,7 +31,7 @@ Sporting CP
 33
 37
 WResult WinWResult WinLResult LossLResult LossWResult WinDResult Draw
-2
+3
 Porto
 15
 12
@@ -31,17 +42,6 @@ Porto
 27
 37
 WResult WinLResult LossWResult WinDResult DrawWResult WinWResult Win
-3
-Benfica
-14
-11
-2
-1
-34
-8
-26
-35
-WResult WinWResult WinWResult WinWResult WinDResult DrawWResult Win
 4
 Sporting Braga
 15
@@ -66,15 +66,15 @@ Santa Clara
 LResult LossWResult WinWResult WinWResult WinLResult LossLResult Loss
 6
 Vitória Guimarães
-14
+15
 6
+5
 4
+20
+16
 4
-18
-14
-4
-22
-DResult DrawWResult WinLResult LossWResult WinLResult LossDResult Draw
+23
+WResult WinLResult LossWResult WinLResult LossDResult DrawDResult Draw
 7
 Casa Pia
 15
@@ -121,27 +121,49 @@ Gil Vicente
 LResult LossLResult LossLResult LossWResult WinWResult WinDResult Draw
 11
 Rio Ave
-14
-4
-4
-6
 15
-25
--10
+4
+4
+7
+15
+26
+-11
 16
-LResult LossDResult DrawWResult WinWResult WinLResult LossDResult Draw
+DResult DrawWResult WinWResult WinLResult LossDResult DrawLResult Loss
 12
+Estrela
+15
+4
+3
+8
+13
+24
+-11
+15
+LResult LossWResult WinLResult LossWResult WinLResult LossWResult Win
+13
 Estoril
-14
+15
 3
 5
-6
+7
 12
-21
--9
+24
+-12
 14
-WResult WinLResult LossDResult DrawWResult WinDResult DrawLResult Loss
+LResult LossDResult DrawWResult WinDResult DrawLResult LossLResult Loss
+14
+Nacional
+15
+3
+4
+8
+10
+21
+-11
 13
+LResult LossDResult DrawLResult LossWResult WinLResult LossDResult Draw
+15
 AVS
 15
 2
@@ -152,40 +174,7 @@ AVS
 -11
 13
 LResult LossDResult DrawLResult LossDResult DrawDResult DrawDResult Draw
-14
-Nacional
-14
-3
-3
-8
-8
-19
--11
-12
-WResult WinLResult LossDResult DrawLResult LossWResult WinLResult Loss
-15
-Estrela
-14
-3
-3
-8
-12
-24
--12
-12
-DResult DrawLResult LossWResult WinLResult LossWResult WinLResult Loss
 16
-Farense
-15
-3
-3
-9
-9
-21
--12
-12
-LResult LossDResult DrawWResult WinDResult DrawLResult LossWResult Win
-17
 Boavista
 15
 2
@@ -196,6 +185,17 @@ Boavista
 -9
 12
 WResult WinLResult LossDResult DrawDResult DrawLResult LossDResult Draw
+17
+Farense
+15
+3
+3
+9
+9
+21
+-12
+12
+LResult LossDResult DrawWResult WinDResult DrawLResult LossWResult Win
 18
 Arouca
 15
