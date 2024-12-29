@@ -10,6 +10,17 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1
+Sporting CP
+16
+13
+1
+2
+44
+10
+34
+40
+WResult WinLResult LossLResult LossWResult WinDResult DrawWResult Win
+2
 Porto
 16
 13
@@ -20,39 +31,28 @@ Porto
 31
 40
 LResult LossWResult WinDResult DrawWResult WinWResult WinWResult Win
-2
-Benfica
-15
-12
-2
-1
-37
-8
-29
-38
-WResult WinWResult WinWResult WinDResult DrawWResult WinWResult Win
 3
-Sporting CP
-15
+Benfica
+16
 12
-1
 2
-43
-10
-33
+2
 37
-WResult WinWResult WinLResult LossLResult LossWResult WinDResult Draw
+9
+28
+38
+WResult WinWResult WinDResult DrawWResult WinWResult WinLResult Loss
 4
 Sporting Braga
-15
+16
 8
 4
-3
-27
-16
-11
+4
 28
-WResult WinLResult LossWResult WinDResult DrawDResult DrawWResult Win
+18
+10
+28
+LResult LossWResult WinDResult DrawDResult DrawWResult WinLResult Loss
 5
 Santa Clara
 15
@@ -66,16 +66,27 @@ Santa Clara
 LResult LossWResult WinWResult WinWResult WinLResult LossLResult Loss
 6
 Vitória Guimarães
-15
+16
+6
+6
+4
+22
+18
+4
+24
+LResult LossWResult WinLResult LossDResult DrawDResult DrawDResult Draw
+7
+Casa Pia
+16
 6
 5
-4
-20
-16
-4
+5
+18
+19
+-1
 23
-WResult WinLResult LossWResult WinLResult LossDResult DrawDResult Draw
-7
+DResult DrawLResult LossDResult DrawWResult WinWResult WinWResult Win
+8
 Moreirense
 16
 6
@@ -86,17 +97,6 @@ Moreirense
 -3
 21
 WResult WinLResult LossWResult WinLResult LossLResult LossDResult Draw
-8
-Casa Pia
-15
-5
-5
-5
-16
-18
--2
-20
-DResult DrawDResult DrawLResult LossDResult DrawWResult WinWResult Win
 9
 Famalicão
 15
@@ -109,6 +109,17 @@ Famalicão
 19
 WResult WinDResult DrawLResult LossDResult DrawDResult DrawLResult Loss
 10
+Rio Ave
+16
+5
+4
+7
+17
+27
+-10
+19
+WResult WinWResult WinLResult LossDResult DrawLResult LossWResult Win
+11
 Gil Vicente
 16
 4
@@ -119,7 +130,7 @@ Gil Vicente
 -7
 18
 LResult LossLResult LossWResult WinWResult WinDResult DrawDResult Draw
-11
+12
 Estrela
 16
 4
@@ -130,17 +141,6 @@ Estrela
 -11
 16
 WResult WinLResult LossWResult WinLResult LossWResult WinDResult Draw
-12
-Rio Ave
-15
-4
-4
-7
-15
-26
--11
-16
-DResult DrawWResult WinWResult WinLResult LossDResult DrawLResult Loss
 13
 Estoril
 16
@@ -165,38 +165,27 @@ AVS
 DResult DrawLResult LossDResult DrawDResult DrawDResult DrawDResult Draw
 15
 Nacional
-15
+16
 3
 4
-8
-10
-21
--11
-13
-LResult LossDResult DrawLResult LossWResult WinLResult LossDResult Draw
-16
-Arouca
-16
-3
-3
-10
-10
-27
--17
-12
-DResult DrawLResult LossLResult LossWResult WinLResult LossDResult Draw
-17
-Farense
-15
-3
-3
 9
-9
-21
+11
+23
 -12
-12
-LResult LossDResult DrawWResult WinDResult DrawLResult LossWResult Win
-18
+13
+DResult DrawLResult LossWResult WinLResult LossDResult DrawLResult Loss
+16
+Farense
+16
+3
+4
+9
+11
+23
+-12
+13
+DResult DrawWResult WinDResult DrawLResult LossWResult WinDResult Draw
+17
 Boavista
 16
 2
@@ -205,4 +194,15 @@ Boavista
 10
 23
 -13
+12
+LResult LossDResult DrawDResult DrawLResult LossDResult DrawLResult Loss
+18
+Arouca
+16
+3
+3
+10
+10
+27
+-17
 12
