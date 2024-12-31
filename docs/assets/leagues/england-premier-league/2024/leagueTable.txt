@@ -44,16 +44,27 @@ Arsenal
 WResult WinWResult WinDResult DrawDResult DrawWResult WinWResult Win
 4
 Chelsea
-18
+19
 10
 5
-3
+4
 38
-21
-17
+23
+15
 35
-WResult WinWResult WinWResult WinWResult WinDResult DrawLResult Loss
+WResult WinWResult WinWResult WinDResult DrawLResult LossLResult Loss
 5
+Newcastle United
+19
+9
+5
+5
+32
+21
+11
+32
+DResult DrawLResult LossWResult WinWResult WinWResult WinWResult Win
+6
 Manchester City
 19
 9
@@ -64,7 +75,7 @@ Manchester City
 6
 31
 WResult WinDResult DrawLResult LossLResult LossDResult DrawWResult Win
-6
+7
 AFC Bournemouth
 19
 8
@@ -75,17 +86,6 @@ AFC Bournemouth
 6
 30
 WResult WinWResult WinDResult DrawWResult WinDResult DrawDResult Draw
-7
-Newcastle United
-18
-8
-5
-5
-30
-21
-9
-29
-DResult DrawDResult DrawLResult LossWResult WinWResult WinWResult Win
 8
 Fulham
 19
@@ -99,26 +99,26 @@ Fulham
 WResult WinDResult DrawDResult DrawDResult DrawWResult WinDResult Draw
 9
 Aston Villa
-18
+19
 8
-4
+5
 6
-26
-29
--3
 28
-LResult LossWResult WinWResult WinLResult LossWResult WinLResult Loss
+31
+-3
+29
+WResult WinWResult WinLResult LossWResult WinLResult LossDResult Draw
 10
 Brighton &amp; Hove Albion
-18
+19
 6
-8
+9
 4
-27
-26
+29
+28
 1
-26
-DResult DrawLResult LossDResult DrawLResult LossDResult DrawDResult Draw
+27
+LResult LossDResult DrawLResult LossDResult DrawDResult DrawDResult Draw
 11
 Tottenham Hotspur
 19
@@ -154,15 +154,15 @@ West Ham United
 LResult LossWResult WinDResult DrawDResult DrawWResult WinLResult Loss
 14
 Manchester United
-18
+19
 6
 4
-8
+9
 21
-24
--3
+26
+-5
 22
-WResult WinLResult LossLResult LossWResult WinLResult LossLResult Loss
+LResult LossLResult LossWResult WinLResult LossLResult LossLResult Loss
 15
 Crystal Palace
 19
@@ -197,6 +197,17 @@ Wolverhampton Wanderers
 16
 LResult LossLResult LossLResult LossWResult WinWResult WinDResult Draw
 18
+Ipswich Town
+19
+3
+6
+10
+18
+33
+-15
+15
+LResult LossLResult LossWResult WinLResult LossLResult LossWResult Win
+19
 Leicester City
 19
 3
@@ -207,17 +218,6 @@ Leicester City
 -20
 14
 WResult WinDResult DrawLResult LossLResult LossLResult LossLResult Loss
-19
-Ipswich Town
-18
-2
-6
-10
-16
-33
--17
-12
-LResult LossLResult LossLResult LossWResult WinLResult LossLResult Loss
 20
 Southampton
 19
