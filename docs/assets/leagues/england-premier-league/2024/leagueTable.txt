@@ -22,15 +22,15 @@ Liverpool
 WResult WinDResult DrawDResult DrawWResult WinWResult WinWResult Win
 2
 Arsenal
-19
+20
 11
-6
+7
 2
-38
-17
-21
 39
-WResult WinDResult DrawDResult DrawWResult WinWResult WinWResult Win
+18
+21
+40
+DResult DrawDResult DrawWResult WinWResult WinWResult WinDResult Draw
 3
 Nottingham Forest
 19
@@ -44,49 +44,60 @@ Nottingham Forest
 LResult LossWResult WinWResult WinWResult WinWResult WinWResult Win
 4
 Chelsea
-19
+20
 10
-5
+6
 4
-38
-23
+39
+24
 15
-35
-WResult WinWResult WinWResult WinDResult DrawLResult LossLResult Loss
+36
+WResult WinWResult WinDResult DrawLResult LossLResult LossDResult Draw
 5
 Newcastle United
-19
-9
+20
+10
 5
 5
-32
-21
-11
-32
-DResult DrawLResult LossWResult WinWResult WinWResult WinWResult Win
+34
+22
+12
+35
+LResult LossWResult WinWResult WinWResult WinWResult WinWResult Win
 6
 Manchester City
-19
-9
+20
+10
 4
 6
-32
-26
-6
-31
-WResult WinDResult DrawLResult LossLResult LossDResult DrawWResult Win
+36
+27
+9
+34
+DResult DrawLResult LossLResult LossDResult DrawWResult WinWResult Win
 7
 AFC Bournemouth
-19
-8
+20
+9
 6
 5
-29
+30
 23
+7
+33
+WResult WinDResult DrawWResult WinDResult DrawDResult DrawWResult Win
+8
+Aston Villa
+20
+9
+5
 6
 30
-WResult WinWResult WinDResult DrawWResult WinDResult DrawDResult Draw
-8
+32
+-2
+32
+WResult WinLResult LossWResult WinLResult LossDResult DrawWResult Win
+9
 Fulham
 19
 7
@@ -97,61 +108,50 @@ Fulham
 3
 29
 WResult WinDResult DrawDResult DrawDResult DrawWResult WinDResult Draw
-9
-Aston Villa
-19
-8
-5
-6
-28
-31
--3
-29
-WResult WinWResult WinLResult LossWResult WinLResult LossDResult Draw
 10
 Brighton &amp; Hove Albion
-19
+20
 6
-9
+10
 4
+30
 29
-28
 1
-27
-LResult LossDResult DrawLResult LossDResult DrawDResult DrawDResult Draw
-11
-Tottenham Hotspur
-19
-7
-3
-9
-41
 28
-13
-24
-LResult LossLResult LossWResult WinLResult LossLResult LossDResult Draw
-12
+DResult DrawLResult LossDResult DrawDResult DrawDResult DrawDResult Draw
+11
 Brentford
-19
-7
+20
+8
 3
 9
-33
+38
 35
--2
+3
+27
+WResult WinLResult LossLResult LossDResult DrawLResult LossWResult Win
+12
+Tottenham Hotspur
+20
+7
+3
+10
+42
+30
+12
 24
 LResult LossWResult WinLResult LossLResult LossDResult DrawLResult Loss
 13
 West Ham United
-19
+20
 6
 5
-8
+9
+24
+39
+-15
 23
-35
--12
-23
-LResult LossWResult WinDResult DrawDResult DrawWResult WinLResult Loss
+WResult WinDResult DrawDResult DrawWResult WinLResult LossLResult Loss
 14
 Manchester United
 19
@@ -165,26 +165,26 @@ Manchester United
 LResult LossLResult LossWResult WinLResult LossLResult LossLResult Loss
 15
 Crystal Palace
-19
+20
 4
-8
+9
 7
-20
-27
+21
+28
 -7
-20
-WResult WinDResult DrawWResult WinLResult LossDResult DrawWResult Win
+21
+DResult DrawWResult WinLResult LossDResult DrawWResult WinDResult Draw
 16
 Everton
-18
+19
 3
 8
-7
+8
 15
-24
--9
+25
+-10
 17
-LResult LossWResult WinDResult DrawDResult DrawDResult DrawLResult Loss
+WResult WinDResult DrawDResult DrawDResult DrawLResult LossLResult Loss
 17
 Wolverhampton Wanderers
 19
@@ -209,22 +209,22 @@ Ipswich Town
 LResult LossLResult LossWResult WinLResult LossLResult LossWResult Win
 19
 Leicester City
-19
+20
 3
 5
-11
-22
-42
--20
+12
+23
+44
+-21
 14
-WResult WinDResult DrawLResult LossLResult LossLResult LossLResult Loss
+DResult DrawLResult LossLResult LossLResult LossLResult LossLResult Loss
 20
 Southampton
-19
+20
 1
 3
-15
+16
 12
-39
--27
+44
+-32
 6
