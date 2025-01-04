@@ -43,6 +43,28 @@ Monaco
 30
 WResult WinWResult WinLResult LossWResult WinDResult DrawLResult Loss
 4
+Lille
+16
+7
+7
+2
+26
+16
+10
+28
+DResult DrawWResult WinDResult DrawWResult WinDResult DrawDResult Draw
+5
+Olympique Lyonnais
+16
+8
+4
+4
+28
+20
+8
+28
+WResult WinDResult DrawWResult WinWResult WinLResult LossWResult Win
+6
 Nice
 16
 7
@@ -53,28 +75,6 @@ Nice
 10
 27
 DResult DrawWResult WinLResult LossWResult WinDResult DrawWResult Win
-5
-Lille
-15
-7
-6
-2
-25
-15
-10
-27
-DResult DrawDResult DrawWResult WinDResult DrawWResult WinDResult Draw
-6
-Olympique Lyonnais
-15
-7
-4
-4
-27
-20
-7
-25
-DResult DrawWResult WinDResult DrawWResult WinWResult WinLResult Loss
 7
 Lens
 15
@@ -110,15 +110,15 @@ Toulouse
 WResult WinWResult WinLResult LossWResult WinLResult LossWResult Win
 10
 Reims
-15
+16
 5
 5
-5
+6
+21
+21
+0
 20
-18
-2
-20
-LResult LossWResult WinDResult DrawLResult LossDResult DrawDResult Draw
+WResult WinDResult DrawLResult LossDResult DrawDResult DrawLResult Loss
 11
 Brest
 15
@@ -153,17 +153,28 @@ Strasbourg
 17
 LResult LossLResult LossLResult LossLResult LossDResult DrawWResult Win
 14
-Nantes
-15
-3
+Saint-Étienne
+16
 5
-7
-17
-24
--7
-14
-LResult LossLResult LossLResult LossDResult DrawWResult WinLResult Loss
+1
+10
 15
+35
+-20
+16
+LResult LossWResult WinLResult LossLResult LossLResult LossWResult Win
+15
+Nantes
+16
+3
+6
+7
+18
+25
+-7
+15
+LResult LossLResult LossDResult DrawWResult WinLResult LossDResult Draw
+16
 Angers SCO
 15
 3
@@ -174,17 +185,6 @@ Angers SCO
 -12
 13
 WResult WinLResult LossLResult LossWResult WinLResult LossLResult Loss
-16
-Saint-Étienne
-15
-4
-1
-10
-12
-34
--22
-13
-WResult WinLResult LossWResult WinLResult LossLResult LossLResult Loss
 17
 Le Havre
 15
@@ -198,11 +198,11 @@ Le Havre
 WResult WinLResult LossWResult WinLResult LossLResult LossLResult Loss
 18
 Montpellier
-15
+16
 2
 3
-10
+11
 15
-38
--23
+39
+-24
 9
