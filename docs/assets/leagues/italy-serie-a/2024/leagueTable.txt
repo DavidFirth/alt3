@@ -10,6 +10,17 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1
+Napoli
+19
+14
+2
+3
+30
+12
+18
+44
+WResult WinLResult LossWResult WinWResult WinWResult WinWResult Win
+2
 Atalanta
 18
 13
@@ -20,17 +31,6 @@ Atalanta
 23
 41
 WResult WinWResult WinWResult WinWResult WinWResult WinDResult Draw
-2
-Napoli
-18
-13
-2
-3
-27
-12
-15
-41
-WResult WinWResult WinLResult LossWResult WinWResult WinWResult Win
 3
 Inter Milan
 17
@@ -54,17 +54,6 @@ Lazio
 35
 WResult WinLResult LossWResult WinLResult LossWResult WinDResult Draw
 5
-Fiorentina
-17
-9
-5
-3
-31
-15
-16
-32
-WResult WinWResult WinWResult WinLResult LossLResult LossDResult Draw
-6
 Juventus
 18
 7
@@ -75,6 +64,17 @@ Juventus
 15
 32
 DResult DrawDResult DrawDResult DrawDResult DrawWResult WinDResult Draw
+6
+Fiorentina
+18
+9
+5
+4
+31
+18
+13
+32
+WResult WinWResult WinLResult LossLResult LossDResult DrawLResult Loss
 7
 Bologna
 17
@@ -99,15 +99,15 @@ AC Milan
 DResult DrawWResult WinLResult LossDResult DrawWResult WinDResult Draw
 9
 Udinese
-18
+19
 7
-3
+4
 8
 23
 28
 -5
-24
-DResult DrawLResult LossWResult WinLResult LossWResult WinDResult Draw
+25
+LResult LossWResult WinLResult LossWResult WinDResult DrawDResult Draw
 10
 Roma
 18
@@ -132,15 +132,15 @@ Torino
 DResult DrawLResult LossDResult DrawWResult WinLResult LossDResult Draw
 12
 Empoli
-18
-4
-7
-7
-17
-21
--4
 19
-DResult DrawLResult LossWResult WinLResult LossLResult LossLResult Loss
+4
+8
+7
+18
+22
+-4
+20
+LResult LossWResult WinLResult LossLResult LossLResult LossDResult Draw
 13
 Genoa
 18
@@ -153,6 +153,17 @@ Genoa
 19
 DResult DrawWResult WinDResult DrawDResult DrawLResult LossWResult Win
 14
+Hellas Verona
+19
+6
+1
+12
+24
+42
+-18
+19
+LResult LossLResult LossWResult WinLResult LossWResult WinDResult Draw
+15
 Parma
 18
 4
@@ -163,7 +174,7 @@ Parma
 -9
 18
 LResult LossWResult WinLResult LossLResult LossLResult LossWResult Win
-15
+16
 Como
 18
 4
@@ -174,17 +185,6 @@ Como
 -10
 18
 LResult LossDResult DrawDResult DrawWResult WinLResult LossWResult Win
-16
-Hellas Verona
-18
-6
-0
-12
-24
-42
--18
-18
-LResult LossLResult LossLResult LossWResult WinLResult LossWResult Win
 17
 Lecce
 18
@@ -209,15 +209,15 @@ Cagliari
 DResult DrawWResult WinLResult LossLResult LossLResult LossLResult Loss
 19
 Venezia
-18
+19
 3
-4
+5
 11
-17
-31
+18
+32
 -14
-13
-LResult LossLResult LossDResult DrawDResult DrawWResult WinLResult Loss
+14
+LResult LossDResult DrawDResult DrawWResult WinLResult LossDResult Draw
 20
 Monza
 18
