@@ -33,16 +33,27 @@ Porto
 LResult LossWResult WinDResult DrawWResult WinWResult WinWResult Win
 3
 Benfica
-16
+17
 12
 2
-2
-37
-9
-28
+3
 38
-WResult WinWResult WinDResult DrawWResult WinWResult WinLResult Loss
+11
+27
+38
+WResult WinDResult DrawWResult WinWResult WinLResult LossLResult Loss
 4
+Sporting Braga
+17
+9
+4
+4
+30
+19
+11
+31
+WResult WinDResult DrawDResult DrawWResult WinLResult LossWResult Win
+5
 Santa Clara
 16
 10
@@ -53,17 +64,6 @@ Santa Clara
 2
 30
 WResult WinWResult WinWResult WinLResult LossLResult LossWResult Win
-5
-Sporting Braga
-16
-8
-4
-4
-28
-18
-10
-28
-LResult LossWResult WinDResult DrawDResult DrawWResult WinLResult Loss
 6
 Vitória Guimarães
 17
@@ -88,15 +88,15 @@ Casa Pia
 DResult DrawLResult LossDResult DrawWResult WinWResult WinWResult Win
 8
 Moreirense
-16
+17
 6
-3
+4
 7
-21
-24
+22
+25
 -3
-21
-WResult WinLResult LossWResult WinLResult LossLResult LossDResult Draw
+22
+LResult LossWResult WinLResult LossLResult LossDResult DrawDResult Draw
 9
 Famalicão
 16
@@ -154,16 +154,27 @@ Estoril
 DResult DrawWResult WinDResult DrawLResult LossLResult LossDResult Draw
 14
 AVS
-16
+17
 2
-8
+9
 6
-12
-23
+13
+24
 -11
-14
-DResult DrawLResult LossDResult DrawDResult DrawDResult DrawDResult Draw
 15
+LResult LossDResult DrawDResult DrawDResult DrawDResult DrawDResult Draw
+15
+Arouca
+17
+4
+3
+10
+13
+28
+-15
+15
+LResult LossLResult LossWResult WinLResult LossDResult DrawWResult Win
+16
 Nacional
 16
 3
@@ -174,7 +185,7 @@ Nacional
 -12
 13
 DResult DrawLResult LossWResult WinLResult LossDResult DrawLResult Loss
-16
+17
 Farense
 16
 3
@@ -185,24 +196,13 @@ Farense
 -12
 13
 DResult DrawWResult WinDResult DrawLResult LossWResult WinDResult Draw
-17
+18
 Boavista
-16
+17
 2
 6
-8
-10
-23
--13
-12
-LResult LossDResult DrawDResult DrawLResult LossDResult DrawLResult Loss
-18
-Arouca
-16
-3
-3
-10
-10
-27
--17
+9
+11
+26
+-15
 12
