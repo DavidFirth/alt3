@@ -44,15 +44,15 @@ Inter Milan
 DResult DrawWResult WinWResult WinWResult WinWResult WinWResult Win
 4
 Lazio
-18
+19
 11
 2
-5
+6
 33
-25
-8
+27
+6
 35
-WResult WinLResult LossWResult WinLResult LossWResult WinDResult Draw
+LResult LossWResult WinLResult LossWResult WinDResult DrawLResult Loss
 5
 Juventus
 18
@@ -110,26 +110,26 @@ Udinese
 LResult LossWResult WinLResult LossWResult WinDResult DrawDResult Draw
 10
 Roma
-18
-5
+19
+6
 5
 8
+26
 24
-24
-0
-20
-LResult LossLResult LossWResult WinLResult LossWResult WinDResult Draw
+2
+23
+LResult LossWResult WinLResult LossWResult WinDResult DrawWResult Win
 11
 Torino
-18
+19
 5
-5
+6
 8
 19
 24
 -5
-20
-DResult DrawLResult LossDResult DrawWResult WinLResult LossDResult Draw
+21
+LResult LossDResult DrawWResult WinLResult LossDResult DrawDResult Draw
 12
 Empoli
 19
@@ -143,16 +143,27 @@ Empoli
 LResult LossWResult WinLResult LossLResult LossLResult LossDResult Draw
 13
 Genoa
-18
+19
 4
-7
+8
 7
 16
 27
 -11
-19
-DResult DrawWResult WinDResult DrawDResult DrawLResult LossWResult Win
+20
+WResult WinDResult DrawDResult DrawLResult LossWResult WinDResult Draw
 14
+Parma
+19
+4
+7
+8
+25
+34
+-9
+19
+WResult WinLResult LossLResult LossLResult LossWResult WinDResult Draw
+15
 Hellas Verona
 19
 6
@@ -163,17 +174,6 @@ Hellas Verona
 -18
 19
 LResult LossLResult LossWResult WinLResult LossWResult WinDResult Draw
-15
-Parma
-18
-4
-6
-8
-25
-34
--9
-18
-LResult LossWResult WinLResult LossLResult LossLResult LossWResult Win
 16
 Como
 18
@@ -186,27 +186,27 @@ Como
 18
 LResult LossDResult DrawDResult DrawWResult WinLResult LossWResult Win
 17
-Lecce
+Cagliari
+19
+4
+5
+10
 18
+32
+-14
+17
+WResult WinLResult LossLResult LossLResult LossLResult LossWResult Win
+18
+Lecce
+19
 4
-4
+5
 10
 11
 31
 -20
-16
-WResult WinDResult DrawLResult LossWResult WinLResult LossLResult Loss
-18
-Cagliari
-18
-3
-5
-10
-16
-31
--15
-14
-DResult DrawWResult WinLResult LossLResult LossLResult LossLResult Loss
+17
+DResult DrawLResult LossWResult WinLResult LossLResult LossDResult Draw
 19
 Venezia
 19
@@ -220,11 +220,11 @@ Venezia
 LResult LossDResult DrawDResult DrawWResult WinLResult LossDResult Draw
 20
 Monza
-18
+19
 1
 7
-10
-16
-25
--9
+11
+17
+27
+-10
 10
