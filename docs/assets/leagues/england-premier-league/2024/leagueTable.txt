@@ -11,15 +11,15 @@ Points
 Form, Last 6 games, Oldest first
 1
 Liverpool
-18
+19
 14
-3
+4
 1
-45
-17
+47
+19
 28
-45
-WResult WinDResult DrawDResult DrawWResult WinWResult WinWResult Win
+46
+DResult DrawDResult DrawWResult WinWResult WinWResult WinDResult Draw
 2
 Arsenal
 20
@@ -99,15 +99,15 @@ Aston Villa
 WResult WinLResult LossWResult WinLResult LossDResult DrawWResult Win
 9
 Fulham
-19
+20
 7
-8
+9
 4
-28
-25
+30
+27
 3
-29
-WResult WinDResult DrawDResult DrawDResult DrawWResult WinDResult Draw
+30
+DResult DrawDResult DrawDResult DrawWResult WinDResult DrawDResult Draw
 10
 Brighton &amp; Hove Albion
 20
@@ -142,6 +142,17 @@ Tottenham Hotspur
 24
 LResult LossWResult WinLResult LossLResult LossDResult DrawLResult Loss
 13
+Manchester United
+20
+6
+5
+9
+23
+28
+-5
+23
+LResult LossWResult WinLResult LossLResult LossLResult LossDResult Draw
+14
 West Ham United
 20
 6
@@ -152,17 +163,6 @@ West Ham United
 -15
 23
 WResult WinDResult DrawDResult DrawWResult WinLResult LossLResult Loss
-14
-Manchester United
-19
-6
-4
-9
-21
-26
--5
-22
-LResult LossLResult LossWResult WinLResult LossLResult LossLResult Loss
 15
 Crystal Palace
 20
@@ -198,15 +198,15 @@ Wolverhampton Wanderers
 LResult LossLResult LossLResult LossWResult WinWResult WinDResult Draw
 18
 Ipswich Town
-19
+20
 3
-6
+7
 10
-18
-33
+20
+35
 -15
-15
-LResult LossLResult LossWResult WinLResult LossLResult LossWResult Win
+16
+LResult LossWResult WinLResult LossLResult LossWResult WinDResult Draw
 19
 Leicester City
 20
