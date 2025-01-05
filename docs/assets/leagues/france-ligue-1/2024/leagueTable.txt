@@ -22,15 +22,15 @@ PSG
 WResult WinWResult WinDResult DrawDResult DrawWResult WinWResult Win
 2
 Olympique Marseille
-15
-9
+16
+10
 3
 3
-32
+37
+19
 18
-14
-30
-WResult WinLResult LossWResult WinWResult WinWResult WinDResult Draw
+33
+LResult LossWResult WinWResult WinWResult WinDResult DrawWResult Win
 3
 Monaco
 16
@@ -77,38 +77,49 @@ Nice
 DResult DrawWResult WinLResult LossWResult WinDResult DrawWResult Win
 7
 Lens
-15
+16
 6
 6
-3
+4
 19
-14
-5
+15
+4
 24
-LResult LossWResult WinLResult LossWResult WinWResult WinDResult Draw
+WResult WinLResult LossWResult WinWResult WinDResult DrawLResult Loss
 8
-Auxerre
-15
-6
-3
-6
-23
-23
-0
-21
-WResult WinWResult WinWResult WinLResult LossDResult DrawDResult Draw
-9
 Toulouse
-15
-6
+16
+7
 3
 6
+18
 17
-17
-0
+1
+24
+WResult WinLResult LossWResult WinLResult LossWResult WinWResult Win
+9
+Auxerre
+16
+6
+3
+7
+24
+26
+-2
 21
-WResult WinWResult WinLResult LossWResult WinLResult LossWResult Win
+WResult WinWResult WinLResult LossDResult DrawDResult DrawLResult Loss
 10
+Strasbourg
+16
+5
+5
+6
+28
+28
+0
+20
+LResult LossLResult LossLResult LossDResult DrawWResult WinWResult Win
+11
 Reims
 16
 5
@@ -119,18 +130,18 @@ Reims
 0
 20
 WResult WinDResult DrawLResult LossDResult DrawDResult DrawLResult Loss
-11
+12
 Brest
-15
+16
 6
 1
-8
+9
 24
-27
--3
+29
+-5
 19
-LResult LossLResult LossLResult LossWResult WinLResult LossWResult Win
-12
+LResult LossLResult LossWResult WinLResult LossWResult WinLResult Loss
+13
 Rennes
 16
 5
@@ -141,18 +152,18 @@ Rennes
 -1
 17
 LResult LossLResult LossWResult WinLResult LossWResult WinLResult Loss
-13
-Strasbourg
-15
-4
-5
-6
-25
-27
--2
-17
-LResult LossLResult LossLResult LossLResult LossDResult DrawWResult Win
 14
+Angers SCO
+16
+4
+4
+8
+16
+26
+-10
+16
+LResult LossLResult LossWResult WinLResult LossLResult LossWResult Win
+15
 Saint-Étienne
 16
 5
@@ -163,7 +174,7 @@ Saint-Étienne
 -20
 16
 LResult LossWResult WinLResult LossLResult LossLResult LossWResult Win
-15
+16
 Nantes
 16
 3
@@ -174,28 +185,17 @@ Nantes
 -7
 15
 LResult LossLResult LossDResult DrawWResult WinLResult LossDResult Draw
-16
-Angers SCO
-15
-3
-4
-8
-14
-26
--12
-13
-WResult WinLResult LossLResult LossWResult WinLResult LossLResult Loss
 17
 Le Havre
-15
+16
 4
 0
-11
-11
-29
--18
 12
-WResult WinLResult LossWResult WinLResult LossLResult LossLResult Loss
+12
+34
+-22
+12
+LResult LossWResult WinLResult LossLResult LossLResult LossLResult Loss
 18
 Montpellier
 16
