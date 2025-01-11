@@ -33,26 +33,26 @@ Olympique Marseille
 LResult LossWResult WinWResult WinWResult WinDResult DrawWResult Win
 3
 Monaco
-16
+17
 9
-3
 4
-26
-16
+4
+28
+18
 10
-30
-WResult WinWResult WinLResult LossWResult WinDResult DrawLResult Loss
+31
+WResult WinLResult LossWResult WinDResult DrawLResult LossDResult Draw
 4
 Lille
-16
+17
 7
-7
+8
 2
 26
 16
 10
-28
-DResult DrawWResult WinDResult DrawWResult WinDResult DrawDResult Draw
+29
+WResult WinDResult DrawWResult WinDResult DrawDResult DrawDResult Draw
 5
 Olympique Lyonnais
 16
@@ -99,15 +99,15 @@ Toulouse
 WResult WinLResult LossWResult WinLResult LossWResult WinWResult Win
 9
 Auxerre
-16
+17
 6
-3
+4
 7
 24
 26
 -2
-21
-WResult WinWResult WinLResult LossDResult DrawDResult DrawLResult Loss
+22
+WResult WinLResult LossDResult DrawDResult DrawLResult LossDResult Draw
 10
 Strasbourg
 16
@@ -153,6 +153,17 @@ Rennes
 17
 LResult LossLResult LossWResult WinLResult LossWResult WinLResult Loss
 14
+Nantes
+17
+3
+7
+7
+20
+27
+-7
+16
+LResult LossDResult DrawWResult WinLResult LossDResult DrawDResult Draw
+15
 Angers SCO
 16
 4
@@ -163,7 +174,7 @@ Angers SCO
 -10
 16
 LResult LossLResult LossWResult WinLResult LossLResult LossWResult Win
-15
+16
 Saint-Étienne
 16
 5
@@ -174,17 +185,6 @@ Saint-Étienne
 -20
 16
 LResult LossWResult WinLResult LossLResult LossLResult LossWResult Win
-16
-Nantes
-16
-3
-6
-7
-18
-25
--7
-15
-LResult LossLResult LossDResult DrawWResult WinLResult LossDResult Draw
 17
 Le Havre
 16
