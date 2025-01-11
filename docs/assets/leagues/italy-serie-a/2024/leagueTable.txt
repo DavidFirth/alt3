@@ -44,15 +44,15 @@ Inter Milan
 DResult DrawWResult WinWResult WinWResult WinWResult WinWResult Win
 4
 Lazio
-19
+20
 11
-2
+3
 6
-33
-27
+34
+28
 6
-35
-LResult LossWResult WinLResult LossWResult WinDResult DrawLResult Loss
+36
+WResult WinLResult LossWResult WinDResult DrawLResult LossDResult Draw
 5
 Juventus
 18
@@ -164,6 +164,17 @@ Parma
 19
 WResult WinLResult LossLResult LossLResult LossWResult WinDResult Draw
 15
+Como
+19
+4
+7
+8
+21
+31
+-10
+19
+DResult DrawDResult DrawWResult WinLResult LossWResult WinDResult Draw
+16
 Hellas Verona
 19
 6
@@ -174,17 +185,6 @@ Hellas Verona
 -18
 19
 LResult LossLResult LossWResult WinLResult LossWResult WinDResult Draw
-16
-Como
-18
-4
-6
-8
-20
-30
--10
-18
-LResult LossDResult DrawDResult DrawWResult WinLResult LossWResult Win
 17
 Cagliari
 19
