@@ -9,6 +9,8 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
+**This page is currently not being updated, because there is inconsistency between match results and league table (due to the disputed result of Union Berlin vs Bochum on 14 December).**
+
 <!-- {% include leagues/new-season-message.md %} -->
 
 {% include leagues/update-time.md %}
