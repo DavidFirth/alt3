@@ -11,16 +11,27 @@ Points
 Form, Last 6 games, Oldest first
 1
 Napoli
-19
-14
+20
+15
 2
 3
-30
+32
 12
-18
-44
-WResult WinLResult LossWResult WinWResult WinWResult WinWResult Win
+20
+47
+LResult LossWResult WinWResult WinWResult WinWResult WinWResult Win
 2
+Inter Milan
+18
+13
+4
+1
+46
+15
+31
+43
+WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
+3
 Atalanta
 19
 13
@@ -31,17 +42,6 @@ Atalanta
 23
 42
 WResult WinWResult WinWResult WinWResult WinDResult DrawDResult Draw
-3
-Inter Milan
-17
-12
-4
-1
-45
-15
-30
-40
-DResult DrawWResult WinWResult WinWResult WinWResult WinWResult Win
 4
 Lazio
 20
@@ -77,15 +77,15 @@ Fiorentina
 WResult WinWResult WinLResult LossLResult LossDResult DrawLResult Loss
 7
 Bologna
-17
+18
 7
-7
+8
 3
-25
-21
+27
+23
 4
-28
-LResult LossWResult WinDResult DrawWResult WinWResult WinLResult Loss
+29
+WResult WinDResult DrawWResult WinWResult WinLResult LossDResult Draw
 8
 AC Milan
 18
@@ -110,16 +110,27 @@ Udinese
 WResult WinLResult LossWResult WinDResult DrawDResult DrawDResult Draw
 10
 Roma
-19
+20
 6
+6
+8
+28
+26
+2
+24
+WResult WinLResult LossWResult WinDResult DrawWResult WinDResult Draw
+11
+Genoa
+20
 5
 8
-26
-24
-2
+7
+17
+27
+-10
 23
-LResult LossWResult WinLResult LossWResult WinDResult DrawWResult Win
-11
+DResult DrawDResult DrawLResult LossWResult WinDResult DrawWResult Win
+12
 Torino
 20
 5
@@ -130,17 +141,6 @@ Torino
 -5
 22
 DResult DrawWResult WinLResult LossDResult DrawDResult DrawDResult Draw
-12
-Genoa
-19
-4
-8
-7
-16
-27
--11
-20
-WResult WinDResult DrawDResult DrawLResult LossWResult WinDResult Draw
 13
 Lecce
 20
@@ -164,17 +164,6 @@ Empoli
 20
 WResult WinLResult LossLResult LossLResult LossDResult DrawLResult Loss
 15
-Parma
-19
-4
-7
-8
-25
-34
--9
-19
-WResult WinLResult LossLResult LossLResult LossWResult WinDResult Draw
-16
 Como
 19
 4
@@ -185,17 +174,28 @@ Como
 -10
 19
 DResult DrawDResult DrawWResult WinLResult LossWResult WinDResult Draw
+16
+Parma
+20
+4
+7
+9
+25
+35
+-10
+19
+LResult LossLResult LossLResult LossWResult WinDResult DrawLResult Loss
 17
 Hellas Verona
-19
+20
 6
 1
-12
+13
 24
-42
--18
+44
+-20
 19
-LResult LossLResult LossWResult WinLResult LossWResult WinDResult Draw
+LResult LossWResult WinLResult LossWResult WinDResult DrawLResult Loss
 18
 Cagliari
 20
@@ -209,15 +209,15 @@ Cagliari
 LResult LossLResult LossLResult LossLResult LossWResult WinDResult Draw
 19
 Venezia
-19
+20
 3
 5
-11
+12
 18
-32
--14
+33
+-15
 14
-LResult LossDResult DrawDResult DrawWResult WinLResult LossDResult Draw
+DResult DrawDResult DrawWResult WinLResult LossDResult DrawLResult Loss
 20
 Monza
 19
