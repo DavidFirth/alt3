@@ -11,15 +11,15 @@ Points
 Form, Last 6 games, Oldest first
 1
 PSG
-16
-12
+17
+13
 4
 0
-44
-14
-30
-40
-WResult WinWResult WinDResult DrawDResult DrawWResult WinWResult Win
+46
+15
+31
+43
+WResult WinDResult DrawDResult DrawWResult WinWResult WinWResult Win
 2
 Olympique Marseille
 17
@@ -77,27 +77,38 @@ Olympique Lyonnais
 DResult DrawWResult WinWResult WinLResult LossWResult WinLResult Loss
 7
 Lens
+17
+7
+6
+4
+21
 16
-6
-6
-4
-19
-15
-4
-24
-WResult WinLResult LossWResult WinWResult WinDResult DrawLResult Loss
+5
+27
+LResult LossWResult WinWResult WinDResult DrawLResult LossWResult Win
 8
 Toulouse
-16
+17
 7
 3
-6
-18
-17
-1
+7
+19
+19
+0
 24
-WResult WinLResult LossWResult WinLResult LossWResult WinWResult Win
+LResult LossWResult WinLResult LossWResult WinWResult WinLResult Loss
 9
+Strasbourg
+17
+6
+5
+6
+30
+29
+1
+23
+LResult LossLResult LossDResult DrawWResult WinWResult WinWResult Win
+10
 Auxerre
 17
 6
@@ -108,7 +119,7 @@ Auxerre
 -2
 22
 WResult WinLResult LossDResult DrawDResult DrawLResult LossDResult Draw
-10
+11
 Brest
 17
 7
@@ -119,17 +130,6 @@ Brest
 -4
 22
 LResult LossWResult WinLResult LossWResult WinLResult LossWResult Win
-11
-Strasbourg
-16
-5
-5
-6
-28
-28
-0
-20
-LResult LossLResult LossLResult LossDResult DrawWResult WinWResult Win
 12
 Reims
 17
@@ -142,6 +142,17 @@ Reims
 20
 DResult DrawLResult LossDResult DrawDResult DrawLResult LossLResult Loss
 13
+Angers SCO
+17
+5
+4
+8
+19
+27
+-8
+19
+LResult LossWResult WinLResult LossLResult LossWResult WinWResult Win
+14
 Rennes
 17
 5
@@ -152,7 +163,7 @@ Rennes
 -2
 17
 LResult LossWResult WinLResult LossWResult WinLResult LossLResult Loss
-14
+15
 Nantes
 17
 3
@@ -163,46 +174,35 @@ Nantes
 -7
 16
 LResult LossDResult DrawWResult WinLResult LossDResult DrawDResult Draw
-15
-Angers SCO
-16
-4
-4
-8
-16
-26
--10
-16
-LResult LossLResult LossWResult WinLResult LossLResult LossWResult Win
 16
 Saint-Étienne
-16
+17
 5
 1
-10
-15
-35
--20
+11
 16
-LResult LossWResult WinLResult LossLResult LossLResult LossWResult Win
+37
+-21
+16
+WResult WinLResult LossLResult LossLResult LossWResult WinLResult Loss
 17
 Le Havre
-16
+17
 4
 0
+13
+13
+36
+-23
 12
-12
-34
--22
-12
-LResult LossWResult WinLResult LossLResult LossLResult LossLResult Loss
+WResult WinLResult LossLResult LossLResult LossLResult LossLResult Loss
 18
 Montpellier
-16
+17
 2
 3
-11
-15
-39
--24
+12
+16
+42
+-26
 9
