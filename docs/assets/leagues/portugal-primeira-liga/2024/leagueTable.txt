@@ -22,15 +22,15 @@ Sporting CP
 LResult LossLResult LossWResult WinDResult DrawWResult WinDResult Draw
 2
 Porto
-16
+17
 13
 1
-2
+3
 40
-9
-31
+11
+29
 40
-LResult LossWResult WinDResult DrawWResult WinWResult WinWResult Win
+WResult WinDResult DrawWResult WinWResult WinWResult WinLResult Loss
 3
 Benfica
 17
@@ -153,6 +153,17 @@ Estrela
 16
 LResult LossWResult WinLResult LossWResult WinDResult DrawLResult Loss
 14
+Nacional
+17
+4
+4
+9
+13
+23
+-10
+16
+LResult LossWResult WinLResult LossDResult DrawLResult LossWResult Win
+15
 AVS
 17
 2
@@ -163,7 +174,7 @@ AVS
 -11
 15
 LResult LossDResult DrawDResult DrawDResult DrawDResult DrawDResult Draw
-15
+16
 Arouca
 17
 4
@@ -174,7 +185,7 @@ Arouca
 -15
 15
 LResult LossLResult LossWResult WinLResult LossDResult DrawWResult Win
-16
+17
 Farense
 17
 3
@@ -185,17 +196,6 @@ Farense
 -12
 14
 WResult WinDResult DrawLResult LossWResult WinDResult DrawDResult Draw
-17
-Nacional
-16
-3
-4
-9
-11
-23
--12
-13
-DResult DrawLResult LossWResult WinLResult LossDResult DrawLResult Loss
 18
 Boavista
 17
