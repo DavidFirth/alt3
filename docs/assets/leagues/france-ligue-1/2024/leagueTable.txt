@@ -11,15 +11,15 @@ Points
 Form, Last 6 games, Oldest first
 1
 PSG
-17
-13
+18
+14
 4
 0
+48
+16
+32
 46
-15
-31
-43
-WResult WinDResult DrawDResult DrawWResult WinWResult WinWResult Win
+DResult DrawDResult DrawWResult WinWResult WinWResult WinWResult Win
 2
 Olympique Marseille
 17
@@ -66,38 +66,49 @@ Nice
 LResult LossWResult WinDResult DrawWResult WinWResult WinLResult Loss
 6
 Olympique Lyonnais
-17
+18
 8
-4
+5
 5
 29
 22
 7
-28
-DResult DrawWResult WinWResult WinLResult LossWResult WinLResult Loss
+29
+WResult WinWResult WinLResult LossWResult WinLResult LossDResult Draw
 7
 Lens
-17
+18
 7
 6
-4
-21
-16
 5
+22
+18
+4
 27
-LResult LossWResult WinWResult WinDResult DrawLResult LossWResult Win
+WResult WinWResult WinDResult DrawLResult LossWResult WinLResult Loss
 8
 Toulouse
-17
+18
 7
-3
+4
 7
 19
 19
 0
-24
-LResult LossWResult WinLResult LossWResult WinWResult WinLResult Loss
+25
+WResult WinLResult LossWResult WinWResult WinLResult LossDResult Draw
 9
+Brest
+18
+8
+1
+9
+28
+31
+-3
+25
+WResult WinLResult LossWResult WinLResult LossWResult WinWResult Win
+10
 Strasbourg
 17
 6
@@ -108,7 +119,7 @@ Strasbourg
 1
 23
 LResult LossLResult LossDResult DrawWResult WinWResult WinWResult Win
-10
+11
 Auxerre
 17
 6
@@ -119,17 +130,6 @@ Auxerre
 -2
 22
 WResult WinLResult LossDResult DrawDResult DrawLResult LossDResult Draw
-11
-Brest
-17
-7
-1
-9
-26
-30
--4
-22
-LResult LossWResult WinLResult LossWResult WinLResult LossWResult Win
 12
 Reims
 17
@@ -154,15 +154,15 @@ Angers SCO
 LResult LossWResult WinLResult LossLResult LossWResult WinWResult Win
 14
 Rennes
-17
+18
 5
 2
-10
-23
-25
--2
+11
+24
+27
+-3
 17
-LResult LossWResult WinLResult LossWResult WinLResult LossLResult Loss
+WResult WinLResult LossWResult WinLResult LossLResult LossLResult Loss
 15
 Nantes
 17
