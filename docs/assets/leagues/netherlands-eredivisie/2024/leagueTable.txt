@@ -11,15 +11,15 @@ Points
 Form, Last 6 games, Oldest first
 1
 PSV
-18
+19
 15
 1
-2
-61
-15
+3
+62
+18
+44
 46
-46
-WResult WinWResult WinWResult WinLResult LossWResult WinDResult Draw
+WResult WinWResult WinLResult LossWResult WinDResult DrawLResult Loss
 2
 Ajax
 18
@@ -33,26 +33,26 @@ Ajax
 WResult WinDResult DrawLResult LossWResult WinWResult WinWResult Win
 3
 Utrecht
-18
+19
 12
-3
+4
 3
 36
 29
 7
-39
-LResult LossDResult DrawWResult WinDResult DrawLResult LossWResult Win
+40
+DResult DrawWResult WinDResult DrawLResult LossWResult WinDResult Draw
 4
 Feyenoord
-18
+19
 10
-5
+6
 3
-41
-23
+42
+24
 18
-35
-WResult WinDResult DrawWResult WinWResult WinLResult LossLResult Loss
+36
+DResult DrawWResult WinWResult WinLResult LossLResult LossDResult Draw
 5
 Twente
 18
@@ -66,26 +66,26 @@ Twente
 WResult WinWResult WinLResult LossWResult WinLResult LossWResult Win
 6
 AZ
-18
+19
 10
-3
+4
 5
 33
 19
 14
-33
-WResult WinWResult WinWResult WinWResult WinWResult WinDResult Draw
+34
+WResult WinWResult WinWResult WinWResult WinDResult DrawDResult Draw
 7
 Go Ahead Eagles
-18
-8
+19
+9
 4
 6
-33
-27
-6
+35
 28
-WResult WinLResult LossWResult WinDResult DrawWResult WinWResult Win
+7
+31
+LResult LossWResult WinDResult DrawWResult WinWResult WinWResult Win
 8
 Fortuna Sittard
 18
@@ -110,15 +110,15 @@ Heerenveen
 LResult LossDResult DrawWResult WinWResult WinLResult LossWResult Win
 10
 Willem II
-18
+19
 6
-4
+5
 8
-23
-25
+24
+26
 -2
-22
-DResult DrawLResult LossLResult LossWResult WinWResult WinLResult Loss
+23
+LResult LossLResult LossWResult WinWResult WinLResult LossDResult Draw
 11
 NAC Breda
 18
@@ -142,25 +142,25 @@ NEC
 20
 LResult LossLResult LossLResult LossDResult DrawLResult LossWResult Win
 13
-Groningen
-17
-4
-5
-8
-14
-26
--12
-17
-WResult WinLResult LossWResult WinDResult DrawLResult LossDResult Draw
-14
 PEC Zwolle
+19
+5
+5
+9
+19
+28
+-9
+20
+WResult WinDResult DrawLResult LossDResult DrawLResult LossWResult Win
+14
+Groningen
 18
 4
 5
 9
-16
-27
--11
+15
+28
+-13
 17
 LResult LossWResult WinDResult DrawLResult LossDResult DrawLResult Loss
 15
