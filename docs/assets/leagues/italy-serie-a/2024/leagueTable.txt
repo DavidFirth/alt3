@@ -11,15 +11,15 @@ Points
 Form, Last 6 games, Oldest first
 1
 Napoli
-20
-15
+21
+16
 2
 3
-32
-12
-20
-47
-LResult LossWResult WinWResult WinWResult WinWResult WinWResult Win
+35
+14
+21
+50
+WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
 2
 Inter Milan
 19
@@ -33,16 +33,27 @@ Inter Milan
 WResult WinWResult WinWResult WinWResult WinWResult WinDResult Draw
 3
 Atalanta
-20
+21
 13
 4
-3
-44
-21
-23
-43
-WResult WinWResult WinWResult WinDResult DrawDResult DrawDResult Draw
 4
+46
+24
+22
+43
+WResult WinWResult WinDResult DrawDResult DrawDResult DrawLResult Loss
+4
+Juventus
+21
+8
+13
+0
+34
+17
+17
+37
+DResult DrawWResult WinDResult DrawDResult DrawDResult DrawWResult Win
+5
 Lazio
 20
 11
@@ -53,18 +64,18 @@ Lazio
 6
 36
 WResult WinLResult LossWResult WinDResult DrawLResult LossDResult Draw
-5
-Juventus
-20
-7
-13
-0
-32
-17
-15
-34
-DResult DrawDResult DrawWResult WinDResult DrawDResult DrawDResult Draw
 6
+Bologna
+20
+8
+9
+3
+32
+26
+6
+33
+WResult WinWResult WinLResult LossDResult DrawDResult DrawWResult Win
+7
 Fiorentina
 19
 9
@@ -75,28 +86,17 @@ Fiorentina
 12
 32
 WResult WinLResult LossLResult LossDResult DrawLResult LossLResult Loss
-7
+8
 AC Milan
-19
+20
 8
 7
-4
+5
 29
-19
-10
+21
+8
 31
-LResult LossDResult DrawWResult WinDResult DrawDResult DrawWResult Win
-8
-Bologna
-19
-7
-9
-3
-29
-25
-4
-30
-DResult DrawWResult WinWResult WinLResult LossDResult DrawDResult Draw
+DResult DrawWResult WinDResult DrawDResult DrawWResult WinLResult Loss
 9
 Roma
 21
@@ -220,11 +220,11 @@ Venezia
 DResult DrawDResult DrawWResult WinLResult LossDResult DrawLResult Loss
 20
 Monza
-20
+21
 2
 7
-11
-19
-28
--9
+12
+20
+31
+-11
 13
