@@ -11,15 +11,15 @@ Points
 Form, Last 6 games, Oldest first
 1
 Atlético Madrid
-19
+20
 13
 5
-1
+2
 34
-12
-22
+13
+21
 44
-WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
+WResult WinWResult WinWResult WinWResult WinWResult WinLResult Loss
 2
 Real Madrid
 19
@@ -33,15 +33,15 @@ Real Madrid
 WResult WinLResult LossWResult WinDResult DrawWResult WinWResult Win
 3
 Barcelona
-19
+20
 12
-2
+3
 5
-51
-22
+52
+23
 29
-38
-DResult DrawLResult LossWResult WinDResult DrawLResult LossLResult Loss
+39
+LResult LossWResult WinDResult DrawLResult LossLResult LossDResult Draw
 4
 Athletic Club
 19
@@ -88,16 +88,27 @@ Real Sociedad
 LResult LossWResult WinWResult WinDResult DrawLResult LossWResult Win
 8
 Girona
-19
+20
 8
 4
-7
-27
-25
-2
+8
 28
-WResult WinDResult DrawLResult LossLResult LossWResult WinWResult Win
+27
+1
+28
+DResult DrawLResult LossLResult LossWResult WinWResult WinLResult Loss
 9
+Sevilla
+20
+7
+5
+8
+23
+29
+-6
+26
+DResult DrawLResult LossWResult WinLResult LossDResult DrawWResult Win
+10
 Rayo Vallecano
 19
 6
@@ -108,18 +119,18 @@ Rayo Vallecano
 0
 25
 LResult LossWResult WinDResult DrawDResult DrawDResult DrawWResult Win
-10
+11
 Real Betis
-19
+20
 6
 7
-6
-21
-23
--2
+7
+22
+26
+-4
 25
-LResult LossLResult LossDResult DrawWResult WinDResult DrawLResult Loss
-11
+LResult LossDResult DrawWResult WinDResult DrawLResult LossLResult Loss
+12
 Osasuna
 19
 6
@@ -130,7 +141,7 @@ Osasuna
 -5
 25
 DResult DrawDResult DrawDResult DrawDResult DrawLResult LossLResult Loss
-12
+13
 Celta Vigo
 19
 7
@@ -141,17 +152,6 @@ Celta Vigo
 -2
 24
 DResult DrawLResult LossWResult WinLResult LossWResult WinLResult Loss
-13
-Sevilla
-19
-6
-5
-8
-21
-28
--7
-23
-WResult WinDResult DrawLResult LossWResult WinLResult LossDResult Draw
 14
 Las Palmas
 19
@@ -164,28 +164,39 @@ Las Palmas
 22
 LResult LossWResult WinWResult WinDResult DrawWResult WinLResult Loss
 15
-Getafe
-19
-4
-7
-8
-13
-16
--3
-19
-WResult WinLResult LossWResult WinLResult LossLResult LossWResult Win
-16
 Leganés
-19
-4
+20
+5
 7
 8
-18
-29
--11
 19
-LResult LossDResult DrawLResult LossWResult WinLResult LossDResult Draw
+29
+-10
+22
+DResult DrawLResult LossWResult WinLResult LossDResult DrawWResult Win
+16
+Getafe
+20
+4
+8
+8
+14
 17
+-3
+20
+LResult LossWResult WinLResult LossLResult LossWResult WinDResult Draw
+17
+Deportivo Alavés
+20
+5
+5
+10
+24
+32
+-8
+20
+DResult DrawDResult DrawDResult DrawDResult DrawLResult LossWResult Win
+18
 Espanyol
 20
 5
@@ -196,17 +207,6 @@ Espanyol
 -13
 19
 LResult LossDResult DrawDResult DrawLResult LossDResult DrawWResult Win
-18
-Deportivo Alavés
-19
-4
-5
-10
-21
-31
--10
-17
-LResult LossDResult DrawDResult DrawDResult DrawDResult DrawLResult Loss
 19
 Real Valladolid
 20
