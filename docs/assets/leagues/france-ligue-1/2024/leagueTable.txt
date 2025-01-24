@@ -121,15 +121,15 @@ Strasbourg
 LResult LossDResult DrawWResult WinWResult WinWResult WinDResult Draw
 11
 Auxerre
-18
+19
 6
-4
+5
 8
-24
-28
+25
+29
 -4
-22
-LResult LossDResult DrawDResult DrawLResult LossDResult DrawLResult Loss
+23
+DResult DrawDResult DrawLResult LossDResult DrawLResult LossDResult Draw
 12
 Angers SCO
 18
@@ -153,6 +153,17 @@ Reims
 21
 LResult LossDResult DrawDResult DrawLResult LossLResult LossDResult Draw
 14
+Saint-Étienne
+19
+5
+3
+11
+18
+39
+-21
+18
+LResult LossLResult LossWResult WinLResult LossDResult DrawDResult Draw
+15
 Rennes
 18
 5
@@ -163,7 +174,7 @@ Rennes
 -3
 17
 WResult WinLResult LossWResult WinLResult LossLResult LossLResult Loss
-15
+16
 Nantes
 18
 3
@@ -174,17 +185,6 @@ Nantes
 -7
 17
 DResult DrawWResult WinLResult LossDResult DrawDResult DrawDResult Draw
-16
-Saint-Étienne
-18
-5
-2
-11
-17
-38
--21
-17
-LResult LossLResult LossLResult LossWResult WinLResult LossDResult Draw
 17
 Le Havre
 18
