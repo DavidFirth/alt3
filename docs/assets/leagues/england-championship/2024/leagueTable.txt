@@ -22,15 +22,15 @@ Leeds United
 WResult WinWResult WinDResult DrawDResult DrawWResult WinWResult Win
 2
 Sheffield United
-28
+29
 18
 6
-4
+5
 40
-18
-22
+21
+19
 58
-LResult LossDResult DrawLResult LossWResult WinWResult WinWResult Win
+DResult DrawLResult LossWResult WinWResult WinWResult WinLResult Loss
 3
 Burnley
 28
@@ -197,6 +197,17 @@ Millwall
 31
 LResult LossDResult DrawLResult LossDResult DrawLResult LossDResult Draw
 18
+Hull City
+29
+7
+8
+14
+30
+38
+-8
+29
+WResult WinLResult LossDResult DrawWResult WinLResult LossWResult Win
+19
 Portsmouth
 27
 7
@@ -207,7 +218,7 @@ Portsmouth
 -11
 29
 LResult LossWResult WinLResult LossLResult LossWResult WinWResult Win
-19
+20
 Stoke City
 28
 6
@@ -218,7 +229,7 @@ Stoke City
 -10
 28
 LResult LossWResult WinDResult DrawDResult DrawDResult DrawLResult Loss
-20
+21
 Cardiff City
 28
 6
@@ -229,7 +240,7 @@ Cardiff City
 -12
 28
 WResult WinDResult DrawDResult DrawDResult DrawWResult WinDResult Draw
-21
+22
 Derby County
 28
 7
@@ -240,17 +251,6 @@ Derby County
 -7
 27
 WResult WinLResult LossLResult LossLResult LossLResult LossLResult Loss
-22
-Hull City
-28
-6
-8
-14
-27
-38
--11
-26
-LResult LossWResult WinLResult LossDResult DrawWResult WinLResult Loss
 23
 Luton Town
 28
