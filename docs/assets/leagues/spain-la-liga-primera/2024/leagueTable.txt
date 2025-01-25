@@ -11,26 +11,26 @@ Points
 Form, Last 6 games, Oldest first
 1
 Real Madrid
-20
-14
+21
+15
 4
 2
-47
+50
 20
-27
-46
-LResult LossWResult WinDResult DrawWResult WinWResult WinWResult Win
+30
+49
+WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
 2
 Atlético Madrid
-20
-13
-5
-2
-34
-13
 21
-44
-WResult WinWResult WinWResult WinWResult WinWResult WinLResult Loss
+13
+6
+2
+35
+14
+21
+45
+WResult WinWResult WinWResult WinWResult WinLResult LossDResult Draw
 3
 Barcelona
 20
@@ -55,26 +55,26 @@ Athletic Club
 WResult WinWResult WinWResult WinDResult DrawWResult WinWResult Win
 5
 Villarreal
-20
+21
 9
-6
-5
-38
-31
 7
-33
-LResult LossLResult LossDResult DrawWResult WinLResult LossWResult Win
+5
+39
+32
+7
+34
+LResult LossDResult DrawWResult WinLResult LossWResult WinDResult Draw
 6
 Mallorca
-20
+21
 9
 3
-8
+9
 19
-25
--6
+26
+-7
 30
-WResult WinLResult LossLResult LossWResult WinWResult WinLResult Loss
+LResult LossLResult LossWResult WinWResult WinLResult LossLResult Loss
 7
 Real Sociedad
 20
@@ -98,6 +98,17 @@ Girona
 28
 DResult DrawLResult LossLResult LossWResult WinWResult WinLResult Loss
 9
+Real Betis
+21
+7
+7
+7
+23
+26
+-3
+28
+DResult DrawWResult WinDResult DrawLResult LossLResult LossWResult Win
+10
 Osasuna
 21
 6
@@ -108,7 +119,18 @@ Osasuna
 -5
 27
 DResult DrawDResult DrawLResult LossLResult LossDResult DrawDResult Draw
-10
+11
+Sevilla
+21
+7
+6
+8
+24
+30
+-6
+27
+LResult LossWResult WinLResult LossDResult DrawWResult WinDResult Draw
+12
 Rayo Vallecano
 20
 6
@@ -119,28 +141,6 @@ Rayo Vallecano
 0
 26
 WResult WinDResult DrawDResult DrawDResult DrawWResult WinDResult Draw
-11
-Sevilla
-20
-7
-5
-8
-23
-29
--6
-26
-DResult DrawLResult LossWResult WinLResult LossDResult DrawWResult Win
-12
-Real Betis
-20
-6
-7
-7
-22
-26
--4
-25
-LResult LossDResult DrawWResult WinDResult DrawLResult LossLResult Loss
 13
 Celta Vigo
 20
@@ -198,15 +198,15 @@ Deportivo Alavés
 DResult DrawDResult DrawDResult DrawDResult DrawLResult LossWResult Win
 18
 Espanyol
-20
+21
 5
-4
+5
 11
-19
-32
+20
+33
 -13
-19
-LResult LossDResult DrawDResult DrawLResult LossDResult DrawWResult Win
+20
+DResult DrawDResult DrawLResult LossDResult DrawWResult WinDResult Draw
 19
 Valencia
 20
@@ -220,11 +220,11 @@ Valencia
 LResult LossDResult DrawDResult DrawLResult LossDResult DrawWResult Win
 20
 Real Valladolid
-20
+21
 4
 3
-13
 14
-39
--25
+14
+42
+-28
 15
