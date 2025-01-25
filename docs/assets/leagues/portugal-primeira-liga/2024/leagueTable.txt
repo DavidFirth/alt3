@@ -11,26 +11,26 @@ Points
 Form, Last 6 games, Oldest first
 1
 Sporting CP
-18
-14
+19
+15
 2
 2
-51
+53
 14
-37
-44
-LResult LossWResult WinDResult DrawWResult WinDResult DrawWResult Win
+39
+47
+WResult WinDResult DrawWResult WinDResult DrawWResult WinWResult Win
 2
 Benfica
-18
+19
 13
 2
-3
-42
-11
-31
+4
+43
+14
+29
 41
-DResult DrawWResult WinWResult WinLResult LossLResult LossWResult Win
+WResult WinWResult WinLResult LossLResult LossWResult WinLResult Loss
 3
 Porto
 18
@@ -66,15 +66,15 @@ Santa Clara
 WResult WinLResult LossLResult LossWResult WinDResult DrawLResult Loss
 6
 Casa Pia
-18
-7
+19
+8
 6
 5
-22
-22
-0
-27
-DResult DrawWResult WinWResult WinWResult WinDResult DrawWResult Win
+25
+23
+2
+30
+WResult WinWResult WinWResult WinDResult DrawWResult WinWResult Win
 7
 Vitória Guimarães
 18
@@ -87,6 +87,17 @@ Vitória Guimarães
 26
 LResult LossDResult DrawDResult DrawDResult DrawDResult DrawDResult Draw
 8
+Rio Ave
+19
+6
+5
+8
+20
+32
+-12
+23
+DResult DrawLResult LossWResult WinDResult DrawLResult LossWResult Win
+9
 Moreirense
 19
 6
@@ -97,7 +108,7 @@ Moreirense
 -4
 23
 LResult LossLResult LossDResult DrawDResult DrawDResult DrawLResult Loss
-9
+10
 Gil Vicente
 18
 5
@@ -108,7 +119,7 @@ Gil Vicente
 -5
 22
 WResult WinWResult WinDResult DrawDResult DrawDResult DrawWResult Win
-10
+11
 Estoril
 18
 5
@@ -119,28 +130,17 @@ Estoril
 -9
 21
 DResult DrawLResult LossLResult LossDResult DrawWResult WinWResult Win
-11
+12
 Famalicão
-18
+19
 4
-8
+9
 6
 20
 24
 -4
-20
-DResult DrawDResult DrawLResult LossLResult LossDResult DrawLResult Loss
-12
-Rio Ave
-18
-5
-5
-8
-18
-31
--13
-20
-LResult LossDResult DrawLResult LossWResult WinDResult DrawLResult Loss
+21
+DResult DrawLResult LossLResult LossDResult DrawLResult LossDResult Draw
 13
 Arouca
 19
@@ -154,37 +154,37 @@ Arouca
 WResult WinLResult LossDResult DrawWResult WinDResult DrawWResult Win
 14
 Nacional
-18
+19
 5
 4
-9
+10
 16
-24
--8
+26
+-10
 19
-WResult WinLResult LossDResult DrawLResult LossWResult WinWResult Win
+LResult LossDResult DrawLResult LossWResult WinWResult WinLResult Loss
 15
 Estrela
-18
+19
 4
-4
+5
 10
 16
 30
 -14
-16
-WResult WinLResult LossWResult WinDResult DrawLResult LossLResult Loss
+17
+LResult LossWResult WinDResult DrawLResult LossLResult LossDResult Draw
 16
 Farense
-18
+19
 3
 6
-9
-11
-23
--12
+10
+12
+25
+-13
 15
-DResult DrawLResult LossWResult WinDResult DrawDResult DrawDResult Draw
+LResult LossWResult WinDResult DrawDResult DrawDResult DrawLResult Loss
 17
 AVS
 18
