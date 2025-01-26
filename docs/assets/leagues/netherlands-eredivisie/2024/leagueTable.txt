@@ -66,15 +66,15 @@ Twente
 WResult WinLResult LossWResult WinLResult LossWResult WinLResult Loss
 6
 AZ
-19
+20
 10
 4
-5
-33
-19
-14
+6
 34
-WResult WinWResult WinWResult WinWResult WinDResult DrawDResult Draw
+21
+13
+34
+WResult WinWResult WinWResult WinDResult DrawDResult DrawLResult Loss
 7
 Go Ahead Eagles
 19
@@ -88,15 +88,15 @@ Go Ahead Eagles
 LResult LossWResult WinDResult DrawWResult WinWResult WinWResult Win
 8
 Fortuna Sittard
-19
+20
 7
 4
-8
-26
-32
--6
+9
+27
+36
+-9
 25
-DResult DrawDResult DrawWResult WinWResult WinLResult LossLResult Loss
+DResult DrawWResult WinWResult WinLResult LossLResult LossLResult Loss
 9
 NAC Breda
 20
@@ -132,26 +132,26 @@ NEC
 LResult LossLResult LossDResult DrawLResult LossWResult WinWResult Win
 12
 Willem II
-19
+20
 6
 5
-8
+9
 24
-26
--2
+28
+-4
 23
-LResult LossLResult LossWResult WinWResult WinLResult LossDResult Draw
+LResult LossWResult WinWResult WinLResult LossDResult DrawLResult Loss
 13
 PEC Zwolle
-19
-5
+20
+6
 5
 9
-19
-28
--9
-20
-WResult WinDResult DrawLResult LossDResult DrawLResult LossWResult Win
+23
+29
+-6
+23
+DResult DrawLResult LossDResult DrawLResult LossWResult WinWResult Win
 14
 Groningen
 19
@@ -176,16 +176,27 @@ Heracles
 LResult LossDResult DrawLResult LossDResult DrawWResult WinDResult Draw
 16
 Sparta Rotterdam
-19
-2
+20
+3
 8
 9
-16
-28
--12
-14
-LResult LossLResult LossDResult DrawLResult LossDResult DrawDResult Draw
+18
+29
+-11
 17
+LResult LossDResult DrawLResult LossDResult DrawDResult DrawWResult Win
+17
+RKC Waalwijk
+20
+2
+5
+13
+22
+44
+-22
+11
+LResult LossLResult LossDResult DrawLResult LossDResult DrawWResult Win
+18
 Almere City
 19
 2
@@ -195,14 +206,3 @@ Almere City
 39
 -29
 10
-LResult LossLResult LossLResult LossWResult WinDResult DrawLResult Loss
-18
-RKC Waalwijk
-19
-1
-5
-13
-20
-44
--24
-8
