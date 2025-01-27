@@ -132,15 +132,15 @@ Udinese
 WResult WinDResult DrawDResult DrawDResult DrawLResult LossLResult Loss
 12
 Genoa
-21
-5
+22
+6
 8
 8
-18
+20
 30
--12
-23
-DResult DrawLResult LossWResult WinDResult DrawWResult WinLResult Loss
+-10
+26
+LResult LossWResult WinDResult DrawWResult WinLResult LossWResult Win
 13
 Como
 22
@@ -186,6 +186,17 @@ Parma
 20
 LResult LossWResult WinDResult DrawLResult LossDResult DrawLResult Loss
 17
+Hellas Verona
+22
+6
+2
+14
+25
+48
+-23
+20
+LResult LossWResult WinDResult DrawLResult LossLResult LossDResult Draw
+18
 Lecce
 22
 5
@@ -196,35 +207,24 @@ Lecce
 -25
 20
 LResult LossLResult LossDResult DrawWResult WinLResult LossLResult Loss
-18
-Hellas Verona
-21
-6
-1
-14
-24
-47
--23
-19
-WResult WinLResult LossWResult WinDResult DrawLResult LossLResult Loss
 19
 Venezia
-21
+22
 3
-6
-12
-19
-34
--15
-15
-DResult DrawWResult WinLResult LossDResult DrawLResult LossDResult Draw
-20
-Monza
-21
-2
 7
 12
 20
-31
--11
+35
+-15
+16
+WResult WinLResult LossDResult DrawLResult LossDResult DrawDResult Draw
+20
+Monza
+22
+2
+7
+13
+20
+33
+-13
 13
