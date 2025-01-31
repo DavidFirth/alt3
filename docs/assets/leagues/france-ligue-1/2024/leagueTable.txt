@@ -54,6 +54,17 @@ Nice
 33
 WResult WinDResult DrawWResult WinWResult WinLResult LossWResult Win
 5
+Lens
+20
+9
+6
+5
+25
+18
+7
+33
+DResult DrawLResult LossWResult WinLResult LossWResult WinWResult Win
+6
 Lille
 19
 8
@@ -64,7 +75,7 @@ Lille
 10
 32
 WResult WinDResult DrawDResult DrawDResult DrawWResult WinLResult Loss
-6
+7
 Olympique Lyonnais
 19
 8
@@ -75,17 +86,6 @@ Olympique Lyonnais
 7
 30
 WResult WinLResult LossWResult WinLResult LossDResult DrawDResult Draw
-7
-Lens
-19
-8
-6
-5
-23
-18
-5
-30
-WResult WinDResult DrawLResult LossWResult WinLResult LossWResult Win
 8
 Brest
 19
@@ -187,15 +187,15 @@ Rennes
 LResult LossWResult WinLResult LossLResult LossLResult LossLResult Loss
 17
 Montpellier
-19
+20
 4
 3
-12
+13
 20
-44
--24
+46
+-26
 15
-LResult LossDResult DrawLResult LossLResult LossWResult WinWResult Win
+DResult DrawLResult LossLResult LossWResult WinWResult WinLResult Loss
 18
 Le Havre
 19
