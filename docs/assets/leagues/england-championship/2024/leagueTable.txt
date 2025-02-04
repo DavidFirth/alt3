@@ -21,6 +21,17 @@ Leeds United
 63
 DResult DrawDResult DrawWResult WinWResult WinDResult DrawWResult Win
 2
+Burnley
+31
+16
+13
+2
+37
+9
+28
+61
+WResult WinDResult DrawWResult WinDResult DrawDResult DrawWResult Win
+3
 Sheffield United
 30
 19
@@ -31,17 +42,6 @@ Sheffield United
 20
 61
 LResult LossWResult WinWResult WinWResult WinLResult LossWResult Win
-3
-Burnley
-30
-15
-13
-2
-36
-9
-27
-58
-DResult DrawWResult WinDResult DrawWResult WinDResult DrawDResult Draw
 4
 Sunderland
 30
@@ -55,15 +55,15 @@ Sunderland
 WResult WinWResult WinDResult DrawWResult WinDResult DrawWResult Win
 5
 Blackburn Rovers
-30
+31
 13
 6
-11
-34
-29
-5
+12
+35
+31
+4
 45
-LResult LossWResult WinLResult LossLResult LossLResult LossWResult Win
+WResult WinLResult LossLResult LossLResult LossWResult WinLResult Loss
 6
 West Bromwich Albion
 30
@@ -142,6 +142,17 @@ Watford
 41
 LResult LossDResult DrawWResult WinLResult LossLResult LossLResult Loss
 13
+Queens Park Rangers
+31
+10
+11
+10
+35
+40
+-5
+41
+WResult WinWResult WinWResult WinLResult LossLResult LossWResult Win
+14
 Millwall
 30
 10
@@ -152,17 +163,6 @@ Millwall
 3
 40
 DResult DrawLResult LossDResult DrawWResult WinWResult WinWResult Win
-14
-Queens Park Rangers
-30
-9
-11
-10
-33
-39
--6
-38
-WResult WinWResult WinWResult WinWResult WinLResult LossLResult Loss
 15
 Preston North End
 30
@@ -176,15 +176,15 @@ Preston North End
 LResult LossDResult DrawDResult DrawWResult WinWResult WinLResult Loss
 16
 Oxford United
-30
+31
 9
 10
-11
+12
 34
-44
--10
+45
+-11
 37
-DResult DrawDResult DrawWResult WinWResult WinDResult DrawDResult Draw
+DResult DrawWResult WinWResult WinDResult DrawDResult DrawLResult Loss
 17
 Swansea City
 30
