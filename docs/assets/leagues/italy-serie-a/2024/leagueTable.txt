@@ -22,15 +22,15 @@ Napoli
 WResult WinWResult WinWResult WinWResult WinWResult WinDResult Draw
 2
 Inter Milan
-22
+23
 15
 6
-1
+2
 56
-19
-37
+22
+34
 51
-WResult WinWResult WinDResult DrawWResult WinWResult WinDResult Draw
+WResult WinDResult DrawWResult WinWResult WinDResult DrawLResult Loss
 3
 Atalanta
 23
@@ -43,6 +43,28 @@ Atalanta
 47
 DResult DrawDResult DrawDResult DrawLResult LossWResult WinDResult Draw
 4
+Juventus
+24
+10
+13
+1
+41
+21
+20
+43
+DResult DrawDResult DrawWResult WinLResult LossWResult WinWResult Win
+5
+Fiorentina
+23
+12
+6
+5
+40
+23
+17
+42
+LResult LossLResult LossDResult DrawWResult WinWResult WinWResult Win
+6
 Lazio
 23
 13
@@ -53,28 +75,6 @@ Lazio
 9
 42
 DResult DrawLResult LossDResult DrawWResult WinLResult LossWResult Win
-5
-Juventus
-23
-9
-13
-1
-39
-20
-19
-40
-DResult DrawDResult DrawDResult DrawWResult WinLResult LossWResult Win
-6
-Fiorentina
-22
-11
-6
-5
-37
-23
-14
-39
-DResult DrawLResult LossLResult LossDResult DrawWResult WinWResult Win
 7
 Bologna
 22
@@ -165,15 +165,15 @@ Lecce
 LResult LossDResult DrawWResult WinLResult LossLResult LossWResult Win
 15
 Como
-23
+24
 5
 7
-11
-27
-38
--11
+12
+28
+40
+-12
 22
-WResult WinDResult DrawLResult LossWResult WinLResult LossLResult Loss
+DResult DrawLResult LossWResult WinLResult LossLResult LossLResult Loss
 16
 Empoli
 23
