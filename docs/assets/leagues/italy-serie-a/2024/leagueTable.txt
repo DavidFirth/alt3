@@ -33,15 +33,15 @@ Inter Milan
 WResult WinDResult DrawWResult WinWResult WinDResult DrawLResult Loss
 3
 Atalanta
-23
-14
+24
+15
 5
 4
-49
+54
 26
-23
-47
-DResult DrawDResult DrawDResult DrawLResult LossWResult WinDResult Draw
+28
+50
+DResult DrawDResult DrawLResult LossWResult WinDResult DrawWResult Win
 4
 Juventus
 24
@@ -76,6 +76,17 @@ Lazio
 42
 DResult DrawLResult LossDResult DrawWResult WinLResult LossWResult Win
 7
+AC Milan
+23
+10
+8
+5
+35
+24
+11
+38
+DResult DrawWResult WinLResult LossWResult WinDResult DrawWResult Win
+8
 Bologna
 22
 9
@@ -86,17 +97,6 @@ Bologna
 8
 37
 LResult LossDResult DrawDResult DrawWResult WinDResult DrawWResult Win
-8
-AC Milan
-22
-9
-8
-5
-33
-24
-9
-35
-DResult DrawDResult DrawWResult WinLResult LossWResult WinDResult Draw
 9
 Roma
 23
@@ -121,38 +121,27 @@ Udinese
 DResult DrawDResult DrawDResult DrawLResult LossLResult LossWResult Win
 11
 Torino
-23
-6
-9
-8
 24
-27
+6
+10
+8
+25
+28
 -3
-27
-DResult DrawDResult DrawDResult DrawDResult DrawWResult WinDResult Draw
+28
+DResult DrawDResult DrawDResult DrawWResult WinDResult DrawDResult Draw
 12
 Genoa
-23
+24
 6
-8
 9
-21
-32
+9
+22
+33
 -11
-26
-WResult WinDResult DrawWResult WinLResult LossWResult WinLResult Loss
+27
+DResult DrawWResult WinLResult LossWResult WinLResult LossDResult Draw
 13
-Hellas Verona
-23
-7
-2
-14
-26
-48
--22
-23
-WResult WinDResult DrawLResult LossLResult LossDResult DrawWResult Win
-14
 Lecce
 23
 6
@@ -163,6 +152,17 @@ Lecce
 -23
 23
 LResult LossDResult DrawWResult WinLResult LossLResult LossWResult Win
+14
+Hellas Verona
+24
+7
+2
+15
+26
+53
+-27
+23
+DResult DrawLResult LossLResult LossDResult DrawWResult WinLResult Loss
 15
 Como
 24
@@ -175,17 +175,6 @@ Como
 22
 DResult DrawLResult LossWResult WinLResult LossLResult LossLResult Loss
 16
-Empoli
-23
-4
-9
-10
-22
-33
--11
-21
-LResult LossDResult DrawLResult LossLResult LossDResult DrawLResult Loss
-17
 Cagliari
 23
 5
@@ -196,6 +185,17 @@ Cagliari
 -14
 21
 LResult LossWResult WinDResult DrawWResult WinLResult LossLResult Loss
+17
+Empoli
+24
+4
+9
+11
+22
+35
+-13
+21
+DResult DrawLResult LossLResult LossDResult DrawLResult LossLResult Loss
 18
 Parma
 23
