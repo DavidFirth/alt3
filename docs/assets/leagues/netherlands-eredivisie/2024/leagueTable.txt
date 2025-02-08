@@ -11,15 +11,15 @@ Points
 Form, Last 6 games, Oldest first
 1
 PSV
-21
+22
 16
-2
 3
-68
-23
+3
+69
+24
 45
-50
-LResult LossWResult WinDResult DrawLResult LossWResult WinDResult Draw
+51
+WResult WinDResult DrawLResult LossWResult WinDResult DrawDResult Draw
 2
 Ajax
 20
@@ -43,6 +43,17 @@ Utrecht
 42
 DResult DrawLResult LossWResult WinDResult DrawDResult DrawDResult Draw
 4
+Feyenoord
+21
+11
+6
+4
+46
+26
+20
+39
+WResult WinLResult LossLResult LossDResult DrawLResult LossWResult Win
+5
 AZ
 21
 11
@@ -53,17 +64,6 @@ AZ
 15
 37
 WResult WinWResult WinDResult DrawDResult DrawLResult LossWResult Win
-5
-Feyenoord
-20
-10
-6
-4
-43
-26
-17
-36
-WResult WinWResult WinLResult LossLResult LossDResult DrawLResult Loss
 6
 Twente
 20
@@ -77,15 +77,15 @@ Twente
 LResult LossWResult WinLResult LossWResult WinLResult LossDResult Draw
 7
 Go Ahead Eagles
-20
+21
 9
 5
-6
-37
-30
 7
+39
+34
+5
 32
-WResult WinDResult DrawWResult WinWResult WinWResult WinDResult Draw
+DResult DrawWResult WinWResult WinWResult WinDResult DrawLResult Loss
 8
 Fortuna Sittard
 21
@@ -121,15 +121,15 @@ Heerenveen
 WResult WinLResult LossWResult WinLResult LossLResult LossDResult Draw
 11
 NEC
-20
+21
 7
 3
-10
-31
-28
-3
+11
+32
+30
+2
 24
-LResult LossDResult DrawLResult LossWResult WinWResult WinDResult Draw
+DResult DrawLResult LossWResult WinWResult WinDResult DrawLResult Loss
 12
 PEC Zwolle
 21
@@ -143,48 +143,48 @@ PEC Zwolle
 LResult LossDResult DrawLResult LossWResult WinWResult WinDResult Draw
 13
 Willem II
-21
+22
 6
-5
+6
 10
-24
-30
+25
+31
 -6
-23
-WResult WinWResult WinLResult LossDResult DrawLResult LossLResult Loss
+24
+WResult WinLResult LossDResult DrawLResult LossLResult LossDResult Draw
 14
 Heracles
-21
-4
+22
+5
 9
 8
+28
+39
+-11
 24
-37
--13
-21
-LResult LossDResult DrawWResult WinDResult DrawDResult DrawDResult Draw
+DResult DrawWResult WinDResult DrawDResult DrawDResult DrawWResult Win
 15
 Groningen
-21
-5
+22
+6
 6
 10
-17
-30
--13
-21
-LResult LossDResult DrawLResult LossWResult WinDResult DrawLResult Loss
+19
+31
+-12
+24
+DResult DrawLResult LossWResult WinDResult DrawLResult LossWResult Win
 16
 Sparta Rotterdam
-21
+22
 4
 8
-9
+10
 19
-29
--10
+32
+-13
 20
-DResult DrawLResult LossDResult DrawDResult DrawWResult WinWResult Win
+LResult LossDResult DrawDResult DrawWResult WinWResult WinLResult Loss
 17
 RKC Waalwijk
 21
