@@ -99,15 +99,15 @@ Norwich City
 WResult WinLResult LossLResult LossWResult WinWResult WinDResult Draw
 9
 Bristol City
-30
+31
 10
 12
-8
+9
 38
-35
-3
+36
+2
 42
-DResult DrawWResult WinLResult LossDResult DrawWResult WinDResult Draw
+WResult WinLResult LossDResult DrawWResult WinDResult DrawLResult Loss
 10
 Watford
 31
@@ -175,6 +175,17 @@ Preston North End
 37
 LResult LossDResult DrawDResult DrawWResult WinWResult WinLResult Loss
 16
+Swansea City
+31
+10
+7
+14
+33
+42
+-9
+37
+DResult DrawLResult LossLResult LossLResult LossLResult LossWResult Win
+17
 Oxford United
 31
 9
@@ -185,17 +196,6 @@ Oxford United
 -11
 37
 DResult DrawWResult WinWResult WinDResult DrawDResult DrawLResult Loss
-17
-Swansea City
-30
-9
-7
-14
-32
-42
--10
-34
-LResult LossDResult DrawLResult LossLResult LossLResult LossLResult Loss
 18
 Stoke City
 30
