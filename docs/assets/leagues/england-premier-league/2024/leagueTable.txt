@@ -44,15 +44,15 @@ Nottingham Forest
 WResult WinWResult WinDResult DrawWResult WinLResult LossWResult Win
 4
 Chelsea
-24
+25
 12
 7
-5
+6
 47
-31
-16
+34
+13
 43
-LResult LossDResult DrawDResult DrawWResult WinLResult LossWResult Win
+DResult DrawDResult DrawWResult WinLResult LossWResult WinLResult Loss
 5
 Manchester City
 24
@@ -87,6 +87,17 @@ AFC Bournemouth
 40
 DResult DrawWResult WinDResult DrawWResult WinWResult WinLResult Loss
 8
+Brighton &amp; Hove Albion
+25
+9
+10
+6
+38
+38
+0
+37
+DResult DrawWResult WinWResult WinLResult LossLResult LossWResult Win
+9
 Aston Villa
 24
 10
@@ -97,7 +108,7 @@ Aston Villa
 -3
 37
 DResult DrawWResult WinWResult WinDResult DrawDResult DrawLResult Loss
-9
+10
 Fulham
 24
 9
@@ -108,17 +119,6 @@ Fulham
 4
 36
 DResult DrawDResult DrawLResult LossWResult WinLResult LossWResult Win
-10
-Brighton &amp; Hove Albion
-24
-8
-10
-6
-35
-38
--3
-34
-DResult DrawDResult DrawWResult WinWResult WinLResult LossLResult Loss
 11
 Brentford
 24
