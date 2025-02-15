@@ -11,26 +11,26 @@ Points
 Form, Last 6 games, Oldest first
 1
 Sporting CP
-21
+22
 16
-3
+4
 2
-57
-16
+59
+18
 41
-51
-WResult WinDResult DrawWResult WinWResult WinWResult WinDResult Draw
+52
+DResult DrawWResult WinWResult WinWResult WinDResult DrawDResult Draw
 2
 Benfica
-21
-15
+22
+16
 2
 4
-49
+50
 18
-31
-47
-LResult LossLResult LossWResult WinLResult LossWResult WinWResult Win
+32
+50
+LResult LossWResult WinLResult LossWResult WinWResult WinWResult Win
 3
 Porto
 21
@@ -55,27 +55,38 @@ Sporting Braga
 LResult LossWResult WinWResult WinWResult WinWResult WinWResult Win
 5
 Santa Clara
-21
+22
 12
 2
-7
+8
 25
-22
-3
+23
+2
 38
-WResult WinDResult DrawLResult LossDResult DrawWResult WinWResult Win
+DResult DrawLResult LossDResult DrawWResult WinWResult WinLResult Loss
 6
 Casa Pia
-21
+22
 9
 6
-6
-27
-25
-2
-33
-WResult WinDResult DrawWResult WinWResult WinLResult LossWResult Win
 7
+29
+28
+1
+33
+DResult DrawWResult WinWResult WinLResult LossWResult WinLResult Loss
+7
+Estoril
+22
+8
+7
+7
+28
+34
+-6
+31
+WResult WinWResult WinWResult WinWResult WinWResult WinDResult Draw
+8
 Vitória Guimarães
 21
 7
@@ -86,18 +97,18 @@ Vitória Guimarães
 5
 30
 DResult DrawDResult DrawDResult DrawLResult LossWResult WinDResult Draw
-8
-Estoril
-21
-8
-6
-7
-26
-32
--6
-30
-DResult DrawWResult WinWResult WinWResult WinWResult WinWResult Win
 9
+Moreirense
+22
+7
+5
+10
+28
+33
+-5
+26
+DResult DrawDResult DrawLResult LossLResult LossLResult LossWResult Win
+10
 Famalicão
 21
 5
@@ -108,7 +119,7 @@ Famalicão
 -2
 25
 LResult LossDResult DrawLResult LossDResult DrawWResult WinDResult Draw
-10
+11
 Rio Ave
 21
 6
@@ -119,29 +130,29 @@ Rio Ave
 -12
 25
 WResult WinDResult DrawLResult LossWResult WinDResult DrawDResult Draw
-11
-Moreirense
-21
-6
-5
-10
-25
-31
--6
-23
-DResult DrawDResult DrawDResult DrawLResult LossLResult LossLResult Loss
 12
 Arouca
+22
+6
+6
+10
 21
+34
+-13
+24
+WResult WinDResult DrawWResult WinWResult WinDResult DrawDResult Draw
+13
+Nacional
+22
 6
 5
-10
-19
-32
--13
+11
+21
+30
+-9
 23
-DResult DrawWResult WinDResult DrawWResult WinWResult WinDResult Draw
-13
+WResult WinWResult WinLResult LossLResult LossWResult WinDResult Draw
+14
 Gil Vicente
 21
 5
@@ -152,18 +163,18 @@ Gil Vicente
 -9
 22
 DResult DrawDResult DrawWResult WinLResult LossLResult LossLResult Loss
-14
-Nacional
-21
-6
-4
-11
-19
-28
--9
-22
-LResult LossWResult WinWResult WinLResult LossLResult LossWResult Win
 15
+Estrela
+22
+5
+5
+12
+19
+34
+-15
+20
+LResult LossLResult LossDResult DrawLResult LossLResult LossWResult Win
+16
 AVS
 21
 3
@@ -174,17 +185,6 @@ AVS
 -15
 18
 DResult DrawDResult DrawLResult LossWResult WinLResult LossLResult Loss
-16
-Estrela
-21
-4
-5
-12
-18
-34
--16
-17
-DResult DrawLResult LossLResult LossDResult DrawLResult LossLResult Loss
 17
 Farense
 21
@@ -198,11 +198,11 @@ Farense
 DResult DrawDResult DrawDResult DrawLResult LossLResult LossLResult Loss
 18
 Boavista
-21
+22
 2
 6
-13
 14
-36
--22
+14
+37
+-23
 12
