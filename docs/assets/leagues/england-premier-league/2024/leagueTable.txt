@@ -11,15 +11,15 @@ Points
 Form, Last 6 games, Oldest first
 1
 Liverpool
-24
-17
+25
+18
 6
 1
-58
-23
-35
-57
-DResult DrawDResult DrawWResult WinWResult WinWResult WinDResult Draw
+60
+24
+36
+60
+DResult DrawWResult WinWResult WinWResult WinDResult DrawWResult Win
 2
 Arsenal
 25
@@ -131,6 +131,17 @@ Brentford
 34
 WResult WinDResult DrawLResult LossWResult WinLResult LossWResult Win
 12
+Tottenham Hotspur
+25
+9
+3
+13
+49
+37
+12
+30
+LResult LossLResult LossLResult LossLResult LossWResult WinWResult Win
+13
 Crystal Palace
 25
 7
@@ -141,7 +152,7 @@ Crystal Palace
 -3
 30
 DResult DrawWResult WinWResult WinLResult LossWResult WinLResult Loss
-13
+14
 Everton
 25
 7
@@ -152,28 +163,17 @@ Everton
 -4
 30
 LResult LossWResult WinWResult WinWResult WinDResult DrawWResult Win
-14
+15
 Manchester United
-24
+25
 8
 5
-11
+12
 28
-34
--6
+35
+-7
 29
-LResult LossDResult DrawWResult WinLResult LossWResult WinLResult Loss
-15
-Tottenham Hotspur
-24
-8
-3
-13
-48
-37
-11
-27
-DResult DrawLResult LossLResult LossLResult LossLResult LossWResult Win
+DResult DrawWResult WinLResult LossWResult WinLResult LossLResult Loss
 16
 West Ham United
 25
@@ -187,15 +187,15 @@ West Ham United
 LResult LossWResult WinLResult LossDResult DrawLResult LossLResult Loss
 17
 Wolverhampton Wanderers
-24
+25
 5
 4
-15
-34
-52
--18
+16
+35
+54
+-19
 19
-DResult DrawLResult LossLResult LossLResult LossLResult LossWResult Win
+LResult LossLResult LossLResult LossLResult LossWResult WinLResult Loss
 18
 Ipswich Town
 25
