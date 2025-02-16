@@ -10,6 +10,17 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1
+Ajax
+22
+17
+3
+2
+49
+18
+31
+54
+WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
+2
 PSV
 23
 16
@@ -20,17 +31,6 @@ PSV
 45
 52
 DResult DrawLResult LossWResult WinDResult DrawDResult DrawDResult Draw
-2
-Ajax
-21
-16
-3
-2
-45
-18
-27
-51
-WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
 3
 Utrecht
 23
@@ -66,15 +66,15 @@ AZ
 WResult WinDResult DrawDResult DrawLResult LossWResult WinWResult Win
 6
 Twente
-21
-10
+22
+11
 6
 5
-44
+46
 30
-14
-36
-WResult WinLResult LossWResult WinLResult LossDResult DrawDResult Draw
+16
+39
+LResult LossWResult WinLResult LossDResult DrawDResult DrawWResult Win
 7
 Go Ahead Eagles
 22
@@ -98,6 +98,17 @@ Groningen
 27
 LResult LossWResult WinDResult DrawLResult LossWResult WinWResult Win
 9
+Heerenveen
+23
+7
+6
+10
+27
+42
+-15
+27
+WResult WinLResult LossLResult LossDResult DrawDResult DrawDResult Draw
+10
 NAC Breda
 23
 8
@@ -108,7 +119,7 @@ NAC Breda
 -15
 27
 LResult LossWResult WinLResult LossDResult DrawLResult LossDResult Draw
-10
+11
 Fortuna Sittard
 22
 7
@@ -119,51 +130,29 @@ Fortuna Sittard
 -11
 26
 WResult WinLResult LossLResult LossLResult LossDResult DrawLResult Loss
-11
-Heerenveen
-22
-7
-5
-10
-26
-41
--15
-26
-LResult LossWResult WinLResult LossLResult LossDResult DrawDResult Draw
 12
 NEC
-21
+22
 7
-3
+4
 11
+34
 32
-30
 2
-24
-DResult DrawLResult LossWResult WinWResult WinDResult DrawLResult Loss
+25
+LResult LossWResult WinWResult WinDResult DrawLResult LossDResult Draw
 13
 PEC Zwolle
-22
+23
 6
-6
+7
 10
-26
-34
+27
+35
 -8
-24
-DResult DrawLResult LossWResult WinWResult WinDResult DrawLResult Loss
+25
+LResult LossWResult WinWResult WinDResult DrawLResult LossDResult Draw
 14
-Heracles
-22
-5
-9
-8
-28
-39
--11
-24
-DResult DrawWResult WinDResult DrawDResult DrawDResult DrawWResult Win
-15
 Willem II
 23
 6
@@ -174,6 +163,17 @@ Willem II
 -8
 24
 LResult LossDResult DrawLResult LossLResult LossDResult DrawLResult Loss
+15
+Heracles
+23
+5
+9
+9
+28
+43
+-15
+24
+WResult WinDResult DrawDResult DrawDResult DrawWResult WinLResult Loss
 16
 Sparta Rotterdam
 23
@@ -187,22 +187,22 @@ Sparta Rotterdam
 DResult DrawDResult DrawWResult WinWResult WinLResult LossLResult Loss
 17
 RKC Waalwijk
-22
+23
 4
 5
-13
+14
 31
-45
--14
+47
+-16
 17
-DResult DrawLResult LossDResult DrawWResult WinWResult WinWResult Win
+LResult LossDResult DrawWResult WinWResult WinWResult WinLResult Loss
 18
 Almere City
-21
+22
 3
-4
+5
 14
-12
-43
+14
+45
 -31
-13
+14
