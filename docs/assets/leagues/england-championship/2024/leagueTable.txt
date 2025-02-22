@@ -33,15 +33,15 @@ Sheffield United
 WResult WinLResult LossWResult WinWResult WinWResult WinWResult Win
 3
 Burnley
-33
-17
+34
+18
 14
 2
-39
+43
 9
-30
-65
-WResult WinDResult DrawDResult DrawWResult WinWResult WinDResult Draw
+34
+68
+DResult DrawDResult DrawWResult WinWResult WinDResult DrawWResult Win
 4
 Sunderland
 33
@@ -65,6 +65,17 @@ Blackburn Rovers
 51
 LResult LossLResult LossWResult WinLResult LossWResult WinWResult Win
 6
+Bristol City
+34
+12
+13
+9
+43
+38
+5
+49
+WResult WinDResult DrawLResult LossWResult WinDResult DrawWResult Win
+7
 West Bromwich Albion
 33
 11
@@ -75,7 +86,7 @@ West Bromwich Albion
 11
 48
 LResult LossWResult WinLResult LossWResult WinLResult LossDResult Draw
-7
+8
 Coventry City
 33
 13
@@ -86,29 +97,7 @@ Coventry City
 3
 47
 WResult WinWResult WinWResult WinLResult LossWResult WinWResult Win
-8
-Bristol City
-33
-11
-13
 9
-41
-37
-4
-46
-DResult DrawWResult WinDResult DrawLResult LossWResult WinDResult Draw
-9
-Sheffield Wednesday
-33
-12
-9
-12
-46
-50
--4
-45
-DResult DrawWResult WinDResult DrawLResult LossWResult WinLResult Loss
-10
 Watford
 33
 13
@@ -119,17 +108,28 @@ Watford
 -5
 45
 LResult LossLResult LossLResult LossDResult DrawLResult LossWResult Win
+10
+Sheffield Wednesday
+34
+12
+9
+13
+46
+54
+-8
+45
+WResult WinDResult DrawLResult LossWResult WinLResult LossLResult Loss
 11
 Middlesbrough
-32
+33
 12
 8
-12
-50
-43
-7
+13
+51
+45
+6
 44
-LResult LossWResult WinLResult LossLResult LossLResult LossLResult Loss
+WResult WinLResult LossLResult LossLResult LossLResult LossLResult Loss
 12
 Norwich City
 33
