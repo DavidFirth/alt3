@@ -24,13 +24,13 @@ WResult WinDResult DrawLResult LossWResult WinLResult LossWResult Win
 Napoli
 26
 17
-6
-3
+5
+4
 42
-20
-22
-57
-WResult WinWResult WinWResult WinDResult DrawDResult DrawDResult Draw
+21
+21
+56
+WResult WinWResult WinDResult DrawDResult DrawDResult DrawLResult Loss
 3
 Atalanta
 25
@@ -66,14 +66,14 @@ Juventus
 DResult DrawWResult WinLResult LossWResult WinWResult WinWResult Win
 6
 Fiorentina
-25
+26
 12
-6
+7
 7
 41
 27
 14
-42
+43
 DResult DrawWResult WinWResult WinWResult WinLResult LossLResult Loss
 7
 AC Milan
@@ -144,14 +144,14 @@ LResult LossWResult WinLResult LossDResult DrawWResult WinLResult Loss
 13
 Como
 26
-6
-8
+7
+7
 12
-31
+32
 41
--10
-26
-LResult LossWResult WinLResult LossLResult LossLResult LossWResult Win
+-9
+28
+WResult WinLResult LossLResult LossLResult LossWResult WinWResult Win
 14
 Cagliari
 25
@@ -176,14 +176,14 @@ Lecce
 LResult LossLResult LossWResult WinDResult DrawDResult DrawLResult Loss
 16
 Hellas Verona
-25
+26
 7
-2
+3
 16
 26
 54
 -28
-23
+24
 LResult LossLResult LossDResult DrawWResult WinLResult LossLResult Loss
 17
 Parma
