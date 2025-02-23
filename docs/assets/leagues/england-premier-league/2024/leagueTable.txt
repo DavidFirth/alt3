@@ -11,15 +11,15 @@ Points
 Form, Last 6 games, Oldest first
 1
 Liverpool
-26
-18
+27
+19
 7
 1
-62
+64
 26
-36
-61
-WResult WinWResult WinWResult WinDResult DrawWResult WinDResult Draw
+38
+64
+WResult WinWResult WinDResult DrawWResult WinDResult DrawWResult Win
 2
 Arsenal
 26
@@ -33,27 +33,38 @@ Arsenal
 WResult WinDResult DrawWResult WinWResult WinWResult WinLResult Loss
 3
 Nottingham Forest
-25
+26
 14
 5
-6
-41
-29
-12
+7
+44
+33
+11
 47
-WResult WinDResult DrawWResult WinLResult LossWResult WinLResult Loss
+DResult DrawWResult WinLResult LossWResult WinLResult LossLResult Loss
 4
 Manchester City
-25
+26
 13
 5
-7
+8
 52
-35
-17
+37
+15
 44
-WResult WinDResult DrawWResult WinWResult WinLResult LossWResult Win
+DResult DrawWResult WinWResult WinLResult LossWResult WinLResult Loss
 5
+Newcastle United
+26
+13
+5
+8
+46
+36
+10
+44
+WResult WinLResult LossWResult WinLResult LossLResult LossWResult Win
+6
 AFC Bournemouth
 26
 12
@@ -64,7 +75,7 @@ AFC Bournemouth
 14
 43
 DResult DrawWResult WinWResult WinLResult LossWResult WinLResult Loss
-6
+7
 Chelsea
 26
 12
@@ -75,7 +86,7 @@ Chelsea
 12
 43
 DResult DrawWResult WinLResult LossWResult WinLResult LossLResult Loss
-7
+8
 Aston Villa
 27
 11
@@ -86,17 +97,6 @@ Aston Villa
 -2
 42
 DResult DrawDResult DrawLResult LossDResult DrawDResult DrawWResult Win
-8
-Newcastle United
-25
-12
-5
-8
-42
-33
-9
-41
-WResult WinWResult WinLResult LossWResult WinLResult LossLResult Loss
 9
 Brighton &amp; Hove Albion
 26
