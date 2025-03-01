@@ -11,15 +11,15 @@ Points
 Form, Last 6 games, Oldest first
 1
 PSG
-23
-18
+24
+19
 5
 0
+66
+23
+43
 62
-22
-40
-59
-WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
+DResult DrawWResult WinWResult WinWResult WinWResult WinWResult Win
 2
 Olympique Marseille
 23
@@ -33,15 +33,15 @@ Olympique Marseille
 DResult DrawLResult LossWResult WinWResult WinWResult WinLResult Loss
 3
 Nice
-23
-12
+24
+13
 7
 4
+49
+28
+21
 46
-27
-19
-43
-LResult LossWResult WinDResult DrawWResult WinWResult WinWResult Win
+WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
 4
 Monaco
 24
@@ -55,15 +55,15 @@ Monaco
 WResult WinWResult WinLResult LossWResult WinLResult LossWResult Win
 5
 Lille
-23
+24
 11
 8
-4
-38
-23
-15
+5
+39
+27
+12
 41
-WResult WinLResult LossWResult WinLResult LossWResult WinWResult Win
+LResult LossWResult WinLResult LossWResult WinWResult WinLResult Loss
 6
 Olympique Lyonnais
 23
@@ -88,15 +88,15 @@ Strasbourg
 DResult DrawWResult WinLResult LossWResult WinWResult WinDResult Draw
 8
 Lens
-23
+24
 9
 6
-8
-26
-25
-1
+9
+29
+29
+0
 33
-LResult LossWResult WinWResult WinLResult LossLResult LossLResult Loss
+WResult WinWResult WinLResult LossLResult LossLResult LossLResult Loss
 9
 Brest
 23
@@ -175,27 +175,27 @@ Reims
 22
 DResult DrawLResult LossLResult LossLResult LossLResult LossLResult Loss
 16
-Saint-Étienne
-23
-5
-4
-14
-23
-53
--30
-19
-DResult DrawDResult DrawLResult LossLResult LossLResult LossDResult Draw
-17
 Le Havre
-23
-5
+24
+6
 2
 16
-19
-47
--28
+23
+50
+-27
+20
+LResult LossDResult DrawWResult WinLResult LossLResult LossWResult Win
 17
-DResult DrawLResult LossDResult DrawWResult WinLResult LossLResult Loss
+Saint-Étienne
+24
+5
+4
+15
+24
+56
+-32
+19
+DResult DrawLResult LossLResult LossLResult LossDResult DrawLResult Loss
 18
 Montpellier
 23
