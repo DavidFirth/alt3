@@ -44,26 +44,26 @@ Porto
 DResult DrawDResult DrawDResult DrawWResult WinDResult DrawWResult Win
 4
 Sporting Braga
-23
+24
 14
 5
-4
-39
-20
-19
+5
+40
+22
+18
 47
-WResult WinWResult WinWResult WinWResult WinDResult DrawWResult Win
+WResult WinWResult WinWResult WinDResult DrawWResult WinLResult Loss
 5
 Santa Clara
-23
+24
 12
 3
-8
+9
 25
-23
-2
+24
+1
 39
-LResult LossDResult DrawWResult WinWResult WinLResult LossDResult Draw
+DResult DrawWResult WinWResult WinLResult LossDResult DrawLResult Loss
 6
 Casa Pia
 24
@@ -110,16 +110,27 @@ Famalicão
 DResult DrawWResult WinDResult DrawWResult WinWResult WinLResult Loss
 10
 Rio Ave
-23
-6
+24
+7
 8
 9
-25
-38
--13
-26
-LResult LossWResult WinDResult DrawDResult DrawDResult DrawLResult Loss
+27
+39
+-12
+29
+WResult WinDResult DrawDResult DrawDResult DrawLResult LossWResult Win
 11
+Moreirense
+24
+7
+6
+11
+29
+36
+-7
+27
+LResult LossLResult LossLResult LossWResult WinLResult LossDResult Draw
+12
 Nacional
 24
 7
@@ -130,17 +141,6 @@ Nacional
 -9
 26
 LResult LossLResult LossWResult WinDResult DrawLResult LossWResult Win
-12
-Moreirense
-23
-7
-5
-11
-28
-35
--7
-26
-DResult DrawLResult LossLResult LossLResult LossWResult WinLResult Loss
 13
 Arouca
 24
@@ -153,6 +153,17 @@ Arouca
 25
 WResult WinWResult WinDResult DrawDResult DrawDResult DrawLResult Loss
 14
+AVS
+24
+4
+11
+9
+20
+34
+-14
+23
+WResult WinLResult LossLResult LossDResult DrawDResult DrawWResult Win
+15
 Gil Vicente
 23
 5
@@ -163,46 +174,35 @@ Gil Vicente
 -12
 22
 WResult WinLResult LossLResult LossLResult LossLResult LossLResult Loss
-15
-Estrela
-23
-5
-6
-12
-19
-34
--15
-21
-LResult LossDResult DrawLResult LossLResult LossWResult WinDResult Draw
 16
-AVS
-23
-3
-11
-9
-19
-34
--15
+Estrela
+24
+5
+7
+12
 20
-LResult LossWResult WinLResult LossLResult LossDResult DrawDResult Draw
+35
+-15
+22
+DResult DrawLResult LossLResult LossWResult WinDResult DrawDResult Draw
 17
 Farense
-23
+24
 3
 7
-13
+14
 15
-33
--18
+34
+-19
 16
-DResult DrawLResult LossLResult LossLResult LossLResult LossDResult Draw
+LResult LossLResult LossLResult LossLResult LossDResult DrawLResult Loss
 18
 Boavista
-23
-2
+24
+3
 6
 15
-14
+15
 40
--26
-12
+-25
+15
