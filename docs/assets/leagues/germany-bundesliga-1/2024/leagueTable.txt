@@ -55,15 +55,15 @@ Mainz 05
 WResult WinLResult LossDResult DrawWResult WinWResult WinWResult Win
 5
 Freiburg
-23
+24
 12
-3
+4
 8
 34
 36
 -2
-39
-LResult LossLResult LossWResult WinWResult WinWResult WinWResult Win
+40
+LResult LossWResult WinWResult WinWResult WinWResult WinDResult Draw
 6
 RB Leipzig
 24
@@ -121,15 +121,15 @@ Borussia Dortmund
 DResult DrawWResult WinLResult LossLResult LossWResult WinWResult Win
 11
 Augsburg
-23
+24
 8
-7
+8
 8
 27
 35
 -8
-31
-WResult WinWResult WinDResult DrawDResult DrawDResult DrawWResult Win
+32
+WResult WinDResult DrawDResult DrawDResult DrawWResult WinDResult Draw
 12
 Werder Bremen
 24
@@ -154,15 +154,15 @@ Hoffenheim
 DResult DrawLResult LossLResult LossWResult WinDResult DrawWResult Win
 14
 Union Berlin
-23
+24
 6
 5
-12
+13
 20
-36
--16
+37
+-17
 23
-WResult WinLResult LossDResult DrawWResult WinLResult LossLResult Loss
+LResult LossDResult DrawWResult WinLResult LossLResult LossLResult Loss
 15
 St. Pauli
 24
@@ -186,6 +186,17 @@ Bochum
 17
 LResult LossLResult LossDResult DrawWResult WinDResult DrawLResult Loss
 17
+Holstein Kiel
+24
+4
+4
+16
+35
+59
+-24
+16
+DResult DrawLResult LossDResult DrawLResult LossLResult LossWResult Win
+18
 Heidenheim
 24
 4
@@ -195,14 +206,3 @@ Heidenheim
 50
 -23
 15
-LResult LossLResult LossLResult LossLResult LossDResult DrawLResult Loss
-18
-Holstein Kiel
-23
-3
-4
-16
-34
-59
--25
-13
