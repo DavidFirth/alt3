@@ -11,14 +11,14 @@ Points
 Form, Last 6 games, Oldest first
 1
 Ajax
-23
-18
+24
+19
 3
 2
-51
+52
 18
-33
-57
+34
+60
 WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
 2
 PSV
@@ -54,17 +54,6 @@ Feyenoord
 44
 DResult DrawLResult LossWResult WinDResult DrawWResult WinDResult Draw
 5
-AZ
-23
-13
-4
-6
-39
-21
-18
-43
-DResult DrawDResult DrawLResult LossWResult WinWResult WinWResult Win
-6
 Twente
 24
 12
@@ -75,6 +64,17 @@ Twente
 18
 43
 LResult LossDResult DrawDResult DrawWResult WinWResult WinDResult Draw
+6
+AZ
+24
+13
+4
+7
+40
+24
+16
+43
+DResult DrawLResult LossWResult WinWResult WinWResult WinLResult Loss
 7
 Go Ahead Eagles
 24
@@ -87,6 +87,17 @@ Go Ahead Eagles
 38
 WResult WinDResult DrawLResult LossWResult WinLResult LossWResult Win
 8
+Heerenveen
+24
+8
+6
+10
+30
+43
+-13
+30
+LResult LossLResult LossDResult DrawDResult DrawDResult DrawWResult Win
+9
 Fortuna Sittard
 24
 8
@@ -97,7 +108,7 @@ Fortuna Sittard
 -11
 29
 LResult LossLResult LossDResult DrawLResult LossLResult LossWResult Win
-9
+10
 Groningen
 24
 7
@@ -108,18 +119,18 @@ Groningen
 -10
 28
 WResult WinDResult DrawLResult LossWResult WinWResult WinDResult Draw
-10
-Heerenveen
-23
-7
-6
-10
-27
-42
--15
-27
-WResult WinLResult LossLResult LossDResult DrawDResult DrawDResult Draw
 11
+Heracles
+24
+6
+9
+9
+32
+45
+-13
+27
+DResult DrawDResult DrawDResult DrawWResult WinLResult LossWResult Win
+12
 NAC Breda
 24
 8
@@ -130,7 +141,7 @@ NAC Breda
 -16
 27
 WResult WinLResult LossDResult DrawLResult LossDResult DrawLResult Loss
-12
+13
 NEC
 24
 7
@@ -141,50 +152,39 @@ NEC
 0
 26
 WResult WinDResult DrawLResult LossDResult DrawLResult LossDResult Draw
-13
+14
 PEC Zwolle
-23
+24
 6
 7
-10
-27
-35
--8
-25
-LResult LossWResult WinWResult WinDResult DrawLResult LossDResult Draw
-14
-Willem II
-23
-6
-6
 11
-26
-34
--8
-24
-LResult LossDResult DrawLResult LossLResult LossDResult DrawLResult Loss
+29
+39
+-10
+25
+WResult WinWResult WinDResult DrawLResult LossDResult DrawLResult Loss
 15
-Heracles
-23
-5
-9
-9
-28
-43
--15
+Willem II
 24
-WResult WinDResult DrawDResult DrawDResult DrawWResult WinLResult Loss
+6
+6
+12
+26
+38
+-12
+24
+DResult DrawLResult LossLResult LossDResult DrawLResult LossLResult Loss
 16
 Sparta Rotterdam
-23
-4
+24
+5
 8
 11
-19
+23
 33
--14
-20
-DResult DrawDResult DrawWResult WinWResult WinLResult LossLResult Loss
+-10
+23
+DResult DrawWResult WinWResult WinLResult LossLResult LossWResult Win
 17
 RKC Waalwijk
 24
@@ -198,11 +198,11 @@ RKC Waalwijk
 DResult DrawWResult WinWResult WinWResult WinLResult LossLResult Loss
 18
 Almere City
-23
+24
 3
 5
+16
 15
-15
-47
--32
+48
+-33
 14
