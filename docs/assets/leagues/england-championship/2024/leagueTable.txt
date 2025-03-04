@@ -33,15 +33,15 @@ Sheffield United
 WResult WinWResult WinWResult WinWResult WinLResult LossWResult Win
 3
 Burnley
-34
-18
+35
+19
 14
 2
-43
-9
-34
-68
-DResult DrawDResult DrawWResult WinWResult WinDResult DrawWResult Win
+45
+10
+35
+71
+DResult DrawWResult WinWResult WinDResult DrawWResult WinWResult Win
 4
 Sunderland
 35
@@ -76,6 +76,17 @@ West Bromwich Albion
 52
 LResult LossWResult WinLResult LossDResult DrawWResult WinDResult Draw
 7
+Bristol City
+35
+13
+13
+9
+45
+38
+7
+52
+DResult DrawLResult LossWResult WinDResult DrawWResult WinWResult Win
+8
 Blackburn Rovers
 35
 15
@@ -86,7 +97,7 @@ Blackburn Rovers
 5
 52
 WResult WinLResult LossWResult WinWResult WinLResult LossDResult Draw
-8
+9
 Middlesbrough
 35
 14
@@ -97,17 +108,6 @@ Middlesbrough
 9
 50
 LResult LossLResult LossLResult LossLResult LossWResult WinWResult Win
-9
-Bristol City
-34
-12
-13
-9
-43
-38
-5
-49
-WResult WinDResult DrawLResult LossWResult WinDResult DrawWResult Win
 10
 Watford
 35
@@ -132,15 +132,15 @@ Norwich City
 WResult WinDResult DrawLResult LossDResult DrawWResult WinDResult Draw
 12
 Millwall
-34
+35
 11
 12
-11
+12
 34
-34
-0
+36
+-2
 45
-WResult WinWResult WinLResult LossDResult DrawDResult DrawWResult Win
+WResult WinLResult LossDResult DrawDResult DrawWResult WinLResult Loss
 13
 Sheffield Wednesday
 35
@@ -165,26 +165,26 @@ Queens Park Rangers
 LResult LossWResult WinLResult LossWResult WinLResult LossLResult Loss
 15
 Preston North End
-34
+35
 9
-15
+16
 10
 36
 41
 -5
-42
-WResult WinLResult LossWResult WinDResult DrawDResult DrawLResult Loss
+43
+LResult LossWResult WinDResult DrawDResult DrawLResult LossDResult Draw
 16
 Swansea City
-34
+35
 11
-7
+8
 16
 37
 46
 -9
-40
-LResult LossLResult LossWResult WinLResult LossLResult LossWResult Win
+41
+LResult LossWResult WinLResult LossLResult LossWResult WinDResult Draw
 17
 Portsmouth
 35
@@ -208,6 +208,17 @@ Oxford United
 38
 DResult DrawLResult LossDResult DrawLResult LossLResult LossLResult Loss
 19
+Hull City
+35
+9
+9
+17
+35
+44
+-9
+36
+LResult LossLResult LossDResult DrawWResult WinLResult LossWResult Win
+20
 Stoke City
 35
 8
@@ -218,28 +229,17 @@ Stoke City
 -13
 36
 WResult WinLResult LossWResult WinLResult LossLResult LossDResult Draw
-20
+21
 Cardiff City
-34
+35
 8
 12
-14
-37
-55
--18
+15
+38
+57
+-19
 36
-WResult WinLResult LossLResult LossDResult DrawDResult DrawWResult Win
-21
-Hull City
-34
-8
-9
-17
-33
-44
--11
-33
-WResult WinLResult LossLResult LossDResult DrawWResult WinLResult Loss
+LResult LossLResult LossDResult DrawDResult DrawWResult WinLResult Loss
 22
 Luton Town
 35
@@ -253,15 +253,15 @@ Luton Town
 DResult DrawLResult LossLResult LossDResult DrawLResult LossWResult Win
 23
 Plymouth Argyle
-34
+35
 6
 12
-16
+17
 36
-68
--32
+70
+-34
 30
-DResult DrawWResult WinWResult WinLResult LossDResult DrawDResult Draw
+WResult WinWResult WinLResult LossDResult DrawDResult DrawLResult Loss
 24
 Derby County
 35
