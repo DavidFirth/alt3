@@ -55,15 +55,15 @@ Athletic Club
 DResult DrawDResult DrawWResult WinDResult DrawWResult WinLResult Loss
 5
 Villarreal
-25
+26
 12
 8
-5
+6
 48
-35
-13
+36
+12
 44
-WResult WinDResult DrawWResult WinWResult WinDResult DrawWResult Win
+DResult DrawWResult WinWResult WinDResult DrawWResult WinLResult Loss
 6
 Real Betis
 26
@@ -87,6 +87,17 @@ Rayo Vallecano
 36
 WResult WinWResult WinWResult WinLResult LossLResult LossDResult Draw
 8
+Celta Vigo
+27
+10
+6
+11
+40
+41
+-1
+36
+LResult LossWResult WinDResult DrawWResult WinDResult DrawWResult Win
+9
 Mallorca
 26
 10
@@ -97,7 +108,7 @@ Mallorca
 -7
 36
 LResult LossLResult LossDResult DrawWResult WinDResult DrawDResult Draw
-9
+10
 Real Sociedad
 26
 10
@@ -108,17 +119,6 @@ Real Sociedad
 -4
 34
 LResult LossLResult LossWResult WinLResult LossWResult WinLResult Loss
-10
-Celta Vigo
-26
-9
-6
-11
-38
-40
--2
-33
-DResult DrawLResult LossWResult WinDResult DrawWResult WinDResult Draw
 11
 Osasuna
 26
@@ -175,17 +175,39 @@ Espanyol
 27
 WResult WinDResult DrawWResult WinLResult LossDResult DrawWResult Win
 16
-Leganés
-26
+Valencia
+27
 6
 9
-11
-23
-38
+12
+30
+45
 -15
 27
-DResult DrawLResult LossLResult LossDResult DrawLResult LossWResult Win
+WResult WinWResult WinDResult DrawLResult LossDResult DrawWResult Win
 17
+Leganés
+27
+6
+9
+12
+24
+40
+-16
+27
+LResult LossLResult LossDResult DrawLResult LossWResult WinLResult Loss
+18
+Deportivo Alavés
+27
+6
+8
+13
+30
+40
+-10
+26
+LResult LossLResult LossDResult DrawLResult LossDResult DrawWResult Win
+19
 Las Palmas
 26
 6
@@ -196,35 +218,13 @@ Las Palmas
 -14
 24
 DResult DrawLResult LossLResult LossLResult LossLResult LossDResult Draw
-18
-Valencia
-26
-5
-9
-12
-28
-44
--16
-24
-LResult LossWResult WinWResult WinDResult DrawLResult LossDResult Draw
-19
-Deportivo Alavés
-26
-5
-8
-13
-29
-40
--11
-23
-DResult DrawLResult LossLResult LossDResult DrawLResult LossDResult Draw
 20
 Real Valladolid
-26
+27
 4
 4
+19
 18
-17
-60
--43
+62
+-44
 16
