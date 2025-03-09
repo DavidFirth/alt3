@@ -22,37 +22,37 @@ Sporting CP
 WResult WinWResult WinDResult DrawDResult DrawDResult DrawWResult Win
 2
 Benfica
-23
-17
+24
+18
 2
 4
-53
+56
 18
-35
-53
-WResult WinLResult LossWResult WinWResult WinWResult WinWResult Win
+38
+56
+LResult LossWResult WinWResult WinWResult WinWResult WinWResult Win
 3
 Porto
-24
+25
 15
 5
-4
+5
 49
-19
-30
+20
+29
 50
-DResult DrawDResult DrawDResult DrawWResult WinDResult DrawWResult Win
+DResult DrawDResult DrawWResult WinDResult DrawWResult WinLResult Loss
 4
 Sporting Braga
-24
-14
+25
+15
 5
 5
-40
+41
 22
-18
-47
-WResult WinWResult WinWResult WinDResult DrawWResult WinLResult Loss
+19
+50
+WResult WinWResult WinDResult DrawWResult WinLResult LossWResult Win
 5
 Santa Clara
 24
@@ -88,15 +88,15 @@ Vitória Guimarães
 LResult LossWResult WinDResult DrawDResult DrawDResult DrawWResult Win
 8
 Estoril
-24
+25
 9
-7
 8
-31
-38
+8
+33
+40
 -7
-34
-WResult WinWResult WinWResult WinDResult DrawWResult WinLResult Loss
+35
+WResult WinWResult WinDResult DrawWResult WinLResult LossDResult Draw
 9
 Famalicão
 24
@@ -120,6 +120,17 @@ Rio Ave
 29
 WResult WinDResult DrawDResult DrawDResult DrawLResult LossWResult Win
 11
+Arouca
+25
+7
+7
+11
+24
+38
+-14
+28
+WResult WinDResult DrawDResult DrawDResult DrawLResult LossWResult Win
+12
 Moreirense
 24
 7
@@ -130,28 +141,17 @@ Moreirense
 -7
 27
 LResult LossLResult LossLResult LossWResult WinLResult LossDResult Draw
-12
+13
 Nacional
-24
+25
 7
 5
-12
-23
-32
--9
-26
-LResult LossLResult LossWResult WinDResult DrawLResult LossWResult Win
 13
-Arouca
-24
-6
-7
-11
 23
-38
--15
-25
-WResult WinWResult WinDResult DrawDResult DrawDResult DrawLResult Loss
+35
+-12
+26
+LResult LossWResult WinDResult DrawLResult LossWResult WinLResult Loss
 14
 Gil Vicente
 24
@@ -165,15 +165,15 @@ Gil Vicente
 LResult LossLResult LossLResult LossLResult LossLResult LossDResult Draw
 15
 AVS
-24
+25
 4
 11
-9
+10
 20
-34
--14
+35
+-15
 23
-WResult WinLResult LossLResult LossDResult DrawDResult DrawWResult Win
+LResult LossLResult LossDResult DrawDResult DrawWResult WinLResult Loss
 16
 Estrela
 25
@@ -187,15 +187,15 @@ Estrela
 LResult LossLResult LossWResult WinDResult DrawDResult DrawDResult Draw
 17
 Farense
-24
+25
 3
-7
+8
 14
-15
-34
+17
+36
 -19
-16
-LResult LossLResult LossLResult LossLResult LossDResult DrawLResult Loss
+17
+LResult LossLResult LossLResult LossDResult DrawLResult LossDResult Draw
 18
 Boavista
 24
