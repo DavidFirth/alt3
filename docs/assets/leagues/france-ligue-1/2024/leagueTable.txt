@@ -11,26 +11,26 @@ Points
 Form, Last 6 games, Oldest first
 1
 PSG
-24
-19
+25
+20
 5
 0
-66
-23
-43
-62
-DResult DrawWResult WinWResult WinWResult WinWResult WinWResult Win
+70
+24
+46
+65
+WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
 2
 Olympique Marseille
-24
+25
 15
 4
-5
+6
 52
-29
-23
+30
+22
 49
-LResult LossWResult WinWResult WinWResult WinLResult LossWResult Win
+WResult WinWResult WinWResult WinLResult LossWResult WinLResult Loss
 3
 Nice
 24
@@ -55,15 +55,15 @@ Monaco
 WResult WinLResult LossWResult WinLResult LossWResult WinDResult Draw
 5
 Lille
-24
-11
+25
+12
 8
 5
-39
+40
 27
-12
-41
-LResult LossWResult WinLResult LossWResult WinWResult WinLResult Loss
+13
+44
+WResult WinLResult LossWResult WinWResult WinLResult LossWResult Win
 6
 Olympique Lyonnais
 24
@@ -87,6 +87,17 @@ Strasbourg
 37
 WResult WinLResult LossWResult WinWResult WinDResult DrawWResult Win
 8
+Lens
+25
+10
+6
+9
+30
+29
+1
+36
+WResult WinLResult LossLResult LossLResult LossLResult LossWResult Win
+9
 Toulouse
 25
 9
@@ -97,17 +108,6 @@ Toulouse
 5
 34
 DResult DrawDResult DrawLResult LossWResult WinWResult WinDResult Draw
-9
-Lens
-24
-9
-6
-9
-29
-29
-0
-33
-WResult WinWResult WinLResult LossLResult LossLResult LossLResult Loss
 10
 Brest
 24
@@ -121,15 +121,15 @@ Brest
 WResult WinLResult LossWResult WinDResult DrawDResult DrawLResult Loss
 11
 Rennes
-24
+25
 9
 2
-13
-34
-32
-2
+14
+35
+36
+-1
 29
-LResult LossWResult WinWResult WinLResult LossWResult WinWResult Win
+WResult WinWResult WinLResult LossWResult WinWResult WinLResult Loss
 12
 Auxerre
 24
@@ -198,11 +198,11 @@ Saint-Étienne
 DResult DrawLResult LossLResult LossLResult LossDResult DrawLResult Loss
 18
 Montpellier
-24
+25
 4
 3
-17
+18
 21
-58
--37
+59
+-38
 15
