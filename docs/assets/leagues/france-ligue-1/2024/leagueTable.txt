@@ -33,15 +33,15 @@ Olympique Marseille
 WResult WinWResult WinWResult WinLResult LossWResult WinLResult Loss
 3
 Nice
-24
+25
 13
 7
-4
+5
 49
-28
-21
+30
+19
 46
-WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
+DResult DrawWResult WinWResult WinWResult WinWResult WinLResult Loss
 4
 Monaco
 25
@@ -66,26 +66,26 @@ Lille
 WResult WinLResult LossWResult WinWResult WinLResult LossWResult Win
 6
 Olympique Lyonnais
-24
-11
+25
+12
 6
 7
-44
+46
 31
-13
-39
-DResult DrawLResult LossWResult WinWResult WinLResult LossWResult Win
+15
+42
+LResult LossWResult WinWResult WinLResult LossWResult WinWResult Win
 7
 Strasbourg
-24
-10
+25
+11
 7
 7
-38
+39
 32
-6
-37
-WResult WinLResult LossWResult WinWResult WinDResult DrawWResult Win
+7
+40
+LResult LossWResult WinWResult WinDResult DrawWResult WinWResult Win
 8
 Lens
 25
@@ -98,6 +98,17 @@ Lens
 36
 WResult WinLResult LossLResult LossLResult LossLResult LossWResult Win
 9
+Brest
+25
+11
+3
+11
+38
+40
+-2
+36
+LResult LossWResult WinDResult DrawDResult DrawLResult LossWResult Win
+10
 Toulouse
 25
 9
@@ -108,18 +119,18 @@ Toulouse
 5
 34
 DResult DrawDResult DrawLResult LossWResult WinWResult WinDResult Draw
-10
-Brest
-24
-10
-3
 11
+Auxerre
+25
+8
+7
+10
 36
-40
--4
-33
-WResult WinLResult LossWResult WinDResult DrawDResult DrawLResult Loss
-11
+38
+-2
+31
+LResult LossDResult DrawDResult DrawWResult WinLResult LossWResult Win
+12
 Rennes
 25
 9
@@ -130,72 +141,61 @@ Rennes
 -1
 29
 WResult WinWResult WinLResult LossWResult WinWResult WinLResult Loss
-12
-Auxerre
-24
-7
-7
-10
-34
-38
--4
-28
-DResult DrawLResult LossDResult DrawDResult DrawWResult WinLResult Loss
 13
 Angers SCO
-24
+25
 7
 6
-11
-26
-38
--12
-27
-LResult LossDResult DrawLResult LossWResult WinDResult DrawLResult Loss
-14
-Nantes
-24
-5
-9
-10
-28
-42
--14
-24
-DResult DrawWResult WinLResult LossLResult LossWResult WinLResult Loss
-15
-Reims
-24
-5
-7
 12
 26
-38
--12
+40
+-14
+27
+DResult DrawLResult LossWResult WinDResult DrawLResult LossLResult Loss
+14
+Nantes
+25
+5
+9
+11
+28
+43
+-15
+24
+WResult WinLResult LossLResult LossWResult WinLResult LossLResult Loss
+15
+Reims
+25
+5
+7
+13
+26
+40
+-14
 22
-DResult DrawLResult LossLResult LossLResult LossLResult LossLResult Loss
+LResult LossLResult LossLResult LossLResult LossLResult LossLResult Loss
 16
 Le Havre
-24
+25
 6
-2
+3
 16
-23
-50
+24
+51
 -27
-20
-LResult LossDResult DrawWResult WinLResult LossLResult LossWResult Win
+21
+DResult DrawWResult WinLResult LossLResult LossWResult WinDResult Draw
 17
 Saint-Étienne
-24
+25
 5
-4
+5
 15
-24
-56
+25
+57
 -32
-19
-DResult DrawLResult LossLResult LossLResult LossDResult DrawLResult Loss
+20
+LResult LossLResult LossLResult LossDResult DrawLResult LossDResult Draw
 18
 Montpellier
 25
