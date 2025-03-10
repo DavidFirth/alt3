@@ -22,37 +22,37 @@ Inter Milan
 LResult LossWResult WinLResult LossWResult WinDResult DrawWResult Win
 2
 Napoli
-27
-17
+28
+18
 6
 4
-43
+45
+23
 22
-21
-57
-WResult WinDResult DrawDResult DrawDResult DrawLResult LossDResult Draw
+60
+DResult DrawDResult DrawDResult DrawLResult LossDResult DrawWResult Win
 3
 Atalanta
-27
-16
+28
+17
 7
 4
-59
+63
 26
-33
-55
-WResult WinDResult DrawWResult WinDResult DrawWResult WinDResult Draw
+37
+58
+DResult DrawWResult WinDResult DrawWResult WinDResult DrawWResult Win
 4
 Juventus
-27
+28
 13
 13
-1
+2
 45
-21
-24
+25
+20
 52
-LResult LossWResult WinWResult WinWResult WinWResult WinWResult Win
+WResult WinWResult WinWResult WinWResult WinWResult WinLResult Loss
 5
 Lazio
 27
@@ -66,27 +66,38 @@ Lazio
 LResult LossWResult WinWResult WinDResult DrawDResult DrawWResult Win
 6
 Bologna
-27
-12
+28
+13
 11
 4
-42
-33
-9
-47
-WResult WinDResult DrawWResult WinLResult LossWResult WinWResult Win
+44
+34
+10
+50
+DResult DrawWResult WinLResult LossWResult WinWResult WinWResult Win
 7
+Roma
+28
+13
+7
+8
+43
+30
+13
+46
+DResult DrawWResult WinWResult WinWResult WinWResult WinWResult Win
+8
 Fiorentina
-27
+28
 13
 6
-8
-42
-28
-14
+9
+43
+30
+13
 45
-WResult WinWResult WinLResult LossLResult LossLResult LossWResult Win
-8
+WResult WinLResult LossLResult LossLResult LossWResult WinLResult Loss
+9
 AC Milan
 28
 12
@@ -97,17 +108,6 @@ AC Milan
 10
 44
 WResult WinWResult WinLResult LossLResult LossLResult LossWResult Win
-9
-Roma
-27
-12
-7
-8
-42
-30
-12
-43
-WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
 10
 Udinese
 27
@@ -153,17 +153,6 @@ Como
 29
 LResult LossLResult LossWResult WinWResult WinLResult LossDResult Draw
 14
-Hellas Verona
-27
-8
-2
-17
-27
-56
--29
-26
-DResult DrawWResult WinLResult LossLResult LossWResult WinLResult Loss
-15
 Cagliari
 28
 6
@@ -174,6 +163,17 @@ Cagliari
 -15
 26
 LResult LossWResult WinDResult DrawLResult LossLResult LossDResult Draw
+15
+Hellas Verona
+28
+8
+2
+18
+28
+58
+-30
+26
+WResult WinLResult LossLResult LossWResult WinLResult LossLResult Loss
 16
 Lecce
 28
@@ -198,15 +198,15 @@ Parma
 LResult LossLResult LossLResult LossWResult WinLResult LossDResult Draw
 18
 Empoli
-27
+28
 4
 10
-13
+14
 23
-44
--21
+45
+-22
 22
-DResult DrawLResult LossLResult LossLResult LossLResult LossDResult Draw
+LResult LossLResult LossLResult LossLResult LossDResult DrawLResult Loss
 19
 Venezia
 28
