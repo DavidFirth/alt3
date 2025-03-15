@@ -76,6 +76,17 @@ Bologna
 50
 DResult DrawWResult WinLResult LossWResult WinWResult WinWResult Win
 7
+AC Milan
+29
+13
+8
+8
+44
+33
+11
+47
+WResult WinLResult LossLResult LossLResult LossWResult WinWResult Win
+8
 Roma
 28
 13
@@ -86,7 +97,7 @@ Roma
 13
 46
 DResult DrawWResult WinWResult WinWResult WinWResult WinWResult Win
-8
+9
 Fiorentina
 28
 13
@@ -97,39 +108,28 @@ Fiorentina
 13
 45
 WResult WinLResult LossLResult LossLResult LossWResult WinLResult Loss
-9
-AC Milan
-28
-12
-8
-8
-42
-32
-10
-44
-WResult WinWResult WinLResult LossLResult LossLResult LossWResult Win
 10
 Udinese
-28
+29
 11
 7
-10
+11
 35
-38
--3
+39
+-4
 40
-WResult WinDResult DrawWResult WinWResult WinWResult WinDResult Draw
+DResult DrawWResult WinWResult WinWResult WinDResult DrawLResult Loss
 11
 Torino
-28
-8
+29
+9
 11
 9
-33
 34
--1
-35
-DResult DrawDResult DrawLResult LossWResult WinWResult WinDResult Draw
+34
+0
+38
+DResult DrawLResult LossWResult WinWResult WinDResult DrawWResult Win
 12
 Genoa
 29
@@ -143,16 +143,27 @@ Genoa
 DResult DrawWResult WinLResult LossDResult DrawDResult DrawWResult Win
 13
 Como
-28
+29
 7
 8
-13
-34
-44
--10
-29
-LResult LossLResult LossWResult WinWResult WinLResult LossDResult Draw
 14
+35
+46
+-11
+29
+LResult LossWResult WinWResult WinLResult LossDResult DrawLResult Loss
+14
+Hellas Verona
+29
+9
+2
+18
+29
+58
+-29
+29
+LResult LossLResult LossWResult WinLResult LossLResult LossWResult Win
+15
 Cagliari
 28
 6
@@ -163,17 +174,6 @@ Cagliari
 -15
 26
 LResult LossWResult WinDResult DrawLResult LossLResult LossDResult Draw
-15
-Hellas Verona
-28
-8
-2
-18
-28
-58
--30
-26
-WResult WinLResult LossLResult LossWResult WinLResult LossLResult Loss
 16
 Lecce
 29
@@ -187,26 +187,26 @@ Lecce
 DResult DrawDResult DrawLResult LossLResult LossLResult LossLResult Loss
 17
 Parma
-28
+29
 5
-9
-14
-34
-48
--14
-24
-LResult LossLResult LossLResult LossWResult WinLResult LossDResult Draw
-18
-Empoli
-28
-4
 10
 14
+35
+49
+-14
+25
+LResult LossLResult LossWResult WinLResult LossDResult DrawDResult Draw
+18
+Empoli
+29
+4
+10
+15
 23
-45
--22
+46
+-23
 22
-LResult LossLResult LossLResult LossLResult LossDResult DrawLResult Loss
+LResult LossLResult LossLResult LossDResult DrawLResult LossLResult Loss
 19
 Venezia
 28
@@ -220,11 +220,11 @@ Venezia
 LResult LossLResult LossLResult LossDResult DrawDResult DrawDResult Draw
 20
 Monza
-28
+29
 2
-8
+9
 18
-23
-48
+24
+49
 -25
-14
+15
