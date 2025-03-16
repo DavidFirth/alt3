@@ -22,15 +22,15 @@ Bayern Munich
 WResult WinDResult DrawWResult WinWResult WinLResult LossDResult Draw
 2
 Bayer Leverkusen
-25
-15
+26
+16
 8
 2
-55
-30
-25
-53
-WResult WinDResult DrawDResult DrawWResult WinWResult WinLResult Loss
+59
+33
+26
+56
+DResult DrawDResult DrawWResult WinWResult WinLResult LossWResult Win
 3
 Mainz 05
 26
@@ -44,15 +44,15 @@ Mainz 05
 DResult DrawWResult WinWResult WinWResult WinWResult WinDResult Draw
 4
 Eintracht Frankfurt
-25
-12
+26
+13
 6
 7
-51
-39
-12
-42
-DResult DrawDResult DrawWResult WinLResult LossLResult LossLResult Loss
+54
+40
+14
+45
+DResult DrawWResult WinLResult LossLResult LossLResult LossWResult Win
 5
 RB Leipzig
 26
@@ -110,15 +110,15 @@ Augsburg
 DResult DrawDResult DrawWResult WinDResult DrawWResult WinWResult Win
 10
 Stuttgart
-25
+26
 10
 7
-8
-44
-39
-5
+9
+47
+43
+4
 37
-LResult LossWResult WinLResult LossDResult DrawLResult LossDResult Draw
+WResult WinLResult LossDResult DrawLResult LossDResult DrawLResult Loss
 11
 Borussia Dortmund
 26
@@ -176,33 +176,33 @@ St. Pauli
 LResult LossLResult LossLResult LossLResult LossDResult DrawWResult Win
 16
 Bochum
-25
-5
-5
-15
 26
-49
--23
-20
-LResult LossDResult DrawWResult WinDResult DrawLResult LossWResult Win
-17
-Holstein Kiel
-25
-4
+5
 5
 16
-37
-61
--24
+27
+52
+-25
+20
+DResult DrawWResult WinDResult DrawLResult LossWResult WinLResult Loss
 17
-LResult LossDResult DrawLResult LossLResult LossWResult WinDResult Draw
-18
 Heidenheim
-25
-4
+26
+5
 4
 17
-28
-51
--23
-16
+31
+52
+-21
+19
+LResult LossLResult LossDResult DrawLResult LossDResult DrawWResult Win
+18
+Holstein Kiel
+26
+4
+5
+17
+38
+64
+-26
+17
