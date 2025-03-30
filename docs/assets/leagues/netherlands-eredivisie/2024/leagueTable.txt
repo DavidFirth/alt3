@@ -9,55 +9,55 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1Ajax
-26
-20
+27
+21
 4
 2
-55
+57
 20
-35
-64
-WResult WinWResult WinWResult WinWResult WinWResult WinDResult Draw
+37
+67
+WResult WinWResult WinWResult WinWResult WinDResult DrawWResult Win
 2PSV
-26
+27
 18
 4
-4
+5
 78
-30
-48
+32
+46
 58
-DResult DrawDResult DrawDResult DrawLResult LossWResult WinWResult Win
+DResult DrawDResult DrawLResult LossWResult WinWResult WinLResult Loss
 3Utrecht
-26
-14
+27
+15
 7
 5
-46
+48
 39
-7
-49
-DResult DrawLResult LossDResult DrawWResult WinWResult WinLResult Loss
+9
+52
+LResult LossDResult DrawWResult WinWResult WinLResult LossWResult Win
 4Feyenoord
-25
-13
+26
+14
 8
 4
-54
-29
-25
-47
-LResult LossWResult WinDResult DrawWResult WinDResult DrawWResult Win
-5Twente
+57
+31
 26
+50
+WResult WinDResult DrawWResult WinDResult DrawWResult WinWResult Win
+5Twente
+27
 13
 7
-6
-52
-37
-15
+7
+53
+39
+14
 46
-DResult DrawWResult WinWResult WinDResult DrawWResult WinLResult Loss
+WResult WinWResult WinDResult DrawWResult WinLResult LossLResult Loss
 6AZ
 26
 13
@@ -69,15 +69,15 @@ DResult DrawWResult WinWResult WinDResult DrawWResult WinLResult Loss
 45
 WResult WinWResult WinWResult WinLResult LossDResult DrawDResult Draw
 7Go Ahead Eagles
-26
+27
 13
 5
-8
-47
-40
-7
+9
+49
+43
+6
 44
-LResult LossWResult WinLResult LossWResult WinWResult WinWResult Win
+WResult WinLResult LossWResult WinWResult WinWResult WinLResult Loss
 8Groningen
 26
 8
@@ -98,17 +98,27 @@ LResult LossWResult WinWResult WinDResult DrawWResult WinDResult Draw
 -14
 32
 LResult LossLResult LossWResult WinWResult WinLResult LossLResult Loss
-10Heerenveen
-26
+10Heracles
+27
+7
+10
+10
+35
+48
+-13
+31
+WResult WinLResult LossWResult WinLResult LossDResult DrawWResult Win
+11Heerenveen
+27
 8
 7
-11
+12
 32
-46
--14
+48
+-16
 31
-DResult DrawDResult DrawDResult DrawWResult WinLResult LossDResult Draw
-11NEC
+DResult DrawDResult DrawWResult WinLResult LossDResult DrawLResult Loss
+12NEC
 27
 8
 6
@@ -118,7 +128,7 @@ DResult DrawDResult DrawDResult DrawWResult WinLResult LossDResult Draw
 0
 30
 DResult DrawLResult LossDResult DrawLResult LossWResult WinDResult Draw
-12NAC Breda
+13NAC Breda
 27
 8
 6
@@ -128,7 +138,7 @@ DResult DrawLResult LossDResult DrawLResult LossWResult WinDResult Draw
 -16
 30
 LResult LossDResult DrawLResult LossDResult DrawDResult DrawDResult Draw
-13PEC Zwolle
+14PEC Zwolle
 27
 7
 8
@@ -138,16 +148,6 @@ LResult LossDResult DrawLResult LossDResult DrawDResult DrawDResult Draw
 -9
 29
 LResult LossDResult DrawLResult LossLResult LossDResult DrawWResult Win
-14Heracles
-26
-6
-10
-10
-33
-47
--14
-28
-DResult DrawWResult WinLResult LossWResult WinLResult LossDResult Draw
 15Sparta Rotterdam
 27
 6
