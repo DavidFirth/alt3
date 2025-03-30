@@ -39,15 +39,15 @@ DResult DrawWResult WinWResult WinLResult LossWResult WinWResult Win
 48
 WResult WinLResult LossLResult LossLResult LossWResult WinWResult Win
 4Mainz 05
-26
+27
 13
 6
-7
-44
-28
-16
+8
 45
-DResult DrawWResult WinWResult WinWResult WinWResult WinDResult Draw
+31
+14
+45
+WResult WinWResult WinWResult WinWResult WinDResult DrawLResult Loss
 5Borussia M&#x27;gladbach
 27
 13
@@ -69,15 +69,15 @@ WResult WinLResult LossWResult WinLResult LossWResult WinWResult Win
 42
 DResult DrawDResult DrawLResult LossDResult DrawWResult WinLResult Loss
 7Freiburg
-26
+27
 12
 6
-8
-36
-38
--2
+9
+37
+40
+-3
 42
-WResult WinWResult WinWResult WinDResult DrawDResult DrawDResult Draw
+WResult WinWResult WinDResult DrawDResult DrawDResult DrawLResult Loss
 8Augsburg
 27
 10
@@ -98,7 +98,17 @@ DResult DrawWResult WinDResult DrawWResult WinWResult WinDResult Draw
 8
 38
 WResult WinDResult DrawWResult WinDResult DrawLResult LossLResult Loss
-10Stuttgart
+10Borussia Dortmund
+27
+11
+5
+11
+48
+42
+6
+38
+LResult LossWResult WinWResult WinLResult LossLResult LossWResult Win
+11Stuttgart
 27
 10
 7
@@ -108,7 +118,7 @@ WResult WinDResult DrawWResult WinDResult DrawLResult LossLResult Loss
 3
 37
 LResult LossDResult DrawLResult LossDResult DrawLResult LossLResult Loss
-11Werder Bremen
+12Werder Bremen
 27
 10
 6
@@ -118,17 +128,17 @@ LResult LossDResult DrawLResult LossDResult DrawLResult LossLResult Loss
 -10
 36
 LResult LossLResult LossLResult LossWResult WinLResult LossWResult Win
-12Borussia Dortmund
-26
-10
-5
-11
-45
-41
-4
-35
-LResult LossLResult LossWResult WinWResult WinLResult LossLResult Loss
-13Hoffenheim
+13Union Berlin
+27
+8
+6
+13
+25
+40
+-15
+30
+LResult LossLResult LossLResult LossWResult WinDResult DrawWResult Win
+14Hoffenheim
 27
 6
 9
@@ -138,16 +148,6 @@ LResult LossLResult LossWResult WinWResult WinLResult LossLResult Loss
 -16
 27
 WResult WinDResult DrawWResult WinDResult DrawLResult LossDResult Draw
-14Union Berlin
-26
-7
-6
-13
-23
-39
--16
-27
-WResult WinLResult LossLResult LossLResult LossWResult WinDResult Draw
 15St. Pauli
 27
 7
