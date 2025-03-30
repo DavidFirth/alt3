@@ -9,35 +9,35 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1Inter Milan
-29
-19
+30
+20
 7
 3
-65
-27
-38
-64
-WResult WinLResult LossWResult WinDResult DrawWResult WinWResult Win
+67
+28
+39
+67
+LResult LossWResult WinDResult DrawWResult WinWResult WinWResult Win
 2Napoli
-29
-18
+30
+19
 7
 4
-45
+47
+24
 23
-22
-61
-DResult DrawDResult DrawLResult LossDResult DrawWResult WinDResult Draw
+64
+DResult DrawLResult LossDResult DrawWResult WinDResult DrawWResult Win
 3Atalanta
-29
+30
 17
 7
-5
+6
 63
-28
-35
+29
+34
 58
-WResult WinDResult DrawWResult WinDResult DrawWResult WinLResult Loss
+DResult DrawWResult WinDResult DrawWResult WinLResult LossLResult Loss
 4Bologna
 30
 15
@@ -79,35 +79,35 @@ WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
 51
 WResult WinDResult DrawDResult DrawWResult WinDResult DrawLResult Loss
 8Fiorentina
-29
-14
+30
+15
 6
 9
-46
+47
 30
-16
-48
-LResult LossLResult LossLResult LossWResult WinLResult LossWResult Win
+17
+51
+LResult LossLResult LossWResult WinLResult LossWResult WinWResult Win
 9AC Milan
-29
+30
 13
 8
-8
-44
-33
-11
+9
+45
+35
+10
 47
-WResult WinLResult LossLResult LossLResult LossWResult WinWResult Win
+LResult LossLResult LossLResult LossWResult WinWResult WinLResult Loss
 10Udinese
-29
+30
 11
 7
-11
-35
-39
--4
+12
+36
+41
+-5
 40
-DResult DrawWResult WinWResult WinWResult WinDResult DrawLResult Loss
+WResult WinWResult WinWResult WinDResult DrawLResult LossLResult Loss
 11Torino
 29
 9
@@ -149,15 +149,15 @@ WResult WinWResult WinLResult LossDResult DrawLResult LossDResult Draw
 29
 LResult LossLResult LossWResult WinLResult LossLResult LossWResult Win
 15Cagliari
-29
-6
+30
+7
 8
 15
-28
+31
 44
--16
-26
-WResult WinDResult DrawLResult LossLResult LossDResult DrawLResult Loss
+-13
+29
+DResult DrawLResult LossLResult LossDResult DrawLResult LossWResult Win
 16Parma
 29
 5
@@ -199,11 +199,11 @@ LResult LossLResult LossDResult DrawLResult LossLResult LossDResult Draw
 20
 LResult LossDResult DrawDResult DrawDResult DrawDResult DrawLResult Loss
 20Monza
-29
+30
 2
 9
-18
+19
 24
-49
--25
+52
+-28
 15
