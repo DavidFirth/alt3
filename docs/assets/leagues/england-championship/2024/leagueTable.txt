@@ -139,15 +139,15 @@ LResult LossLResult LossWResult WinWResult WinLResult LossDResult Draw
 51
 WResult WinLResult LossWResult WinLResult LossWResult WinLResult Loss
 14Preston North End
-38
+39
 10
 17
-11
+12
 39
-44
--5
+46
+-7
 47
-DResult DrawLResult LossDResult DrawLResult LossDResult DrawWResult Win
+LResult LossDResult DrawLResult LossDResult DrawWResult WinLResult Loss
 15Queens Park Rangers
 39
 11
@@ -198,7 +198,17 @@ LResult LossDResult DrawLResult LossWResult WinLResult LossWResult Win
 -17
 42
 LResult LossLResult LossDResult DrawLResult LossWResult WinLResult Loss
-20Hull City
+20Derby County
+39
+11
+8
+20
+42
+51
+-9
+41
+LResult LossLResult LossWResult WinWResult WinWResult WinWResult Win
+21Hull City
 39
 10
 11
@@ -208,7 +218,7 @@ LResult LossLResult LossDResult DrawLResult LossWResult WinLResult Loss
 -9
 41
 LResult LossWResult WinDResult DrawWResult WinDResult DrawLResult Loss
-21Cardiff City
+22Cardiff City
 39
 9
 13
@@ -218,16 +228,6 @@ LResult LossWResult WinDResult DrawWResult WinDResult DrawLResult Loss
 -20
 40
 WResult WinLResult LossLResult LossLResult LossWResult WinDResult Draw
-22Derby County
-38
-10
-8
-20
-40
-51
--11
-38
-LResult LossLResult LossLResult LossWResult WinWResult WinWResult Win
 23Luton Town
 39
 10
