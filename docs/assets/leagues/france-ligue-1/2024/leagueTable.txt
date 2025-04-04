@@ -39,15 +39,15 @@ WResult WinLResult LossWResult WinDResult DrawWResult WinWResult Win
 49
 WResult WinLResult LossWResult WinLResult LossLResult LossLResult Loss
 4Nice
-27
+28
 13
 8
-6
-51
-33
-18
+7
+52
+35
+17
 47
-WResult WinWResult WinWResult WinLResult LossDResult DrawLResult Loss
+WResult WinWResult WinLResult LossDResult DrawLResult LossLResult Loss
 5Lille
 27
 13
@@ -129,15 +129,15 @@ LResult LossWResult WinWResult WinDResult DrawLResult LossLResult Loss
 32
 LResult LossWResult WinWResult WinLResult LossLResult LossWResult Win
 13Nantes
-27
-6
+28
+7
 9
 12
-31
-46
--15
-27
-LResult LossWResult WinLResult LossLResult LossWResult WinLResult Loss
+33
+47
+-14
+30
+WResult WinLResult LossLResult LossWResult WinLResult LossWResult Win
 14Angers SCO
 27
 7
@@ -169,21 +169,21 @@ LResult LossLResult LossLResult LossLResult LossDResult DrawWResult Win
 24
 LResult LossLResult LossWResult WinDResult DrawLResult LossWResult Win
 17Saint-Étienne
-26
-5
+27
+6
 5
 16
-26
+28
 63
--37
-20
-LResult LossLResult LossDResult DrawLResult LossDResult DrawLResult Loss
+-35
+23
+LResult LossDResult DrawLResult LossDResult DrawWResult WinLResult Loss
 18Montpellier
-26
+27
 4
 3
-19
+20
 21
-60
--39
+62
+-41
 15
