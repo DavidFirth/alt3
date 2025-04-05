@@ -9,25 +9,25 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1PSG
-27
-22
+28
+23
 5
 0
-79
+80
 26
-53
-71
+54
+74
 WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
 2Monaco
-27
+28
 15
 5
-7
-53
-33
-20
+8
+54
+35
+19
 50
-WResult WinLResult LossWResult WinDResult DrawWResult WinWResult Win
+LResult LossWResult WinDResult DrawWResult WinWResult WinLResult Loss
 3Olympique Marseille
 27
 15
@@ -38,7 +38,17 @@ WResult WinLResult LossWResult WinDResult DrawWResult WinWResult Win
 18
 49
 WResult WinLResult LossWResult WinLResult LossLResult LossLResult Loss
-4Nice
+4Olympique Lyonnais
+28
+14
+6
+8
+54
+38
+16
+48
+LResult LossWResult WinWResult WinWResult WinLResult LossWResult Win
+5Nice
 28
 13
 8
@@ -48,17 +58,17 @@ WResult WinLResult LossWResult WinLResult LossLResult LossLResult Loss
 17
 47
 WResult WinWResult WinLResult LossDResult DrawLResult LossLResult Loss
-5Lille
-27
-13
-8
-6
-41
+6Lille
 28
 13
+8
+7
+42
+30
+12
 47
-WResult WinWResult WinLResult LossWResult WinLResult LossWResult Win
-6Strasbourg
+WResult WinLResult LossWResult WinLResult LossWResult WinLResult Loss
+7Strasbourg
 27
 13
 7
@@ -68,26 +78,16 @@ WResult WinWResult WinLResult LossWResult WinLResult LossWResult Win
 10
 46
 WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
-7Olympique Lyonnais
-27
-13
-6
-8
-52
-37
-15
-45
-WResult WinLResult LossWResult WinWResult WinWResult WinLResult Loss
 8Brest
-27
-12
+28
+13
 4
 11
-42
-42
-0
-40
-DResult DrawDResult DrawLResult LossWResult WinDResult DrawWResult Win
+44
+43
+1
+43
+DResult DrawLResult LossWResult WinDResult DrawWResult WinWResult Win
 9Lens
 27
 11
@@ -139,15 +139,15 @@ LResult LossWResult WinWResult WinLResult LossLResult LossWResult Win
 30
 WResult WinLResult LossLResult LossWResult WinLResult LossWResult Win
 14Angers SCO
-27
+28
 7
 6
-14
+15
 26
-45
--19
+46
+-20
 27
-WResult WinDResult DrawLResult LossLResult LossLResult LossLResult Loss
+DResult DrawLResult LossLResult LossLResult LossLResult LossLResult Loss
 15Reims
 27
 6
