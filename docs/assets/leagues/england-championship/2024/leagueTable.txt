@@ -8,7 +8,17 @@ Goals Against
 Goal Difference
 Points
 Form, Last 6 games, Oldest first
-1Burnley
+1Leeds United
+42
+25
+13
+4
+82
+29
+53
+88
+WResult WinDResult DrawDResult DrawDResult DrawWResult WinWResult Win
+2Burnley
 42
 24
 16
@@ -18,46 +28,36 @@ Form, Last 6 games, Oldest first
 44
 88
 DResult DrawWResult WinWResult WinWResult WinDResult DrawWResult Win
-2Leeds United
-41
-24
-13
-4
-80
-28
-52
-85
-LResult LossWResult WinDResult DrawDResult DrawDResult DrawWResult Win
 3Sheffield United
-41
+42
 26
 7
-8
-56
-31
-25
+9
+57
+33
+24
 83
-WResult WinDResult DrawWResult WinWResult WinLResult LossLResult Loss
+DResult DrawWResult WinWResult WinLResult LossLResult LossLResult Loss
 4Sunderland
-41
+42
 21
 13
-7
+8
 57
-37
-20
+38
+19
 76
-WResult WinDResult DrawLResult LossWResult WinWResult WinDResult Draw
+DResult DrawLResult LossWResult WinWResult WinDResult DrawLResult Loss
 5Bristol City
-41
+42
 16
-15
+16
 10
-53
-44
+54
+45
 9
-63
-DResult DrawDResult DrawWResult WinLResult LossWResult WinWResult Win
+64
+DResult DrawWResult WinLResult LossWResult WinWResult WinDResult Draw
 6Coventry City
 41
 18
@@ -68,47 +68,67 @@ DResult DrawDResult DrawWResult WinLResult LossWResult WinWResult Win
 5
 62
 WResult WinLResult LossWResult WinLResult LossLResult LossWResult Win
-7Middlesbrough
-41
-17
-9
-15
-61
-50
-11
-60
-LResult LossWResult WinDResult DrawWResult WinWResult WinLResult Loss
-8West Bromwich Albion
-41
-13
+7West Bromwich Albion
+42
+14
 18
 10
-49
-38
-11
-57
-WResult WinDResult DrawDResult DrawLResult LossLResult LossLResult Loss
+51
+39
+12
+60
+DResult DrawDResult DrawLResult LossLResult LossLResult LossWResult Win
+8Middlesbrough
+42
+17
+9
+16
+61
+51
+10
+60
+WResult WinDResult DrawWResult WinWResult WinLResult LossLResult Loss
 9Millwall
-41
-15
+42
+16
 12
 14
-40
 41
--1
-57
-WResult WinLResult LossWResult WinLResult LossWResult WinWResult Win
-10Watford
 41
+0
+60
+LResult LossWResult WinLResult LossWResult WinWResult WinWResult Win
+10Blackburn Rovers
+42
 16
 8
-17
-49
-53
--4
+18
+45
+45
+0
 56
-LResult LossWResult WinLResult LossDResult DrawLResult LossWResult Win
-11Norwich City
+LResult LossLResult LossLResult LossLResult LossDResult DrawWResult Win
+11Watford
+42
+16
+8
+18
+50
+55
+-5
+56
+WResult WinLResult LossDResult DrawLResult LossWResult WinLResult Loss
+12Swansea City
+42
+15
+9
+18
+45
+51
+-6
+54
+LResult LossLResult LossDResult DrawWResult WinWResult WinWResult Win
+13Norwich City
 42
 13
 14
@@ -118,77 +138,67 @@ LResult LossWResult WinLResult LossDResult DrawLResult LossWResult Win
 5
 53
 LResult LossLResult LossWResult WinLResult LossDResult DrawLResult Loss
-12Blackburn Rovers
-41
-15
-8
-18
-44
-45
--1
-53
-LResult LossLResult LossLResult LossLResult LossLResult LossDResult Draw
-13Sheffield Wednesday
-41
+14Sheffield Wednesday
+42
 14
 11
-16
+17
 56
-63
--7
+64
+-8
 53
-WResult WinWResult WinLResult LossDResult DrawLResult LossDResult Draw
-14Swansea City
-41
-14
-9
-18
-44
-51
--7
-51
-WResult WinLResult LossLResult LossDResult DrawWResult WinWResult Win
+WResult WinLResult LossDResult DrawLResult LossDResult DrawLResult Loss
 15Queens Park Rangers
-41
+42
 12
-13
+14
 16
-48
-54
--6
 49
-LResult LossLResult LossDResult DrawLResult LossDResult DrawWResult Win
+55
+-6
+50
+LResult LossDResult DrawLResult LossDResult DrawWResult WinDResult Draw
 16Preston North End
-41
+42
 10
 19
-12
+13
+43
+51
+-8
+49
+DResult DrawWResult WinLResult LossDResult DrawDResult DrawLResult Loss
+17Oxford United
 42
-49
--7
-49
-LResult LossDResult DrawWResult WinLResult LossDResult DrawDResult Draw
-17Portsmouth
-41
 12
-9
-20
-48
-64
--16
-45
-WResult WinLResult LossLResult LossWResult WinLResult LossLResult Loss
-18Oxford United
-41
-11
 12
 18
-42
+43
 60
--18
-45
-DResult DrawLResult LossWResult WinLResult LossWResult WinLResult Loss
-19Hull City
+-17
+48
+LResult LossWResult WinLResult LossWResult WinLResult LossWResult Win
+18Stoke City
+42
+11
+14
+17
+43
+54
+-11
+47
+WResult WinLResult LossWResult WinDResult DrawDResult DrawWResult Win
+19Portsmouth
+42
+12
+10
+20
+50
+66
+-16
+46
+LResult LossLResult LossWResult WinLResult LossLResult LossDResult Draw
+20Hull City
 41
 11
 11
@@ -198,52 +208,42 @@ DResult DrawLResult LossWResult WinLResult LossWResult WinLResult Loss
 -9
 44
 DResult DrawWResult WinDResult DrawLResult LossWResult WinLResult Loss
-20Stoke City
-41
-10
-14
-17
-42
-54
--12
-44
-LResult LossWResult WinLResult LossWResult WinDResult DrawDResult Draw
 21Derby County
-41
+42
 11
-9
+10
 21
-42
-52
+44
+54
 -10
-42
-WResult WinWResult WinWResult WinWResult WinLResult LossDResult Draw
+43
+WResult WinWResult WinWResult WinLResult LossDResult DrawDResult Draw
 22Cardiff City
-41
+42
 9
 15
-17
+18
 45
-65
--20
+66
+-21
 42
-LResult LossLResult LossWResult WinDResult DrawDResult DrawDResult Draw
+LResult LossWResult WinDResult DrawDResult DrawDResult DrawLResult Loss
 23Luton Town
-41
+42
 10
 10
-21
+22
 37
-62
--25
+63
+-26
 40
-LResult LossWResult WinDResult DrawWResult WinDResult DrawDResult Draw
+WResult WinDResult DrawWResult WinDResult DrawDResult DrawLResult Loss
 24Plymouth Argyle
-41
-8
+42
+9
 13
 20
-42
-81
--39
-37
+44
+82
+-38
+40
