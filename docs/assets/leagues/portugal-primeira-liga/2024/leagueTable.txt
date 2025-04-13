@@ -19,16 +19,26 @@ Form, Last 6 games, Oldest first
 69
 WResult WinWResult WinWResult WinWResult WinDResult DrawWResult Win
 2Benfica
-28
+29
 22
-2
+3
 4
-69
-23
+71
+25
 46
-68
-WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
-3Porto
+69
+WResult WinWResult WinWResult WinWResult WinWResult WinDResult Draw
+3Sporting Braga
+29
+18
+6
+5
+49
+25
+24
+60
+LResult LossWResult WinWResult WinWResult WinDResult DrawWResult Win
+4Porto
 29
 18
 5
@@ -38,16 +48,6 @@ WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
 30
 59
 WResult WinLResult LossWResult WinWResult WinLResult LossWResult Win
-4Sporting Braga
-28
-17
-6
-5
-45
-24
-21
-57
-WResult WinLResult LossWResult WinWResult WinWResult WinDResult Draw
 5Vitória Guimarães
 29
 12
@@ -99,16 +99,26 @@ LResult LossLResult LossLResult LossWResult WinDResult DrawLResult Loss
 39
 LResult LossDResult DrawDResult DrawLResult LossWResult WinLResult Loss
 10Moreirense
-28
+29
 9
 8
-11
+12
 34
-39
--5
+41
+-7
 35
-LResult LossDResult DrawDResult DrawWResult WinDResult DrawWResult Win
-11Nacional
+DResult DrawDResult DrawWResult WinDResult DrawWResult WinLResult Loss
+11Rio Ave
+29
+8
+8
+13
+32
+47
+-15
+32
+WResult WinLResult LossLResult LossLResult LossLResult LossWResult Win
+12Nacional
 29
 9
 5
@@ -118,26 +128,16 @@ LResult LossDResult DrawDResult DrawWResult WinDResult DrawWResult Win
 -11
 32
 WResult WinLResult LossWResult WinLResult LossLResult LossWResult Win
-12Rio Ave
-28
-7
-8
-13
-30
-47
--17
-29
-LResult LossWResult WinLResult LossLResult LossLResult LossLResult Loss
 13Arouca
-28
-7
-8
-13
-27
-43
--16
 29
-DResult DrawLResult LossWResult WinDResult DrawLResult LossLResult Loss
+7
+9
+13
+29
+45
+-16
+30
+LResult LossWResult WinDResult DrawLResult LossLResult LossDResult Draw
 14Gil Vicente
 29
 6
@@ -149,35 +149,35 @@ DResult DrawLResult LossWResult WinDResult DrawLResult LossLResult Loss
 26
 DResult DrawLResult LossLResult LossWResult WinLResult LossLResult Loss
 15Estrela
-28
+29
 6
 8
-14
+15
 22
-41
--19
+42
+-20
 26
-DResult DrawDResult DrawDResult DrawLResult LossLResult LossWResult Win
+DResult DrawDResult DrawLResult LossLResult LossWResult WinLResult Loss
 16AVS
-28
+29
 4
 11
-13
-21
-44
--23
+14
+22
+48
+-26
 23
-DResult DrawWResult WinLResult LossLResult LossLResult LossLResult Loss
+WResult WinLResult LossLResult LossLResult LossLResult LossLResult Loss
 17Farense
-28
-3
+29
+4
 9
 16
-19
+20
 40
--21
-18
-DResult DrawLResult LossDResult DrawLResult LossLResult LossDResult Draw
+-20
+21
+LResult LossDResult DrawLResult LossLResult LossDResult DrawWResult Win
 18Boavista
 29
 4
