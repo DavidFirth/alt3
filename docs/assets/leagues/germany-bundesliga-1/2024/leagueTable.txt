@@ -29,15 +29,15 @@ WResult WinLResult LossDResult DrawWResult WinWResult WinDResult Draw
 63
 WResult WinLResult LossWResult WinWResult WinWResult WinDResult Draw
 3Eintracht Frankfurt
-28
-14
+29
+15
 6
 8
-55
+58
 42
-13
-48
-LResult LossLResult LossLResult LossWResult WinWResult WinLResult Loss
+16
+51
+LResult LossLResult LossWResult WinWResult WinLResult LossWResult Win
 4RB Leipzig
 29
 13
@@ -88,7 +88,17 @@ WResult WinLResult LossWResult WinWResult WinDResult DrawLResult Loss
 9
 42
 WResult WinLResult LossLResult LossWResult WinWResult WinDResult Draw
-9Augsburg
+9Werder Bremen
+29
+12
+6
+11
+47
+54
+-7
+42
+LResult LossWResult WinLResult LossWResult WinWResult WinWResult Win
+10Augsburg
 29
 11
 9
@@ -98,26 +108,16 @@ WResult WinLResult LossLResult LossWResult WinWResult WinDResult Draw
 -7
 42
 DResult DrawWResult WinWResult WinDResult DrawLResult LossWResult Win
-10Stuttgart
-28
+11Stuttgart
+29
 11
 7
-10
-51
-44
-7
-40
-DResult DrawLResult LossDResult DrawLResult LossLResult LossWResult Win
-11Werder Bremen
-28
 11
+52
+46
 6
-11
-45
-53
--8
-39
-LResult LossLResult LossWResult WinLResult LossWResult WinWResult Win
+40
+LResult LossDResult DrawLResult LossLResult LossWResult WinLResult Loss
 12Wolfsburg
 29
 10
@@ -159,15 +159,15 @@ WResult WinDResult DrawLResult LossDResult DrawLResult LossWResult Win
 29
 LResult LossDResult DrawWResult WinLResult LossDResult DrawWResult Win
 16Heidenheim
-28
+29
 6
 4
-18
+19
 32
-53
--21
+56
+-24
 22
-DResult DrawLResult LossDResult DrawWResult WinWResult WinLResult Loss
+LResult LossDResult DrawWResult WinWResult WinLResult LossLResult Loss
 17Bochum
 29
 5
