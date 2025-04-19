@@ -9,35 +9,35 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1PSG
-28
-23
+29
+24
 5
 0
-80
-26
-54
-74
+82
+27
+55
+77
 WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
-2Monaco
-29
+2Olympique Marseille
+30
+17
+4
+9
+62
+42
+20
+55
+LResult LossLResult LossLResult LossWResult WinLResult LossWResult Win
+3Monaco
+30
 16
-5
+6
 8
 57
 35
 22
-53
-WResult WinDResult DrawWResult WinWResult WinLResult LossWResult Win
-3Olympique Marseille
-29
-16
-4
-9
-57
-41
-16
-52
-WResult WinLResult LossLResult LossLResult LossWResult WinLResult Loss
+54
+DResult DrawWResult WinWResult WinLResult LossWResult WinDResult Draw
 4Olympique Lyonnais
 29
 15
@@ -48,7 +48,17 @@ WResult WinLResult LossLResult LossLResult LossWResult WinLResult Loss
 18
 51
 WResult WinWResult WinWResult WinLResult LossWResult WinWResult Win
-5Lille
+5Strasbourg
+30
+14
+9
+7
+48
+37
+11
+51
+WResult WinWResult WinWResult WinWResult WinDResult DrawDResult Draw
+6Lille
 29
 14
 8
@@ -58,16 +68,6 @@ WResult WinWResult WinWResult WinLResult LossWResult WinWResult Win
 13
 50
 LResult LossWResult WinLResult LossWResult WinLResult LossWResult Win
-6Strasbourg
-29
-14
-8
-7
-48
-37
-11
-50
-WResult WinWResult WinWResult WinWResult WinWResult WinDResult Draw
 7Nice
 29
 13
@@ -159,15 +159,15 @@ LResult LossLResult LossLResult LossLResult LossLResult LossWResult Win
 29
 LResult LossLResult LossDResult DrawWResult WinLResult LossWResult Win
 16Le Havre
-29
+30
 8
 3
-18
-32
-62
--30
+19
+33
+64
+-31
 27
-WResult WinDResult DrawLResult LossWResult WinWResult WinLResult Loss
+DResult DrawLResult LossWResult WinWResult WinLResult LossLResult Loss
 17Saint-Étienne
 29
 6
@@ -179,11 +179,11 @@ WResult WinDResult DrawLResult LossWResult WinWResult WinLResult Loss
 24
 LResult LossDResult DrawWResult WinLResult LossLResult LossDResult Draw
 18Montpellier
-29
+30
 4
 3
+23
 22
-21
-66
--45
+71
+-49
 15
