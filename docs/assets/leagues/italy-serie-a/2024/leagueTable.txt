@@ -19,15 +19,15 @@ Form, Last 6 games, Oldest first
 71
 DResult DrawWResult WinWResult WinWResult WinDResult DrawWResult Win
 2Napoli
-32
-20
+33
+21
 8
 4
-51
+52
 25
-26
-68
-DResult DrawWResult WinDResult DrawWResult WinDResult DrawWResult Win
+27
+71
+WResult WinDResult DrawWResult WinDResult DrawWResult WinWResult Win
 3Atalanta
 32
 18
@@ -58,7 +58,17 @@ WResult WinLResult LossLResult LossWResult WinDResult DrawWResult Win
 14
 57
 WResult WinWResult WinWResult WinWResult WinDResult DrawLResult Loss
-6Lazio
+6Roma
+33
+16
+9
+8
+48
+32
+16
+57
+WResult WinWResult WinWResult WinDResult DrawDResult DrawWResult Win
+7Lazio
 32
 16
 8
@@ -68,16 +78,6 @@ WResult WinWResult WinWResult WinWResult WinDResult DrawLResult Loss
 10
 56
 WResult WinDResult DrawLResult LossDResult DrawWResult WinDResult Draw
-7Roma
-32
-15
-9
-8
-47
-32
-15
-54
-WResult WinWResult WinWResult WinWResult WinDResult DrawDResult Draw
 8Fiorentina
 32
 15
@@ -129,25 +129,25 @@ WResult WinDResult DrawLResult LossLResult LossLResult LossLResult Loss
 39
 DResult DrawDResult DrawWResult WinLResult LossWResult WinDResult Draw
 13Como
-32
-9
+33
+10
 9
 14
-40
+43
 48
--8
-36
-LResult LossDResult DrawLResult LossDResult DrawWResult WinWResult Win
+-5
+39
+DResult DrawLResult LossDResult DrawWResult WinWResult WinWResult Win
 14Hellas Verona
-32
+33
 9
 5
-18
+19
 30
-59
--29
+60
+-30
 32
-LResult LossLResult LossWResult WinDResult DrawDResult DrawDResult Draw
+LResult LossWResult WinDResult DrawDResult DrawDResult DrawLResult Loss
 15Cagliari
 32
 7
@@ -169,15 +169,15 @@ LResult LossDResult DrawLResult LossWResult WinDResult DrawLResult Loss
 28
 LResult LossDResult DrawDResult DrawDResult DrawDResult DrawDResult Draw
 17Lecce
-32
+33
 6
 8
-18
+19
 23
-52
--29
+55
+-32
 26
-LResult LossLResult LossLResult LossLResult LossDResult DrawLResult Loss
+LResult LossLResult LossLResult LossDResult DrawLResult LossLResult Loss
 18Venezia
 32
 4
@@ -199,11 +199,11 @@ DResult DrawDResult DrawDResult DrawLResult LossDResult DrawWResult Win
 24
 DResult DrawLResult LossLResult LossDResult DrawDResult DrawLResult Loss
 20Monza
-32
+33
 2
 9
-21
+22
 25
-56
--31
+57
+-32
 15
