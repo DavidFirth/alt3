@@ -9,15 +9,15 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1Inter Milan
-32
+33
 21
 8
-3
+4
 72
-31
-41
+32
+40
 71
-DResult DrawWResult WinWResult WinWResult WinDResult DrawWResult Win
+WResult WinWResult WinWResult WinDResult DrawWResult WinLResult Loss
 2Napoli
 33
 21
@@ -29,16 +29,26 @@ DResult DrawWResult WinWResult WinWResult WinDResult DrawWResult Win
 71
 WResult WinDResult DrawWResult WinDResult DrawWResult WinWResult Win
 3Atalanta
-32
-18
+33
+19
 7
 7
-65
+66
 30
-35
-61
-DResult DrawWResult WinLResult LossLResult LossLResult LossWResult Win
-4Juventus
+36
+64
+WResult WinLResult LossLResult LossLResult LossWResult WinWResult Win
+4Bologna
+33
+16
+12
+5
+52
+37
+15
+60
+WResult WinWResult WinWResult WinDResult DrawLResult LossWResult Win
+5Juventus
 32
 15
 14
@@ -48,16 +58,6 @@ DResult DrawWResult WinLResult LossLResult LossLResult LossWResult Win
 19
 59
 WResult WinLResult LossLResult LossWResult WinDResult DrawWResult Win
-5Bologna
-32
-15
-12
-5
-51
-37
-14
-57
-WResult WinWResult WinWResult WinWResult WinDResult DrawLResult Loss
 6Roma
 33
 16
@@ -89,15 +89,15 @@ WResult WinDResult DrawLResult LossDResult DrawWResult WinDResult Draw
 53
 WResult WinLResult LossWResult WinWResult WinDResult DrawDResult Draw
 9AC Milan
-32
+33
 14
 9
-9
+10
 51
-37
-14
+38
+13
 51
-LResult LossWResult WinWResult WinLResult LossDResult DrawWResult Win
+WResult WinWResult WinLResult LossDResult DrawWResult WinLResult Loss
 10Torino
 32
 9
@@ -179,25 +179,25 @@ LResult LossDResult DrawDResult DrawDResult DrawDResult DrawDResult Draw
 26
 LResult LossLResult LossLResult LossDResult DrawLResult LossLResult Loss
 18Venezia
-32
+33
 4
-12
+13
 16
-25
-44
+27
+46
 -19
-24
-DResult DrawDResult DrawDResult DrawLResult LossDResult DrawWResult Win
+25
+DResult DrawDResult DrawLResult LossDResult DrawWResult WinDResult Draw
 19Empoli
-32
+33
 4
-12
+13
 16
-24
-50
+26
+52
 -26
-24
-DResult DrawLResult LossLResult LossDResult DrawDResult DrawLResult Loss
+25
+LResult LossLResult LossDResult DrawDResult DrawLResult LossDResult Draw
 20Monza
 33
 2
