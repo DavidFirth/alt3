@@ -19,25 +19,25 @@ Form, Last 6 games, Oldest first
 72
 LResult LossDResult DrawWResult WinWResult WinDResult DrawWResult Win
 2Bayer Leverkusen
-29
+30
 18
-9
+10
 2
-63
-34
+64
+35
 29
-63
-WResult WinLResult LossWResult WinWResult WinWResult WinDResult Draw
+64
+LResult LossWResult WinWResult WinWResult WinDResult DrawDResult Draw
 3Eintracht Frankfurt
-29
+30
 15
-6
+7
 8
 58
 42
 16
-51
-LResult LossLResult LossWResult WinWResult WinLResult LossWResult Win
+52
+LResult LossWResult WinWResult WinLResult LossWResult WinDResult Draw
 4RB Leipzig
 30
 13
@@ -68,7 +68,17 @@ DResult DrawDResult DrawLResult LossLResult LossWResult WinWResult Win
 12
 47
 WResult WinDResult DrawLResult LossDResult DrawLResult LossDResult Draw
-7Werder Bremen
+7Borussia Dortmund
+30
+13
+6
+11
+57
+47
+10
+45
+LResult LossLResult LossWResult WinWResult WinDResult DrawWResult Win
+8Werder Bremen
 30
 13
 6
@@ -78,36 +88,26 @@ WResult WinDResult DrawLResult LossDResult DrawLResult LossDResult Draw
 -6
 45
 WResult WinLResult LossWResult WinWResult WinWResult WinWResult Win
-8Borussia M&#x27;gladbach
-29
+9Borussia M&#x27;gladbach
+30
 13
 5
-11
-46
-43
-3
-44
-WResult WinLResult LossWResult WinWResult WinDResult DrawLResult Loss
-9Borussia Dortmund
-29
 12
-6
-11
-54
-45
-9
-42
-WResult WinLResult LossLResult LossWResult WinWResult WinDResult Draw
+48
+46
+2
+44
+LResult LossWResult WinWResult WinDResult DrawLResult LossLResult Loss
 10Augsburg
-29
+30
 11
-9
+10
 9
 33
 40
 -7
-42
-DResult DrawWResult WinWResult WinDResult DrawLResult LossWResult Win
+43
+WResult WinWResult WinDResult DrawLResult LossWResult WinDResult Draw
 11Stuttgart
 30
 11
@@ -138,7 +138,17 @@ DResult DrawLResult LossLResult LossLResult LossLResult LossDResult Draw
 -14
 35
 WResult WinDResult DrawWResult WinWResult WinDResult DrawDResult Draw
-14Hoffenheim
+14St. Pauli
+30
+8
+6
+16
+26
+36
+-10
+30
+DResult DrawWResult WinLResult LossDResult DrawWResult WinDResult Draw
+15Hoffenheim
 30
 7
 9
@@ -148,16 +158,6 @@ WResult WinDResult DrawWResult WinWResult WinDResult DrawDResult Draw
 -17
 30
 DResult DrawLResult LossDResult DrawLResult LossWResult WinLResult Loss
-15St. Pauli
-29
-8
-5
-16
-25
-35
--10
-29
-LResult LossDResult DrawWResult WinLResult LossDResult DrawWResult Win
 16Heidenheim
 30
 6
