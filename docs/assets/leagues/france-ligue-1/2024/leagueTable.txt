@@ -18,7 +18,17 @@ Form, Last 6 games, Oldest first
 53
 78
 WResult WinWResult WinWResult WinWResult WinDResult DrawLResult Loss
-2Olympique Marseille
+2Monaco
+31
+16
+7
+8
+58
+36
+22
+55
+WResult WinWResult WinLResult LossWResult WinDResult DrawDResult Draw
+3Olympique Marseille
 30
 17
 4
@@ -28,17 +38,17 @@ WResult WinWResult WinWResult WinWResult WinDResult DrawLResult Loss
 20
 55
 LResult LossLResult LossLResult LossWResult WinLResult LossWResult Win
-3Monaco
-30
+4Olympique Lyonnais
+31
 16
 6
-8
-57
-35
-22
+9
+62
+42
+20
 54
-DResult DrawWResult WinWResult WinLResult LossWResult WinDResult Draw
-4Nice
+WResult WinLResult LossWResult WinWResult WinLResult LossWResult Win
+5Nice
 31
 15
 9
@@ -48,7 +58,17 @@ DResult DrawWResult WinWResult WinLResult LossWResult WinDResult Draw
 20
 54
 DResult DrawLResult LossLResult LossDResult DrawWResult WinWResult Win
-5Lille
+6Strasbourg
+31
+15
+9
+7
+51
+38
+13
+54
+WResult WinWResult WinWResult WinDResult DrawDResult DrawWResult Win
+7Lille
 30
 15
 8
@@ -58,26 +78,6 @@ DResult DrawLResult LossLResult LossDResult DrawWResult WinWResult Win
 15
 53
 WResult WinLResult LossWResult WinLResult LossWResult WinWResult Win
-6Olympique Lyonnais
-30
-15
-6
-9
-58
-41
-17
-51
-WResult WinWResult WinLResult LossWResult WinWResult WinLResult Loss
-7Strasbourg
-30
-14
-9
-7
-48
-37
-11
-51
-WResult WinWResult WinWResult WinWResult WinDResult DrawDResult Draw
 8Lens
 30
 13
@@ -99,15 +99,15 @@ WResult WinWResult WinLResult LossWResult WinLResult LossWResult Win
 44
 WResult WinDResult DrawWResult WinWResult WinDResult DrawLResult Loss
 10Rennes
-30
+31
 12
 2
-16
-45
-40
-5
+17
+46
+44
+2
 38
-LResult LossLResult LossWResult WinLResult LossWResult WinWResult Win
+LResult LossWResult WinLResult LossWResult WinWResult WinLResult Loss
 11Auxerre
 30
 10
@@ -159,25 +159,25 @@ LResult LossWResult WinLResult LossWResult WinLResult LossDResult Draw
 30
 LResult LossLResult LossLResult LossLResult LossWResult WinLResult Loss
 16Le Havre
-30
+31
 8
-3
+4
 19
-33
-64
+34
+65
 -31
-27
-DResult DrawLResult LossWResult WinWResult WinLResult LossLResult Loss
+28
+LResult LossWResult WinWResult WinLResult LossLResult LossDResult Draw
 17Saint-Étienne
-30
+31
 7
 6
-17
-33
-68
--35
+18
+34
+71
+-37
 27
-DResult DrawWResult WinLResult LossLResult LossDResult DrawWResult Win
+WResult WinLResult LossLResult LossDResult DrawWResult WinLResult Loss
 18Montpellier
 30
 4
