@@ -39,16 +39,26 @@ WResult WinWResult WinWResult WinWResult WinDResult DrawWResult Win
 64
 WResult WinWResult WinDResult DrawWResult WinWResult WinDResult Draw
 4Porto
-30
+31
 19
 5
-6
+7
 57
-26
-31
+28
+29
 62
-LResult LossWResult WinWResult WinLResult LossWResult WinWResult Win
-5Vitória Guimarães
+WResult WinWResult WinLResult LossWResult WinWResult WinLResult Loss
+5Santa Clara
+31
+15
+5
+11
+31
+29
+2
+50
+WResult WinWResult WinLResult LossLResult LossDResult DrawWResult Win
+6Vitória Guimarães
 30
 12
 12
@@ -58,16 +68,6 @@ LResult LossWResult WinWResult WinLResult LossWResult WinWResult Win
 9
 48
 WResult WinWResult WinDResult DrawWResult WinWResult WinLResult Loss
-6Santa Clara
-30
-14
-5
-11
-29
-29
-0
-47
-DResult DrawWResult WinWResult WinLResult LossLResult LossDResult Draw
 7Famalicão
 31
 11
@@ -119,16 +119,26 @@ DResult DrawWResult WinDResult DrawWResult WinLResult LossLResult Loss
 33
 LResult LossLResult LossLResult LossLResult LossWResult WinDResult Draw
 12Arouca
-30
+31
 8
 9
-13
+14
 30
-45
--15
+47
+-17
 33
-WResult WinDResult DrawLResult LossLResult LossDResult DrawWResult Win
-13Nacional
+DResult DrawLResult LossLResult LossDResult DrawWResult WinLResult Loss
+13Gil Vicente
+31
+8
+8
+15
+31
+43
+-12
+32
+LResult LossWResult WinLResult LossLResult LossWResult WinWResult Win
+14Nacional
 30
 9
 5
@@ -138,26 +148,16 @@ WResult WinDResult DrawLResult LossLResult LossDResult DrawWResult Win
 -14
 32
 LResult LossWResult WinLResult LossLResult LossWResult WinLResult Loss
-14Gil Vicente
-30
+15Estrela
+31
 7
 8
-15
-30
+16
+24
 43
--13
+-19
 29
 LResult LossLResult LossWResult WinLResult LossLResult LossWResult Win
-15Estrela
-30
-6
-8
-16
-22
-43
--21
-26
-DResult DrawLResult LossLResult LossWResult WinLResult LossLResult Loss
 16AVS
 30
 4
@@ -179,11 +179,11 @@ LResult LossLResult LossLResult LossLResult LossLResult LossDResult Draw
 21
 LResult LossLResult LossLResult LossWResult WinLResult LossWResult Win
 18Farense
-30
+31
 4
 9
-17
+18
 20
-41
--21
+42
+-22
 21
