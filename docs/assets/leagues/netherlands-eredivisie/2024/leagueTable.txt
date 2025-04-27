@@ -9,15 +9,15 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1Ajax
-30
+31
 23
-4
+5
 3
-62
-26
+63
+27
 36
-73
-WResult WinDResult DrawWResult WinWResult WinWResult WinLResult Loss
+74
+DResult DrawWResult WinWResult WinWResult WinLResult LossDResult Draw
 2PSV
 30
 21
@@ -69,26 +69,46 @@ WResult WinLResult LossLResult LossDResult DrawDResult DrawLResult Loss
 47
 DResult DrawDResult DrawDResult DrawLResult LossLResult LossDResult Draw
 7Go Ahead Eagles
-29
+30
 13
-7
+8
 9
 52
 46
 6
-46
-WResult WinWResult WinWResult WinLResult LossDResult DrawDResult Draw
+47
+WResult WinWResult WinLResult LossDResult DrawDResult DrawDResult Draw
 8Heerenveen
-30
-10
+31
+11
 7
 13
-38
+39
 53
+-14
+40
+DResult DrawLResult LossWResult WinLResult LossWResult WinWResult Win
+9Fortuna Sittard
+30
+10
+6
+14
+34
+49
 -15
+36
+WResult WinLResult LossLResult LossDResult DrawLResult LossWResult Win
+10Sparta Rotterdam
+30
+8
+11
+11
+34
 37
-LResult LossDResult DrawLResult LossWResult WinLResult LossWResult Win
-9Groningen
+-3
+35
+DResult DrawDResult DrawWResult WinWResult WinWResult WinDResult Draw
+11Groningen
 30
 9
 8
@@ -98,7 +118,7 @@ LResult LossDResult DrawLResult LossWResult WinLResult LossWResult Win
 -13
 35
 WResult WinDResult DrawLResult LossLResult LossLResult LossWResult Win
-10Heracles
+12Heracles
 30
 8
 11
@@ -108,36 +128,16 @@ WResult WinDResult DrawLResult LossLResult LossLResult LossWResult Win
 -15
 35
 LResult LossDResult DrawWResult WinDResult DrawWResult WinLResult Loss
-11Sparta Rotterdam
-29
-8
-10
-11
-33
-36
--3
-34
-WResult WinDResult DrawDResult DrawWResult WinWResult WinWResult Win
-12NEC
-29
+13NEC
+30
 9
 6
-14
+15
 42
-43
--1
+44
+-2
 33
-DResult DrawLResult LossWResult WinDResult DrawLResult LossWResult Win
-13Fortuna Sittard
-29
-9
-6
-14
-33
-49
--16
-33
-WResult WinWResult WinLResult LossLResult LossDResult DrawLResult Loss
+LResult LossWResult WinDResult DrawLResult LossWResult WinLResult Loss
 14NAC Breda
 30
 8
@@ -159,16 +159,26 @@ DResult DrawDResult DrawDResult DrawLResult LossDResult DrawDResult Draw
 31
 LResult LossDResult DrawWResult WinDResult DrawDResult DrawLResult Loss
 16Willem II
-29
-6
-6
-17
 30
-49
--19
+6
+6
+18
+30
+50
+-20
 24
 LResult LossLResult LossLResult LossLResult LossLResult LossLResult Loss
-17RKC Waalwijk
+17Almere City
+31
+4
+8
+19
+21
+59
+-38
+20
+DResult DrawWResult WinDResult DrawLResult LossLResult LossDResult Draw
+18RKC Waalwijk
 30
 4
 7
@@ -176,14 +186,4 @@ LResult LossLResult LossLResult LossLResult LossLResult LossLResult Loss
 35
 62
 -27
-19
-LResult LossLResult LossDResult DrawDResult DrawLResult LossLResult Loss
-18Almere City
-30
-4
-7
-19
-21
-59
--38
 19
