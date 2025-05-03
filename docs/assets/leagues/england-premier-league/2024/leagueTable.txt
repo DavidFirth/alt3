@@ -19,15 +19,15 @@ Form, Last 6 games, Oldest first
 82
 WResult WinWResult WinLResult LossWResult WinWResult WinWResult Win
 2Arsenal
-34
+35
 18
 13
-3
-63
-29
-34
+4
+64
+31
+33
 67
-WResult WinWResult WinDResult DrawDResult DrawWResult WinDResult Draw
+WResult WinDResult DrawDResult DrawWResult WinDResult DrawLResult Loss
 3Manchester City
 35
 19
@@ -69,26 +69,36 @@ LResult LossWResult WinDResult DrawDResult DrawWResult WinWResult Win
 60
 WResult WinWResult WinLResult LossLResult LossWResult WinLResult Loss
 7Aston Villa
-34
-16
+35
+17
 9
 9
-54
+55
 49
-5
-57
-WResult WinWResult WinWResult WinWResult WinWResult WinLResult Loss
-8Fulham
-34
+6
+60
+WResult WinWResult WinWResult WinWResult WinLResult LossWResult Win
+8AFC Bournemouth
+35
+14
+11
+10
+55
+42
+13
+53
+LResult LossDResult DrawWResult WinDResult DrawDResult DrawWResult Win
+9Fulham
+35
 14
 9
-11
+12
 50
-46
-4
+47
+3
 51
-WResult WinLResult LossWResult WinLResult LossLResult LossWResult Win
-9Brighton &amp; Hove Albion
+LResult LossWResult WinLResult LossLResult LossWResult WinLResult Loss
+10Brighton &amp; Hove Albion
 34
 13
 12
@@ -98,16 +108,6 @@ WResult WinLResult LossWResult WinLResult LossLResult LossWResult Win
 1
 51
 DResult DrawLResult LossLResult LossDResult DrawLResult LossWResult Win
-10AFC Bournemouth
-34
-13
-11
-10
-53
-41
-12
-50
-LResult LossLResult LossDResult DrawWResult WinDResult DrawDResult Draw
 11Brentford
 34
 14
@@ -138,7 +138,17 @@ DResult DrawWResult WinLResult LossLResult LossDResult DrawDResult Draw
 -11
 41
 WResult WinWResult WinWResult WinWResult WinWResult WinLResult Loss
-14Manchester United
+14Everton
+35
+8
+15
+12
+36
+43
+-7
+39
+LResult LossDResult DrawWResult WinLResult LossLResult LossDResult Draw
+15Manchester United
 34
 10
 9
@@ -148,16 +158,6 @@ WResult WinWResult WinWResult WinWResult WinWResult WinLResult Loss
 -8
 39
 WResult WinLResult LossDResult DrawLResult LossLResult LossDResult Draw
-15Everton
-34
-8
-14
-12
-34
-41
--7
-38
-DResult DrawLResult LossDResult DrawWResult WinLResult LossLResult Loss
 16Tottenham Hotspur
 34
 11
@@ -179,31 +179,31 @@ LResult LossLResult LossWResult WinLResult LossLResult LossLResult Loss
 36
 DResult DrawLResult LossDResult DrawLResult LossDResult DrawLResult Loss
 18Ipswich Town
-34
+35
 4
-9
+10
 21
-33
-74
+35
+76
 -41
-21
-LResult LossWResult WinLResult LossDResult DrawLResult LossLResult Loss
+22
+WResult WinLResult LossDResult DrawLResult LossLResult LossDResult Draw
 19Leicester City
-34
-4
+35
+5
 6
 24
-27
+29
 76
--49
-18
-LResult LossLResult LossLResult LossDResult DrawLResult LossLResult Loss
+-47
+21
+LResult LossLResult LossDResult DrawLResult LossLResult LossWResult Win
 20Southampton
-34
+35
 2
 5
-27
+28
 25
-80
--55
+82
+-57
 11
