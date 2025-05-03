@@ -19,24 +19,24 @@ Form, Last 6 games, Oldest first
 74
 DResult DrawWResult WinWResult WinWResult WinLResult LossDResult Draw
 2PSV
-30
-21
+31
+22
 4
 5
-89
-34
-55
-67
-WResult WinWResult WinLResult LossWResult WinWResult WinWResult Win
+93
+35
+58
+70
+WResult WinLResult LossWResult WinWResult WinWResult WinWResult Win
 3Feyenoord
-30
-18
+31
+19
 8
 4
-68
-32
-36
-62
+72
+33
+39
+65
 WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
 4Utrecht
 31
@@ -88,17 +88,27 @@ WResult WinWResult WinLResult LossDResult DrawDResult DrawDResult Draw
 -14
 40
 DResult DrawLResult LossWResult WinLResult LossWResult WinWResult Win
-9Fortuna Sittard
-30
+9Groningen
+31
+10
+8
+13
+38
+46
+-8
+38
+DResult DrawLResult LossLResult LossLResult LossWResult WinWResult Win
+10Fortuna Sittard
+31
 10
 6
-14
-34
-49
--15
+15
+35
+53
+-18
 36
-WResult WinLResult LossLResult LossDResult DrawLResult LossWResult Win
-10Sparta Rotterdam
+LResult LossLResult LossDResult DrawLResult LossWResult WinLResult Loss
+11Sparta Rotterdam
 30
 8
 11
@@ -108,36 +118,26 @@ WResult WinLResult LossLResult LossDResult DrawLResult LossWResult Win
 -3
 35
 DResult DrawDResult DrawWResult WinWResult WinWResult WinDResult Draw
-11Groningen
-30
-9
-8
-13
-32
-45
--13
-35
-WResult WinDResult DrawLResult LossLResult LossLResult LossWResult Win
 12Heracles
-30
+31
 8
 11
-11
-37
-52
--15
+12
+38
+56
+-18
 35
-LResult LossDResult DrawWResult WinDResult DrawWResult WinLResult Loss
+DResult DrawWResult WinDResult DrawWResult WinLResult LossLResult Loss
 13NEC
-30
+31
 9
-6
+7
 15
-42
-44
+43
+45
 -2
-33
-LResult LossWResult WinDResult DrawLResult LossWResult WinLResult Loss
+34
+WResult WinDResult DrawLResult LossWResult WinLResult LossDResult Draw
 14NAC Breda
 30
 8
@@ -159,15 +159,15 @@ DResult DrawDResult DrawDResult DrawLResult LossDResult DrawDResult Draw
 31
 LResult LossDResult DrawWResult WinDResult DrawDResult DrawLResult Loss
 16Willem II
-30
+31
 6
-6
+7
 18
-30
-50
+31
+51
 -20
-24
-LResult LossLResult LossLResult LossLResult LossLResult LossLResult Loss
+25
+LResult LossLResult LossLResult LossLResult LossLResult LossDResult Draw
 17Almere City
 31
 4
@@ -179,11 +179,11 @@ LResult LossLResult LossLResult LossLResult LossLResult LossLResult Loss
 20
 DResult DrawWResult WinDResult DrawLResult LossLResult LossDResult Draw
 18RKC Waalwijk
-30
+31
 4
 7
-19
-35
-62
--27
+20
+36
+68
+-32
 19
