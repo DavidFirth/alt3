@@ -9,25 +9,25 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1Napoli
-34
-22
+35
+23
 8
 4
-54
+55
 25
-29
-74
-DResult DrawWResult WinDResult DrawWResult WinWResult WinWResult Win
+30
+77
+WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
 2Inter Milan
-34
-21
+35
+22
 8
 5
-72
+73
 33
-39
-71
-WResult WinWResult WinDResult DrawWResult WinLResult LossLResult Loss
+40
+74
+WResult WinDResult DrawWResult WinLResult LossLResult LossWResult Win
 3Atalanta
 34
 19
@@ -98,7 +98,17 @@ WResult WinWResult WinDResult DrawDResult DrawWResult WinWResult Win
 15
 54
 WResult WinLResult LossDResult DrawWResult WinLResult LossWResult Win
-10Torino
+10Como
+35
+12
+9
+14
+45
+48
+-3
+45
+DResult DrawWResult WinWResult WinWResult WinWResult WinWResult Win
+11Torino
 35
 10
 14
@@ -108,26 +118,16 @@ WResult WinLResult LossDResult DrawWResult WinLResult LossWResult Win
 -1
 44
 DResult DrawDResult DrawLResult LossWResult WinLResult LossDResult Draw
-11Como
-34
-11
-9
-14
-44
-48
--4
-42
-LResult LossDResult DrawWResult WinWResult WinWResult WinWResult Win
 12Udinese
-34
-11
+35
+12
 8
 15
-36
-48
--12
-41
-LResult LossLResult LossLResult LossLResult LossLResult LossDResult Draw
+38
+49
+-11
+44
+LResult LossLResult LossLResult LossLResult LossDResult DrawWResult Win
 13Genoa
 34
 9
@@ -139,45 +139,45 @@ LResult LossLResult LossLResult LossLResult LossLResult LossDResult Draw
 39
 WResult WinLResult LossWResult WinDResult DrawLResult LossLResult Loss
 14Cagliari
-34
+35
 8
 9
-17
-35
-49
--14
+18
+36
+51
+-15
 33
-LResult LossWResult WinDResult DrawLResult LossLResult LossWResult Win
+WResult WinDResult DrawLResult LossLResult LossWResult WinLResult Loss
 15Hellas Verona
-34
+35
 9
 5
-20
+21
 30
-62
--32
+63
+-33
 32
-WResult WinDResult DrawDResult DrawDResult DrawLResult LossLResult Loss
+DResult DrawDResult DrawDResult DrawLResult LossLResult LossLResult Loss
 16Parma
-34
+35
 6
 14
-14
+15
 40
-53
--13
+54
+-14
 32
-DResult DrawDResult DrawDResult DrawDResult DrawWResult WinDResult Draw
+DResult DrawDResult DrawDResult DrawWResult WinDResult DrawLResult Loss
 17Lecce
-34
+35
 6
 9
-19
+20
 24
-56
--32
+57
+-33
 27
-LResult LossLResult LossDResult DrawLResult LossLResult LossDResult Draw
+LResult LossDResult DrawLResult LossLResult LossDResult DrawLResult Loss
 18Venezia
 35
 4
