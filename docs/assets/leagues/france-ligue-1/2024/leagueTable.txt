@@ -9,16 +9,26 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1PSG
-31
+32
 24
 6
-1
-84
-31
-53
+2
+85
+33
+52
 78
-WResult WinWResult WinWResult WinWResult WinDResult DrawLResult Loss
-2Olympique Marseille
+WResult WinWResult WinWResult WinDResult DrawLResult LossLResult Loss
+2Monaco
+32
+17
+7
+8
+61
+37
+24
+58
+WResult WinLResult LossWResult WinDResult DrawDResult DrawWResult Win
+3Olympique Marseille
 31
 18
 4
@@ -28,7 +38,7 @@ WResult WinWResult WinWResult WinWResult WinDResult DrawLResult Loss
 23
 58
 LResult LossLResult LossWResult WinLResult LossWResult WinWResult Win
-3Nice
+4Nice
 32
 16
 9
@@ -38,7 +48,17 @@ LResult LossLResult LossWResult WinLResult LossWResult WinWResult Win
 21
 57
 LResult LossLResult LossDResult DrawWResult WinWResult WinWResult Win
-4Lille
+5Strasbourg
+32
+16
+9
+7
+53
+39
+14
+57
+WResult WinWResult WinDResult DrawDResult DrawWResult WinWResult Win
+6Lille
 31
 16
 8
@@ -48,17 +68,7 @@ LResult LossLResult LossDResult DrawWResult WinWResult WinWResult Win
 17
 56
 LResult LossWResult WinLResult LossWResult WinWResult WinWResult Win
-5Monaco
-31
-16
-7
-8
-58
-36
-22
-55
-WResult WinWResult WinLResult LossWResult WinDResult DrawDResult Draw
-6Olympique Lyonnais
+7Olympique Lyonnais
 31
 16
 6
@@ -68,16 +78,6 @@ WResult WinWResult WinLResult LossWResult WinDResult DrawDResult Draw
 20
 54
 WResult WinLResult LossWResult WinWResult WinLResult LossWResult Win
-7Strasbourg
-31
-15
-9
-7
-51
-38
-13
-54
-WResult WinWResult WinWResult WinDResult DrawDResult DrawWResult Win
 8Lens
 31
 13
@@ -109,25 +109,25 @@ DResult DrawWResult WinWResult WinDResult DrawLResult LossLResult Loss
 41
 DResult DrawWResult WinWResult WinLResult LossLResult LossWResult Win
 11Rennes
-31
+32
 12
 2
-17
+18
+47
 46
-44
-2
+1
 38
-LResult LossWResult WinLResult LossWResult WinWResult WinLResult Loss
+WResult WinLResult LossWResult WinWResult WinLResult LossLResult Loss
 12Toulouse
-31
-9
+32
+10
 8
 14
+40
+40
+0
 38
-39
--1
-35
-LResult LossLResult LossLResult LossLResult LossLResult LossDResult Draw
+LResult LossLResult LossLResult LossLResult LossDResult DrawWResult Win
 13Reims
 32
 8
@@ -169,15 +169,15 @@ LResult LossLResult LossLResult LossWResult WinLResult LossLResult Loss
 28
 LResult LossWResult WinWResult WinLResult LossLResult LossDResult Draw
 17Saint-Étienne
-31
+32
 7
 6
-18
-34
-71
--37
+19
+35
+74
+-39
 27
-WResult WinLResult LossLResult LossDResult DrawWResult WinLResult Loss
+LResult LossLResult LossDResult DrawWResult WinLResult LossLResult Loss
 18Montpellier
 31
 4
