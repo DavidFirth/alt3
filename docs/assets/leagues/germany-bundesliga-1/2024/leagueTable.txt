@@ -19,26 +19,36 @@ Form, Last 6 games, Oldest first
 76
 WResult WinWResult WinDResult DrawWResult WinWResult WinDResult Draw
 2Bayer Leverkusen
-31
+32
 19
-10
+11
 2
-66
-35
+68
+37
 31
-67
-WResult WinWResult WinWResult WinDResult DrawDResult DrawWResult Win
+68
+WResult WinWResult WinDResult DrawDResult DrawWResult WinDResult Draw
 3Eintracht Frankfurt
-31
+32
 16
-7
 8
-62
-42
+8
+63
+43
 20
-55
-WResult WinWResult WinLResult LossWResult WinDResult DrawWResult Win
-4Borussia Dortmund
+56
+WResult WinLResult LossWResult WinDResult DrawWResult WinDResult Draw
+4Freiburg
+32
+15
+7
+10
+46
+49
+-3
+52
+LResult LossLResult LossWResult WinWResult WinWResult WinDResult Draw
+5Borussia Dortmund
 32
 15
 6
@@ -48,16 +58,6 @@ WResult WinWResult WinLResult LossWResult WinDResult DrawWResult Win
 15
 51
 WResult WinWResult WinDResult DrawWResult WinWResult WinWResult Win
-5Freiburg
-31
-15
-6
-10
-44
-47
--3
-51
-DResult DrawLResult LossLResult LossWResult WinWResult WinWResult Win
 6RB Leipzig
 32
 13
@@ -69,15 +69,15 @@ DResult DrawLResult LossLResult LossWResult WinWResult WinWResult Win
 50
 LResult LossWResult WinWResult WinDResult DrawLResult LossDResult Draw
 7Mainz 05
-31
+32
 13
-8
-10
-48
-39
 9
-47
-DResult DrawLResult LossDResult DrawLResult LossDResult DrawLResult Loss
+10
+49
+40
+9
+48
+LResult LossDResult DrawLResult LossDResult DrawLResult LossDResult Draw
 8Werder Bremen
 32
 13
@@ -109,15 +109,15 @@ WResult WinDResult DrawLResult LossLResult LossLResult LossDResult Draw
 44
 LResult LossWResult WinLResult LossDResult DrawLResult LossWResult Win
 11Augsburg
-31
+32
 11
 10
-10
-33
-42
--9
+11
+34
+45
+-11
 43
-WResult WinDResult DrawLResult LossWResult WinDResult DrawLResult Loss
+DResult DrawLResult LossWResult WinDResult DrawLResult LossLResult Loss
 12Wolfsburg
 32
 10
@@ -169,15 +169,15 @@ DResult DrawLResult LossWResult WinLResult LossLResult LossDResult Draw
 26
 WResult WinLResult LossLResult LossLResult LossWResult WinDResult Draw
 17Holstein Kiel
-31
-5
+32
+6
 7
 19
-45
-74
--29
-22
-LResult LossLResult LossDResult DrawLResult LossDResult DrawWResult Win
+48
+75
+-27
+25
+LResult LossDResult DrawLResult LossDResult DrawWResult WinWResult Win
 18Bochum
 32
 5
