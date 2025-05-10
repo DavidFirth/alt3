@@ -79,16 +79,26 @@ DResult DrawDResult DrawLResult LossLResult LossDResult DrawWResult Win
 47
 WResult WinLResult LossDResult DrawDResult DrawDResult DrawLResult Loss
 8Heerenveen
-31
+32
 11
 7
-13
-39
-53
--14
+14
 40
-DResult DrawLResult LossWResult WinLResult LossWResult WinWResult Win
-9Groningen
+56
+-16
+40
+LResult LossWResult WinLResult LossWResult WinWResult WinLResult Loss
+9Fortuna Sittard
+32
+11
+6
+15
+36
+53
+-17
+39
+LResult LossDResult DrawLResult LossWResult WinLResult LossWResult Win
+10Groningen
 31
 10
 8
@@ -98,7 +108,17 @@ DResult DrawLResult LossWResult WinLResult LossWResult WinWResult Win
 -8
 38
 DResult DrawLResult LossLResult LossLResult LossWResult WinWResult Win
-10Heracles
+11Sparta Rotterdam
+32
+9
+11
+12
+37
+39
+-2
+38
+WResult WinWResult WinWResult WinDResult DrawLResult LossWResult Win
+12Heracles
 32
 9
 11
@@ -108,26 +128,6 @@ DResult DrawLResult LossLResult LossLResult LossWResult WinWResult Win
 -17
 38
 WResult WinDResult DrawWResult WinLResult LossLResult LossWResult Win
-11Fortuna Sittard
-31
-10
-6
-15
-35
-53
--18
-36
-LResult LossLResult LossDResult DrawLResult LossWResult WinLResult Loss
-12Sparta Rotterdam
-31
-8
-11
-12
-34
-39
--5
-35
-DResult DrawWResult WinWResult WinWResult WinDResult DrawLResult Loss
 13NEC
 31
 9
@@ -149,15 +149,15 @@ WResult WinDResult DrawLResult LossWResult WinLResult LossDResult Draw
 34
 DResult DrawWResult WinDResult DrawDResult DrawLResult LossWResult Win
 15NAC Breda
-31
-8
-8
-15
-33
-53
--20
 32
-DResult DrawDResult DrawLResult LossDResult DrawDResult DrawLResult Loss
+8
+8
+16
+33
+54
+-21
+32
+DResult DrawLResult LossDResult DrawDResult DrawLResult LossLResult Loss
 16Willem II
 32
 6
@@ -168,22 +168,22 @@ DResult DrawDResult DrawLResult LossDResult DrawDResult DrawLResult Loss
 -21
 25
 LResult LossLResult LossLResult LossLResult LossDResult DrawLResult Loss
-17Almere City
-31
-4
-8
-19
-21
-59
--38
-20
-DResult DrawWResult WinDResult DrawLResult LossLResult LossDResult Draw
-18RKC Waalwijk
-31
-4
+17RKC Waalwijk
+32
+5
 7
 20
-36
-68
--32
-19
+39
+69
+-30
+22
+DResult DrawDResult DrawLResult LossLResult LossLResult LossWResult Win
+18Almere City
+32
+4
+8
+20
+21
+62
+-41
+20
