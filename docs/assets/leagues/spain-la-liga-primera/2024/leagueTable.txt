@@ -9,25 +9,25 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1Barcelona
-34
-25
+35
+26
 4
 5
-91
-33
-58
-79
-WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
+95
+36
+59
+82
+DResult DrawWResult WinWResult WinWResult WinWResult WinWResult Win
 2Real Madrid
-34
+35
 23
 6
-5
-69
-33
-36
+6
+72
+37
+35
 75
-WResult WinLResult LossWResult WinWResult WinWResult WinWResult Win
+LResult LossWResult WinWResult WinWResult WinWResult WinLResult Loss
 3Atlético Madrid
 35
 20
@@ -39,15 +39,15 @@ WResult WinLResult LossWResult WinWResult WinWResult WinWResult Win
 70
 WResult WinWResult WinLResult LossWResult WinDResult DrawWResult Win
 4Athletic Club
-34
-16
+35
+17
 13
 5
-50
+51
 26
-24
-61
-DResult DrawDResult DrawWResult WinLResult LossWResult WinDResult Draw
+25
+64
+DResult DrawWResult WinLResult LossWResult WinDResult DrawWResult Win
 5Villarreal
 35
 17
@@ -59,15 +59,15 @@ DResult DrawDResult DrawWResult WinLResult LossWResult WinDResult Draw
 61
 WResult WinDResult DrawLResult LossWResult WinWResult WinWResult Win
 6Real Betis
-34
+35
 16
-9
-9
-52
-42
 10
-57
-WResult WinDResult DrawLResult LossWResult WinWResult WinWResult Win
+9
+53
+43
+10
+58
+DResult DrawLResult LossWResult WinWResult WinWResult WinDResult Draw
 7Celta Vigo
 35
 14
@@ -109,15 +109,15 @@ LResult LossWResult WinDResult DrawLResult LossLResult LossWResult Win
 45
 WResult WinWResult WinDResult DrawDResult DrawWResult WinWResult Win
 11Osasuna
-34
+35
 10
-14
+15
 10
-42
-50
+43
+51
 -8
-44
-DResult DrawDResult DrawWResult WinWResult WinWResult WinLResult Loss
+45
+DResult DrawWResult WinWResult WinWResult WinLResult LossDResult Draw
 12Real Sociedad
 35
 12
@@ -139,15 +139,15 @@ WResult WinLResult LossDResult DrawLResult LossDResult DrawLResult Loss
 39
 WResult WinLResult LossLResult LossLResult LossLResult LossLResult Loss
 14Espanyol
-34
+35
 10
 9
-15
-36
-44
--8
+16
+38
+47
+-9
 39
-WResult WinWResult WinWResult WinDResult DrawLResult LossLResult Loss
+WResult WinWResult WinDResult DrawLResult LossLResult LossLResult Loss
 15Girona
 35
 10
@@ -169,16 +169,26 @@ LResult LossLResult LossLResult LossDResult DrawWResult WinLResult Loss
 38
 LResult LossLResult LossDResult DrawLResult LossDResult DrawLResult Loss
 17Deportivo Alavés
-34
+35
 8
 11
+16
+35
+47
+-12
+35
+WResult WinLResult LossDResult DrawWResult WinDResult DrawLResult Loss
+18Leganés
+35
+7
+13
 15
 35
-46
--11
-35
-LResult LossWResult WinLResult LossDResult DrawWResult WinDResult Draw
-18Las Palmas
+53
+-18
+34
+DResult DrawLResult LossDResult DrawDResult DrawDResult DrawWResult Win
+19Las Palmas
 35
 8
 8
@@ -188,16 +198,6 @@ LResult LossWResult WinLResult LossDResult DrawWResult WinDResult Draw
 -17
 32
 LResult LossWResult WinWResult WinLResult LossLResult LossLResult Loss
-19Leganés
-34
-6
-13
-15
-32
-51
--19
-31
-LResult LossDResult DrawLResult LossDResult DrawDResult DrawDResult Draw
 20Real Valladolid
 35
 4
