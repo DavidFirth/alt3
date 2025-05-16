@@ -38,7 +38,27 @@ DResult DrawDResult DrawWResult WinDResult DrawLResult LossDResult Draw
 23
 66
 WResult WinWResult WinLResult LossWResult WinDResult DrawWResult Win
-4Manchester City
+4Chelsea
+37
+19
+9
+9
+63
+43
+20
+66
+DResult DrawWResult WinWResult WinWResult WinLResult LossWResult Win
+5Aston Villa
+37
+19
+9
+9
+58
+49
+9
+66
+WResult WinWResult WinLResult LossWResult WinWResult WinWResult Win
+6Manchester City
 36
 19
 8
@@ -48,26 +68,6 @@ WResult WinWResult WinLResult LossWResult WinDResult DrawWResult Win
 24
 65
 DResult DrawWResult WinWResult WinWResult WinWResult WinDResult Draw
-5Chelsea
-36
-18
-9
-9
-62
-43
-19
-63
-DResult DrawDResult DrawWResult WinWResult WinWResult WinLResult Loss
-6Aston Villa
-36
-18
-9
-9
-56
-49
-7
-63
-WResult WinWResult WinWResult WinLResult LossWResult WinWResult Win
 7Nottingham Forest
 36
 18
@@ -159,25 +159,25 @@ WResult WinWResult WinWResult WinWResult WinLResult LossLResult Loss
 40
 DResult DrawLResult LossDResult DrawLResult LossDResult DrawWResult Win
 16Manchester United
-36
+37
 10
 9
-17
+18
 42
-53
--11
+54
+-12
 39
-DResult DrawLResult LossLResult LossDResult DrawLResult LossLResult Loss
+LResult LossLResult LossDResult DrawLResult LossLResult LossLResult Loss
 17Tottenham Hotspur
-36
+37
 11
 5
-20
+21
 63
-59
-4
+61
+2
 38
-WResult WinLResult LossLResult LossLResult LossDResult DrawLResult Loss
+LResult LossLResult LossLResult LossDResult DrawLResult LossLResult Loss
 18Ipswich Town
 36
 4
