@@ -27,7 +27,7 @@ WResult WinWResult WinWResult WinWResult WinLResult LossWResult Win
 3
 5
 15
-No ResultWResult WinWResult WinWResult WinLResult LossWResult Win
+WResult WinWResult WinWResult WinLResult LossWResult WinWResult Win
 3Marseille
 6
 4
@@ -67,27 +67,27 @@ WResult WinWResult WinLResult LossWResult WinWResult WinLResult Loss
 9
 4
 10
-No ResultDResult DrawWResult WinWResult WinWResult WinLResult Loss
+DResult DrawWResult WinWResult WinWResult WinLResult LossLResult Loss
 7Lens
-5
+6
 3
-0
+1
 2
 8
 5
 3
-9
-No ResultLResult LossWResult WinWResult WinLResult LossWResult Win
+10
+LResult LossWResult WinWResult WinLResult LossWResult WinDResult Draw
 8Rennes
-5
+6
 2
-2
+3
 1
 7
 8
 -1
-8
-No ResultWResult WinLResult LossDResult DrawWResult WinDResult Draw
+9
+WResult WinLResult LossDResult DrawWResult WinDResult DrawDResult Draw
 9Brest
 6
 2
@@ -97,7 +97,7 @@ No ResultWResult WinLResult LossDResult DrawWResult WinDResult Draw
 11
 0
 7
-No ResultDResult DrawLResult LossLResult LossLResult LossWResult Win
+DResult DrawLResult LossLResult LossLResult LossWResult WinWResult Win
 10Toulouse
 6
 2
@@ -157,7 +157,7 @@ WResult WinLResult LossLResult LossLResult LossWResult WinLResult Loss
 8
 -2
 5
-No ResultLResult LossLResult LossWResult WinLResult LossDResult Draw
+LResult LossLResult LossWResult WinLResult LossDResult DrawDResult Draw
 16Nantes
 6
 1
@@ -177,7 +177,7 @@ LResult LossLResult LossWResult WinLResult LossDResult DrawDResult Draw
 6
 -3
 5
-No ResultWResult WinLResult LossDResult DrawDResult DrawLResult Loss
+WResult WinLResult LossDResult DrawDResult DrawLResult LossLResult Loss
 18Metz
 6
 0

@@ -59,25 +59,25 @@ WResult WinWResult WinLResult LossWResult WinLResult LossWResult Win
 13
 LResult LossDResult DrawWResult WinWResult WinWResult WinLResult Loss
 6Famalicão
-6
+7
 3
-2
+3
 1
 7
 3
 4
-11
-WResult WinWResult WinDResult DrawWResult WinLResult LossDResult Draw
+12
+WResult WinDResult DrawWResult WinLResult LossDResult DrawDResult Draw
 7Sporting Braga
-6
+7
 2
 3
-1
+2
 11
-6
-5
+7
+4
 9
-WResult WinWResult WinDResult DrawDResult DrawLResult LossDResult Draw
+WResult WinDResult DrawDResult DrawLResult LossDResult DrawLResult Loss
 8Vitória Guimarães
 7
 2
@@ -108,7 +108,17 @@ WResult WinLResult LossDResult DrawDResult DrawLResult LossWResult Win
 -3
 8
 LResult LossDResult DrawWResult WinDResult DrawWResult WinLResult Loss
-11Estrela
+11Nacional
+7
+2
+1
+4
+6
+10
+-4
+7
+DResult DrawLResult LossWResult WinLResult LossLResult LossWResult Win
+12Estrela
 7
 1
 4
@@ -118,7 +128,7 @@ LResult LossDResult DrawWResult WinDResult DrawWResult WinLResult Loss
 0
 7
 LResult LossDResult DrawDResult DrawLResult LossDResult DrawWResult Win
-12Alverca
+13Alverca
 7
 2
 1
@@ -128,7 +138,7 @@ LResult LossDResult DrawDResult DrawLResult LossDResult DrawWResult Win
 -3
 7
 LResult LossDResult DrawLResult LossWResult WinLResult LossWResult Win
-13Casa Pia
+14Casa Pia
 7
 2
 1
@@ -138,7 +148,7 @@ LResult LossDResult DrawLResult LossWResult WinLResult LossWResult Win
 -5
 7
 WResult WinLResult LossLResult LossWResult WinDResult DrawLResult Loss
-14Estoril
+15Estoril
 7
 1
 2
@@ -148,7 +158,7 @@ WResult WinLResult LossLResult LossWResult WinDResult DrawLResult Loss
 -3
 5
 LResult LossDResult DrawLResult LossWResult WinLResult LossLResult Loss
-15Tondela
+16Tondela
 7
 1
 2
@@ -158,26 +168,16 @@ LResult LossDResult DrawLResult LossWResult WinLResult LossLResult Loss
 -7
 5
 LResult LossLResult LossDResult DrawLResult LossDResult DrawWResult Win
-16Nacional
-6
-1
-1
-4
-5
-10
--5
-4
-LResult LossDResult DrawLResult LossWResult WinLResult LossLResult Loss
 17Rio Ave
-6
+7
 0
-4
+5
 2
 8
 13
 -5
-4
-DResult DrawDResult DrawDResult DrawLResult LossLResult LossDResult Draw
+5
+DResult DrawDResult DrawLResult LossLResult LossDResult DrawDResult Draw
 18AVS
 7
 0
