@@ -79,15 +79,15 @@ WResult WinDResult DrawLResult LossDResult DrawWResult WinWResult Win
 12
 DResult DrawWResult WinWResult WinLResult LossDResult DrawDResult Draw
 8Getafe
-7
+8
 3
 2
-2
-8
+3
 9
--1
 11
-WResult WinLResult LossWResult WinLResult LossDResult DrawDResult Draw
+-2
+11
+LResult LossWResult WinLResult LossDResult DrawDResult DrawLResult Loss
 9Sevilla
 7
 3
@@ -108,7 +108,17 @@ LResult LossWResult WinDResult DrawWResult WinLResult LossWResult Win
 -1
 10
 WResult WinWResult WinLResult LossLResult LossDResult DrawLResult Loss
-11Alavés
+11Osasuna
+8
+3
+1
+4
+7
+8
+-1
+10
+LResult LossWResult WinLResult LossDResult DrawLResult LossWResult Win
+12Alavés
 7
 2
 2
@@ -118,7 +128,7 @@ WResult WinWResult WinLResult LossLResult LossDResult DrawLResult Loss
 -1
 8
 LResult LossDResult DrawWResult WinLResult LossDResult DrawLResult Loss
-12Valencia
+13Valencia
 7
 2
 2
@@ -128,16 +138,6 @@ LResult LossDResult DrawWResult WinLResult LossDResult DrawLResult Loss
 -3
 8
 LResult LossWResult WinLResult LossWResult WinDResult DrawLResult Loss
-13Osasuna
-7
-2
-1
-4
-5
-7
--2
-7
-WResult WinLResult LossWResult WinLResult LossDResult DrawLResult Loss
 14Real Oviedo
 7
 2
