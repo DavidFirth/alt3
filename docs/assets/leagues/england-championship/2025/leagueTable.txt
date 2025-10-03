@@ -109,15 +109,15 @@ LResult LossLResult LossDResult DrawWResult WinWResult WinDResult Draw
 12
 LResult LossWResult WinWResult WinWResult WinDResult DrawDResult Draw
 11Birmingham City
+9
+3
+3
+3
 8
-3
-2
-3
-7
-10
--3
 11
-WResult WinLResult LossLResult LossWResult WinLResult LossDResult Draw
+-3
+12
+LResult LossLResult LossWResult WinLResult LossDResult DrawDResult Draw
 12Millwall
 8
 3
@@ -138,7 +138,17 @@ WResult WinLResult LossDResult DrawWResult WinDResult DrawLResult Loss
 5
 10
 DResult DrawLResult LossDResult DrawWResult WinWResult WinDResult Draw
-14Southampton
+14Wrexham
+9
+2
+4
+3
+14
+15
+-1
+10
+WResult WinLResult LossWResult WinDResult DrawDResult DrawDResult Draw
+15Southampton
 8
 2
 4
@@ -148,16 +158,6 @@ DResult DrawLResult LossDResult DrawWResult WinWResult WinDResult Draw
 -1
 10
 LResult LossDResult DrawDResult DrawLResult LossDResult DrawWResult Win
-15Wrexham
-8
-2
-3
-3
-13
-14
--1
-9
-DResult DrawWResult WinLResult LossWResult WinDResult DrawDResult Draw
 16Watford
 8
 2
