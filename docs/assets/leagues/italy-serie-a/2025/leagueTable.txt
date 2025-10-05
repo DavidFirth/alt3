@@ -8,36 +8,36 @@ Goals Against
 Goal Difference
 Points
 Form, Last 6 games, Oldest first
-1AC Milan
+1Napoli
+6
 5
-4
 0
+1
+12
+6
+6
+15
+WResult WinWResult WinWResult WinWResult WinLResult LossWResult Win
+2Roma
+6
+5
+0
+1
+7
+2
+5
+15
+WResult WinWResult WinLResult LossWResult WinWResult WinWResult Win
+3AC Milan
+6
+4
+1
 1
 9
 3
 6
-12
-No ResultLResult LossWResult WinWResult WinWResult WinWResult Win
-2Napoli
-5
-4
-0
-1
-10
-5
-5
-12
-No ResultWResult WinWResult WinWResult WinWResult WinLResult Loss
-3Roma
-5
-4
-0
-1
-5
-1
-4
-12
-No ResultWResult WinWResult WinLResult LossWResult WinWResult Win
+13
+LResult LossWResult WinWResult WinWResult WinWResult WinDResult Draw
 4Inter Milan
 6
 4
@@ -49,15 +49,15 @@ No ResultWResult WinWResult WinLResult LossWResult WinWResult Win
 12
 WResult WinLResult LossLResult LossWResult WinWResult WinWResult Win
 5Juventus
-5
+6
 3
-2
+3
 0
 9
 5
 4
-11
-No ResultWResult WinWResult WinWResult WinDResult DrawDResult Draw
+12
+WResult WinWResult WinWResult WinDResult DrawDResult DrawDResult Draw
 6Atalanta
 6
 2
@@ -68,7 +68,17 @@ No ResultWResult WinWResult WinWResult WinDResult DrawDResult Draw
 6
 10
 DResult DrawDResult DrawWResult WinWResult WinDResult DrawDResult Draw
-7Como
+7Bologna
+6
+3
+1
+2
+9
+5
+4
+10
+LResult LossWResult WinLResult LossWResult WinDResult DrawWResult Win
+8Como
 6
 2
 3
@@ -78,7 +88,7 @@ DResult DrawDResult DrawWResult WinWResult WinDResult DrawDResult Draw
 2
 9
 WResult WinLResult LossDResult DrawWResult WinDResult DrawDResult Draw
-8Sassuolo
+9Sassuolo
 6
 3
 0
@@ -88,7 +98,7 @@ WResult WinLResult LossDResult DrawWResult WinDResult DrawDResult Draw
 0
 9
 LResult LossLResult LossWResult WinLResult LossWResult WinWResult Win
-9Cremonese
+10Cremonese
 6
 2
 3
@@ -98,36 +108,26 @@ LResult LossLResult LossWResult WinLResult LossWResult WinWResult Win
 -1
 9
 WResult WinWResult WinDResult DrawDResult DrawDResult DrawLResult Loss
-10Bologna
-5
-2
-1
-2
-5
-5
-0
-7
-No ResultLResult LossWResult WinLResult LossWResult WinDResult Draw
 11Cagliari
-5
+6
 2
-1
 2
-5
-5
+2
+6
+6
 0
-7
-No ResultDResult DrawLResult LossWResult WinWResult WinLResult Loss
-12Udinese
-5
-2
-1
-2
-5
 8
+DResult DrawLResult LossWResult WinWResult WinLResult LossDResult Draw
+12Udinese
+6
+2
+2
+2
+6
+9
 -3
-7
-No ResultDResult DrawWResult WinWResult WinLResult LossLResult Loss
+8
+DResult DrawWResult WinWResult WinLResult LossLResult LossDResult Draw
 13Lazio
 6
 2
@@ -169,15 +169,15 @@ DResult DrawLResult LossLResult LossLResult LossDResult DrawWResult Win
 5
 LResult LossDResult DrawWResult WinLResult LossLResult LossDResult Draw
 17Fiorentina
-5
+6
 0
 3
-2
 3
-6
--3
+4
+8
+-4
 3
-No ResultDResult DrawDResult DrawLResult LossLResult LossDResult Draw
+DResult DrawDResult DrawLResult LossLResult LossDResult DrawLResult Loss
 18Hellas Verona
 6
 0
@@ -188,22 +188,22 @@ No ResultDResult DrawDResult DrawLResult LossLResult LossDResult Draw
 -7
 3
 DResult DrawLResult LossDResult DrawDResult DrawLResult LossLResult Loss
-19Pisa
-5
-0
-2
-3
-3
+19Genoa
 6
--3
-2
-No ResultDResult DrawLResult LossLResult LossLResult LossDResult Draw
-20Genoa
-5
 0
 2
+4
 3
+9
+-6
 2
-7
--5
+DResult DrawLResult LossDResult DrawLResult LossLResult LossLResult Loss
+20Pisa
+6
+0
+2
+4
+3
+10
+-7
 2
