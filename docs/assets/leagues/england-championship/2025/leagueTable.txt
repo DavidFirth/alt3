@@ -9,55 +9,55 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1Coventry City
-13
-8
+14
+9
 4
 1
-36
-12
-24
-28
-WResult WinWResult WinWResult WinWResult WinWResult WinLResult Loss
-2Middlesbrough
+39
 13
+26
+31
+WResult WinWResult WinWResult WinWResult WinLResult LossWResult Win
+2Stoke City
+14
+8
+3
+3
+21
+9
+12
+27
+DResult DrawWResult WinLResult LossWResult WinWResult WinWResult Win
+3Middlesbrough
+14
 7
-4
+5
 2
+17
+12
+5
+26
+LResult LossWResult WinWResult WinDResult DrawLResult LossDResult Draw
+4Millwall
+14
+7
+3
+4
+16
+19
+-3
+24
+WResult WinWResult WinWResult WinWResult WinDResult DrawLResult Loss
+5Charlton Athletic
+14
+6
+5
+3
 16
 11
 5
-25
-DResult DrawLResult LossWResult WinWResult WinDResult DrawLResult Loss
-3Stoke City
-13
-7
-3
-3
-18
-9
-9
-24
-DResult DrawDResult DrawWResult WinLResult LossWResult WinWResult Win
-4Millwall
-13
-7
-3
-3
-16
-15
-1
-24
-LResult LossWResult WinWResult WinWResult WinWResult WinDResult Draw
-5Bristol City
-13
-6
-4
-3
-21
-16
-5
-22
-DResult DrawLResult LossWResult WinWResult WinWResult WinLResult Loss
+23
+LResult LossWResult WinWResult WinDResult DrawDResult DrawWResult Win
 6Preston North End
 13
 6
@@ -68,67 +68,87 @@ DResult DrawLResult LossWResult WinWResult WinWResult WinLResult Loss
 5
 22
 DResult DrawWResult WinLResult LossLResult LossWResult WinWResult Win
-7Hull City
-13
+7Bristol City
+14
 6
 4
-3
-22
-20
-2
-22
-DResult DrawWResult WinWResult WinWResult WinDResult DrawWResult Win
-8Charlton Athletic
-13
-5
-5
-3
-15
-11
 4
-20
-DResult DrawLResult LossWResult WinWResult WinDResult DrawDResult Draw
-9Ipswich Town
-12
-5
-4
-3
 21
+17
+4
+22
+LResult LossWResult WinWResult WinWResult WinLResult LossLResult Loss
+8Hull City
 14
-7
-19
-DResult DrawWResult WinLResult LossLResult LossWResult WinWResult Win
-10Watford
-13
-5
+6
+4
+4
+23
+22
+1
+22
+WResult WinWResult WinWResult WinDResult DrawWResult WinLResult Loss
+9Birmingham City
+14
+6
 3
 5
+19
+15
+4
+21
+DResult DrawLResult LossWResult WinLResult LossWResult WinWResult Win
+10Ipswich Town
+13
+5
+5
+3
+22
+15
+7
+20
+WResult WinLResult LossLResult LossWResult WinWResult WinDResult Draw
+11Derby County
+14
+5
+5
+4
+18
+18
+0
+20
+DResult DrawLResult LossWResult WinWResult WinWResult WinWResult Win
+12Watford
+14
+5
+4
+5
+18
 17
+1
+19
+WResult WinLResult LossWResult WinLResult LossWResult WinDResult Draw
+13Leicester City
+14
+4
+6
+4
 16
+15
 1
 18
-DResult DrawWResult WinLResult LossWResult WinLResult LossWResult Win
-11Birmingham City
-13
-5
-3
-5
-15
-15
-0
-18
-DResult DrawDResult DrawLResult LossWResult WinLResult LossWResult Win
-12West Bromwich Albion
-13
-5
-3
-5
-12
+WResult WinDResult DrawLResult LossLResult LossLResult LossDResult Draw
+14West Bromwich Albion
 14
--2
+5
+3
+6
+12
+15
+-3
 18
-WResult WinLResult LossWResult WinLResult LossLResult LossDResult Draw
-13Queens Park Rangers
+LResult LossWResult WinLResult LossLResult LossDResult DrawLResult Loss
+15Queens Park Rangers
 13
 5
 3
@@ -138,17 +158,7 @@ WResult WinLResult LossWResult WinLResult LossLResult LossDResult Draw
 -5
 18
 DResult DrawWResult WinLResult LossWResult WinLResult LossLResult Loss
-14Leicester City
-13
-4
-5
-4
-15
-14
-1
-17
-DResult DrawWResult WinDResult DrawLResult LossLResult LossLResult Loss
-15Wrexham
+16Wrexham
 13
 4
 5
@@ -158,7 +168,7 @@ DResult DrawWResult WinDResult DrawLResult LossLResult LossLResult Loss
 0
 17
 DResult DrawDResult DrawLResult LossWResult WinDResult DrawWResult Win
-16Swansea City
+17Swansea City
 13
 4
 5
@@ -168,36 +178,26 @@ DResult DrawDResult DrawLResult LossWResult WinDResult DrawWResult Win
 0
 17
 WResult WinLResult LossDResult DrawLResult LossWResult WinDResult Draw
-17Derby County
+18Blackburn Rovers
 13
-4
 5
-4
-16
-17
--1
-17
-DResult DrawDResult DrawLResult LossWResult WinWResult WinWResult Win
-18Oxford United
-13
-3
-4
-6
-15
-17
--2
-13
-DResult DrawLResult LossWResult WinLResult LossWResult WinDResult Draw
-19Blackburn Rovers
-12
-4
 1
 7
-12
+13
 17
+-4
+16
+DResult DrawLResult LossLResult LossWResult WinWResult WinWResult Win
+19Oxford United
+14
+3
+4
+7
+15
+20
 -5
 13
-LResult LossDResult DrawLResult LossLResult LossWResult WinWResult Win
+LResult LossWResult WinLResult LossWResult WinDResult DrawLResult Loss
 20Portsmouth
 13
 3
@@ -219,15 +219,15 @@ DResult DrawWResult WinDResult DrawLResult LossLResult LossLResult Loss
 12
 WResult WinDResult DrawDResult DrawLResult LossLResult LossLResult Loss
 22Sheffield United
-13
+14
 3
 0
-10
-10
-23
--13
+11
+11
+26
+-15
 9
-LResult LossLResult LossWResult WinWResult WinLResult LossLResult Loss
+LResult LossWResult WinWResult WinLResult LossLResult LossLResult Loss
 23Norwich City
 13
 2
