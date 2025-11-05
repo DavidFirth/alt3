@@ -3,8 +3,8 @@
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
       {% endif %}
-    {% if site.bloopsky.username %}
-      <li><a href="https://{{ site.bluesky.username }}.bsky.social"><img src="/assets/images/Bluesky_Logo.png"><i class="fa fa-fw fa-bluesky" aria-hidden="false"></i> Bluesky</a></li>
+    {% if site.bluesky.username %}
+      <li><a href="https://{{ site.bluesky.username }}.bsky.social"><span style="color: Dodgerblue;"><i class="fa-brands fa-bluesky" aria-hidden="false"></i></span> Bluesky</a></li>
       {% endif %}
       {% if site.fedddyverse.username %}
       <li><a href="https://mastodon.online/@{{ site.fediverse.username }}"><i class="fa fa-brands fa-mastodon" style="color: #3584e4;"></i> Fediverse (Mastodon)</a></li> 
@@ -12,7 +12,7 @@
     {% if site.facebook.username %}
       <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
     {% endif %}
-    {% if site.author.gittyhub %}
+    {% if site.author.github %}
       <li><a href="http://github.com/{{ site.repository }}"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     {% endif %}
     {% if site.author.gitlab %}
