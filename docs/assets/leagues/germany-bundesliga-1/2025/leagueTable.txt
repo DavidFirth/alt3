@@ -18,7 +18,17 @@ Form, Last 6 games, Oldest first
 33
 31
 WResult WinWResult WinWResult WinWResult WinDResult DrawWResult Win
-2Bayer Leverkusen
+2RB Leipzig
+11
+8
+1
+2
+22
+13
+9
+25
+DResult DrawWResult WinWResult WinWResult WinLResult LossWResult Win
+3Bayer Leverkusen
 11
 7
 2
@@ -28,7 +38,7 @@ WResult WinWResult WinWResult WinWResult WinDResult DrawWResult Win
 12
 23
 WResult WinWResult WinWResult WinLResult LossWResult WinWResult Win
-3Borussia Dortmund
+4Borussia Dortmund
 11
 6
 4
@@ -38,16 +48,6 @@ WResult WinWResult WinWResult WinLResult LossWResult WinWResult Win
 9
 22
 DResult DrawLResult LossWResult WinWResult WinDResult DrawDResult Draw
-4RB Leipzig
-10
-7
-1
-2
-20
-13
-7
-22
-WResult WinDResult DrawWResult WinWResult WinWResult WinLResult Loss
 5Stuttgart
 11
 7
@@ -78,17 +78,27 @@ LResult LossDResult DrawWResult WinDResult DrawWResult WinWResult Win
 5
 20
 LResult LossWResult WinWResult WinWResult WinWResult WinDResult Draw
-8Werder Bremen
-10
+8Union Berlin
+11
 4
 3
-3
-15
-18
+4
+14
+17
 -3
 15
-LResult LossWResult WinDResult DrawWResult WinDResult DrawWResult Win
-9Köln
+LResult LossWResult WinLResult LossDResult DrawDResult DrawWResult Win
+9Werder Bremen
+11
+4
+3
+4
+15
+20
+-5
+15
+WResult WinDResult DrawWResult WinDResult DrawWResult WinLResult Loss
+10Köln
 11
 4
 2
@@ -98,7 +108,7 @@ LResult LossWResult WinDResult DrawWResult WinDResult DrawWResult Win
 1
 14
 WResult WinDResult DrawLResult LossWResult WinLResult LossLResult Loss
-10Freiburg
+11Freiburg
 11
 3
 4
@@ -108,7 +118,7 @@ WResult WinDResult DrawLResult LossWResult WinLResult LossLResult Loss
 -5
 13
 DResult DrawDResult DrawLResult LossDResult DrawWResult WinLResult Loss
-11Borussia M&#x27;gladbach
+12Borussia M&#x27;gladbach
 11
 3
 3
@@ -118,16 +128,6 @@ DResult DrawDResult DrawLResult LossDResult DrawWResult WinLResult Loss
 -3
 12
 DResult DrawLResult LossLResult LossWResult WinWResult WinWResult Win
-12Union Berlin
-10
-3
-3
-4
-13
-17
--4
-12
-DResult DrawLResult LossWResult WinLResult LossDResult DrawDResult Draw
 13Augsburg
 11
 3
@@ -159,13 +159,13 @@ WResult WinLResult LossLResult LossLResult LossDResult DrawLResult Loss
 8
 LResult LossLResult LossWResult WinLResult LossLResult LossLResult Loss
 16St. Pauli
-10
+11
 2
 1
-7
+8
 9
-20
--11
+21
+-12
 7
 LResult LossLResult LossLResult LossLResult LossLResult LossLResult Loss
 17Mainz 05
