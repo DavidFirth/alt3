@@ -49,15 +49,15 @@ DResult DrawLResult LossDResult DrawWResult WinDResult DrawLResult Loss
 28
 WResult WinDResult DrawLResult LossDResult DrawLResult LossWResult Win
 5Ipswich Town
-16
+17
 7
 6
-3
-28
-16
-12
+4
+29
+18
+11
 27
-WResult WinWResult WinDResult DrawWResult WinDResult DrawWResult Win
+WResult WinDResult DrawWResult WinDResult DrawWResult WinLResult Loss
 6Preston North End
 17
 7
@@ -188,7 +188,17 @@ LResult LossDResult DrawLResult LossWResult WinLResult LossDResult Draw
 -5
 19
 WResult WinWResult WinWResult WinLResult LossWResult WinLResult Loss
-19Swansea City
+19Oxford United
+18
+4
+6
+8
+20
+25
+-5
+18
+DResult DrawLResult LossLResult LossDResult DrawDResult DrawWResult Win
+20Swansea City
 17
 4
 5
@@ -198,7 +208,7 @@ WResult WinWResult WinWResult WinLResult LossWResult WinLResult Loss
 -8
 17
 WResult WinDResult DrawLResult LossLResult LossLResult LossLResult Loss
-20Portsmouth
+21Portsmouth
 17
 4
 5
@@ -208,7 +218,7 @@ WResult WinDResult DrawLResult LossLResult LossLResult LossLResult Loss
 -9
 17
 LResult LossLResult LossDResult DrawLResult LossWResult WinLResult Loss
-21Sheffield United
+22Sheffield United
 17
 5
 1
@@ -218,16 +228,6 @@ LResult LossLResult LossDResult DrawLResult LossWResult WinLResult Loss
 -9
 16
 LResult LossLResult LossLResult LossDResult DrawWResult WinWResult Win
-22Oxford United
-17
-3
-6
-8
-18
-24
--6
-15
-WResult WinDResult DrawLResult LossLResult LossDResult DrawDResult Draw
 23Norwich City
 17
 2
