@@ -9,25 +9,25 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1Paris Saint-Germain
-13
+14
 9
 3
-1
+2
 27
-11
-16
-30
-DResult DrawWResult WinDResult DrawWResult WinWResult WinWResult Win
-2Marseille
-13
-9
-1
-3
-33
 12
+15
+30
+WResult WinDResult DrawWResult WinWResult WinWResult WinLResult Loss
+2Marseille
+14
+9
+2
+3
+35
+14
 21
-28
-WResult WinLResult LossDResult DrawWResult WinWResult WinWResult Win
+29
+LResult LossDResult DrawWResult WinWResult WinWResult WinDResult Draw
 3Lens
 13
 9
@@ -58,7 +58,17 @@ LResult LossDResult DrawWResult WinWResult WinWResult WinWResult Win
 10
 23
 WResult WinWResult WinLResult LossWResult WinLResult LossWResult Win
-6Strasbourg
+6Monaco
+14
+7
+2
+5
+26
+25
+1
+23
+WResult WinWResult WinLResult LossLResult LossLResult LossWResult Win
+7Strasbourg
 13
 7
 1
@@ -68,7 +78,7 @@ WResult WinWResult WinLResult LossWResult WinLResult LossWResult Win
 7
 22
 DResult DrawLResult LossWResult WinLResult LossWResult WinLResult Loss
-7Olympique Lyonnais
+8Olympique Lyonnais
 13
 6
 3
@@ -78,17 +88,17 @@ DResult DrawLResult LossWResult WinLResult LossWResult WinLResult Loss
 3
 21
 LResult LossWResult WinDResult DrawDResult DrawLResult LossDResult Draw
-8Monaco
-13
-6
-2
+9Toulouse
+14
+4
 5
-25
-25
-0
+5
 20
-DResult DrawWResult WinWResult WinLResult LossLResult LossLResult Loss
-9Nice
+19
+1
+17
+LResult LossDResult DrawDResult DrawDResult DrawLResult LossDResult Draw
+10Nice
 13
 5
 2
@@ -98,16 +108,6 @@ DResult DrawWResult WinWResult WinLResult LossLResult LossLResult Loss
 -5
 17
 WResult WinWResult WinWResult WinLResult LossLResult LossLResult Loss
-10Toulouse
-13
-4
-4
-5
-18
-17
-1
-16
-WResult WinLResult LossDResult DrawDResult DrawDResult DrawLResult Loss
 11Angers SCO
 13
 4
@@ -119,15 +119,15 @@ WResult WinLResult LossDResult DrawDResult DrawDResult DrawLResult Loss
 16
 DResult DrawWResult WinDResult DrawLResult LossWResult WinWResult Win
 12Paris FC
-13
-4
-2
-7
-20
-25
--5
 14
-LResult LossLResult LossDResult DrawWResult WinLResult LossLResult Loss
+4
+3
+7
+21
+26
+-5
+15
+LResult LossDResult DrawWResult WinLResult LossLResult LossDResult Draw
 13Le Havre
 13
 3
@@ -179,11 +179,11 @@ DResult DrawLResult LossDResult DrawLResult LossDResult DrawDResult Draw
 11
 LResult LossWResult WinWResult WinWResult WinLResult LossLResult Loss
 18Auxerre
-13
+14
 2
-2
+3
 9
-7
-19
--12
 8
+20
+-12
+9
