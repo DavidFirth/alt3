@@ -9,36 +9,26 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1PSV
-13
-11
+14
+12
 1
 1
-41
+44
 17
-24
-34
+27
+37
 WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
 2Feyenoord
-13
-9
+14
+10
 1
 3
-33
-16
+35
 17
-28
-WResult WinWResult WinLResult LossWResult WinLResult LossLResult Loss
-3AZ
-13
-7
-3
-3
-26
-21
-5
-24
-WResult WinWResult WinWResult WinWResult WinLResult LossLResult Loss
-4NEC
+18
+31
+WResult WinLResult LossWResult WinLResult LossLResult LossWResult Win
+3NEC
 14
 7
 3
@@ -48,16 +38,26 @@ WResult WinWResult WinWResult WinWResult WinLResult LossLResult Loss
 13
 24
 DResult DrawDResult DrawLResult LossWResult WinWResult WinWResult Win
+4AZ
+14
+7
+3
+4
+26
+22
+4
+24
+WResult WinWResult WinWResult WinLResult LossLResult LossLResult Loss
 5Utrecht
-13
+14
 6
-2
+3
 5
-23
-17
+25
+19
 6
-20
-LResult LossWResult WinLResult LossWResult WinWResult WinDResult Draw
+21
+WResult WinLResult LossWResult WinWResult WinDResult DrawDResult Draw
 6Ajax
 13
 5
@@ -78,7 +78,17 @@ DResult DrawLResult LossWResult WinDResult DrawLResult LossLResult Loss
 0
 20
 WResult WinLResult LossWResult WinDResult DrawLResult LossDResult Draw
-8Fortuna Sittard
+8Twente
+14
+5
+5
+4
+22
+19
+3
+20
+DResult DrawLResult LossDResult DrawDResult DrawDResult DrawWResult Win
+9Fortuna Sittard
 14
 5
 3
@@ -88,17 +98,17 @@ WResult WinLResult LossWResult WinDResult DrawLResult LossDResult Draw
 -2
 18
 LResult LossLResult LossLResult LossWResult WinDResult DrawDResult Draw
-9Twente
-13
+10Go Ahead Eagles
+14
 4
 5
-4
-21
-19
-2
+5
+23
+24
+-1
 17
-WResult WinDResult DrawLResult LossDResult DrawDResult DrawDResult Draw
-10Heerenveen
+LResult LossWResult WinLResult LossWResult WinLResult LossDResult Draw
+11Heerenveen
 14
 4
 5
@@ -108,7 +118,7 @@ WResult WinDResult DrawLResult LossDResult DrawDResult DrawDResult Draw
 -1
 17
 WResult WinDResult DrawDResult DrawLResult LossWResult WinLResult Loss
-11Sparta Rotterdam
+12Sparta Rotterdam
 14
 5
 2
@@ -118,16 +128,6 @@ WResult WinDResult DrawDResult DrawLResult LossWResult WinLResult Loss
 -12
 17
 WResult WinWResult WinLResult LossLResult LossDResult DrawLResult Loss
-12Go Ahead Eagles
-13
-4
-4
-5
-21
-22
--1
-16
-DResult DrawLResult LossWResult WinLResult LossWResult WinLResult Loss
 13Excelsior
 14
 5
@@ -149,15 +149,15 @@ WResult WinLResult LossDResult DrawLResult LossWResult WinWResult Win
 16
 DResult DrawDResult DrawLResult LossWResult WinDResult DrawWResult Win
 15Volendam
-13
+14
 3
 5
-5
+6
 17
-21
--4
+24
+-7
 14
-LResult LossLResult LossWResult WinLResult LossWResult WinDResult Draw
+LResult LossWResult WinLResult LossWResult WinDResult DrawLResult Loss
 16Heracles
 14
 4
@@ -179,11 +179,11 @@ LResult LossLResult LossWResult WinWResult WinWResult WinDResult Draw
 12
 DResult DrawDResult DrawWResult WinLResult LossLResult LossLResult Loss
 18Telstar
-13
+14
 2
 4
-7
-15
-22
--7
+8
+16
+24
+-8
 10
