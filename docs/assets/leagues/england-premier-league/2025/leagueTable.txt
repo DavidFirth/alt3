@@ -9,15 +9,15 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1Arsenal
-12
+13
 9
-2
+3
 1
-24
-6
+25
+7
 18
-29
-WResult WinWResult WinWResult WinWResult WinDResult DrawWResult Win
+30
+WResult WinWResult WinWResult WinDResult DrawWResult WinDResult Draw
 2Manchester City
 13
 8
@@ -29,16 +29,36 @@ WResult WinWResult WinWResult WinWResult WinDResult DrawWResult Win
 25
 WResult WinLResult LossWResult WinWResult WinLResult LossWResult Win
 3Chelsea
-12
+13
 7
-2
 3
-23
-11
+3
+24
 12
-23
+12
+24
+WResult WinLResult LossWResult WinWResult WinWResult WinDResult Draw
+4Aston Villa
+13
+7
+3
+3
+16
+11
+5
+24
 WResult WinWResult WinLResult LossWResult WinWResult WinWResult Win
-4Sunderland
+5Brighton &amp; Hove Albion
+13
+6
+4
+3
+21
+16
+5
+22
+WResult WinLResult LossWResult WinDResult DrawWResult WinWResult Win
+6Sunderland
 13
 6
 4
@@ -48,37 +68,37 @@ WResult WinWResult WinLResult LossWResult WinWResult WinWResult Win
 4
 22
 WResult WinWResult WinDResult DrawDResult DrawLResult LossWResult Win
-5Aston Villa
-12
+7Manchester United
+13
 6
 3
-3
-15
-11
 4
 21
-WResult WinWResult WinWResult WinLResult LossWResult WinWResult Win
-6Crystal Palace
-12
-5
-5
-2
-16
-9
-7
 20
-LResult LossDResult DrawLResult LossWResult WinDResult DrawWResult Win
-7Brighton &amp; Hove Albion
-12
+1
+21
+WResult WinWResult WinDResult DrawDResult DrawLResult LossWResult Win
+8Liverpool
+13
+7
+0
+6
+20
+20
+0
+21
+LResult LossLResult LossWResult WinLResult LossLResult LossWResult Win
+9Crystal Palace
+13
 5
-4
+5
 3
-19
-16
-3
-19
-DResult DrawWResult WinLResult LossWResult WinDResult DrawWResult Win
-8Brentford
+17
+11
+6
+20
+DResult DrawLResult LossWResult WinDResult DrawWResult WinLResult Loss
+10Brentford
 13
 6
 1
@@ -88,7 +108,7 @@ DResult DrawWResult WinLResult LossWResult WinDResult DrawWResult Win
 1
 19
 WResult WinWResult WinLResult LossWResult WinLResult LossWResult Win
-9AFC Bournemouth
+11AFC Bournemouth
 13
 5
 4
@@ -98,7 +118,7 @@ WResult WinWResult WinLResult LossWResult WinLResult LossWResult Win
 -2
 19
 DResult DrawWResult WinLResult LossLResult LossDResult DrawLResult Loss
-10Tottenham Hotspur
+12Tottenham Hotspur
 13
 5
 3
@@ -108,7 +128,7 @@ DResult DrawWResult WinLResult LossLResult LossDResult DrawLResult Loss
 5
 18
 LResult LossWResult WinLResult LossDResult DrawLResult LossLResult Loss
-11Newcastle United
+13Newcastle United
 13
 5
 3
@@ -118,26 +138,6 @@ LResult LossWResult WinLResult LossDResult DrawLResult LossLResult Loss
 1
 18
 LResult LossWResult WinLResult LossLResult LossWResult WinWResult Win
-12Manchester United
-12
-5
-3
-4
-19
-19
-0
-18
-WResult WinWResult WinWResult WinDResult DrawDResult DrawLResult Loss
-13Liverpool
-12
-6
-0
-6
-18
-20
--2
-18
-LResult LossLResult LossLResult LossWResult WinLResult LossLResult Loss
 14Everton
 13
 5
@@ -159,25 +159,25 @@ LResult LossLResult LossDResult DrawWResult WinWResult WinLResult Loss
 17
 LResult LossLResult LossWResult WinLResult LossWResult WinWResult Win
 16Nottingham Forest
-12
-3
-3
-6
 13
-20
--7
+3
+3
+7
+13
+22
+-9
 12
-LResult LossLResult LossLResult LossDResult DrawWResult WinWResult Win
+LResult LossLResult LossDResult DrawWResult WinWResult WinLResult Loss
 17West Ham United
-12
+13
 3
 2
-7
+8
 15
-25
--10
+27
+-12
 11
-LResult LossLResult LossLResult LossWResult WinWResult WinDResult Draw
+LResult LossLResult LossWResult WinWResult WinDResult DrawLResult Loss
 18Leeds United
 13
 3
@@ -199,11 +199,11 @@ LResult LossWResult WinLResult LossLResult LossLResult LossLResult Loss
 10
 WResult WinWResult WinLResult LossLResult LossLResult LossLResult Loss
 20Wolverhampton Wanderers
-12
+13
 0
 2
-10
+11
 7
-27
--20
+28
+-21
 2
