@@ -29,25 +29,25 @@ WResult WinLResult LossWResult WinWResult WinWResult WinWResult Win
 30
 WResult WinDResult DrawWResult WinWResult WinWResult WinLResult Loss
 3Marseille
-14
+15
 9
 2
-3
+4
 35
-14
-21
+15
+20
 29
-LResult LossDResult DrawWResult WinWResult WinWResult WinDResult Draw
+DResult DrawWResult WinWResult WinWResult WinDResult DrawLResult Loss
 4Lille
-14
-8
+15
+9
 2
 4
-28
+29
 17
-11
-26
-WResult WinLResult LossWResult WinLResult LossWResult WinWResult Win
+12
+29
+LResult LossWResult WinLResult LossWResult WinWResult WinWResult Win
 5Rennes
 14
 6
@@ -69,15 +69,15 @@ LResult LossDResult DrawWResult WinWResult WinWResult WinWResult Win
 24
 WResult WinDResult DrawDResult DrawLResult LossDResult DrawWResult Win
 7Monaco
-14
+15
 7
 2
-5
+6
 26
-25
-1
+26
+0
 23
-WResult WinWResult WinLResult LossLResult LossLResult LossWResult Win
+WResult WinLResult LossLResult LossLResult LossWResult WinLResult Loss
 8Strasbourg
 14
 7
@@ -88,7 +88,17 @@ WResult WinWResult WinLResult LossLResult LossLResult LossWResult Win
 6
 22
 LResult LossWResult WinLResult LossWResult WinLResult LossLResult Loss
-9Toulouse
+9Brest
+15
+5
+4
+6
+20
+24
+-4
+19
+LResult LossDResult DrawLResult LossWResult WinWResult WinWResult Win
+10Toulouse
 14
 4
 5
@@ -98,7 +108,7 @@ LResult LossWResult WinLResult LossWResult WinLResult LossLResult Loss
 1
 17
 LResult LossDResult DrawDResult DrawDResult DrawLResult LossDResult Draw
-10Nice
+11Nice
 14
 5
 2
@@ -108,16 +118,6 @@ LResult LossDResult DrawDResult DrawDResult DrawLResult LossDResult Draw
 -7
 17
 WResult WinWResult WinLResult LossLResult LossLResult LossLResult Loss
-11Brest
-14
-4
-4
-6
-19
-24
--5
-16
-LResult LossLResult LossDResult DrawLResult LossWResult WinWResult Win
 12Angers SCO
 14
 4
