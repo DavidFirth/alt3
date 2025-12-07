@@ -49,15 +49,15 @@ DResult DrawWResult WinWResult WinWResult WinDResult DrawLResult Loss
 29
 LResult LossWResult WinLResult LossWResult WinWResult WinWResult Win
 5Olympique Lyonnais
-14
+15
 7
 3
-4
+5
 21
-15
-6
+16
+5
 24
-WResult WinDResult DrawDResult DrawLResult LossDResult DrawWResult Win
+DResult DrawDResult DrawLResult LossDResult DrawWResult WinLResult Loss
 6Rennes
 15
 6
@@ -108,57 +108,67 @@ DResult DrawDResult DrawDResult DrawLResult LossDResult DrawWResult Win
 -4
 19
 LResult LossDResult DrawLResult LossWResult WinWResult WinWResult Win
-11Nice
-14
+11Angers SCO
+15
 5
-2
-7
-19
-26
--7
-17
-WResult WinWResult WinLResult LossLResult LossLResult LossLResult Loss
-12Angers SCO
-14
-4
 4
 6
-12
+13
 17
--5
-16
-WResult WinDResult DrawLResult LossWResult WinWResult WinLResult Loss
-13Paris FC
-14
+-4
+19
+DResult DrawLResult LossWResult WinWResult WinLResult LossWResult Win
+12Nice
+15
+5
+2
+8
+19
+27
+-8
+17
+WResult WinLResult LossLResult LossLResult LossLResult LossLResult Loss
+13Lorient
+15
 4
-3
+5
+6
+19
+28
+-9
+17
+DResult DrawLResult LossDResult DrawDResult DrawWResult WinWResult Win
+14Paris FC
+15
+4
+4
 7
 21
 26
 -5
+16
+DResult DrawWResult WinLResult LossLResult LossDResult DrawDResult Draw
+15Le Havre
 15
-LResult LossDResult DrawWResult WinLResult LossLResult LossDResult Draw
-14Le Havre
-14
 3
-5
+6
 6
 13
 21
 -8
-14
-WResult WinWResult WinDResult DrawDResult DrawLResult LossLResult Loss
-15Lorient
-14
+15
+WResult WinDResult DrawDResult DrawLResult LossLResult LossDResult Draw
+16Auxerre
+15
 3
-5
-6
-18
-28
+3
+9
+11
+21
 -10
-14
-LResult LossDResult DrawLResult LossDResult DrawDResult DrawWResult Win
-16Nantes
+12
+LResult LossLResult LossLResult LossDResult DrawDResult DrawWResult Win
+17Nantes
 15
 2
 5
@@ -168,22 +178,12 @@ LResult LossDResult DrawLResult LossDResult DrawDResult DrawWResult Win
 -11
 11
 LResult LossLResult LossDResult DrawDResult DrawLResult LossLResult Loss
-17Metz
-14
+18Metz
+15
 3
 2
-9
-14
-31
--17
+10
+15
+34
+-19
 11
-LResult LossWResult WinWResult WinWResult WinLResult LossLResult Loss
-18Auxerre
-14
-2
-3
-9
-8
-20
--12
-9
