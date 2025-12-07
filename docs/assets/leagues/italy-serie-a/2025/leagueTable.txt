@@ -8,7 +8,17 @@ Goals Against
 Goal Difference
 Points
 Form, Last 6 games, Oldest first
-1Inter Milan
+1Napoli
+14
+10
+1
+3
+22
+12
+10
+31
+WResult WinDResult DrawLResult LossWResult WinWResult WinWResult Win
+2Inter Milan
 14
 10
 0
@@ -18,7 +28,7 @@ Form, Last 6 games, Oldest first
 19
 30
 WResult WinWResult WinWResult WinLResult LossWResult WinWResult Win
-2AC Milan
+3AC Milan
 13
 8
 4
@@ -28,36 +38,26 @@ WResult WinWResult WinWResult WinLResult LossWResult WinWResult Win
 10
 28
 DResult DrawDResult DrawWResult WinDResult DrawWResult WinWResult Win
-3Napoli
-13
-9
-1
-3
-20
-11
-9
-28
-WResult WinWResult WinDResult DrawLResult LossWResult WinWResult Win
 4Roma
-13
+14
 9
 0
-4
+5
 15
-7
 8
-27
-WResult WinWResult WinLResult LossWResult WinWResult WinLResult Loss
-5Bologna
-13
 7
+27
+WResult WinLResult LossWResult WinWResult WinLResult LossLResult Loss
+5Bologna
+14
+7
+4
 3
-3
-22
+23
+12
 11
-11
-24
-DResult DrawDResult DrawWResult WinWResult WinWResult WinLResult Loss
+25
+DResult DrawWResult WinWResult WinWResult WinLResult LossDResult Draw
 6Como
 14
 6
@@ -69,15 +69,15 @@ DResult DrawDResult DrawWResult WinWResult WinWResult WinLResult Loss
 24
 WResult WinDResult DrawDResult DrawWResult WinWResult WinLResult Loss
 7Juventus
-13
+14
 6
 5
-2
-17
-12
-5
+3
+18
+14
+4
 23
-LResult LossWResult WinWResult WinDResult DrawDResult DrawWResult Win
+WResult WinWResult WinDResult DrawDResult DrawWResult WinLResult Loss
 8Sassuolo
 14
 6
@@ -88,17 +88,27 @@ LResult LossWResult WinWResult WinDResult DrawDResult DrawWResult Win
 2
 20
 WResult WinLResult LossWResult WinDResult DrawLResult LossWResult Win
-9Lazio
-13
+9Cremonese
+14
 5
-3
 5
-15
-10
-5
+4
 18
-WResult WinDResult DrawWResult WinLResult LossWResult WinLResult Loss
-10Udinese
+17
+1
+20
+WResult WinLResult LossLResult LossLResult LossWResult WinWResult Win
+10Lazio
+14
+5
+4
+5
+16
+11
+5
+19
+DResult DrawWResult WinLResult LossWResult WinLResult LossDResult Draw
+11Udinese
 13
 5
 3
@@ -108,16 +118,6 @@ WResult WinDResult DrawWResult WinLResult LossWResult WinLResult Loss
 -6
 18
 WResult WinLResult LossWResult WinLResult LossLResult LossWResult Win
-11Cremonese
-13
-4
-5
-4
-16
-17
--1
-17
-DResult DrawWResult WinLResult LossLResult LossLResult LossWResult Win
 12Atalanta
 14
 3
@@ -138,26 +138,26 @@ DResult DrawLResult LossLResult LossLResult LossWResult WinLResult Loss
 -11
 14
 WResult WinDResult DrawDResult DrawDResult DrawLResult LossLResult Loss
-14Lecce
-13
+14Cagliari
+14
 3
-4
-6
-10
-17
--7
-13
-LResult LossLResult LossWResult WinDResult DrawLResult LossWResult Win
-15Cagliari
-13
-2
 5
 6
-13
+14
 19
--6
-11
-DResult DrawLResult LossLResult LossDResult DrawDResult DrawLResult Loss
+-5
+14
+LResult LossLResult LossDResult DrawDResult DrawLResult LossWResult Win
+15Lecce
+14
+3
+4
+7
+10
+19
+-9
+13
+LResult LossWResult WinDResult DrawLResult LossWResult WinLResult Loss
 16Genoa
 13
 2
