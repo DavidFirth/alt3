@@ -29,15 +29,15 @@ WResult WinWResult WinDResult DrawWResult WinWResult WinWResult Win
 29
 WResult WinWResult WinLResult LossWResult WinDResult DrawWResult Win
 3Borussia Dortmund
-12
-7
+13
+8
 4
 1
-21
+23
 11
-10
-25
-LResult LossWResult WinWResult WinDResult DrawDResult DrawWResult Win
+12
+28
+WResult WinWResult WinDResult DrawDResult DrawWResult WinWResult Win
 4Bayer Leverkusen
 13
 7
@@ -49,15 +49,15 @@ LResult LossWResult WinWResult WinDResult DrawDResult DrawWResult Win
 23
 WResult WinLResult LossWResult WinWResult WinLResult LossLResult Loss
 5Hoffenheim
-12
+13
 7
 2
-3
+4
 25
-17
-8
+19
+6
 23
-WResult WinWResult WinWResult WinWResult WinDResult DrawWResult Win
+WResult WinWResult WinWResult WinDResult DrawWResult WinLResult Loss
 6Stuttgart
 13
 7
@@ -109,15 +109,15 @@ LResult LossDResult DrawWResult WinLResult LossWResult WinLResult Loss
 16
 LResult LossWResult WinWResult WinWResult WinDResult DrawWResult Win
 11Werder Bremen
-12
+13
 4
 4
-4
+5
+18
+24
+-6
 16
-21
--5
-16
-DResult DrawWResult WinDResult DrawWResult WinLResult LossDResult Draw
+WResult WinDResult DrawWResult WinLResult LossDResult DrawLResult Loss
 12Union Berlin
 13
 4
@@ -128,7 +128,17 @@ DResult DrawWResult WinDResult DrawWResult WinLResult LossDResult Draw
 -6
 15
 LResult LossDResult DrawDResult DrawWResult WinLResult LossLResult Loss
-13Augsburg
+13Hamburger SV
+13
+4
+3
+6
+14
+20
+-6
+15
+LResult LossLResult LossDResult DrawLResult LossWResult WinWResult Win
+14Augsburg
 13
 4
 1
@@ -138,7 +148,7 @@ LResult LossDResult DrawDResult DrawWResult WinLResult LossLResult Loss
 -10
 13
 LResult LossLResult LossLResult LossWResult WinLResult LossWResult Win
-14Wolfsburg
+15Wolfsburg
 13
 3
 3
@@ -148,16 +158,6 @@ LResult LossLResult LossLResult LossWResult WinLResult LossWResult Win
 -6
 12
 WResult WinLResult LossLResult LossLResult LossDResult DrawWResult Win
-15Hamburger SV
-12
-3
-3
-6
-11
-18
--7
-12
-LResult LossLResult LossLResult LossDResult DrawLResult LossWResult Win
 16Heidenheim
 13
 3
