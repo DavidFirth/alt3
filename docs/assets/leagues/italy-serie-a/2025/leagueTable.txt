@@ -8,7 +8,17 @@ Goals Against
 Goal Difference
 Points
 Form, Last 6 games, Oldest first
-1Napoli
+1AC Milan
+14
+9
+4
+1
+22
+11
+11
+31
+DResult DrawWResult WinDResult DrawWResult WinWResult WinWResult Win
+2Napoli
 14
 10
 1
@@ -18,7 +28,7 @@ Form, Last 6 games, Oldest first
 10
 31
 WResult WinDResult DrawLResult LossWResult WinWResult WinWResult Win
-2Inter Milan
+3Inter Milan
 14
 10
 0
@@ -28,16 +38,6 @@ WResult WinDResult DrawLResult LossWResult WinWResult WinWResult Win
 19
 30
 WResult WinWResult WinWResult WinLResult LossWResult WinWResult Win
-3AC Milan
-13
-8
-4
-1
-19
-9
-10
-28
-DResult DrawDResult DrawWResult WinDResult DrawWResult WinWResult Win
 4Roma
 14
 9
@@ -109,15 +109,15 @@ WResult WinLResult LossLResult LossLResult LossWResult WinWResult Win
 19
 DResult DrawWResult WinLResult LossWResult WinLResult LossDResult Draw
 11Udinese
-13
+14
 5
 3
-5
-14
-20
--6
+6
+15
+22
+-7
 18
-WResult WinLResult LossWResult WinLResult LossLResult LossWResult Win
+LResult LossWResult WinLResult LossLResult LossWResult WinLResult Loss
 12Atalanta
 14
 3
@@ -128,17 +128,7 @@ WResult WinLResult LossWResult WinLResult LossLResult LossWResult Win
 0
 16
 DResult DrawLResult LossLResult LossLResult LossWResult WinLResult Loss
-13Torino
-13
-3
-5
-5
-12
-23
--11
-14
-WResult WinDResult DrawDResult DrawDResult DrawLResult LossLResult Loss
-14Cagliari
+13Cagliari
 14
 3
 5
@@ -148,7 +138,37 @@ WResult WinDResult DrawDResult DrawDResult DrawLResult LossLResult Loss
 -5
 14
 LResult LossLResult LossDResult DrawDResult DrawLResult LossWResult Win
-15Lecce
+14Genoa
+14
+3
+5
+6
+15
+21
+-6
+14
+LResult LossWResult WinDResult DrawDResult DrawWResult WinWResult Win
+15Parma
+14
+3
+5
+6
+10
+17
+-7
+14
+LResult LossLResult LossDResult DrawWResult WinLResult LossWResult Win
+16Torino
+14
+3
+5
+6
+14
+26
+-12
+14
+DResult DrawDResult DrawDResult DrawLResult LossLResult LossLResult Loss
+17Lecce
 14
 3
 4
@@ -158,36 +178,16 @@ LResult LossLResult LossDResult DrawDResult DrawLResult LossWResult Win
 -9
 13
 LResult LossWResult WinDResult DrawLResult LossWResult WinLResult Loss
-16Genoa
-13
-2
-5
-6
-13
-20
--7
-11
-LResult LossLResult LossWResult WinDResult DrawDResult DrawWResult Win
-17Parma
-13
-2
-5
-6
-9
-17
--8
-11
-DResult DrawLResult LossLResult LossDResult DrawWResult WinLResult Loss
 18Pisa
-13
+14
 1
 7
-5
+6
 10
-18
--8
+19
+-9
 10
-DResult DrawDResult DrawDResult DrawWResult WinDResult DrawLResult Loss
+DResult DrawDResult DrawWResult WinDResult DrawLResult LossLResult Loss
 19Hellas Verona
 14
 1
