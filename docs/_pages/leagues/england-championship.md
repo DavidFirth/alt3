@@ -17,7 +17,7 @@ sidebar:
 
 {% include leagues/england-championship/alt3-table.html %}
 
-<!-- Sheffield United are subject to a 2-points deduction.  This has been accounted for in the _Rate_ calculation. -->
+Sheffield Wednesday are subject to a 18-points deduction.  This has been accounted for in the _Rate_ calculation.
 
 <style>
 .svg-wrap {
