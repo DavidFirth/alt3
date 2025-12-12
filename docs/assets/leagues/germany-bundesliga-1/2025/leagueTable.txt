@@ -19,15 +19,15 @@ Form, Last 6 games, Oldest first
 37
 WResult WinWResult WinDResult DrawWResult WinWResult WinWResult Win
 2RB Leipzig
-13
+14
 9
 2
-2
-28
-13
-15
+3
 29
-WResult WinWResult WinLResult LossWResult WinDResult DrawWResult Win
+16
+13
+29
+WResult WinLResult LossWResult WinDResult DrawWResult WinLResult Loss
 3Borussia Dortmund
 13
 8
@@ -78,7 +78,17 @@ WResult WinLResult LossWResult WinDResult DrawLResult LossLResult Loss
 -1
 21
 WResult WinDResult DrawWResult WinWResult WinDResult DrawLResult Loss
-8Köln
+8Union Berlin
+14
+5
+3
+6
+19
+23
+-4
+18
+DResult DrawDResult DrawWResult WinLResult LossLResult LossWResult Win
+9Köln
 13
 4
 4
@@ -88,7 +98,7 @@ WResult WinDResult DrawWResult WinWResult WinDResult DrawLResult Loss
 1
 16
 LResult LossWResult WinLResult LossLResult LossDResult DrawDResult Draw
-9Freiburg
+10Freiburg
 13
 4
 4
@@ -98,7 +108,7 @@ LResult LossWResult WinLResult LossLResult LossDResult DrawDResult Draw
 -2
 16
 LResult LossDResult DrawWResult WinLResult LossWResult WinLResult Loss
-10Borussia M&#x27;gladbach
+11Borussia M&#x27;gladbach
 13
 4
 4
@@ -108,7 +118,7 @@ LResult LossDResult DrawWResult WinLResult LossWResult WinLResult Loss
 -2
 16
 LResult LossWResult WinWResult WinWResult WinDResult DrawWResult Win
-11Werder Bremen
+12Werder Bremen
 13
 4
 4
@@ -118,16 +128,6 @@ LResult LossWResult WinWResult WinWResult WinDResult DrawWResult Win
 -6
 16
 WResult WinDResult DrawWResult WinLResult LossDResult DrawLResult Loss
-12Union Berlin
-13
-4
-3
-6
-16
-22
--6
-15
-LResult LossDResult DrawDResult DrawWResult WinLResult LossLResult Loss
 13Hamburger SV
 13
 4
