@@ -49,15 +49,15 @@ WResult WinWResult WinDResult DrawWResult WinDResult DrawWResult Win
 25
 WResult WinWResult WinDResult DrawLResult LossDResult DrawDResult Draw
 5Sporting Braga
-14
+15
 7
 4
-3
+4
 26
-12
-14
+13
+13
 25
-WResult WinLResult LossWResult WinWResult WinWResult WinWResult Win
+LResult LossWResult WinWResult WinWResult WinWResult WinLResult Loss
 6Famalicão
 14
 6
@@ -88,7 +88,17 @@ LResult LossLResult LossWResult WinWResult WinDResult DrawWResult Win
 -3
 20
 LResult LossWResult WinLResult LossDResult DrawDResult DrawLResult Loss
-9Alverca
+9Estoril
+15
+4
+5
+6
+23
+25
+-2
+17
+WResult WinWResult WinLResult LossDResult DrawLResult LossWResult Win
+10Alverca
 14
 5
 2
@@ -98,7 +108,7 @@ LResult LossWResult WinLResult LossDResult DrawDResult DrawLResult Loss
 -5
 17
 LResult LossLResult LossDResult DrawWResult WinWResult WinLResult Loss
-10Rio Ave
+11Rio Ave
 14
 3
 7
@@ -108,7 +118,7 @@ LResult LossLResult LossDResult DrawWResult WinWResult WinLResult Loss
 -5
 16
 WResult WinLResult LossDResult DrawDResult DrawWResult WinLResult Loss
-11Nacional
+12Nacional
 14
 4
 3
@@ -118,7 +128,7 @@ WResult WinLResult LossDResult DrawDResult DrawWResult WinLResult Loss
 -4
 15
 DResult DrawLResult LossDResult DrawLResult LossLResult LossWResult Win
-12Santa Clara
+13Santa Clara
 14
 4
 3
@@ -128,16 +138,6 @@ DResult DrawLResult LossDResult DrawLResult LossLResult LossWResult Win
 -4
 15
 WResult WinLResult LossLResult LossDResult DrawWResult WinLResult Loss
-13Estoril
-14
-3
-5
-6
-22
-25
--3
-14
-DResult DrawWResult WinWResult WinLResult LossDResult DrawLResult Loss
 14Estrela
 14
 3
