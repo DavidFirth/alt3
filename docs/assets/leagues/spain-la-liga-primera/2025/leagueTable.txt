@@ -19,15 +19,15 @@ Form, Last 6 games, Oldest first
 43
 WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
 2Real Madrid
-17
-12
+18
+13
 3
 2
-34
+36
 16
-18
-39
-DResult DrawDResult DrawDResult DrawWResult WinLResult LossWResult Win
+20
+42
+DResult DrawDResult DrawWResult WinLResult LossWResult WinWResult Win
 3Villarreal
 15
 11
@@ -68,7 +68,17 @@ LResult LossLResult LossWResult WinWResult WinWResult WinWResult Win
 6
 25
 WResult WinDResult DrawDResult DrawWResult WinLResult LossDResult Draw
-7Athletic Club
+7Celta Vigo
+17
+5
+8
+4
+20
+19
+1
+23
+LResult LossWResult WinLResult LossWResult WinWResult WinDResult Draw
+8Athletic Club
 17
 7
 2
@@ -78,26 +88,16 @@ WResult WinDResult DrawDResult DrawWResult WinLResult LossDResult Draw
 -7
 23
 WResult WinLResult LossWResult WinLResult LossWResult WinLResult Loss
-8Celta Vigo
-16
-5
-7
-4
-20
-19
-1
-22
-WResult WinLResult LossWResult WinLResult LossWResult WinWResult Win
 9Sevilla
-16
+17
 6
 2
-8
+9
 24
-24
-0
+26
+-2
 20
-LResult LossWResult WinLResult LossLResult LossDResult DrawWResult Win
+WResult WinLResult LossLResult LossDResult DrawWResult WinLResult Loss
 10Getafe
 16
 6
@@ -118,16 +118,16 @@ WResult WinLResult LossLResult LossWResult WinLResult LossLResult Loss
 -1
 19
 LResult LossDResult DrawDResult DrawLResult LossWResult WinLResult Loss
-12Alavés
-16
+12Osasuna
+17
 5
 3
-8
-14
+9
 17
+20
 -3
 18
-WResult WinLResult LossLResult LossLResult LossWResult WinLResult Loss
+LResult LossLResult LossDResult DrawWResult WinLResult LossWResult Win
 13Rayo Vallecano
 16
 4
@@ -148,17 +148,27 @@ LResult LossDResult DrawDResult DrawDResult DrawLResult LossDResult Draw
 -5
 18
 WResult WinLResult LossDResult DrawDResult DrawWResult WinDResult Draw
-15Real Sociedad
-16
-4
-4
-8
+15Alavés
+17
+5
+3
+9
+14
 20
-24
+-6
+18
+LResult LossLResult LossLResult LossWResult WinLResult LossLResult Loss
+16Real Sociedad
+17
+4
+5
+8
+21
+25
 -4
-16
-WResult WinDResult DrawWResult WinLResult LossLResult LossLResult Loss
-16Valencia
+17
+DResult DrawWResult WinLResult LossLResult LossLResult LossDResult Draw
+17Valencia
 17
 3
 7
@@ -168,16 +178,6 @@ WResult WinDResult DrawWResult WinLResult LossLResult LossLResult Loss
 -10
 16
 DResult DrawWResult WinDResult DrawDResult DrawLResult LossDResult Draw
-17Osasuna
-16
-4
-3
-9
-14
-20
--6
-15
-DResult DrawLResult LossLResult LossDResult DrawWResult WinLResult Loss
 18Girona
 16
 3
@@ -189,21 +189,21 @@ DResult DrawLResult LossLResult LossDResult DrawWResult WinLResult Loss
 15
 LResult LossWResult WinDResult DrawDResult DrawLResult LossWResult Win
 19Real Oviedo
-16
+17
 2
-4
+5
 10
 7
 26
 -19
-10
-DResult DrawLResult LossDResult DrawLResult LossDResult DrawLResult Loss
+11
+LResult LossDResult DrawLResult LossDResult DrawLResult LossDResult Draw
 20Levante
-15
-2
-3
-10
 16
-28
+2
+4
+10
+17
+29
 -12
-9
+10
