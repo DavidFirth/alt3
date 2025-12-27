@@ -9,46 +9,56 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1Arsenal
-17
-12
+18
+13
 3
 2
-31
-10
-21
-39
-WResult WinDResult DrawWResult WinLResult LossWResult WinWResult Win
+33
+11
+22
+42
+DResult DrawWResult WinLResult LossWResult WinWResult WinWResult Win
 2Manchester City
-17
-12
+18
+13
 1
 4
-41
-16
-25
-37
-LResult LossWResult WinWResult WinWResult WinWResult WinWResult Win
-3Aston Villa
+43
 17
-11
-3
-3
-27
-18
-9
-36
+26
+40
 WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
-4Chelsea
-17
+3Aston Villa
+18
+12
+3
+3
+29
+19
+10
+39
+WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
+4Liverpool
+18
+10
+2
+6
+30
+26
+4
+32
+WResult WinDResult DrawDResult DrawWResult WinWResult WinWResult Win
+5Chelsea
+18
 8
 5
-4
+5
+30
+19
+11
 29
-17
-12
-29
-WResult WinDResult DrawLResult LossDResult DrawWResult WinDResult Draw
-5Manchester United
+DResult DrawLResult LossDResult DrawWResult WinDResult DrawLResult Loss
+6Manchester United
 18
 8
 5
@@ -58,16 +68,6 @@ WResult WinDResult DrawLResult LossDResult DrawWResult WinDResult Draw
 4
 29
 WResult WinDResult DrawWResult WinDResult DrawLResult LossWResult Win
-6Liverpool
-17
-9
-2
-6
-28
-25
-3
-29
-LResult LossWResult WinDResult DrawDResult DrawWResult WinWResult Win
 7Sunderland
 17
 7
@@ -78,7 +78,17 @@ LResult LossWResult WinDResult DrawDResult DrawWResult WinWResult Win
 2
 27
 LResult LossWResult WinDResult DrawLResult LossWResult WinDResult Draw
-8Crystal Palace
+8Brentford
+18
+8
+2
+8
+28
+26
+2
+26
+WResult WinLResult LossLResult LossDResult DrawWResult WinWResult Win
+9Crystal Palace
 17
 7
 5
@@ -88,27 +98,37 @@ LResult LossWResult WinDResult DrawLResult LossWResult WinDResult Draw
 2
 26
 WResult WinLResult LossWResult WinWResult WinLResult LossLResult Loss
-9Brighton &amp; Hove Albion
-17
-6
-6
-5
-25
-23
+10Fulham
+18
+8
 2
-24
-WResult WinWResult WinLResult LossDResult DrawLResult LossDResult Draw
-10Everton
-17
+8
+25
+26
+-1
+26
+WResult WinLResult LossLResult LossWResult WinWResult WinWResult Win
+11Everton
+18
 7
-3
+4
 7
 18
 20
 -2
+25
+LResult LossWResult WinWResult WinLResult LossLResult LossDResult Draw
+12Brighton &amp; Hove Albion
+18
+6
+6
+6
+26
+25
+1
 24
-WResult WinLResult LossWResult WinWResult WinLResult LossLResult Loss
-11Newcastle United
+WResult WinLResult LossDResult DrawLResult LossDResult DrawLResult Loss
+13Newcastle United
 18
 6
 5
@@ -118,26 +138,6 @@ WResult WinLResult LossWResult WinWResult WinLResult LossLResult Loss
 0
 23
 WResult WinDResult DrawWResult WinLResult LossDResult DrawLResult Loss
-12Brentford
-17
-7
-2
-8
-24
-25
--1
-23
-LResult LossWResult WinLResult LossLResult LossDResult DrawWResult Win
-13Fulham
-17
-7
-2
-8
-24
-26
--2
-23
-WResult WinWResult WinLResult LossLResult LossWResult WinWResult Win
 14Tottenham Hotspur
 17
 6
@@ -149,15 +149,15 @@ WResult WinWResult WinLResult LossLResult LossWResult WinWResult Win
 22
 LResult LossLResult LossDResult DrawWResult WinLResult LossLResult Loss
 15AFC Bournemouth
-17
+18
 5
 7
-5
-26
-29
--3
+6
+27
+33
+-6
 22
-DResult DrawLResult LossLResult LossDResult DrawDResult DrawDResult Draw
+LResult LossLResult LossDResult DrawDResult DrawDResult DrawLResult Loss
 16Leeds United
 17
 5
@@ -169,41 +169,41 @@ DResult DrawLResult LossLResult LossDResult DrawDResult DrawDResult Draw
 19
 LResult LossLResult LossWResult WinDResult DrawDResult DrawWResult Win
 17Nottingham Forest
-17
+18
 5
 3
-9
-17
-26
--9
+10
 18
-WResult WinLResult LossWResult WinLResult LossWResult WinLResult Loss
+28
+-10
+18
+LResult LossWResult WinLResult LossWResult WinLResult LossLResult Loss
 18West Ham United
-17
+18
 3
 4
-10
+11
 19
-35
--16
+36
+-17
 13
-DResult DrawLResult LossDResult DrawDResult DrawLResult LossLResult Loss
+LResult LossDResult DrawDResult DrawLResult LossLResult LossLResult Loss
 19Burnley
-17
+18
 3
-2
+3
 12
 19
 34
 -15
-11
-LResult LossLResult LossLResult LossLResult LossLResult LossDResult Draw
+12
+LResult LossLResult LossLResult LossLResult LossDResult DrawDResult Draw
 20Wolverhampton Wanderers
-17
+18
 0
 2
-15
-9
-37
--28
+16
+10
+39
+-29
 2
