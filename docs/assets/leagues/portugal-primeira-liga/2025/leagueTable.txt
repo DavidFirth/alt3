@@ -19,15 +19,15 @@ Form, Last 6 games, Oldest first
 46
 WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
 2Sporting CP
-16
+17
 13
-2
+3
 1
-46
-8
+47
+9
 38
-41
-WResult WinWResult WinDResult DrawWResult WinWResult WinWResult Win
+42
+WResult WinDResult DrawWResult WinWResult WinWResult WinDResult Draw
 3Benfica
 16
 10
@@ -39,15 +39,15 @@ WResult WinWResult WinDResult DrawWResult WinWResult WinWResult Win
 36
 DResult DrawWResult WinDResult DrawWResult WinWResult WinDResult Draw
 4Gil Vicente
-16
+17
 7
-6
+7
 3
-21
-11
+22
+12
 10
-27
-DResult DrawLResult LossDResult DrawDResult DrawDResult DrawDResult Draw
+28
+LResult LossDResult DrawDResult DrawDResult DrawDResult DrawDResult Draw
 5Sporting Braga
 16
 7
@@ -58,7 +58,17 @@ DResult DrawLResult LossDResult DrawDResult DrawDResult DrawDResult Draw
 13
 26
 WResult WinWResult WinWResult WinWResult WinLResult LossDResult Draw
-6Famalicão
+6Vitória Guimarães
+17
+7
+4
+6
+18
+22
+-4
+25
+WResult WinDResult DrawWResult WinLResult LossDResult DrawWResult Win
+7Famalicão
 16
 6
 5
@@ -68,16 +78,6 @@ WResult WinWResult WinWResult WinWResult WinLResult LossDResult Draw
 7
 23
 LResult LossDResult DrawLResult LossWResult WinLResult LossLResult Loss
-7Vitória Guimarães
-16
-6
-4
-6
-16
-21
--5
-22
-WResult WinWResult WinDResult DrawWResult WinLResult LossDResult Draw
 8Moreirense
 15
 6
@@ -128,17 +128,7 @@ DResult DrawDResult DrawWResult WinLResult LossDResult DrawLResult Loss
 -11
 17
 DResult DrawWResult WinWResult WinLResult LossLResult LossLResult Loss
-13Nacional
-15
-4
-4
-7
-17
-21
--4
-16
-LResult LossDResult DrawLResult LossLResult LossWResult WinDResult Draw
-14Santa Clara
+13Santa Clara
 15
 4
 4
@@ -148,6 +138,16 @@ LResult LossDResult DrawLResult LossLResult LossWResult WinDResult Draw
 -4
 16
 LResult LossLResult LossDResult DrawWResult WinLResult LossDResult Draw
+14Nacional
+16
+4
+4
+8
+18
+23
+-5
+16
+DResult DrawLResult LossLResult LossWResult WinDResult DrawLResult Loss
 15Casa Pia
 16
 3
