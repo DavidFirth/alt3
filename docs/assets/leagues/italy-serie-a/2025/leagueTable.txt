@@ -38,36 +38,36 @@ WResult WinLResult LossWResult WinWResult WinWResult WinWResult Win
 11
 34
 LResult LossWResult WinWResult WinWResult WinLResult LossWResult Win
-4Roma
-17
+4Juventus
+18
+9
+6
+3
+24
+16
+8
+33
+WResult WinLResult LossWResult WinWResult WinWResult WinDResult Draw
+5Roma
+18
 11
 0
-6
+7
 20
-11
-9
+12
+8
 33
-WResult WinLResult LossLResult LossWResult WinLResult LossWResult Win
-5Juventus
+LResult LossLResult LossWResult WinLResult LossWResult WinLResult Loss
+6Como
 17
-9
-5
+8
+6
 3
 23
-15
-8
-32
-DResult DrawWResult WinLResult LossWResult WinWResult WinWResult Win
-6Como
-16
-7
-6
-3
-22
 12
-10
-27
-DResult DrawWResult WinWResult WinLResult LossLResult LossWResult Win
+11
+30
+WResult WinWResult WinLResult LossLResult LossWResult WinWResult Win
 7Bologna
 16
 7
@@ -78,7 +78,17 @@ DResult DrawWResult WinWResult WinLResult LossLResult LossWResult Win
 10
 26
 WResult WinWResult WinLResult LossDResult DrawLResult LossDResult Draw
-8Lazio
+8Atalanta
+18
+6
+7
+5
+21
+19
+2
+25
+WResult WinLResult LossWResult WinWResult WinLResult LossWResult Win
+9Lazio
 17
 6
 6
@@ -88,36 +98,26 @@ WResult WinWResult WinLResult LossDResult DrawLResult LossDResult Draw
 6
 24
 WResult WinLResult LossDResult DrawWResult WinDResult DrawDResult Draw
-9Sassuolo
-17
-6
-4
-7
-22
-21
-1
-22
-DResult DrawLResult LossWResult WinDResult DrawLResult LossDResult Draw
-10Atalanta
-17
-5
-7
-5
-20
-19
-1
-22
-LResult LossWResult WinLResult LossWResult WinWResult WinLResult Loss
-11Udinese
-17
-6
-4
-7
+10Sassuolo
 18
-28
--10
+6
+5
+7
+23
 22
-LResult LossWResult WinLResult LossWResult WinLResult LossDResult Draw
+1
+23
+LResult LossWResult WinDResult DrawLResult LossDResult DrawDResult Draw
+11Udinese
+18
+6
+4
+8
+18
+29
+-11
+22
+WResult WinLResult LossWResult WinLResult LossDResult DrawLResult Loss
 12Cremonese
 17
 5
@@ -138,7 +138,17 @@ LResult LossWResult WinWResult WinLResult LossDResult DrawLResult Loss
 -11
 20
 LResult LossLResult LossLResult LossWResult WinWResult WinLResult Loss
-14Cagliari
+14Parma
+17
+4
+6
+7
+12
+19
+-7
+18
+WResult WinLResult LossWResult WinLResult LossWResult WinDResult Draw
+15Cagliari
 18
 4
 6
@@ -148,36 +158,26 @@ LResult LossLResult LossLResult LossWResult WinWResult WinLResult Loss
 -6
 18
 LResult LossWResult WinLResult LossDResult DrawWResult WinLResult Loss
-15Parma
-16
-4
-5
-7
-11
-18
--7
-17
-DResult DrawWResult WinLResult LossWResult WinLResult LossWResult Win
 16Lecce
-16
-4
-4
-8
-11
-22
--11
-16
-DResult DrawLResult LossWResult WinLResult LossWResult WinLResult Loss
-17Genoa
 17
-3
+4
 5
-9
+8
+12
+23
+-11
 17
-27
+LResult LossWResult WinLResult LossWResult WinLResult LossDResult Draw
+17Genoa
+18
+3
+6
+9
+18
+28
 -10
-14
-DResult DrawWResult WinWResult WinLResult LossLResult LossLResult Loss
+15
+WResult WinWResult WinLResult LossLResult LossLResult LossDResult Draw
 18Hellas Verona
 16
 2
@@ -189,15 +189,15 @@ DResult DrawWResult WinWResult WinLResult LossLResult LossLResult Loss
 12
 DResult DrawLResult LossLResult LossWResult WinWResult WinLResult Loss
 19Pisa
-17
+18
 1
+9
 8
-8
-12
-24
+13
+25
 -12
-11
-DResult DrawLResult LossLResult LossLResult LossDResult DrawLResult Loss
+12
+LResult LossLResult LossLResult LossDResult DrawLResult LossDResult Draw
 20Fiorentina
 17
 1
