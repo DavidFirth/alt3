@@ -28,7 +28,17 @@ WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
 15
 39
 WResult WinWResult WinDResult DrawWResult WinWResult WinDResult Draw
-3Napoli
+3Roma
+20
+13
+0
+7
+24
+12
+12
+39
+WResult WinLResult LossWResult WinLResult LossWResult WinWResult Win
+4Napoli
 18
 12
 2
@@ -38,7 +48,7 @@ WResult WinWResult WinDResult DrawWResult WinWResult WinDResult Draw
 13
 38
 WResult WinWResult WinLResult LossWResult WinWResult WinDResult Draw
-4Juventus
+5Juventus
 19
 10
 6
@@ -48,47 +58,47 @@ WResult WinWResult WinLResult LossWResult WinWResult WinDResult Draw
 11
 36
 LResult LossWResult WinWResult WinWResult WinDResult DrawWResult Win
-5Roma
-19
-12
-0
-7
-22
-12
-10
-36
-LResult LossWResult WinLResult LossWResult WinLResult LossWResult Win
 6Como
-18
+19
 9
-6
+7
 3
-26
-12
+27
+13
 14
-33
-WResult WinLResult LossLResult LossWResult WinWResult WinWResult Win
+34
+LResult LossLResult LossWResult WinWResult WinWResult WinDResult Draw
 7Atalanta
-19
-7
-7
-5
-23
-19
-4
-28
-LResult LossWResult WinWResult WinLResult LossWResult WinWResult Win
-8Bologna
-18
+20
+8
 7
 5
-6
 25
 19
 6
+31
+WResult WinWResult WinLResult LossWResult WinWResult WinWResult Win
+8Bologna
+19
+7
+6
+6
 26
-LResult LossDResult DrawLResult LossDResult DrawLResult LossLResult Loss
-9Lazio
+20
+6
+27
+DResult DrawLResult LossDResult DrawLResult LossLResult LossDResult Draw
+9Udinese
+20
+7
+5
+8
+22
+32
+-10
+26
+WResult WinLResult LossDResult DrawLResult LossWResult WinDResult Draw
+10Lazio
 19
 6
 7
@@ -98,36 +108,26 @@ LResult LossDResult DrawLResult LossDResult DrawLResult LossLResult Loss
 4
 25
 DResult DrawWResult WinDResult DrawDResult DrawLResult LossDResult Draw
-10Udinese
-19
-7
-4
-8
-20
-30
--10
-25
-LResult LossWResult WinLResult LossDResult DrawLResult LossWResult Win
 11Sassuolo
-19
+20
 6
 5
-8
+9
 23
-25
--2
+27
+-4
 23
-WResult WinDResult DrawLResult LossDResult DrawDResult DrawLResult Loss
+DResult DrawLResult LossDResult DrawDResult DrawLResult LossLResult Loss
 12Torino
-19
+20
 6
 5
-8
+9
 21
-30
--9
+32
+-11
 23
-LResult LossWResult WinWResult WinLResult LossWResult WinLResult Loss
+WResult WinWResult WinLResult LossWResult WinLResult LossLResult Loss
 13Cremonese
 19
 5
@@ -199,11 +199,11 @@ LResult LossWResult WinWResult WinLResult LossLResult LossDResult Draw
 13
 LResult LossLResult LossWResult WinLResult LossWResult WinDResult Draw
 20Pisa
-19
+20
 1
+10
 9
-9
-13
-28
+15
+30
 -15
-12
+13
