@@ -19,15 +19,15 @@ Form, Last 6 games, Oldest first
 46
 WResult WinWResult WinWResult WinWResult WinDResult DrawWResult Win
 2AC Milan
-19
-11
+20
+12
 7
 1
-30
-15
-15
-40
-WResult WinDResult DrawWResult WinWResult WinDResult DrawDResult Draw
+33
+16
+17
+43
+DResult DrawWResult WinWResult WinDResult DrawDResult DrawWResult Win
 3Napoli
 20
 12
@@ -59,15 +59,15 @@ WResult WinWResult WinWResult WinDResult DrawWResult WinWResult Win
 39
 WResult WinLResult LossWResult WinLResult LossWResult WinWResult Win
 6Como
-19
+20
 9
 7
-3
-27
-13
-14
+4
+28
+16
+12
 34
-LResult LossLResult LossWResult WinWResult WinWResult WinDResult Draw
+LResult LossWResult WinWResult WinWResult WinDResult DrawLResult Loss
 7Atalanta
 20
 8
@@ -78,7 +78,17 @@ LResult LossLResult LossWResult WinWResult WinWResult WinDResult Draw
 6
 31
 WResult WinWResult WinLResult LossWResult WinWResult WinWResult Win
-8Lazio
+8Bologna
+20
+8
+6
+6
+29
+22
+7
+30
+LResult LossDResult DrawLResult LossLResult LossDResult DrawWResult Win
+9Lazio
 20
 7
 7
@@ -88,16 +98,6 @@ WResult WinWResult WinLResult LossWResult WinWResult WinWResult Win
 5
 28
 WResult WinDResult DrawDResult DrawLResult LossDResult DrawWResult Win
-9Bologna
-19
-7
-6
-6
-26
-20
-6
-27
-DResult DrawLResult LossDResult DrawLResult LossLResult LossDResult Draw
 10Udinese
 20
 7
@@ -188,17 +188,7 @@ WResult WinLResult LossDResult DrawLResult LossLResult LossLResult Loss
 -10
 14
 LResult LossWResult WinLResult LossWResult WinDResult DrawDResult Draw
-19Hellas Verona
-19
-2
-7
-10
-15
-31
--16
-13
-WResult WinWResult WinLResult LossLResult LossDResult DrawLResult Loss
-20Pisa
+19Pisa
 20
 1
 10
@@ -206,4 +196,14 @@ WResult WinWResult WinLResult LossLResult LossDResult DrawLResult Loss
 15
 30
 -15
+13
+LResult LossDResult DrawLResult LossDResult DrawLResult LossDResult Draw
+20Hellas Verona
+20
+2
+7
+11
+17
+34
+-17
 13
