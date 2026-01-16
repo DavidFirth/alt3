@@ -69,15 +69,15 @@ DResult DrawWResult WinLResult LossWResult WinDResult DrawWResult Win
 29
 WResult WinLResult LossLResult LossWResult WinWResult WinLResult Loss
 7Eintracht Frankfurt
-17
+18
 7
+6
 5
-5
-35
-36
+38
+39
 -1
-26
-DResult DrawLResult LossWResult WinDResult DrawDResult DrawLResult Loss
+27
+LResult LossWResult WinDResult DrawDResult DrawLResult LossDResult Draw
 8Freiburg
 17
 6
@@ -118,7 +118,17 @@ DResult DrawWResult WinLResult LossLResult LossWResult WinLResult Loss
 -11
 18
 DResult DrawWResult WinWResult WinLResult LossLResult LossWResult Win
-12Köln
+12Werder Bremen
+17
+4
+6
+7
+21
+34
+-13
+18
+DResult DrawLResult LossLResult LossDResult DrawLResult LossDResult Draw
+13Köln
 17
 4
 5
@@ -128,16 +138,6 @@ DResult DrawWResult WinWResult WinLResult LossLResult LossWResult Win
 -4
 17
 DResult DrawDResult DrawLResult LossLResult LossDResult DrawLResult Loss
-13Werder Bremen
-16
-4
-5
-7
-18
-31
--13
-17
-LResult LossDResult DrawLResult LossLResult LossDResult DrawLResult Loss
 14Hamburger SV
 16
 4
