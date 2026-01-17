@@ -29,25 +29,25 @@ WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
 45
 DResult DrawWResult WinWResult WinWResult WinDResult DrawWResult Win
 3Benfica
-17
-11
+18
+12
 6
 0
-36
+38
 11
-25
-39
-WResult WinDResult DrawWResult WinWResult WinDResult DrawWResult Win
+27
+42
+DResult DrawWResult WinWResult WinDResult DrawWResult WinWResult Win
 4Gil Vicente
-17
-7
+18
+8
 7
 3
-22
-12
-10
-28
-LResult LossDResult DrawDResult DrawDResult DrawDResult DrawDResult Draw
+24
+13
+11
+31
+DResult DrawDResult DrawDResult DrawDResult DrawDResult DrawWResult Win
 5Sporting Braga
 17
 7
@@ -59,15 +59,15 @@ LResult LossDResult DrawDResult DrawDResult DrawDResult DrawDResult Draw
 27
 WResult WinWResult WinWResult WinLResult LossDResult DrawDResult Draw
 6Moreirense
-17
+18
 8
 3
-6
-24
-24
-0
+7
+25
+26
+-1
 27
-DResult DrawDResult DrawLResult LossDResult DrawWResult WinWResult Win
+DResult DrawLResult LossDResult DrawWResult WinWResult WinLResult Loss
 7Vitória Guimarães
 17
 7
@@ -78,7 +78,17 @@ DResult DrawDResult DrawLResult LossDResult DrawWResult WinWResult Win
 -4
 25
 WResult WinDResult DrawWResult WinLResult LossDResult DrawWResult Win
-8Famalicão
+8Alverca
+18
+7
+2
+9
+19
+28
+-9
+23
+WResult WinLResult LossLResult LossLResult LossWResult WinWResult Win
+9Famalicão
 17
 6
 5
@@ -88,7 +98,7 @@ WResult WinDResult DrawWResult WinLResult LossDResult DrawWResult Win
 6
 23
 DResult DrawLResult LossWResult WinLResult LossLResult LossLResult Loss
-9Estoril
+10Estoril
 17
 5
 5
@@ -98,26 +108,16 @@ DResult DrawLResult LossWResult WinLResult LossLResult LossLResult Loss
 -1
 20
 LResult LossDResult DrawLResult LossWResult WinWResult WinLResult Loss
-10Rio Ave
-17
+11Rio Ave
+18
 4
 8
-5
-22
-29
--7
-20
-DResult DrawWResult WinLResult LossDResult DrawLResult LossWResult Win
-11Alverca
-17
 6
-2
-9
-17
-27
--10
+22
+31
+-9
 20
-WResult WinWResult WinLResult LossLResult LossLResult LossWResult Win
+WResult WinLResult LossDResult DrawLResult LossWResult WinLResult Loss
 12Estrela
 17
 4
@@ -128,16 +128,16 @@ WResult WinWResult WinLResult LossLResult LossLResult LossWResult Win
 -4
 19
 LResult LossWResult WinLResult LossDResult DrawWResult WinDResult Draw
-13Nacional
-17
+13Arouca
+18
 4
 5
-8
-21
-26
--5
+9
+19
+42
+-23
 17
-LResult LossLResult LossWResult WinDResult DrawLResult LossDResult Draw
+LResult LossWResult WinDResult DrawDResult DrawLResult LossWResult Win
 14Santa Clara
 17
 4
@@ -148,7 +148,17 @@ LResult LossLResult LossWResult WinDResult DrawLResult LossDResult Draw
 -5
 17
 DResult DrawWResult WinLResult LossDResult DrawLResult LossDResult Draw
-15Casa Pia
+15Nacional
+18
+4
+5
+9
+22
+28
+-6
+17
+LResult LossWResult WinDResult DrawLResult LossDResult DrawLResult Loss
+16Casa Pia
 18
 3
 5
@@ -158,16 +168,6 @@ DResult DrawWResult WinLResult LossDResult DrawLResult LossDResult Draw
 -18
 14
 LResult LossDResult DrawWResult WinDResult DrawLResult LossLResult Loss
-16Arouca
-17
-3
-5
-9
-18
-42
--24
-14
-LResult LossLResult LossWResult WinDResult DrawDResult DrawLResult Loss
 17Tondela
 17
 3
@@ -179,11 +179,11 @@ LResult LossLResult LossWResult WinDResult DrawDResult DrawLResult Loss
 12
 WResult WinLResult LossLResult LossLResult LossWResult WinLResult Loss
 18AVS
-17
+18
 0
 4
-13
+14
 11
-43
--32
+44
+-33
 4
