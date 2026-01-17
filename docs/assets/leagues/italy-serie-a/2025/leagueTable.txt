@@ -9,15 +9,15 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1Inter Milan
-20
-15
+21
+16
 1
 4
-43
+44
 17
-26
-46
-WResult WinWResult WinWResult WinWResult WinDResult DrawWResult Win
+27
+49
+WResult WinWResult WinWResult WinDResult DrawWResult WinWResult Win
 2AC Milan
 20
 12
@@ -29,26 +29,16 @@ WResult WinWResult WinWResult WinWResult WinDResult DrawWResult Win
 43
 DResult DrawWResult WinWResult WinDResult DrawDResult DrawWResult Win
 3Napoli
-20
-12
-4
-4
-30
-17
+21
 13
-40
-LResult LossWResult WinWResult WinDResult DrawDResult DrawDResult Draw
-4Juventus
-20
-11
-6
-3
-32
-16
-16
-39
-WResult WinWResult WinWResult WinDResult DrawWResult WinWResult Win
-5Roma
+4
+4
+31
+17
+14
+43
+WResult WinWResult WinDResult DrawDResult DrawDResult DrawWResult Win
+4Roma
 20
 13
 0
@@ -58,6 +48,16 @@ WResult WinWResult WinWResult WinDResult DrawWResult WinWResult Win
 12
 39
 WResult WinLResult LossWResult WinLResult LossWResult WinWResult Win
+5Juventus
+21
+11
+6
+4
+32
+17
+15
+39
+WResult WinWResult WinDResult DrawWResult WinWResult WinLResult Loss
 6Como
 20
 9
@@ -99,26 +99,16 @@ LResult LossDResult DrawLResult LossLResult LossDResult DrawWResult Win
 28
 WResult WinDResult DrawDResult DrawLResult LossDResult DrawWResult Win
 10Udinese
-20
+21
 7
 5
-8
-22
-32
--10
-26
-WResult WinLResult LossDResult DrawLResult LossWResult WinDResult Draw
-11Sassuolo
-20
-6
-5
 9
-23
-27
--4
-23
-DResult DrawLResult LossDResult DrawDResult DrawLResult LossLResult Loss
-12Torino
+22
+33
+-11
+26
+LResult LossDResult DrawLResult LossWResult WinDResult DrawLResult Loss
+11Torino
 20
 6
 5
@@ -128,6 +118,16 @@ DResult DrawLResult LossDResult DrawDResult DrawLResult LossLResult Loss
 -11
 23
 WResult WinWResult WinLResult LossWResult WinLResult LossLResult Loss
+12Sassuolo
+21
+6
+5
+10
+23
+28
+-5
+23
+LResult LossDResult DrawDResult DrawLResult LossLResult LossLResult Loss
 13Cremonese
 20
 5
@@ -148,7 +148,17 @@ LResult LossDResult DrawLResult LossLResult LossDResult DrawLResult Loss
 -8
 22
 LResult LossWResult WinDResult DrawLResult LossWResult WinDResult Draw
-15Genoa
+15Cagliari
+21
+5
+7
+9
+22
+30
+-8
+22
+DResult DrawWResult WinLResult LossDResult DrawLResult LossWResult Win
+16Genoa
 20
 4
 7
@@ -158,16 +168,6 @@ LResult LossWResult WinDResult DrawLResult LossWResult WinDResult Draw
 -7
 19
 LResult LossLResult LossLResult LossDResult DrawDResult DrawWResult Win
-16Cagliari
-20
-4
-7
-9
-21
-30
--9
-19
-LResult LossDResult DrawWResult WinLResult LossDResult DrawLResult Loss
 17Lecce
 20
 4
