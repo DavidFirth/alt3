@@ -19,15 +19,15 @@ Form, Last 6 games, Oldest first
 52
 WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
 2Feyenoord
-18
+19
 11
 3
-4
-44
-23
-21
+5
+47
+27
+20
 36
-LResult LossWResult WinWResult WinLResult LossDResult DrawDResult Draw
+WResult WinWResult WinLResult LossDResult DrawDResult DrawLResult Loss
 3Ajax
 19
 9
@@ -49,16 +49,36 @@ WResult WinWResult WinWResult WinDResult DrawWResult WinDResult Draw
 32
 WResult WinWResult WinWResult WinDResult DrawDResult DrawWResult Win
 5Groningen
-18
-8
+19
+9
 4
 6
-25
+27
 22
-3
-28
-DResult DrawLResult LossWResult WinWResult WinDResult DrawDResult Draw
-6AZ
+5
+31
+LResult LossWResult WinWResult WinDResult DrawDResult DrawWResult Win
+6Twente
+19
+7
+8
+4
+29
+22
+7
+29
+WResult WinDResult DrawWResult WinDResult DrawDResult DrawWResult Win
+7Sparta Rotterdam
+19
+9
+2
+8
+24
+34
+-10
+29
+LResult LossWResult WinLResult LossWResult WinWResult WinWResult Win
+8AZ
 18
 8
 4
@@ -68,46 +88,26 @@ DResult DrawLResult LossWResult WinWResult WinDResult DrawDResult Draw
 2
 28
 LResult LossLResult LossDResult DrawLResult LossWResult WinLResult Loss
-7Twente
-18
-6
-8
-4
-27
-22
-5
-26
-DResult DrawWResult WinDResult DrawWResult WinDResult DrawDResult Draw
-8Sparta Rotterdam
-18
-8
-2
-8
-20
-31
--11
-26
-DResult DrawLResult LossWResult WinLResult LossWResult WinWResult Win
 9Heerenveen
+19
+6
+6
+7
+31
+30
+1
+24
+LResult LossLResult LossWResult WinWResult WinDResult DrawLResult Loss
+10Utrecht
 18
 6
-6
-6
-31
-28
-3
-24
-WResult WinLResult LossLResult LossWResult WinWResult WinDResult Draw
-10Utrecht
-17
-6
 5
-6
-28
+7
+29
+25
+4
 23
-5
-23
-WResult WinDResult DrawDResult DrawDResult DrawDResult DrawLResult Loss
+DResult DrawDResult DrawDResult DrawDResult DrawLResult LossLResult Loss
 11PEC Zwolle
 19
 6
@@ -148,7 +148,17 @@ DResult DrawDResult DrawLResult LossDResult DrawDResult DrawDResult Draw
 -15
 20
 WResult WinWResult WinLResult LossWResult WinLResult LossDResult Draw
-15Telstar
+15Volendam
+19
+4
+5
+10
+21
+33
+-12
+17
+LResult LossLResult LossLResult LossLResult LossLResult LossWResult Win
+16Telstar
 19
 3
 7
@@ -158,27 +168,7 @@ WResult WinWResult WinLResult LossWResult WinLResult LossDResult Draw
 -8
 16
 LResult LossDResult DrawDResult DrawWResult WinLResult LossDResult Draw
-16Volendam
-18
-3
-5
-10
-19
-32
--13
-14
-DResult DrawLResult LossLResult LossLResult LossLResult LossLResult Loss
-17Heracles
-18
-4
-2
-12
-26
-46
--20
-14
-WResult WinDResult DrawDResult DrawLResult LossLResult LossLResult Loss
-18NAC Breda
+17NAC Breda
 19
 3
 5
@@ -186,4 +176,14 @@ WResult WinDResult DrawDResult DrawLResult LossLResult LossLResult Loss
 19
 30
 -11
+14
+LResult LossLResult LossDResult DrawLResult LossDResult DrawLResult Loss
+18Heracles
+19
+4
+2
+13
+26
+48
+-22
 14
