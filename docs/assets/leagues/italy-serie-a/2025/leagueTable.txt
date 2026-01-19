@@ -59,15 +59,15 @@ LResult LossWResult WinLResult LossWResult WinWResult WinWResult Win
 39
 WResult WinWResult WinDResult DrawWResult WinWResult WinLResult Loss
 6Como
-20
-9
+21
+10
 7
 4
-28
+31
 16
-12
-34
-LResult LossWResult WinWResult WinWResult WinDResult DrawLResult Loss
+15
+37
+WResult WinWResult WinWResult WinDResult DrawLResult LossWResult Win
 7Atalanta
 21
 8
@@ -89,15 +89,15 @@ WResult WinLResult LossWResult WinWResult WinWResult WinDResult Draw
 30
 DResult DrawLResult LossLResult LossDResult DrawWResult WinLResult Loss
 9Lazio
-20
-7
-7
-6
 21
-16
-5
+7
+7
+7
+21
+19
+2
 28
-WResult WinDResult DrawDResult DrawLResult LossDResult DrawWResult Win
+DResult DrawDResult DrawLResult LossDResult DrawWResult WinLResult Loss
 10Udinese
 21
 7
@@ -118,7 +118,17 @@ LResult LossDResult DrawLResult LossWResult WinDResult DrawLResult Loss
 -5
 23
 LResult LossDResult DrawDResult DrawLResult LossLResult LossLResult Loss
-12Parma
+12Cremonese
+21
+5
+8
+8
+20
+28
+-8
+23
+DResult DrawLResult LossLResult LossDResult DrawLResult LossDResult Draw
+13Parma
 21
 5
 8
@@ -128,7 +138,7 @@ LResult LossDResult DrawDResult DrawLResult LossLResult LossLResult Loss
 -8
 23
 WResult WinDResult DrawLResult LossWResult WinDResult DrawDResult Draw
-13Torino
+14Torino
 21
 6
 5
@@ -138,16 +148,6 @@ WResult WinDResult DrawLResult LossWResult WinDResult DrawDResult Draw
 -13
 23
 WResult WinLResult LossWResult WinLResult LossLResult LossLResult Loss
-14Cremonese
-20
-5
-7
-8
-20
-28
--8
-22
-LResult LossDResult DrawLResult LossLResult LossDResult DrawLResult Loss
 15Cagliari
 21
 5
@@ -199,11 +199,11 @@ LResult LossDResult DrawLResult LossLResult LossLResult LossLResult Loss
 14
 DResult DrawLResult LossDResult DrawLResult LossDResult DrawDResult Draw
 20Hellas Verona
-20
+21
 2
-7
+8
 11
 17
 34
 -17
-13
+14
