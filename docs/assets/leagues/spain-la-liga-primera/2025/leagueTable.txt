@@ -8,7 +8,17 @@ Goals Against
 Goal Difference
 Points
 Form, Last 6 games, Oldest first
-1Barcelona
+1Real Madrid
+21
+16
+3
+2
+45
+17
+28
+51
+LResult LossWResult WinWResult WinWResult WinWResult WinWResult Win
+2Barcelona
 20
 16
 1
@@ -18,27 +28,7 @@ Form, Last 6 games, Oldest first
 32
 49
 WResult WinWResult WinWResult WinWResult WinWResult WinLResult Loss
-2Real Madrid
-20
-15
-3
-2
-43
-17
-26
-48
-WResult WinLResult LossWResult WinWResult WinWResult WinWResult Win
-3Villarreal
-19
-13
-2
-4
-37
-19
-18
-41
-WResult WinWResult WinLResult LossWResult WinWResult WinLResult Loss
-4Atletico Madrid
+3Atletico Madrid
 20
 12
 5
@@ -48,16 +38,26 @@ WResult WinWResult WinLResult LossWResult WinWResult WinLResult Loss
 18
 41
 LResult LossLResult LossWResult WinWResult WinDResult DrawWResult Win
-5Espanyol
+4Villarreal
 20
+13
+2
+5
+37
+21
+16
+41
+WResult WinLResult LossWResult WinWResult WinLResult LossLResult Loss
+5Espanyol
+21
 10
 4
-6
-23
-22
-1
+7
+25
+25
+0
 34
-WResult WinWResult WinWResult WinLResult LossDResult DrawLResult Loss
+WResult WinWResult WinLResult LossDResult DrawLResult LossLResult Loss
 6Real Betis
 20
 8
@@ -78,7 +78,17 @@ LResult LossDResult DrawWResult WinLResult LossDResult DrawWResult Win
 8
 32
 WResult WinWResult WinDResult DrawWResult WinWResult WinWResult Win
-8Elche
+8Osasuna
+21
+7
+4
+10
+24
+25
+-1
+25
+LResult LossWResult WinDResult DrawLResult LossWResult WinWResult Win
+9Elche
 21
 5
 9
@@ -88,7 +98,7 @@ WResult WinWResult WinDResult DrawWResult WinWResult WinWResult Win
 0
 24
 LResult LossWResult WinLResult LossDResult DrawDResult DrawLResult Loss
-9Real Sociedad
+10Real Sociedad
 20
 6
 6
@@ -98,17 +108,27 @@ LResult LossWResult WinLResult LossDResult DrawDResult DrawLResult Loss
 -2
 24
 LResult LossLResult LossDResult DrawDResult DrawWResult WinWResult Win
-10Athletic Club
-20
+11Sevilla
+21
 7
 3
-10
-19
+11
 28
--9
+33
+-5
 24
-LResult LossWResult WinLResult LossLResult LossDResult DrawLResult Loss
-11Girona
+WResult WinLResult LossLResult LossLResult LossDResult DrawWResult Win
+12Athletic Club
+21
+7
+3
+11
+20
+30
+-10
+24
+WResult WinLResult LossLResult LossDResult DrawLResult LossLResult Loss
+13Girona
 20
 6
 6
@@ -118,37 +138,27 @@ LResult LossWResult WinLResult LossLResult LossDResult DrawLResult Loss
 -14
 24
 LResult LossWResult WinLResult LossWResult WinWResult WinWResult Win
-12Osasuna
-20
-6
-4
-10
+14Valencia
 21
-24
--3
+5
+8
+8
 22
-WResult WinLResult LossWResult WinDResult DrawLResult LossWResult Win
-13Rayo Vallecano
-20
+33
+-11
+23
+LResult LossDResult DrawLResult LossDResult DrawWResult WinWResult Win
+15Rayo Vallecano
+21
 5
 7
-8
-16
-25
--9
+9
+17
+28
+-11
 22
-LResult LossDResult DrawLResult LossDResult DrawWResult WinLResult Loss
-14Sevilla
-20
-6
-3
-11
-26
-32
--6
-21
-DResult DrawWResult WinLResult LossLResult LossLResult LossDResult Draw
-15Mallorca
+DResult DrawLResult LossDResult DrawWResult WinLResult LossLResult Loss
+16Mallorca
 20
 5
 6
@@ -158,7 +168,7 @@ DResult DrawWResult WinLResult LossLResult LossLResult LossDResult Draw
 -6
 21
 DResult DrawWResult WinDResult DrawLResult LossLResult LossWResult Win
-16Getafe
+17Getafe
 20
 6
 3
@@ -168,16 +178,6 @@ DResult DrawWResult WinDResult DrawLResult LossLResult LossWResult Win
 -11
 21
 LResult LossLResult LossLResult LossDResult DrawLResult LossLResult Loss
-17Valencia
-20
-4
-8
-8
-19
-31
--12
-20
-DResult DrawLResult LossDResult DrawLResult LossDResult DrawWResult Win
 18Alavés
 20
 5
