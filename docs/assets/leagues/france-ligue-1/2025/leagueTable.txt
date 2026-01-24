@@ -19,25 +19,25 @@ Form, Last 6 games, Oldest first
 45
 LResult LossWResult WinWResult WinWResult WinWResult WinWResult Win
 2Lens
-18
+19
 14
 1
-3
-32
-13
-19
+4
+33
+16
+17
 43
-WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
+WResult WinWResult WinWResult WinWResult WinWResult WinLResult Loss
 3Marseille
-18
-11
+19
+12
 2
 5
-41
-19
-22
-35
-WResult WinDResult DrawLResult LossWResult WinLResult LossWResult Win
+44
+20
+24
+38
+DResult DrawLResult LossWResult WinLResult LossWResult WinWResult Win
 4Olympique Lyonnais
 18
 10
@@ -59,15 +59,15 @@ DResult DrawWResult WinLResult LossWResult WinWResult WinWResult Win
 32
 WResult WinWResult WinWResult WinWResult WinLResult LossLResult Loss
 6Rennes
-18
+19
 8
 7
-3
+4
 30
-25
-5
+27
+3
 31
-WResult WinWResult WinLResult LossWResult WinWResult WinDResult Draw
+WResult WinLResult LossWResult WinWResult WinDResult DrawLResult Loss
 7Strasbourg
 18
 8
@@ -88,17 +88,27 @@ LResult LossLResult LossLResult LossDResult DrawDResult DrawWResult Win
 6
 26
 LResult LossDResult DrawWResult WinWResult WinLResult LossWResult Win
-9Monaco
-18
+9Lorient
+19
+6
 7
-2
+6
+25
+30
+-5
+25
+WResult WinWResult WinDResult DrawDResult DrawWResult WinWResult Win
+10Monaco
+19
+7
+3
 9
 28
 33
 -5
-23
-LResult LossWResult WinLResult LossLResult LossLResult LossLResult Loss
-10Brest
+24
+WResult WinLResult LossLResult LossLResult LossLResult LossDResult Draw
+11Brest
 18
 6
 4
@@ -108,7 +118,7 @@ LResult LossWResult WinLResult LossLResult LossLResult LossLResult Loss
 -5
 22
 WResult WinWResult WinWResult WinLResult LossWResult WinLResult Loss
-11Angers SCO
+12Angers SCO
 18
 6
 4
@@ -118,17 +128,17 @@ WResult WinWResult WinWResult WinLResult LossWResult WinLResult Loss
 -5
 22
 WResult WinLResult LossWResult WinWResult WinLResult LossLResult Loss
-12Lorient
-18
-5
+13Le Havre
+19
+4
+8
 7
-6
-23
-30
--7
-22
-DResult DrawWResult WinWResult WinDResult DrawDResult DrawWResult Win
-13Paris FC
+16
+24
+-8
+20
+LResult LossDResult DrawLResult LossWResult WinDResult DrawDResult Draw
+14Paris FC
 18
 5
 4
@@ -138,16 +148,6 @@ DResult DrawWResult WinWResult WinDResult DrawDResult DrawWResult Win
 -8
 19
 LResult LossDResult DrawDResult DrawLResult LossLResult LossWResult Win
-14Le Havre
-18
-4
-7
-7
-16
-24
--8
-19
-LResult LossLResult LossDResult DrawLResult LossWResult WinDResult Draw
 15Nice
 18
 5
