@@ -29,16 +29,26 @@ DResult DrawWResult WinWResult WinWResult WinWResult WinLResult Loss
 42
 DResult DrawWResult WinDResult DrawWResult WinWResult WinWResult Win
 3Hoffenheim
-18
-11
+19
+12
 3
 4
-38
+40
 22
-16
+18
+39
+WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
+4RB Leipzig
+19
+11
+3
+5
+37
+25
+12
 36
-LResult LossWResult WinDResult DrawWResult WinWResult WinWResult Win
-4Stuttgart
+LResult LossLResult LossWResult WinLResult LossWResult WinDResult Draw
+5Stuttgart
 19
 11
 3
@@ -48,16 +58,6 @@ LResult LossWResult WinDResult DrawWResult WinWResult WinWResult Win
 10
 36
 WResult WinDResult DrawWResult WinWResult WinDResult DrawWResult Win
-5RB Leipzig
-18
-11
-2
-5
-36
-24
-12
-35
-WResult WinLResult LossLResult LossWResult WinLResult LossWResult Win
 6Bayer Leverkusen
 18
 10
@@ -149,15 +149,15 @@ LResult LossDResult DrawLResult LossDResult DrawDResult DrawWResult Win
 18
 WResult WinLResult LossDResult DrawLResult LossDResult DrawDResult Draw
 15Werder Bremen
-18
+19
 4
 6
-8
+9
 21
-35
--14
+37
+-16
 18
-LResult LossLResult LossDResult DrawLResult LossDResult DrawLResult Loss
+LResult LossDResult DrawLResult LossDResult DrawLResult LossLResult Loss
 16Mainz 05
 19
 3
@@ -169,15 +169,15 @@ LResult LossLResult LossDResult DrawLResult LossDResult DrawLResult Loss
 15
 DResult DrawDResult DrawDResult DrawWResult WinLResult LossWResult Win
 17St. Pauli
-18
+19
 3
-4
+5
 11
-16
-31
+17
+32
 -15
-13
-DResult DrawWResult WinDResult DrawLResult LossLResult LossDResult Draw
+14
+WResult WinDResult DrawLResult LossLResult LossDResult DrawDResult Draw
 18Heidenheim
 19
 3
