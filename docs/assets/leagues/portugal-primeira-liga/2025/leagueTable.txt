@@ -59,15 +59,15 @@ WResult WinLResult LossDResult DrawDResult DrawWResult WinWResult Win
 31
 DResult DrawDResult DrawDResult DrawDResult DrawWResult WinLResult Loss
 6Moreirense
-19
+20
 9
 3
-7
+8
 26
-26
-0
+27
+-1
 30
-LResult LossDResult DrawWResult WinWResult WinLResult LossWResult Win
+DResult DrawWResult WinWResult WinLResult LossWResult WinLResult Loss
 7Famalicão
 19
 8
@@ -78,7 +78,17 @@ LResult LossDResult DrawWResult WinWResult WinLResult LossWResult Win
 10
 29
 WResult WinLResult LossLResult LossLResult LossWResult WinWResult Win
-8Estoril
+8Vitória Guimarães
+20
+8
+4
+8
+21
+27
+-6
+28
+LResult LossDResult DrawWResult WinLResult LossLResult LossWResult Win
+9Estoril
 19
 7
 5
@@ -88,16 +98,6 @@ WResult WinLResult LossLResult LossLResult LossWResult WinWResult Win
 6
 26
 LResult LossWResult WinWResult WinLResult LossWResult WinWResult Win
-9Vitória Guimarães
-19
-7
-4
-8
-20
-27
--7
-25
-WResult WinLResult LossDResult DrawWResult WinLResult LossLResult Loss
 10Alverca
 19
 7
