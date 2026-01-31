@@ -9,15 +9,15 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1Bayern Munich
-19
+20
 16
-2
+3
 1
-72
-16
+74
+18
 56
-50
-DResult DrawWResult WinWResult WinWResult WinWResult WinLResult Loss
+51
+WResult WinWResult WinWResult WinWResult WinLResult LossDResult Draw
 2Borussia Dortmund
 19
 12
@@ -29,25 +29,25 @@ DResult DrawWResult WinWResult WinWResult WinWResult WinLResult Loss
 42
 DResult DrawWResult WinDResult DrawWResult WinWResult WinWResult Win
 3Hoffenheim
-19
-12
+20
+13
 3
 4
-40
-22
-18
-39
-WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
+43
+23
+20
+42
+DResult DrawWResult WinWResult WinWResult WinWResult WinWResult Win
 4RB Leipzig
-19
+20
 11
 3
-5
-37
-25
-12
+6
+38
+27
+11
 36
-LResult LossLResult LossWResult WinLResult LossWResult WinDResult Draw
+LResult LossWResult WinLResult LossWResult WinDResult DrawLResult Loss
 5Stuttgart
 19
 11
@@ -59,15 +59,15 @@ LResult LossLResult LossWResult WinLResult LossWResult WinDResult Draw
 36
 WResult WinDResult DrawWResult WinWResult WinDResult DrawWResult Win
 6Bayer Leverkusen
-18
-10
+19
+11
 2
 6
+38
+26
+12
 35
-25
-10
-32
-LResult LossWResult WinWResult WinLResult LossLResult LossWResult Win
+WResult WinWResult WinLResult LossLResult LossWResult WinWResult Win
 7Freiburg
 19
 7
@@ -79,25 +79,25 @@ LResult LossWResult WinWResult WinLResult LossLResult LossWResult Win
 27
 DResult DrawWResult WinWResult WinLResult LossDResult DrawWResult Win
 8Eintracht Frankfurt
-19
+20
 7
 6
-6
-39
-42
--3
+7
+40
+45
+-5
 27
-WResult WinDResult DrawDResult DrawLResult LossDResult DrawLResult Loss
+DResult DrawDResult DrawLResult LossDResult DrawLResult LossLResult Loss
 9Union Berlin
-19
+20
 6
 6
-7
+8
+25
+33
+-8
 24
-30
--6
-24
-WResult WinWResult WinDResult DrawDResult DrawDResult DrawLResult Loss
+WResult WinDResult DrawDResult DrawDResult DrawLResult LossLResult Loss
 10Köln
 20
 6
@@ -108,17 +108,37 @@ WResult WinWResult WinDResult DrawDResult DrawDResult DrawLResult Loss
 -3
 23
 LResult LossDResult DrawLResult LossWResult WinLResult LossWResult Win
-11Borussia M&#x27;gladbach
-19
-5
-5
-9
-23
-32
--9
+11Augsburg
 20
-LResult LossLResult LossWResult WinLResult LossDResult DrawLResult Loss
-12Wolfsburg
+6
+4
+10
+24
+37
+-13
+22
+DResult DrawLResult LossDResult DrawDResult DrawWResult WinWResult Win
+12Borussia M&#x27;gladbach
+20
+5
+6
+9
+24
+33
+-9
+21
+LResult LossWResult WinLResult LossDResult DrawLResult LossDResult Draw
+13Hamburger SV
+19
+4
+7
+8
+19
+29
+-10
+19
+LResult LossDResult DrawLResult LossDResult DrawDResult DrawDResult Draw
+14Wolfsburg
 20
 5
 4
@@ -128,56 +148,36 @@ LResult LossLResult LossWResult WinLResult LossDResult DrawLResult Loss
 -14
 19
 LResult LossLResult LossWResult WinDResult DrawLResult LossLResult Loss
-13Augsburg
-19
-5
+15Werder Bremen
+20
 4
-10
+7
+9
 22
-36
--14
+38
+-16
 19
-LResult LossDResult DrawLResult LossDResult DrawDResult DrawWResult Win
-14Hamburger SV
-18
+DResult DrawLResult LossDResult DrawLResult LossLResult LossDResult Draw
+16Mainz 05
+20
 4
 6
-8
-17
-27
+10
+23
+33
 -10
 18
-WResult WinLResult LossDResult DrawLResult LossDResult DrawDResult Draw
-15Werder Bremen
-19
-4
-6
-9
-21
-37
--16
-18
-LResult LossDResult DrawLResult LossDResult DrawLResult LossLResult Loss
-16Mainz 05
-19
-3
-6
-10
-21
-32
--11
-15
-DResult DrawDResult DrawDResult DrawWResult WinLResult LossWResult Win
+DResult DrawDResult DrawWResult WinLResult LossWResult WinWResult Win
 17St. Pauli
-19
+20
 3
 5
-11
-17
-32
--15
+12
+18
+34
+-16
 14
-WResult WinDResult DrawLResult LossLResult LossDResult DrawDResult Draw
+DResult DrawLResult LossLResult LossDResult DrawDResult DrawLResult Loss
 18Heidenheim
 19
 3
