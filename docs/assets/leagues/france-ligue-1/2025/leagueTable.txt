@@ -29,15 +29,15 @@ WResult WinWResult WinWResult WinWResult WinLResult LossWResult Win
 45
 LResult LossWResult WinWResult WinWResult WinWResult WinWResult Win
 3Marseille
-19
-12
-2
-5
-44
 20
+12
+3
+5
+46
+22
 24
-38
-DResult DrawLResult LossWResult WinLResult LossWResult WinWResult Win
+39
+LResult LossWResult WinLResult LossWResult WinWResult WinDResult Draw
 4Olympique Lyonnais
 19
 11
@@ -59,15 +59,15 @@ WResult WinLResult LossWResult WinWResult WinWResult WinWResult Win
 32
 WResult WinWResult WinWResult WinLResult LossLResult LossLResult Loss
 6Rennes
-19
+20
 8
 7
-4
+5
 30
-27
-3
 31
-WResult WinLResult LossWResult WinWResult WinDResult DrawLResult Loss
+-1
+31
+LResult LossWResult WinWResult WinDResult DrawLResult LossLResult Loss
 7Strasbourg
 19
 9
@@ -89,25 +89,25 @@ LResult LossLResult LossDResult DrawDResult DrawWResult WinWResult Win
 29
 DResult DrawWResult WinWResult WinLResult LossWResult WinWResult Win
 9Lorient
-19
-6
+20
+7
 7
 6
-25
-30
--5
-25
-WResult WinWResult WinDResult DrawDResult DrawWResult WinWResult Win
+27
+31
+-4
+28
+WResult WinDResult DrawDResult DrawWResult WinWResult WinWResult Win
 10Monaco
-19
-7
+20
+8
 3
 9
-28
+32
 33
--5
-24
-WResult WinLResult LossLResult LossLResult LossLResult LossDResult Draw
+-1
+27
+LResult LossLResult LossLResult LossLResult LossDResult DrawWResult Win
 11Angers SCO
 19
 6
@@ -128,7 +128,17 @@ LResult LossWResult WinWResult WinLResult LossLResult LossDResult Draw
 -7
 22
 WResult WinWResult WinLResult LossWResult WinLResult LossLResult Loss
-13Nice
+13Paris FC
+20
+5
+6
+9
+26
+34
+-8
+21
+DResult DrawLResult LossLResult LossWResult WinDResult DrawDResult Draw
+14Nice
 19
 6
 3
@@ -138,16 +148,6 @@ WResult WinWResult WinLResult LossWResult WinLResult LossLResult Loss
 -11
 21
 LResult LossLResult LossLResult LossDResult DrawLResult LossWResult Win
-14Paris FC
-19
-5
-5
-9
-24
-32
--8
-20
-DResult DrawDResult DrawLResult LossLResult LossWResult WinDResult Draw
 15Le Havre
 20
 4
@@ -159,15 +159,15 @@ DResult DrawDResult DrawLResult LossLResult LossWResult WinDResult Draw
 20
 DResult DrawLResult LossWResult WinDResult DrawDResult DrawLResult Loss
 16Nantes
-19
+20
 3
 5
-11
-18
-34
--16
+12
+19
+36
+-17
 14
-LResult LossLResult LossLResult LossWResult WinLResult LossLResult Loss
+LResult LossLResult LossWResult WinLResult LossLResult LossLResult Loss
 17Auxerre
 19
 3
