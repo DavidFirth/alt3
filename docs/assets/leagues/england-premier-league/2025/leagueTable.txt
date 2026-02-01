@@ -19,26 +19,36 @@ Form, Last 6 games, Oldest first
 53
 WResult WinWResult WinDResult DrawDResult DrawLResult LossWResult Win
 2Manchester City
-23
+24
 14
-4
 5
-47
-21
+5
+49
+23
 26
-46
-WResult WinDResult DrawDResult DrawDResult DrawLResult LossWResult Win
+47
+DResult DrawDResult DrawDResult DrawLResult LossWResult WinDResult Draw
 3Aston Villa
-23
+24
 14
 4
-5
+6
 35
-25
-10
+26
+9
 46
-WResult WinLResult LossWResult WinDResult DrawLResult LossWResult Win
-4Chelsea
+LResult LossWResult WinDResult DrawLResult LossWResult WinLResult Loss
+4Manchester United
+24
+11
+8
+5
+44
+36
+8
+41
+DResult DrawDResult DrawDResult DrawWResult WinWResult WinWResult Win
+5Chelsea
 24
 11
 7
@@ -48,7 +58,7 @@ WResult WinLResult LossWResult WinDResult DrawLResult LossWResult Win
 15
 40
 DResult DrawDResult DrawLResult LossWResult WinWResult WinWResult Win
-5Liverpool
+6Liverpool
 24
 11
 6
@@ -58,27 +68,27 @@ DResult DrawDResult DrawLResult LossWResult WinWResult WinWResult Win
 6
 39
 DResult DrawDResult DrawDResult DrawDResult DrawLResult LossWResult Win
-6Manchester United
-23
+7Brentford
+24
+11
+3
 10
-8
-5
-41
-34
-7
-38
-WResult WinDResult DrawDResult DrawDResult DrawWResult WinWResult Win
-7Fulham
-23
+36
+32
+4
+36
+DResult DrawWResult WinWResult WinLResult LossLResult LossWResult Win
+8Fulham
+24
 10
 4
-9
-32
-32
-0
+10
 34
-WResult WinDResult DrawDResult DrawWResult WinLResult LossWResult Win
-8Everton
+35
+-1
+34
+DResult DrawDResult DrawWResult WinLResult LossWResult WinLResult Loss
+9Everton
 24
 9
 7
@@ -88,16 +98,6 @@ WResult WinDResult DrawDResult DrawWResult WinLResult LossWResult Win
 -1
 34
 WResult WinLResult LossDResult DrawWResult WinDResult DrawDResult Draw
-9Brentford
-23
-10
-3
-10
-35
-32
-3
-33
-WResult WinDResult DrawWResult WinWResult WinLResult LossLResult Loss
 10Newcastle United
 24
 9
@@ -139,25 +139,25 @@ DResult DrawLResult LossWResult WinDResult DrawWResult WinWResult Win
 31
 DResult DrawWResult WinDResult DrawDResult DrawLResult LossDResult Draw
 14Tottenham Hotspur
-23
-7
-7
-9
-33
-31
-2
-28
-WResult WinDResult DrawDResult DrawLResult LossLResult LossDResult Draw
-15Crystal Palace
-23
-7
-7
-9
 24
-28
+7
+8
+9
+35
+33
+2
+29
+DResult DrawDResult DrawLResult LossLResult LossDResult DrawDResult Draw
+15Crystal Palace
+24
+7
+8
+9
+25
+29
 -4
-28
-LResult LossDResult DrawLResult LossDResult DrawLResult LossLResult Loss
+29
+DResult DrawLResult LossDResult DrawLResult LossLResult LossDResult Draw
 16Leeds United
 24
 6
@@ -169,15 +169,15 @@ LResult LossDResult DrawLResult LossDResult DrawLResult LossLResult Loss
 26
 DResult DrawDResult DrawLResult LossWResult WinDResult DrawLResult Loss
 17Nottingham Forest
-23
+24
 7
-4
+5
 12
-23
-34
+24
+35
 -11
-25
-LResult LossLResult LossLResult LossWResult WinDResult DrawWResult Win
+26
+LResult LossLResult LossWResult WinDResult DrawWResult WinDResult Draw
 18West Ham United
 24
 5
