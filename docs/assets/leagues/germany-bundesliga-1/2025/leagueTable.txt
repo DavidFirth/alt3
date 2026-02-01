@@ -19,15 +19,15 @@ Form, Last 6 games, Oldest first
 51
 WResult WinWResult WinWResult WinWResult WinLResult LossDResult Draw
 2Borussia Dortmund
-19
-12
+20
+13
 6
 1
-38
-17
-21
-42
-DResult DrawWResult WinDResult DrawWResult WinWResult WinWResult Win
+41
+19
+22
+45
+WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
 3Hoffenheim
 20
 13
@@ -38,7 +38,17 @@ DResult DrawWResult WinDResult DrawWResult WinWResult WinWResult Win
 20
 42
 DResult DrawWResult WinWResult WinWResult WinWResult WinWResult Win
-4RB Leipzig
+4Stuttgart
+20
+12
+3
+5
+37
+26
+11
+39
+DResult DrawWResult WinWResult WinDResult DrawWResult WinWResult Win
+5RB Leipzig
 20
 11
 3
@@ -48,16 +58,6 @@ DResult DrawWResult WinWResult WinWResult WinWResult WinWResult Win
 11
 36
 LResult LossWResult WinLResult LossWResult WinDResult DrawLResult Loss
-5Stuttgart
-19
-11
-3
-5
-36
-26
-10
-36
-WResult WinDResult DrawWResult WinWResult WinDResult DrawWResult Win
 6Bayer Leverkusen
 19
 11
@@ -69,15 +69,15 @@ WResult WinDResult DrawWResult WinWResult WinDResult DrawWResult Win
 35
 WResult WinWResult WinLResult LossLResult LossWResult WinWResult Win
 7Freiburg
-19
+20
 7
 6
-6
+7
 31
-32
--1
+33
+-2
 27
-DResult DrawWResult WinWResult WinLResult LossDResult DrawWResult Win
+WResult WinWResult WinLResult LossDResult DrawWResult WinLResult Loss
 8Eintracht Frankfurt
 20
 7
@@ -179,11 +179,11 @@ DResult DrawDResult DrawWResult WinLResult LossWResult WinWResult Win
 14
 DResult DrawLResult LossLResult LossDResult DrawDResult DrawLResult Loss
 18Heidenheim
-19
+20
 3
 4
-12
-17
-42
--25
+13
+19
+45
+-26
 13
