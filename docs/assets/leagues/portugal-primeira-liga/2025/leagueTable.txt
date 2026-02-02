@@ -9,15 +9,15 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1Porto
-19
+20
 18
 1
-0
-40
-4
-36
+1
+41
+6
+35
 55
-WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
+WResult WinWResult WinWResult WinWResult WinWResult WinLResult Loss
 2Sporting CP
 20
 16
@@ -38,7 +38,17 @@ WResult WinWResult WinDResult DrawWResult WinWResult WinWResult Win
 31
 46
 WResult WinDResult DrawWResult WinWResult WinWResult WinDResult Draw
-4Gil Vicente
+4Sporting Braga
+20
+10
+6
+4
+41
+18
+23
+36
+LResult LossDResult DrawDResult DrawWResult WinWResult WinWResult Win
+5Gil Vicente
 20
 9
 7
@@ -48,16 +58,6 @@ WResult WinDResult DrawWResult WinWResult WinWResult WinDResult Draw
 13
 34
 DResult DrawDResult DrawDResult DrawWResult WinLResult LossWResult Win
-5Sporting Braga
-19
-9
-6
-4
-37
-18
-19
-33
-WResult WinLResult LossDResult DrawDResult DrawWResult WinWResult Win
 6Moreirense
 20
 9
@@ -148,7 +148,17 @@ DResult DrawLResult LossWResult WinLResult LossLResult LossLResult Loss
 -13
 20
 DResult DrawWResult WinDResult DrawLResult LossLResult LossDResult Draw
-15Santa Clara
+15Casa Pia
+20
+4
+6
+10
+22
+39
+-17
+18
+WResult WinDResult DrawLResult LossLResult LossDResult DrawWResult Win
+16Santa Clara
 20
 4
 5
@@ -158,16 +168,6 @@ DResult DrawWResult WinDResult DrawLResult LossLResult LossDResult Draw
 -9
 17
 DResult DrawLResult LossDResult DrawLResult LossLResult LossLResult Loss
-16Casa Pia
-19
-3
-6
-10
-20
-38
--18
-15
-DResult DrawWResult WinDResult DrawLResult LossLResult LossDResult Draw
 17Tondela
 20
 3
@@ -179,11 +179,11 @@ DResult DrawWResult WinDResult DrawLResult LossLResult LossDResult Draw
 13
 LResult LossWResult WinLResult LossLResult LossLResult LossDResult Draw
 18AVS
-19
+20
 0
 5
+15
 14
-14
-47
--33
+51
+-37
 5
