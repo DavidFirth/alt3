@@ -29,15 +29,15 @@ DResult DrawLResult LossWResult WinWResult WinLResult LossLResult Loss
 58
 LResult LossWResult WinWResult WinWResult WinWResult WinWResult Win
 3Hull City
-29
+30
 16
-5
+6
 8
 48
 40
 8
-53
-WResult WinLResult LossWResult WinWResult WinWResult WinWResult Win
+54
+LResult LossWResult WinWResult WinWResult WinWResult WinDResult Draw
 4Ipswich Town
 29
 14
@@ -78,7 +78,17 @@ WResult WinWResult WinLResult LossDResult DrawWResult WinWResult Win
 7
 45
 WResult WinLResult LossWResult WinWResult WinDResult DrawWResult Win
-8Preston North End
+8Watford
+30
+11
+11
+8
+39
+35
+4
+44
+WResult WinLResult LossDResult DrawDResult DrawLResult LossDResult Draw
+9Preston North End
 30
 11
 11
@@ -88,7 +98,7 @@ WResult WinLResult LossWResult WinWResult WinDResult DrawWResult Win
 3
 44
 WResult WinWResult WinLResult LossLResult LossLResult LossDResult Draw
-9Bristol City
+10Bristol City
 30
 12
 7
@@ -98,16 +108,6 @@ WResult WinWResult WinLResult LossLResult LossLResult LossDResult Draw
 4
 43
 WResult WinLResult LossDResult DrawLResult LossWResult WinLResult Loss
-10Watford
-29
-11
-10
-8
-39
-35
-4
-43
-WResult WinWResult WinLResult LossDResult DrawDResult DrawLResult Loss
 11Queens Park Rangers
 30
 12
@@ -148,7 +148,17 @@ LResult LossWResult WinDResult DrawWResult WinDResult DrawWResult Win
 2
 40
 DResult DrawLResult LossLResult LossWResult WinDResult DrawWResult Win
-15Swansea City
+15Sheffield United
+30
+12
+3
+15
+43
+43
+0
+39
+WResult WinLResult LossLResult LossWResult WinDResult DrawWResult Win
+16Swansea City
 30
 11
 6
@@ -158,7 +168,7 @@ DResult DrawLResult LossLResult LossWResult WinDResult DrawWResult Win
 -3
 39
 WResult WinLResult LossDResult DrawWResult WinLResult LossWResult Win
-16Leicester City
+17Leicester City
 30
 10
 8
@@ -168,16 +178,6 @@ WResult WinLResult LossDResult DrawWResult WinLResult LossWResult Win
 -5
 38
 LResult LossWResult WinLResult LossDResult DrawLResult LossLResult Loss
-17Sheffield United
-29
-11
-3
-15
-40
-42
--2
-36
-WResult WinWResult WinLResult LossLResult LossWResult WinDResult Draw
 18Charlton Athletic
 29
 9
@@ -208,7 +208,17 @@ WResult WinLResult LossWResult WinWResult WinWResult WinLResult Loss
 -10
 33
 WResult WinLResult LossWResult WinDResult DrawDResult DrawWResult Win
-21West Bromwich Albion
+21Blackburn Rovers
+30
+8
+8
+14
+27
+38
+-11
+32
+DResult DrawLResult LossLResult LossDResult DrawLResult LossWResult Win
+22West Bromwich Albion
 30
 9
 5
@@ -218,32 +228,22 @@ WResult WinLResult LossWResult WinDResult DrawDResult DrawWResult Win
 -15
 32
 LResult LossLResult LossLResult LossLResult LossDResult DrawLResult Loss
-22Blackburn Rovers
-29
-7
-8
-14
-26
-38
--12
-29
-LResult LossDResult DrawLResult LossLResult LossDResult DrawLResult Loss
 23Oxford United
-29
+30
 6
 9
-14
+15
+28
+41
+-13
 27
-38
--11
-27
-LResult LossLResult LossDResult DrawDResult DrawWResult WinLResult Loss
+LResult LossDResult DrawDResult DrawWResult WinLResult LossLResult Loss
 24Sheffield Wednesday
-29
+30
 1
 8
-20
+21
 18
-57
--39
+58
+-40
 -7
