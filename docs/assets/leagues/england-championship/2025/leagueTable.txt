@@ -98,7 +98,17 @@ WResult WinLResult LossDResult DrawDResult DrawLResult LossDResult Draw
 3
 44
 WResult WinWResult WinLResult LossLResult LossLResult LossDResult Draw
-10Bristol City
+10Queens Park Rangers
+31
+12
+8
+11
+42
+43
+-1
+44
+WResult WinDResult DrawDResult DrawLResult LossWResult WinDResult Draw
+11Bristol City
 30
 12
 7
@@ -108,16 +118,6 @@ WResult WinWResult WinLResult LossLResult LossLResult LossDResult Draw
 4
 43
 WResult WinLResult LossDResult DrawLResult LossWResult WinLResult Loss
-11Queens Park Rangers
-30
-12
-7
-11
-42
-43
--1
-43
-LResult LossWResult WinDResult DrawDResult DrawLResult LossWResult Win
 12Stoke City
 30
 12
@@ -168,27 +168,17 @@ WResult WinLResult LossLResult LossWResult WinDResult DrawWResult Win
 -3
 39
 WResult WinLResult LossDResult DrawWResult WinLResult LossWResult Win
-17Leicester City
+17Charlton Athletic
 30
-10
-8
-12
-40
-45
--5
-38
-LResult LossWResult WinLResult LossDResult DrawLResult LossLResult Loss
-18Charlton Athletic
-29
 9
-8
+9
 12
 29
 38
 -9
-35
-DResult DrawDResult DrawWResult WinLResult LossLResult LossWResult Win
-19Norwich City
+36
+DResult DrawWResult WinLResult LossLResult LossWResult WinDResult Draw
+18Norwich City
 30
 9
 6
@@ -198,7 +188,7 @@ DResult DrawDResult DrawWResult WinLResult LossLResult LossWResult Win
 -5
 33
 WResult WinLResult LossWResult WinWResult WinWResult WinLResult Loss
-20Portsmouth
+19Portsmouth
 28
 8
 9
@@ -208,6 +198,16 @@ WResult WinLResult LossWResult WinWResult WinWResult WinLResult Loss
 -10
 33
 WResult WinLResult LossWResult WinDResult DrawDResult DrawWResult Win
+20Leicester City
+30
+10
+8
+12
+40
+45
+-5
+32
+LResult LossWResult WinLResult LossDResult DrawLResult LossLResult Loss
 21Blackburn Rovers
 30
 8
