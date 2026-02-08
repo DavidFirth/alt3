@@ -29,16 +29,26 @@ WResult WinWResult WinWResult WinWResult WinWResult WinLResult Loss
 51
 WResult WinWResult WinDResult DrawWResult WinWResult WinWResult Win
 3Benfica
-20
-13
+21
+14
 7
 0
-42
+44
+12
+32
+49
+DResult DrawWResult WinWResult WinWResult WinDResult DrawWResult Win
+4Sporting Braga
+21
 11
-31
-46
-WResult WinDResult DrawWResult WinWResult WinWResult WinDResult Draw
-4Gil Vicente
+6
+4
+44
+18
+26
+39
+DResult DrawDResult DrawWResult WinWResult WinWResult WinWResult Win
+5Gil Vicente
 21
 10
 7
@@ -48,16 +58,6 @@ WResult WinDResult DrawWResult WinWResult WinWResult WinDResult Draw
 14
 37
 DResult DrawDResult DrawWResult WinLResult LossWResult WinWResult Win
-5Sporting Braga
-20
-10
-6
-4
-41
-18
-23
-36
-LResult LossDResult DrawDResult DrawWResult WinWResult WinWResult Win
 6Estoril
 21
 8
@@ -99,15 +99,15 @@ LResult LossLResult LossLResult LossWResult WinWResult WinLResult Loss
 28
 DResult DrawWResult WinLResult LossLResult LossWResult WinLResult Loss
 10Alverca
-20
+21
 7
 3
-10
-20
-34
--14
+11
+21
+36
+-15
 24
-LResult LossLResult LossWResult WinWResult WinLResult LossDResult Draw
+LResult LossWResult WinWResult WinLResult LossDResult DrawLResult Loss
 11Estrela
 21
 5
@@ -129,35 +129,35 @@ WResult WinDResult DrawLResult LossLResult LossDResult DrawWResult Win
 23
 DResult DrawLResult LossWResult WinLResult LossWResult WinWResult Win
 13Nacional
-20
+21
 5
-5
+6
 10
 27
 30
 -3
-20
-DResult DrawLResult LossDResult DrawLResult LossWResult WinLResult Loss
+21
+LResult LossDResult DrawLResult LossWResult WinLResult LossDResult Draw
 14Rio Ave
-20
+21
 4
 8
-8
+9
 22
-38
--16
+41
+-19
 20
-DResult DrawLResult LossWResult WinLResult LossLResult LossLResult Loss
+LResult LossWResult WinLResult LossLResult LossLResult LossLResult Loss
 15Casa Pia
-20
+21
 4
-6
+7
 10
 22
 39
 -17
-18
-WResult WinDResult DrawLResult LossLResult LossDResult DrawWResult Win
+19
+DResult DrawLResult LossLResult LossDResult DrawWResult WinDResult Draw
 16Santa Clara
 21
 4
