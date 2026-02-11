@@ -17,7 +17,7 @@ sidebar:
 
 {% include leagues/england-championship/alt3-table.html %}
 
-Sheffield Wednesday are subject to a 18-points deduction.  This has been accounted for in the _Rate_ calculation.
+Sheffield Wednesday are subject to a 18-point deduction, and Leicester City to a 6-point deduction.  These have been accounted for in the _Rate_ calculation.
 
 <style>
 .svg-wrap {
