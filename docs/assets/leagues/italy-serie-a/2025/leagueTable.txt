@@ -9,15 +9,15 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1Inter Milan
-24
-19
+25
+20
 1
 4
-57
-19
-38
-58
-DResult DrawWResult WinWResult WinWResult WinWResult WinWResult Win
+60
+21
+39
+61
+WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
 2AC Milan
 24
 15
@@ -38,17 +38,7 @@ DResult DrawWResult WinWResult WinDResult DrawWResult WinWResult Win
 13
 49
 DResult DrawDResult DrawWResult WinLResult LossWResult WinWResult Win
-4Juventus
-24
-13
-7
-4
-41
-20
-21
-46
-WResult WinWResult WinLResult LossWResult WinWResult WinDResult Draw
-5Roma
+4Roma
 24
 15
 1
@@ -58,36 +48,46 @@ WResult WinWResult WinLResult LossWResult WinWResult WinDResult Draw
 15
 46
 WResult WinWResult WinWResult WinDResult DrawLResult LossWResult Win
-6Como
+5Juventus
+25
+13
+7
+5
+43
 23
+20
+46
+WResult WinLResult LossWResult WinWResult WinDResult DrawLResult Loss
+6Atalanta
+25
 11
-8
-4
-37
-16
-21
-41
-WResult WinDResult DrawLResult LossWResult WinWResult WinDResult Draw
-7Atalanta
-24
-10
 9
 5
-32
+34
 21
-11
-39
-WResult WinWResult WinDResult DrawWResult WinDResult DrawWResult Win
-8Lazio
+13
+42
+WResult WinDResult DrawWResult WinDResult DrawWResult WinWResult Win
+7Como
 24
+11
+8
+5
+38
+18
+20
+41
+DResult DrawLResult LossWResult WinWResult WinDResult DrawLResult Loss
+8Lazio
+25
 8
 9
-7
+8
 26
-23
-3
+25
+1
 33
-DResult DrawWResult WinLResult LossDResult DrawWResult WinDResult Draw
+WResult WinLResult LossDResult DrawWResult WinDResult DrawLResult Loss
 9Udinese
 24
 9
@@ -179,15 +179,15 @@ DResult DrawLResult LossDResult DrawLResult LossLResult LossLResult Loss
 21
 LResult LossLResult LossLResult LossDResult DrawLResult LossWResult Win
 18Fiorentina
-24
-3
+25
+4
 9
 12
-27
-38
--11
-18
-DResult DrawDResult DrawWResult WinLResult LossLResult LossDResult Draw
+29
+39
+-10
+21
+DResult DrawWResult WinLResult LossLResult LossDResult DrawWResult Win
 19Hellas Verona
 24
 2
