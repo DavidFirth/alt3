@@ -28,7 +28,17 @@ WResult WinWResult WinDResult DrawWResult WinWResult WinLResult Loss
 20
 42
 DResult DrawDResult DrawLResult LossWResult WinLResult LossWResult Win
-3NEC
+3Ajax
+23
+11
+9
+3
+46
+30
+16
+42
+WResult WinDResult DrawWResult WinDResult DrawDResult DrawWResult Win
+4NEC
 22
 12
 5
@@ -38,16 +48,6 @@ DResult DrawDResult DrawLResult LossWResult WinLResult LossWResult Win
 19
 41
 DResult DrawWResult WinWResult WinWResult WinWResult WinLResult Loss
-4Ajax
-22
-10
-9
-3
-42
-29
-13
-39
-DResult DrawWResult WinDResult DrawWResult WinDResult DrawDResult Draw
 5Sparta Rotterdam
 22
 11
@@ -58,7 +58,17 @@ DResult DrawWResult WinDResult DrawWResult WinDResult DrawDResult Draw
 -7
 36
 WResult WinWResult WinWResult WinWResult WinWResult WinDResult Draw
-6Twente
+6AZ
+23
+10
+6
+7
+39
+37
+2
+36
+LResult LossDResult DrawWResult WinLResult LossDResult DrawWResult Win
+7Twente
 22
 8
 10
@@ -68,27 +78,27 @@ WResult WinWResult WinWResult WinWResult WinWResult WinDResult Draw
 12
 34
 DResult DrawDResult DrawWResult WinDResult DrawDResult DrawWResult Win
-7AZ
-22
-9
-6
-7
-37
-36
-1
-33
-WResult WinLResult LossDResult DrawWResult WinLResult LossDResult Draw
 8Groningen
-22
+23
 9
 4
-9
-29
-28
-1
+10
+30
+30
+0
 31
-DResult DrawDResult DrawWResult WinLResult LossLResult LossLResult Loss
-9Heerenveen
+DResult DrawWResult WinLResult LossLResult LossLResult LossLResult Loss
+9Utrecht
+23
+8
+6
+9
+35
+30
+5
+30
+LResult LossLResult LossDResult DrawLResult LossWResult WinWResult Win
+10Heerenveen
 22
 7
 7
@@ -98,37 +108,7 @@ DResult DrawDResult DrawWResult WinLResult LossLResult LossLResult Loss
 -2
 28
 WResult WinDResult DrawLResult LossDResult DrawLResult LossWResult Win
-10Utrecht
-22
-7
-6
-9
-33
-29
-4
-27
-LResult LossLResult LossLResult LossDResult DrawLResult LossWResult Win
-11Fortuna Sittard
-22
-7
-5
-10
-33
-38
--5
-26
-WResult WinDResult DrawLResult LossWResult WinLResult LossDResult Draw
-12Excelsior
-22
-7
-5
-10
-24
-37
--13
-26
-LResult LossDResult DrawDResult DrawDResult DrawDResult DrawWResult Win
-13PEC Zwolle
+11PEC Zwolle
 22
 7
 5
@@ -138,6 +118,26 @@ LResult LossDResult DrawDResult DrawDResult DrawDResult DrawWResult Win
 -14
 26
 LResult LossDResult DrawWResult WinLResult LossWResult WinLResult Loss
+12Fortuna Sittard
+23
+7
+5
+11
+34
+42
+-8
+26
+DResult DrawLResult LossWResult WinLResult LossDResult DrawLResult Loss
+13Excelsior
+23
+7
+5
+11
+25
+39
+-14
+26
+DResult DrawDResult DrawDResult DrawDResult DrawWResult WinLResult Loss
 14Volendam
 23
 6
@@ -158,7 +158,17 @@ LResult LossWResult WinLResult LossDResult DrawWResult WinWResult Win
 -5
 23
 DResult DrawDResult DrawDResult DrawDResult DrawDResult DrawLResult Loss
-16Telstar
+16NAC Breda
+23
+4
+7
+12
+24
+36
+-12
+19
+DResult DrawLResult LossDResult DrawDResult DrawLResult LossWResult Win
+17Telstar
 22
 3
 8
@@ -168,22 +178,12 @@ DResult DrawDResult DrawDResult DrawDResult DrawDResult DrawLResult Loss
 -12
 17
 WResult WinLResult LossDResult DrawLResult LossLResult LossDResult Draw
-17Heracles
-22
+18Heracles
+23
 5
 2
-15
-31
-57
--26
-17
-LResult LossLResult LossLResult LossLResult LossWResult WinLResult Loss
-18NAC Breda
-22
-3
-7
-12
-23
-36
--13
 16
+31
+58
+-27
+17
