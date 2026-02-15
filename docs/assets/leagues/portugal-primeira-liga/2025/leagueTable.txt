@@ -9,25 +9,25 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1Porto
-21
-18
+22
+19
 2
 1
-42
+43
 7
-35
-56
-WResult WinWResult WinWResult WinWResult WinLResult LossDResult Draw
+36
+59
+WResult WinWResult WinWResult WinLResult LossDResult DrawWResult Win
 2Sporting CP
-21
-16
+22
+17
 4
 1
-55
+56
 12
-43
-52
-WResult WinDResult DrawWResult WinWResult WinWResult WinDResult Draw
+44
+55
+DResult DrawWResult WinWResult WinWResult WinDResult DrawWResult Win
 3Benfica
 22
 15
@@ -59,15 +59,15 @@ DResult DrawWResult WinLResult LossWResult WinWResult WinWResult Win
 39
 DResult DrawWResult WinWResult WinWResult WinWResult WinLResult Loss
 6Famalicão
-21
+22
 9
 5
-7
+8
 27
-20
-7
+21
+6
 32
-LResult LossLResult LossWResult WinWResult WinLResult LossWResult Win
+LResult LossWResult WinWResult WinLResult LossWResult WinLResult Loss
 7Vitória Guimarães
 22
 9
@@ -79,15 +79,15 @@ LResult LossLResult LossWResult WinWResult WinLResult LossWResult Win
 31
 WResult WinLResult LossLResult LossWResult WinLResult LossWResult Win
 8Estoril
-21
+22
 8
 6
-7
-43
-35
 8
+43
+38
+5
 30
-WResult WinLResult LossWResult WinWResult WinWResult WinDResult Draw
+LResult LossWResult WinWResult WinWResult WinDResult DrawLResult Loss
 9Moreirense
 21
 9
@@ -139,15 +139,15 @@ LResult LossWResult WinLResult LossWResult WinWResult WinLResult Loss
 22
 LResult LossLResult LossDResult DrawWResult WinDResult DrawWResult Win
 14Nacional
-21
+22
 5
 6
-10
+11
 27
-30
--3
+31
+-4
 21
-LResult LossDResult DrawLResult LossWResult WinLResult LossDResult Draw
+DResult DrawLResult LossWResult WinLResult LossDResult DrawLResult Loss
 15Rio Ave
 21
 4
@@ -179,11 +179,11 @@ DResult DrawLResult LossLResult LossLResult LossLResult LossLResult Loss
 15
 LResult LossLResult LossLResult LossDResult DrawDResult DrawDResult Draw
 18AVS
-21
-0
+22
+1
 5
 16
-15
+18
 54
--39
-5
+-36
+8
