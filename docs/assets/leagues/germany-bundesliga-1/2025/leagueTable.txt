@@ -48,7 +48,17 @@ WResult WinWResult WinWResult WinWResult WinLResult LossWResult Win
 12
 42
 WResult WinDResult DrawWResult WinWResult WinLResult LossWResult Win
-5Bayer Leverkusen
+5RB Leipzig
+22
+12
+4
+6
+42
+30
+12
+40
+LResult LossWResult WinDResult DrawLResult LossWResult WinDResult Draw
+6Bayer Leverkusen
 21
 12
 3
@@ -58,16 +68,6 @@ WResult WinDResult DrawWResult WinWResult WinLResult LossWResult Win
 16
 39
 LResult LossLResult LossWResult WinWResult WinDResult DrawWResult Win
-6RB Leipzig
-21
-12
-3
-6
-40
-28
-12
-39
-WResult WinLResult LossWResult WinDResult DrawLResult LossWResult Win
 7Eintracht Frankfurt
 22
 8
@@ -108,7 +108,17 @@ LResult LossDResult DrawDResult DrawDResult DrawWResult WinWResult Win
 -9
 25
 DResult DrawDResult DrawLResult LossLResult LossDResult DrawLResult Loss
-11Köln
+11Augsburg
+22
+7
+4
+11
+25
+39
+-14
+25
+DResult DrawDResult DrawWResult WinWResult WinLResult LossWResult Win
+12Köln
 22
 6
 5
@@ -118,7 +128,7 @@ DResult DrawDResult DrawLResult LossLResult LossDResult DrawLResult Loss
 -6
 23
 LResult LossWResult WinLResult LossWResult WinLResult LossLResult Loss
-12Borussia M&#x27;gladbach
+13Borussia M&#x27;gladbach
 22
 5
 7
@@ -128,16 +138,6 @@ LResult LossWResult WinLResult LossWResult WinLResult LossLResult Loss
 -12
 22
 LResult LossDResult DrawLResult LossDResult DrawDResult DrawLResult Loss
-13Augsburg
-21
-6
-4
-11
-24
-39
--15
-22
-LResult LossDResult DrawDResult DrawWResult WinWResult WinLResult Loss
 14Mainz 05
 22
 5
@@ -149,15 +149,15 @@ LResult LossDResult DrawDResult DrawWResult WinWResult WinLResult Loss
 21
 WResult WinLResult LossWResult WinWResult WinWResult WinLResult Loss
 15Wolfsburg
-21
+22
 5
-4
+5
 12
-29
-44
+31
+46
 -15
-19
-LResult LossWResult WinDResult DrawLResult LossLResult LossLResult Loss
+20
+WResult WinDResult DrawLResult LossLResult LossLResult LossDResult Draw
 16Werder Bremen
 22
 4
@@ -179,11 +179,11 @@ DResult DrawLResult LossLResult LossDResult DrawLResult LossLResult Loss
 17
 LResult LossDResult DrawDResult DrawLResult LossWResult WinLResult Loss
 18Heidenheim
-21
+22
 3
 4
-14
+15
 19
-47
--28
+48
+-29
 13
