@@ -79,15 +79,15 @@ WResult WinWResult WinDResult DrawWResult WinLResult LossWResult Win
 48
 LResult LossDResult DrawWResult WinWResult WinLResult LossDResult Draw
 8Preston North End
-32
+33
 12
 12
-8
+9
 40
-36
-4
+37
+3
 48
-LResult LossLResult LossLResult LossDResult DrawWResult WinDResult Draw
+LResult LossLResult LossDResult DrawWResult WinDResult DrawLResult Loss
 9Bristol City
 32
 13
@@ -188,7 +188,17 @@ WResult WinWResult WinWResult WinLResult LossWResult WinWResult Win
 -10
 39
 LResult LossLResult LossWResult WinDResult DrawWResult WinLResult Loss
-19Portsmouth
+19Blackburn Rovers
+33
+10
+8
+15
+31
+41
+-10
+38
+DResult DrawLResult LossWResult WinLResult LossWResult WinWResult Win
+20Portsmouth
 31
 9
 9
@@ -198,16 +208,6 @@ LResult LossLResult LossWResult WinDResult DrawWResult WinLResult Loss
 -10
 36
 DResult DrawDResult DrawWResult WinLResult LossLResult LossWResult Win
-20Blackburn Rovers
-32
-9
-8
-15
-30
-41
--11
-35
-LResult LossDResult DrawLResult LossWResult WinLResult LossWResult Win
 21West Bromwich Albion
 32
 9
