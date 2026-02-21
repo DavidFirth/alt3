@@ -9,15 +9,15 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1PSV
-23
-19
+24
+20
 2
 2
-67
-28
-39
-59
-WResult WinWResult WinDResult DrawWResult WinWResult WinLResult Loss
+70
+29
+41
+62
+WResult WinDResult DrawWResult WinWResult WinLResult LossWResult Win
 2Feyenoord
 23
 14
@@ -29,25 +29,25 @@ WResult WinWResult WinDResult DrawWResult WinWResult WinLResult Loss
 45
 DResult DrawLResult LossWResult WinLResult LossWResult WinWResult Win
 3NEC
-23
+24
 12
-6
+7
 5
-58
-39
+59
+40
 19
-42
-WResult WinWResult WinWResult WinWResult WinLResult LossDResult Draw
+43
+WResult WinWResult WinWResult WinLResult LossDResult DrawDResult Draw
 4Ajax
-23
+24
 11
-9
+10
 3
-46
-30
+47
+31
 16
-42
-WResult WinDResult DrawWResult WinDResult DrawDResult DrawWResult Win
+43
+DResult DrawWResult WinDResult DrawDResult DrawWResult WinDResult Draw
 5Sparta Rotterdam
 23
 11
@@ -78,17 +78,7 @@ LResult LossDResult DrawWResult WinLResult LossDResult DrawWResult Win
 12
 35
 DResult DrawWResult WinDResult DrawDResult DrawWResult WinDResult Draw
-8Heerenveen
-23
-8
-7
-8
-39
-39
-0
-31
-DResult DrawLResult LossDResult DrawLResult LossWResult WinWResult Win
-9Groningen
+8Groningen
 23
 9
 4
@@ -98,6 +88,16 @@ DResult DrawLResult LossDResult DrawLResult LossWResult WinWResult Win
 0
 31
 DResult DrawWResult WinLResult LossLResult LossLResult LossLResult Loss
+9Heerenveen
+24
+8
+7
+9
+40
+42
+-2
+31
+LResult LossDResult DrawLResult LossWResult WinWResult WinLResult Loss
 10Utrecht
 23
 8
@@ -139,15 +139,15 @@ DResult DrawWResult WinLResult LossWResult WinLResult LossLResult Loss
 26
 DResult DrawDResult DrawDResult DrawWResult WinLResult LossLResult Loss
 14Volendam
-23
-6
-6
-11
-26
-38
--12
 24
-LResult LossWResult WinLResult LossDResult DrawWResult WinWResult Win
+6
+6
+12
+26
+39
+-13
+24
+WResult WinLResult LossDResult DrawWResult WinWResult WinLResult Loss
 15Go Ahead Eagles
 23
 4
@@ -159,15 +159,15 @@ LResult LossWResult WinLResult LossDResult DrawWResult WinWResult Win
 23
 DResult DrawDResult DrawDResult DrawDResult DrawLResult LossLResult Loss
 16NAC Breda
-23
-4
+24
+5
 7
 12
-24
+25
 36
--12
-19
-DResult DrawLResult LossDResult DrawDResult DrawLResult LossWResult Win
+-11
+22
+LResult LossDResult DrawDResult DrawLResult LossWResult WinWResult Win
 17Telstar
 23
 3
