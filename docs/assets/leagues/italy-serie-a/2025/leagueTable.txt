@@ -19,35 +19,35 @@ Form, Last 6 games, Oldest first
 64
 WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
 2AC Milan
-25
+26
 15
 9
-1
+2
 41
-19
-22
+20
+21
 54
-WResult WinWResult WinDResult DrawWResult WinWResult WinDResult Draw
+WResult WinDResult DrawWResult WinWResult WinDResult DrawLResult Loss
 3Napoli
-25
+26
 15
 5
-5
-38
-25
-13
+6
+39
+27
+12
 50
-DResult DrawWResult WinLResult LossWResult WinWResult WinDResult Draw
+WResult WinLResult LossWResult WinWResult WinDResult DrawLResult Loss
 4Roma
-25
-15
+26
+16
 2
 8
-31
+34
 16
-15
-47
-WResult WinWResult WinDResult DrawLResult LossWResult WinDResult Draw
+18
+50
+WResult WinDResult DrawLResult LossWResult WinDResult DrawWResult Win
 5Juventus
 26
 13
@@ -69,15 +69,15 @@ LResult LossWResult WinWResult WinDResult DrawLResult LossLResult Loss
 45
 WResult WinWResult WinDResult DrawLResult LossDResult DrawWResult Win
 7Atalanta
-25
-11
+26
+12
 9
 5
-34
-21
-13
-42
-WResult WinDResult DrawWResult WinDResult DrawWResult WinWResult Win
+36
+22
+14
+45
+DResult DrawWResult WinDResult DrawWResult WinWResult WinWResult Win
 8Sassuolo
 26
 10
@@ -119,15 +119,15 @@ WResult WinLResult LossLResult LossLResult LossLResult LossWResult Win
 32
 DResult DrawLResult LossWResult WinWResult WinLResult LossLResult Loss
 12Parma
-25
-7
+26
+8
 8
 10
-18
+19
 31
--13
-29
-DResult DrawDResult DrawLResult LossLResult LossWResult WinWResult Win
+-12
+32
+DResult DrawLResult LossLResult LossWResult WinWResult WinWResult Win
 13Cagliari
 26
 7
@@ -138,36 +138,36 @@ DResult DrawDResult DrawLResult LossLResult LossWResult WinWResult Win
 -7
 29
 WResult WinWResult WinWResult WinLResult LossLResult LossDResult Draw
-14Torino
-25
+14Genoa
+26
+6
+9
+11
+32
+37
+-5
+27
+DResult DrawWResult WinLResult LossLResult LossDResult DrawWResult Win
+15Torino
+26
 7
 6
-12
+13
 25
-44
--19
+47
+-22
 27
-LResult LossLResult LossLResult LossWResult WinDResult DrawLResult Loss
-15Cremonese
-25
+LResult LossLResult LossWResult WinDResult DrawLResult LossLResult Loss
+16Cremonese
+26
 5
 9
-11
+12
 21
-33
--12
+36
+-15
 24
-LResult LossDResult DrawLResult LossLResult LossLResult LossDResult Draw
-16Genoa
-25
-5
-9
-11
-29
-37
--8
-24
-WResult WinDResult DrawWResult WinLResult LossLResult LossDResult Draw
+DResult DrawLResult LossLResult LossLResult LossDResult DrawLResult Loss
 17Lecce
 26
 6
