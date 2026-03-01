@@ -59,16 +59,26 @@ WResult WinWResult WinWResult WinLResult LossWResult WinWResult Win
 40
 WResult WinLResult LossWResult WinWResult WinWResult WinLResult Loss
 6Famalicão
-23
+24
 10
-5
+6
 8
 29
 21
 8
-35
-WResult WinWResult WinLResult LossWResult WinLResult LossWResult Win
-7Estoril
+36
+WResult WinLResult LossWResult WinLResult LossWResult WinDResult Draw
+7Moreirense
+24
+10
+4
+10
+30
+34
+-4
+34
+WResult WinLResult LossLResult LossWResult WinLResult LossDResult Draw
+8Estoril
 24
 9
 6
@@ -78,16 +88,6 @@ WResult WinWResult WinLResult LossWResult WinLResult LossWResult Win
 4
 33
 WResult WinWResult WinDResult DrawLResult LossWResult WinLResult Loss
-8Moreirense
-23
-10
-3
-10
-29
-33
--4
-33
-LResult LossWResult WinLResult LossLResult LossWResult WinLResult Loss
 9Vitória Guimarães
 24
 9
@@ -129,15 +129,15 @@ LResult LossWResult WinWResult WinLResult LossWResult WinLResult Loss
 24
 LResult LossDResult DrawWResult WinLResult LossLResult LossDResult Draw
 13Casa Pia
-23
+24
 5
-7
+8
 11
-25
-43
+26
+44
 -18
-22
-LResult LossDResult DrawWResult WinDResult DrawWResult WinLResult Loss
+23
+DResult DrawWResult WinDResult DrawWResult WinLResult LossDResult Draw
 14Nacional
 24
 5
@@ -149,35 +149,35 @@ LResult LossDResult DrawWResult WinDResult DrawWResult WinLResult Loss
 21
 WResult WinLResult LossDResult DrawLResult LossLResult LossLResult Loss
 15Rio Ave
-23
+24
 4
-8
+9
 11
 23
 44
 -21
-20
-LResult LossLResult LossLResult LossLResult LossLResult LossLResult Loss
-16Tondela
-23
-4
-6
-13
-17
-36
--19
-18
-LResult LossLResult LossDResult DrawDResult DrawDResult DrawWResult Win
-17Santa Clara
-23
-4
-6
-13
-18
-29
--11
-18
+21
 LResult LossLResult LossLResult LossLResult LossLResult LossDResult Draw
+16Tondela
+24
+4
+7
+13
+19
+38
+-19
+19
+LResult LossDResult DrawDResult DrawDResult DrawWResult WinDResult Draw
+17Santa Clara
+24
+4
+7
+13
+20
+31
+-11
+19
+LResult LossLResult LossLResult LossLResult LossDResult DrawDResult Draw
 18AVS
 24
 1
