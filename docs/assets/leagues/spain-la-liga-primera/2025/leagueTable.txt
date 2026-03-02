@@ -19,15 +19,15 @@ Form, Last 6 games, Oldest first
 64
 WResult WinWResult WinWResult WinLResult LossWResult WinWResult Win
 2Real Madrid
-25
+26
 19
 3
-3
+4
 54
-21
-33
+22
+32
 60
-WResult WinWResult WinWResult WinWResult WinWResult WinLResult Loss
+WResult WinWResult WinWResult WinWResult WinLResult LossLResult Loss
 3Atletico Madrid
 26
 15
@@ -108,7 +108,17 @@ LResult LossDResult DrawWResult WinWResult WinWResult WinDResult Draw
 0
 33
 WResult WinDResult DrawWResult WinDResult DrawWResult WinLResult Loss
-11Sevilla
+11Getafe
+26
+9
+5
+12
+21
+29
+-8
+32
+DResult DrawDResult DrawWResult WinWResult WinLResult LossWResult Win
+12Sevilla
 26
 8
 6
@@ -118,7 +128,7 @@ WResult WinDResult DrawWResult WinDResult DrawWResult WinLResult Loss
 -7
 30
 WResult WinLResult LossDResult DrawDResult DrawWResult WinDResult Draw
-12Girona
+13Girona
 26
 7
 9
@@ -128,7 +138,7 @@ WResult WinLResult LossDResult DrawDResult DrawWResult WinDResult Draw
 -15
 30
 DResult DrawLResult LossDResult DrawWResult WinDResult DrawLResult Loss
-13Valencia
+14Valencia
 26
 7
 8
@@ -138,16 +148,6 @@ DResult DrawLResult LossDResult DrawWResult WinDResult DrawLResult Loss
 -12
 29
 WResult WinLResult LossLResult LossWResult WinLResult LossWResult Win
-14Getafe
-25
-8
-5
-12
-20
-29
--9
-29
-LResult LossDResult DrawDResult DrawWResult WinWResult WinLResult Loss
 15Rayo Vallecano
 25
 6
