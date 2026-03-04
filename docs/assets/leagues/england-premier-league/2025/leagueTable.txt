@@ -9,46 +9,56 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1Arsenal
-29
-19
+30
+20
 7
 3
-58
-22
-36
-64
-WResult WinWResult WinDResult DrawDResult DrawWResult WinWResult Win
-2Manchester City
-28
-18
-5
-5
-57
-25
-32
 59
-WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
+22
+37
+67
+WResult WinDResult DrawDResult DrawWResult WinWResult WinWResult Win
+2Manchester City
+29
+18
+6
+5
+59
+27
+32
+60
+DResult DrawWResult WinWResult WinWResult WinWResult WinDResult Draw
 3Manchester United
-28
+29
 14
 9
-5
-50
-38
-12
+6
 51
-WResult WinWResult WinWResult WinDResult DrawWResult WinWResult Win
+40
+11
+51
+WResult WinWResult WinDResult DrawWResult WinWResult WinLResult Loss
 4Aston Villa
-28
+29
 15
 6
-7
-38
-30
 8
+39
+34
+5
 51
-WResult WinLResult LossDResult DrawWResult WinDResult DrawLResult Loss
-5Liverpool
+LResult LossDResult DrawWResult WinDResult DrawLResult LossLResult Loss
+5Chelsea
+29
+13
+9
+7
+53
+34
+19
+48
+WResult WinWResult WinDResult DrawDResult DrawLResult LossWResult Win
+6Liverpool
 29
 14
 6
@@ -58,16 +68,6 @@ WResult WinLResult LossDResult DrawWResult WinDResult DrawLResult Loss
 9
 48
 WResult WinLResult LossWResult WinWResult WinWResult WinLResult Loss
-6Chelsea
-28
-12
-9
-7
-49
-33
-16
-45
-WResult WinWResult WinWResult WinDResult DrawDResult DrawLResult Loss
 7Brentford
 29
 13
@@ -99,15 +99,15 @@ DResult DrawWResult WinLResult LossLResult LossWResult WinWResult Win
 40
 WResult WinDResult DrawWResult WinDResult DrawDResult DrawDResult Draw
 10Fulham
-28
+29
 12
 4
-12
+13
 40
-42
--2
+43
+-3
 40
-WResult WinLResult LossLResult LossLResult LossWResult WinWResult Win
+LResult LossLResult LossLResult LossWResult WinWResult WinLResult Loss
 11Sunderland
 29
 10
@@ -118,26 +118,26 @@ WResult WinLResult LossLResult LossLResult LossWResult WinWResult Win
 -4
 40
 WResult WinLResult LossLResult LossLResult LossDResult DrawWResult Win
-12Brighton &amp; Hove Albion
-28
-9
-10
-9
-38
-35
-3
-37
-LResult LossDResult DrawLResult LossLResult LossWResult WinWResult Win
-13Newcastle United
-28
-10
+12Newcastle United
+29
+11
 6
 12
-40
 42
--2
+43
+-1
+39
+LResult LossLResult LossWResult WinLResult LossLResult LossWResult Win
+13Brighton &amp; Hove Albion
+29
+9
+10
+10
+38
 36
-LResult LossLResult LossLResult LossWResult WinLResult LossLResult Loss
+2
+37
+DResult DrawLResult LossLResult LossWResult WinWResult WinLResult Loss
 14Crystal Palace
 28
 9
@@ -169,25 +169,25 @@ LResult LossWResult WinDResult DrawDResult DrawLResult LossLResult Loss
 29
 DResult DrawDResult DrawLResult LossLResult LossLResult LossLResult Loss
 17Nottingham Forest
-28
+29
 7
-6
+7
 15
-26
-41
+28
+43
 -15
-27
-WResult WinDResult DrawLResult LossDResult DrawLResult LossLResult Loss
-18West Ham United
 28
-6
+DResult DrawLResult LossDResult DrawLResult LossLResult LossDResult Draw
+18West Ham United
+29
+7
 7
 15
-34
+35
 54
--20
-25
-WResult WinLResult LossWResult WinDResult DrawDResult DrawLResult Loss
+-19
+28
+LResult LossWResult WinDResult DrawDResult DrawLResult LossWResult Win
 19Burnley
 29
 4
