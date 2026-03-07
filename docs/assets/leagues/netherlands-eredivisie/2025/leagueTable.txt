@@ -9,15 +9,15 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1PSV
-25
-21
+26
+22
 2
 2
-73
-30
-43
-65
-DResult DrawWResult WinWResult WinLResult LossWResult WinWResult Win
+75
+31
+44
+68
+WResult WinWResult WinLResult LossWResult WinWResult WinWResult Win
 2Feyenoord
 25
 15
@@ -29,15 +29,15 @@ DResult DrawWResult WinWResult WinLResult LossWResult WinWResult Win
 48
 WResult WinLResult LossWResult WinWResult WinWResult WinLResult Loss
 3Ajax
-25
+26
 11
 11
-3
-47
-31
-16
+4
+48
+34
+14
 44
-WResult WinDResult DrawDResult DrawWResult WinDResult DrawDResult Draw
+DResult DrawDResult DrawWResult WinDResult DrawDResult DrawLResult Loss
 4NEC
 25
 12
@@ -59,15 +59,15 @@ WResult WinWResult WinLResult LossDResult DrawDResult DrawLResult Loss
 41
 DResult DrawDResult DrawWResult WinDResult DrawWResult WinWResult Win
 6AZ
-25
+26
 11
 6
-8
+9
+43
 42
-40
-2
+1
 39
-WResult WinLResult LossDResult DrawWResult WinWResult WinLResult Loss
+LResult LossDResult DrawWResult WinWResult WinLResult LossLResult Loss
 7Sparta Rotterdam
 25
 11
@@ -78,7 +78,17 @@ WResult WinLResult LossDResult DrawWResult WinWResult WinLResult Loss
 -10
 37
 WResult WinWResult WinDResult DrawDResult DrawLResult LossLResult Loss
-8Utrecht
+8Heerenveen
+26
+10
+7
+9
+44
+44
+0
+37
+LResult LossWResult WinWResult WinLResult LossWResult WinWResult Win
+9Utrecht
 26
 9
 8
@@ -88,17 +98,17 @@ WResult WinWResult WinDResult DrawDResult DrawLResult LossLResult Loss
 7
 35
 LResult LossWResult WinWResult WinDResult DrawWResult WinDResult Draw
-9Heerenveen
-25
-9
-7
-9
-42
-43
--1
+10Groningen
+26
+10
+4
+12
+36
+36
+0
 34
-DResult DrawLResult LossWResult WinWResult WinLResult LossWResult Win
-10Fortuna Sittard
+LResult LossLResult LossLResult LossLResult LossLResult LossWResult Win
+11Fortuna Sittard
 25
 9
 5
@@ -108,16 +118,6 @@ DResult DrawLResult LossWResult WinWResult WinLResult LossWResult Win
 -6
 32
 WResult WinLResult LossDResult DrawLResult LossWResult WinWResult Win
-11Groningen
-25
-9
-4
-12
-33
-35
--2
-31
-LResult LossLResult LossLResult LossLResult LossLResult LossLResult Loss
 12Go Ahead Eagles
 25
 6
@@ -149,15 +149,15 @@ LResult LossWResult WinLResult LossLResult LossDResult DrawDResult Draw
 27
 LResult LossDResult DrawWResult WinWResult WinLResult LossWResult Win
 15Excelsior
-25
+26
 7
 5
-13
+14
+27
+44
+-17
 26
-42
--16
-26
-DResult DrawDResult DrawWResult WinLResult LossLResult LossLResult Loss
+DResult DrawWResult WinLResult LossLResult LossLResult LossLResult Loss
 16NAC Breda
 25
 5
