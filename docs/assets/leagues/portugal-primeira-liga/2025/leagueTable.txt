@@ -19,15 +19,15 @@ Form, Last 6 games, Oldest first
 65
 WResult WinLResult LossDResult DrawWResult WinWResult WinWResult Win
 2Sporting CP
-24
+25
 19
-4
+5
 1
-62
-12
+64
+14
 50
-61
-WResult WinWResult WinDResult DrawWResult WinWResult WinWResult Win
+62
+WResult WinDResult DrawWResult WinWResult WinWResult WinDResult Draw
 3Benfica
 24
 17
@@ -39,15 +39,15 @@ WResult WinWResult WinDResult DrawWResult WinWResult WinWResult Win
 58
 WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
 4Sporting Braga
-24
+25
 13
-6
+7
 5
-50
-23
+52
+25
 27
-45
-WResult WinWResult WinWResult WinLResult LossWResult WinWResult Win
+46
+WResult WinWResult WinLResult LossWResult WinWResult WinDResult Draw
 5Gil Vicente
 24
 11
@@ -69,25 +69,25 @@ LResult LossWResult WinWResult WinWResult WinLResult LossLResult Loss
 39
 LResult LossWResult WinLResult LossWResult WinDResult DrawWResult Win
 7Moreirense
-24
+25
 10
-4
+5
 10
-30
-34
+31
+35
 -4
-34
-WResult WinLResult LossLResult LossWResult WinLResult LossDResult Draw
+35
+LResult LossLResult LossWResult WinLResult LossDResult DrawDResult Draw
 8Estoril
-24
+25
 9
-6
+7
 9
 46
 42
 4
-33
-WResult WinWResult WinDResult DrawLResult LossWResult WinLResult Loss
+34
+WResult WinDResult DrawLResult LossWResult WinLResult LossDResult Draw
 9Vitória Guimarães
 24
 9
@@ -99,15 +99,15 @@ WResult WinWResult WinDResult DrawLResult LossWResult WinLResult Loss
 32
 LResult LossWResult WinLResult LossWResult WinLResult LossDResult Draw
 10Alverca
-24
+25
 7
-6
+7
 11
 24
 39
 -15
-27
-LResult LossDResult DrawLResult LossDResult DrawDResult DrawDResult Draw
+28
+DResult DrawLResult LossDResult DrawDResult DrawDResult DrawDResult Draw
 11Arouca
 25
 7
@@ -129,25 +129,25 @@ WResult WinWResult WinLResult LossWResult WinLResult LossLResult Loss
 24
 LResult LossDResult DrawWResult WinLResult LossLResult LossDResult Draw
 13Casa Pia
-24
+25
 5
-8
+9
 11
 26
 44
 -18
-23
-DResult DrawWResult WinDResult DrawWResult WinLResult LossDResult Draw
-14Nacional
 24
+WResult WinDResult DrawWResult WinLResult LossDResult DrawDResult Draw
+14Nacional
+25
 5
-6
+7
 13
-28
-36
+29
+37
 -8
-21
-WResult WinLResult LossDResult DrawLResult LossLResult LossLResult Loss
+22
+LResult LossDResult DrawLResult LossLResult LossLResult LossDResult Draw
 15Rio Ave
 24
 4
@@ -179,11 +179,11 @@ LResult LossDResult DrawDResult DrawDResult DrawWResult WinDResult Draw
 19
 LResult LossLResult LossLResult LossLResult LossDResult DrawDResult Draw
 18AVS
-24
+25
 1
-6
+7
 17
 18
 57
 -39
-9
+10
