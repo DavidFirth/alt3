@@ -19,15 +19,15 @@ Form, Last 6 games, Oldest first
 57
 WResult WinWResult WinLResult LossWResult WinWResult WinLResult Loss
 2Lens
-24
-17
+25
+18
 2
 5
-45
+48
 21
-24
-53
-LResult LossWResult WinWResult WinWResult WinLResult LossDResult Draw
+27
+56
+WResult WinWResult WinWResult WinLResult LossDResult DrawWResult Win
 3Marseille
 25
 14
@@ -39,16 +39,36 @@ LResult LossWResult WinWResult WinWResult WinLResult LossDResult Draw
 46
 DResult DrawLResult LossDResult DrawLResult LossWResult WinWResult Win
 4Olympique Lyonnais
-24
+25
 14
-3
+4
 7
-39
-26
+40
+27
 13
-45
-WResult WinWResult WinWResult WinWResult WinLResult LossLResult Loss
-5Monaco
+46
+WResult WinWResult WinWResult WinLResult LossLResult LossDResult Draw
+5Rennes
+25
+12
+7
+6
+42
+35
+7
+43
+LResult LossLResult LossWResult WinWResult WinWResult WinWResult Win
+6Lille
+25
+12
+5
+8
+38
+32
+6
+41
+LResult LossDResult DrawDResult DrawWResult WinWResult WinDResult Draw
+7Monaco
 25
 12
 4
@@ -58,26 +78,6 @@ WResult WinWResult WinWResult WinWResult WinLResult LossLResult Loss
 6
 40
 WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
-6Lille
-24
-12
-4
-8
-37
-31
-6
-40
-LResult LossLResult LossDResult DrawDResult DrawWResult WinWResult Win
-7Rennes
-24
-11
-7
-6
-38
-35
-3
-40
-LResult LossLResult LossLResult LossWResult WinWResult WinWResult Win
 8Strasbourg
 25
 10
@@ -89,25 +89,25 @@ LResult LossLResult LossLResult LossWResult WinWResult WinWResult Win
 36
 LResult LossLResult LossDResult DrawWResult WinDResult DrawDResult Draw
 9Brest
-24
-9
+25
+10
 6
 9
-32
 34
--2
-33
-LResult LossDResult DrawWResult WinDResult DrawWResult WinWResult Win
+34
+0
+36
+DResult DrawWResult WinDResult DrawWResult WinWResult WinWResult Win
 10Lorient
-24
+25
 8
-9
+10
 7
-34
-38
+35
+39
 -4
-33
-WResult WinWResult WinLResult LossWResult WinDResult DrawDResult Draw
+34
+WResult WinLResult LossWResult WinDResult DrawDResult DrawDResult Draw
 11Angers SCO
 25
 9
@@ -128,36 +128,36 @@ WResult WinWResult WinLResult LossLResult LossLResult LossWResult Win
 4
 31
 DResult DrawLResult LossLResult LossDResult DrawLResult LossLResult Loss
-13Le Havre
-24
+13Paris FC
+25
+6
+9
+10
+29
+41
+-12
+27
+DResult DrawDResult DrawLResult LossDResult DrawWResult WinDResult Draw
+14Le Havre
+25
 6
 8
-10
+11
 20
-30
--10
-26
-DResult DrawLResult LossWResult WinWResult WinLResult LossLResult Loss
-14Paris FC
-24
-6
-8
-10
-28
-40
+32
 -12
 26
-DResult DrawDResult DrawDResult DrawLResult LossDResult DrawWResult Win
+LResult LossWResult WinWResult WinLResult LossLResult LossLResult Loss
 15Nice
-24
+25
 6
 6
-12
+13
 30
-44
--14
+48
+-18
 24
-WResult WinDResult DrawDResult DrawLResult LossDResult DrawLResult Loss
+DResult DrawDResult DrawLResult LossDResult DrawLResult LossLResult Loss
 16Auxerre
 25
 4
@@ -179,11 +179,11 @@ DResult DrawDResult DrawWResult WinLResult LossDResult DrawDResult Draw
 17
 LResult LossLResult LossLResult LossWResult WinLResult LossLResult Loss
 18Metz
-24
+25
 3
 4
-17
+18
 22
-53
--31
+56
+-34
 13
