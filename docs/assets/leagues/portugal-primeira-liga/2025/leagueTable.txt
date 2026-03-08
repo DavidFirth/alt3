@@ -9,15 +9,15 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1Porto
-24
+25
 21
-2
+3
 1
-47
-8
+49
+10
 39
-65
-WResult WinLResult LossDResult DrawWResult WinWResult WinWResult Win
+66
+LResult LossDResult DrawWResult WinWResult WinWResult WinDResult Draw
 2Sporting CP
 25
 19
@@ -29,15 +29,15 @@ WResult WinLResult LossDResult DrawWResult WinWResult WinWResult Win
 62
 WResult WinDResult DrawWResult WinWResult WinWResult WinDResult Draw
 3Benfica
-24
+25
 17
-7
+8
 0
-51
-14
+53
+16
 37
-58
-WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
+59
+DResult DrawWResult WinWResult WinWResult WinWResult WinDResult Draw
 4Sporting Braga
 25
 13
@@ -49,15 +49,15 @@ WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
 46
 WResult WinWResult WinLResult LossWResult WinWResult WinDResult Draw
 5Gil Vicente
-24
+25
 11
-7
+8
 6
-35
-23
+37
+25
 12
-40
-LResult LossWResult WinWResult WinWResult WinLResult LossLResult Loss
+41
+WResult WinWResult WinWResult WinLResult LossLResult LossDResult Draw
 6Famalicão
 25
 11
@@ -89,15 +89,15 @@ LResult LossLResult LossWResult WinLResult LossDResult DrawDResult Draw
 34
 WResult WinDResult DrawLResult LossWResult WinLResult LossDResult Draw
 9Vitória Guimarães
-24
+25
 9
 5
-10
+11
 28
-35
--7
+37
+-9
 32
-LResult LossWResult WinLResult LossWResult WinLResult LossDResult Draw
+WResult WinLResult LossWResult WinLResult LossDResult DrawLResult Loss
 10Alverca
 25
 7
@@ -119,15 +119,15 @@ DResult DrawLResult LossDResult DrawDResult DrawDResult DrawDResult Draw
 26
 WResult WinWResult WinLResult LossWResult WinLResult LossLResult Loss
 12Estrela
-24
+25
 5
-9
 10
-26
-41
+10
+28
+43
 -15
-24
-LResult LossDResult DrawWResult WinLResult LossLResult LossDResult Draw
+25
+DResult DrawWResult WinLResult LossLResult LossDResult DrawDResult Draw
 13Casa Pia
 25
 5
@@ -148,7 +148,17 @@ WResult WinDResult DrawWResult WinLResult LossDResult DrawDResult Draw
 -8
 22
 LResult LossDResult DrawLResult LossLResult LossLResult LossDResult Draw
-15Rio Ave
+15Santa Clara
+25
+5
+7
+13
+22
+31
+-9
+22
+LResult LossLResult LossLResult LossDResult DrawDResult DrawWResult Win
+16Rio Ave
 24
 4
 9
@@ -158,7 +168,7 @@ LResult LossDResult DrawLResult LossLResult LossLResult LossDResult Draw
 -21
 21
 LResult LossLResult LossLResult LossLResult LossLResult LossDResult Draw
-16Tondela
+17Tondela
 24
 4
 7
@@ -168,16 +178,6 @@ LResult LossLResult LossLResult LossLResult LossLResult LossDResult Draw
 -19
 19
 LResult LossDResult DrawDResult DrawDResult DrawWResult WinDResult Draw
-17Santa Clara
-24
-4
-7
-13
-20
-31
--11
-19
-LResult LossLResult LossLResult LossLResult LossDResult DrawDResult Draw
 18AVS
 25
 1
