@@ -119,16 +119,26 @@ WResult WinDResult DrawLResult LossDResult DrawLResult LossWResult Win
 36
 WResult WinLResult LossLResult LossLResult LossWResult WinDResult Draw
 12Parma
-28
+29
 8
 10
-10
-20
-32
--12
+11
+21
+36
+-15
 34
-LResult LossWResult WinWResult WinWResult WinDResult DrawDResult Draw
-13Genoa
+WResult WinWResult WinWResult WinDResult DrawDResult DrawLResult Loss
+13Torino
+29
+9
+6
+14
+32
+50
+-18
+33
+DResult DrawLResult LossLResult LossWResult WinLResult LossWResult Win
+14Genoa
 28
 7
 9
@@ -138,7 +148,7 @@ LResult LossWResult WinWResult WinWResult WinDResult DrawDResult Draw
 -6
 30
 LResult LossLResult LossDResult DrawWResult WinLResult LossWResult Win
-14Cagliari
+15Cagliari
 28
 7
 9
@@ -148,16 +158,6 @@ LResult LossLResult LossDResult DrawWResult WinLResult LossWResult Win
 -8
 30
 WResult WinLResult LossLResult LossDResult DrawDResult DrawLResult Loss
-15Torino
-28
-8
-6
-14
-28
-49
--21
-30
-WResult WinDResult DrawLResult LossLResult LossWResult WinLResult Loss
 16Lecce
 28
 7
