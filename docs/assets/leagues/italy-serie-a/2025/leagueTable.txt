@@ -9,15 +9,15 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1Inter Milan
-28
+29
 22
-1
+2
 5
-64
-22
+65
+23
 42
-67
-WResult WinWResult WinWResult WinWResult WinWResult WinLResult Loss
+68
+WResult WinWResult WinWResult WinWResult WinLResult LossDResult Draw
 2AC Milan
 28
 17
@@ -29,16 +29,26 @@ WResult WinWResult WinWResult WinWResult WinWResult WinLResult Loss
 60
 WResult WinWResult WinDResult DrawLResult LossWResult WinWResult Win
 3Napoli
-28
-17
+29
+18
 5
 6
-43
+45
+30
+15
+59
+WResult WinDResult DrawLResult LossWResult WinWResult WinWResult Win
+4Juventus
 29
-14
-56
-WResult WinWResult WinDResult DrawLResult LossWResult WinWResult Win
-4Como
+15
+8
+6
+51
+28
+23
+53
+DResult DrawLResult LossLResult LossDResult DrawWResult WinWResult Win
+5Como
 28
 14
 9
@@ -48,7 +58,7 @@ WResult WinWResult WinDResult DrawLResult LossWResult WinWResult Win
 25
 51
 DResult DrawLResult LossDResult DrawWResult WinWResult WinWResult Win
-5Roma
+6Roma
 28
 16
 3
@@ -58,26 +68,16 @@ DResult DrawLResult LossDResult DrawWResult WinWResult WinWResult Win
 17
 51
 LResult LossWResult WinDResult DrawWResult WinDResult DrawLResult Loss
-6Juventus
-28
-14
-8
-6
-50
-28
-22
-50
-WResult WinDResult DrawLResult LossLResult LossDResult DrawWResult Win
 7Atalanta
-28
+29
 12
-10
+11
 6
-39
-26
+40
+27
 13
-46
-DResult DrawWResult WinWResult WinWResult WinLResult LossDResult Draw
+47
+WResult WinWResult WinWResult WinLResult LossDResult DrawDResult Draw
 8Bologna
 28
 11
@@ -109,15 +109,15 @@ WResult WinLResult LossWResult WinWResult WinWResult WinLResult Loss
 37
 WResult WinDResult DrawLResult LossDResult DrawLResult LossWResult Win
 11Udinese
-28
+29
 10
 6
-12
+13
 33
-41
--8
+42
+-9
 36
-WResult WinLResult LossLResult LossLResult LossWResult WinDResult Draw
+LResult LossLResult LossLResult LossWResult WinDResult DrawLResult Loss
 12Parma
 29
 8
@@ -159,15 +159,15 @@ LResult LossLResult LossDResult DrawWResult WinLResult LossWResult Win
 30
 WResult WinLResult LossLResult LossDResult DrawDResult DrawLResult Loss
 16Lecce
-28
+29
 7
 6
-15
-20
-37
--17
+16
+21
+39
+-18
 27
-LResult LossWResult WinWResult WinLResult LossLResult LossWResult Win
+WResult WinWResult WinLResult LossLResult LossWResult WinLResult Loss
 17Fiorentina
 28
 5
