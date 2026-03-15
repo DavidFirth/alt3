@@ -39,25 +39,25 @@ WResult WinWResult WinDResult DrawLResult LossWResult WinWResult Win
 50
 LResult LossWResult WinDResult DrawLResult LossWResult WinDResult Draw
 4Stuttgart
-25
-14
+26
+15
 5
 6
+51
+34
+17
 50
-34
-16
-47
-WResult WinLResult LossWResult WinDResult DrawWResult WinDResult Draw
+LResult LossWResult WinDResult DrawWResult WinDResult DrawWResult Win
 5RB Leipzig
-25
+26
 14
 5
-6
+7
 48
-34
-14
+35
+13
 47
-LResult LossWResult WinDResult DrawDResult DrawWResult WinWResult Win
+WResult WinDResult DrawDResult DrawWResult WinWResult WinLResult Loss
 6Bayer Leverkusen
 26
 13
@@ -79,16 +79,26 @@ WResult WinLResult LossDResult DrawWResult WinDResult DrawDResult Draw
 38
 DResult DrawWResult WinLResult LossWResult WinDResult DrawWResult Win
 8Freiburg
-25
+26
 9
 7
-9
+10
 37
-42
--5
+43
+-6
 34
-LResult LossWResult WinLResult LossWResult WinLResult LossDResult Draw
-9Augsburg
+WResult WinLResult LossWResult WinLResult LossDResult DrawLResult Loss
+9Union Berlin
+26
+8
+7
+11
+31
+42
+-11
+31
+DResult DrawLResult LossWResult WinLResult LossLResult LossWResult Win
+10Augsburg
 26
 9
 4
@@ -98,7 +108,7 @@ LResult LossWResult WinLResult LossWResult WinLResult LossDResult Draw
 -14
 31
 LResult LossWResult WinWResult WinWResult WinLResult LossLResult Loss
-10Hamburger SV
+11Hamburger SV
 26
 7
 9
@@ -108,16 +118,6 @@ LResult LossWResult WinWResult WinWResult WinLResult LossLResult Loss
 -8
 30
 WResult WinDResult DrawLResult LossLResult LossWResult WinDResult Draw
-11Union Berlin
-25
-7
-7
-11
-30
-42
--12
-28
-LResult LossDResult DrawLResult LossWResult WinLResult LossLResult Loss
 12Borussia M&#x27;gladbach
 26
 7
@@ -128,7 +128,17 @@ LResult LossDResult DrawLResult LossWResult WinLResult LossLResult Loss
 -13
 28
 DResult DrawLResult LossLResult LossWResult WinLResult LossWResult Win
-13Köln
+13Mainz 05
+26
+6
+9
+11
+31
+41
+-10
+27
+WResult WinLResult LossDResult DrawDResult DrawDResult DrawWResult Win
+14Köln
 26
 6
 7
@@ -138,26 +148,16 @@ DResult DrawLResult LossLResult LossWResult WinLResult LossWResult Win
 -9
 25
 LResult LossLResult LossDResult DrawLResult LossLResult LossDResult Draw
-14Werder Bremen
-25
+15Werder Bremen
+26
 6
 7
-12
+13
 29
-45
--16
+47
+-18
 25
-DResult DrawLResult LossLResult LossLResult LossWResult WinWResult Win
-15Mainz 05
-25
-5
-9
-11
-29
-41
--12
-24
-WResult WinWResult WinLResult LossDResult DrawDResult DrawDResult Draw
+LResult LossLResult LossLResult LossWResult WinWResult WinLResult Loss
 16St. Pauli
 26
 6
