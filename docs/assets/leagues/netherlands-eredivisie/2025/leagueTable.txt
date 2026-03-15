@@ -19,15 +19,15 @@ Form, Last 6 games, Oldest first
 68
 WResult WinLResult LossWResult WinWResult WinWResult WinLResult Loss
 2Feyenoord
-26
-15
+27
+16
 4
 7
-58
-38
-20
-49
-LResult LossWResult WinWResult WinWResult WinLResult LossDResult Draw
+60
+39
+21
+52
+WResult WinWResult WinWResult WinLResult LossDResult DrawWResult Win
 3NEC
 27
 14
@@ -49,16 +49,26 @@ LResult LossDResult DrawDResult DrawLResult LossWResult WinWResult Win
 47
 DResult DrawWResult WinDResult DrawDResult DrawLResult LossWResult Win
 5Twente
-26
-11
-11
-4
-45
 27
-18
+11
+11
+5
+45
+29
+16
 44
-DResult DrawWResult WinDResult DrawWResult WinWResult WinWResult Win
-6Heerenveen
+WResult WinDResult DrawWResult WinWResult WinWResult WinLResult Loss
+6AZ
+27
+12
+6
+9
+47
+42
+5
+42
+DResult DrawWResult WinWResult WinLResult LossLResult LossWResult Win
+7Heerenveen
 27
 11
 7
@@ -68,17 +78,17 @@ DResult DrawWResult WinDResult DrawWResult WinWResult WinWResult Win
 3
 40
 WResult WinWResult WinLResult LossWResult WinWResult WinWResult Win
-7AZ
-26
-11
-6
+8Utrecht
+27
+10
+8
 9
-43
-42
-1
-39
-LResult LossDResult DrawWResult WinWResult WinLResult LossLResult Loss
-8Sparta Rotterdam
+40
+31
+9
+38
+WResult WinWResult WinDResult DrawWResult WinDResult DrawWResult Win
+9Sparta Rotterdam
 27
 11
 5
@@ -88,16 +98,6 @@ LResult LossDResult DrawWResult WinWResult WinLResult LossLResult Loss
 -14
 38
 DResult DrawDResult DrawLResult LossLResult LossDResult DrawLResult Loss
-9Utrecht
-26
-9
-8
-9
-38
-31
-7
-35
-LResult LossWResult WinWResult WinDResult DrawWResult WinDResult Draw
 10Groningen
 27
 10
@@ -118,7 +118,17 @@ LResult LossLResult LossLResult LossLResult LossWResult WinDResult Draw
 -8
 35
 DResult DrawLResult LossWResult WinWResult WinLResult LossWResult Win
-12PEC Zwolle
+12Go Ahead Eagles
+27
+7
+11
+9
+45
+43
+2
+32
+LResult LossLResult LossWResult WinWResult WinLResult LossWResult Win
+13PEC Zwolle
 27
 7
 9
@@ -128,16 +138,6 @@ DResult DrawLResult LossWResult WinWResult WinLResult LossWResult Win
 -16
 30
 LResult LossLResult LossDResult DrawDResult DrawDResult DrawDResult Draw
-13Go Ahead Eagles
-26
-6
-11
-9
-39
-43
--4
-29
-DResult DrawLResult LossLResult LossWResult WinWResult WinLResult Loss
 14Volendam
 27
 7
@@ -149,15 +149,15 @@ DResult DrawLResult LossLResult LossWResult WinWResult WinLResult Loss
 27
 WResult WinWResult WinLResult LossWResult WinLResult LossLResult Loss
 15Excelsior
-26
+27
 7
 5
-14
-27
-44
--17
+15
+28
+46
+-18
 26
-DResult DrawWResult WinLResult LossLResult LossLResult LossLResult Loss
+WResult WinLResult LossLResult LossLResult LossLResult LossLResult Loss
 16Telstar
 27
 5
@@ -169,21 +169,21 @@ DResult DrawWResult WinLResult LossLResult LossLResult LossLResult Loss
 24
 DResult DrawDResult DrawLResult LossWResult WinWResult WinLResult Loss
 17NAC Breda
-26
+27
 5
 8
-13
+14
 28
-42
--14
+48
+-20
 23
-DResult DrawLResult LossWResult WinWResult WinLResult LossDResult Draw
+LResult LossWResult WinWResult WinLResult LossDResult DrawLResult Loss
 18Heracles
-26
+27
 5
 3
-18
+19
 32
-65
--33
+69
+-37
 18
