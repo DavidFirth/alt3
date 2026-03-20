@@ -18,7 +18,17 @@ Form, Last 6 games, Oldest first
 42
 68
 WResult WinWResult WinWResult WinWResult WinLResult LossDResult Draw
-2AC Milan
+2Napoli
+30
+19
+5
+6
+46
+30
+16
+62
+DResult DrawLResult LossWResult WinWResult WinWResult WinWResult Win
+3AC Milan
 29
 17
 9
@@ -28,16 +38,6 @@ WResult WinWResult WinWResult WinWResult WinLResult LossDResult Draw
 23
 60
 WResult WinDResult DrawLResult LossWResult WinWResult WinLResult Loss
-3Napoli
-29
-18
-5
-6
-45
-30
-15
-59
-WResult WinDResult DrawLResult LossWResult WinWResult WinWResult Win
 4Como
 29
 15
@@ -98,7 +98,17 @@ LResult LossWResult WinWResult WinWResult WinLResult LossWResult Win
 1
 40
 DResult DrawLResult LossDResult DrawLResult LossWResult WinWResult Win
-10Sassuolo
+10Udinese
+30
+11
+6
+13
+35
+42
+-7
+39
+LResult LossLResult LossWResult WinDResult DrawLResult LossWResult Win
+11Sassuolo
 29
 11
 5
@@ -108,16 +118,6 @@ DResult DrawLResult LossDResult DrawLResult LossWResult WinWResult Win
 -4
 38
 LResult LossWResult WinWResult WinWResult WinLResult LossLResult Loss
-11Udinese
-29
-10
-6
-13
-33
-42
--9
-36
-LResult LossLResult LossLResult LossWResult WinDResult DrawLResult Loss
 12Parma
 29
 8
@@ -128,17 +128,7 @@ LResult LossLResult LossLResult LossWResult WinDResult DrawLResult Loss
 -15
 34
 WResult WinWResult WinWResult WinDResult DrawDResult DrawLResult Loss
-13Genoa
-29
-8
-9
-12
-36
-40
--4
-33
-LResult LossDResult DrawWResult WinLResult LossWResult WinWResult Win
-14Torino
+13Torino
 29
 9
 6
@@ -148,16 +138,26 @@ LResult LossDResult DrawWResult WinLResult LossWResult WinWResult Win
 -18
 33
 DResult DrawLResult LossLResult LossWResult WinLResult LossWResult Win
-15Cagliari
-29
-7
+14Genoa
+30
+8
 9
 13
-31
-41
--10
+36
+42
+-6
+33
+DResult DrawWResult WinLResult LossWResult WinWResult WinLResult Loss
+15Cagliari
 30
-LResult LossLResult LossDResult DrawDResult DrawLResult LossLResult Loss
+7
+9
+14
+31
+42
+-11
+30
+LResult LossDResult DrawDResult DrawLResult LossLResult LossLResult Loss
 16Fiorentina
 29
 6
