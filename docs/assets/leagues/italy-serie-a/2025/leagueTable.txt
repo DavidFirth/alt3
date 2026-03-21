@@ -18,7 +18,17 @@ Form, Last 6 games, Oldest first
 42
 68
 WResult WinWResult WinWResult WinWResult WinLResult LossDResult Draw
-2Napoli
+2AC Milan
+30
+18
+9
+3
+47
+23
+24
+63
+DResult DrawLResult LossWResult WinWResult WinLResult LossWResult Win
+3Napoli
 30
 19
 5
@@ -28,16 +38,6 @@ WResult WinWResult WinWResult WinWResult WinLResult LossDResult Draw
 16
 62
 DResult DrawLResult LossWResult WinWResult WinWResult WinWResult Win
-3AC Milan
-29
-17
-9
-3
-44
-21
-23
-60
-WResult WinDResult DrawLResult LossWResult WinWResult WinLResult Loss
 4Como
 29
 15
@@ -49,15 +49,15 @@ WResult WinDResult DrawLResult LossWResult WinWResult WinLResult Loss
 54
 LResult LossDResult DrawWResult WinWResult WinWResult WinWResult Win
 5Juventus
-29
+30
 15
-8
+9
 6
-51
-28
+52
+29
 23
-53
-DResult DrawLResult LossLResult LossDResult DrawWResult WinWResult Win
+54
+LResult LossLResult LossDResult DrawWResult WinWResult WinDResult Draw
 6Roma
 29
 16
@@ -98,7 +98,17 @@ LResult LossWResult WinWResult WinWResult WinLResult LossWResult Win
 1
 40
 DResult DrawLResult LossDResult DrawLResult LossWResult WinWResult Win
-10Udinese
+10Sassuolo
+30
+11
+6
+13
+36
+40
+-4
+39
+WResult WinWResult WinWResult WinLResult LossLResult LossDResult Draw
+11Udinese
 30
 11
 6
@@ -108,37 +118,17 @@ DResult DrawLResult LossDResult DrawLResult LossWResult WinWResult Win
 -7
 39
 LResult LossLResult LossWResult WinDResult DrawLResult LossWResult Win
-11Sassuolo
-29
-11
-5
-13
-35
-39
--4
-38
-LResult LossWResult WinWResult WinWResult WinLResult LossLResult Loss
 12Parma
-29
+30
 8
 10
-11
+12
 21
-36
--15
+38
+-17
 34
-WResult WinWResult WinWResult WinDResult DrawDResult DrawLResult Loss
-13Torino
-29
-9
-6
-14
-32
-50
--18
-33
-DResult DrawLResult LossLResult LossWResult WinLResult LossWResult Win
-14Genoa
+WResult WinWResult WinDResult DrawDResult DrawLResult LossLResult Loss
+13Genoa
 30
 8
 9
@@ -148,6 +138,16 @@ DResult DrawLResult LossLResult LossWResult WinLResult LossWResult Win
 -6
 33
 DResult DrawWResult WinLResult LossWResult WinWResult WinLResult Loss
+14Torino
+30
+9
+6
+15
+34
+53
+-19
+33
+LResult LossLResult LossWResult WinLResult LossWResult WinLResult Loss
 15Cagliari
 30
 7
@@ -179,15 +179,15 @@ DResult DrawWResult WinWResult WinLResult LossDResult DrawWResult Win
 27
 WResult WinWResult WinLResult LossLResult LossWResult WinLResult Loss
 18Cremonese
-29
-5
+30
+6
 9
 15
-23
+25
 44
--21
-24
-LResult LossDResult DrawLResult LossLResult LossLResult LossLResult Loss
+-19
+27
+DResult DrawLResult LossLResult LossLResult LossLResult LossWResult Win
 19Pisa
 29
 2
