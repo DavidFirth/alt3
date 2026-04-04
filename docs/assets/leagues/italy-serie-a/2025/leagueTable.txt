@@ -79,15 +79,15 @@ DResult DrawWResult WinDResult DrawLResult LossLResult LossWResult Win
 50
 WResult WinWResult WinLResult LossDResult DrawDResult DrawWResult Win
 8Lazio
-30
-11
-10
-9
 31
-28
+11
+11
+9
+32
+29
 3
-43
-LResult LossDResult DrawLResult LossWResult WinWResult WinWResult Win
+44
+DResult DrawLResult LossWResult WinWResult WinWResult WinDResult Draw
 9Bologna
 30
 12
@@ -99,15 +99,15 @@ LResult LossDResult DrawLResult LossWResult WinWResult WinWResult Win
 42
 WResult WinWResult WinWResult WinLResult LossWResult WinLResult Loss
 10Sassuolo
-30
-11
+31
+12
 6
 13
-36
-40
--4
-39
-WResult WinWResult WinWResult WinLResult LossLResult LossDResult Draw
+38
+41
+-3
+42
+WResult WinWResult WinLResult LossLResult LossDResult DrawWResult Win
 11Udinese
 30
 11
@@ -119,15 +119,15 @@ WResult WinWResult WinWResult WinLResult LossLResult LossDResult Draw
 39
 LResult LossLResult LossWResult WinDResult DrawLResult LossWResult Win
 12Parma
-30
+31
 8
-10
+11
 12
-21
-38
+22
+39
 -17
-34
-WResult WinWResult WinDResult DrawDResult DrawLResult LossLResult Loss
+35
+WResult WinDResult DrawDResult DrawLResult LossLResult LossDResult Draw
 13Genoa
 30
 8
@@ -148,26 +148,26 @@ DResult DrawWResult WinLResult LossWResult WinWResult WinLResult Loss
 -19
 33
 LResult LossLResult LossWResult WinLResult LossWResult WinLResult Loss
-15Cagliari
-30
-7
-9
-14
+15Fiorentina
 31
-42
--11
-30
-LResult LossDResult DrawDResult DrawLResult LossLResult LossLResult Loss
-16Fiorentina
-30
-6
+7
 11
 13
-35
+36
 44
--9
-29
-WResult WinWResult WinLResult LossDResult DrawWResult WinDResult Draw
+-8
+32
+WResult WinLResult LossDResult DrawWResult WinDResult DrawWResult Win
+16Cagliari
+31
+7
+9
+15
+32
+44
+-12
+30
+DResult DrawDResult DrawLResult LossLResult LossLResult LossLResult Loss
 17Cremonese
 30
 6
@@ -188,22 +188,22 @@ DResult DrawLResult LossLResult LossLResult LossLResult LossWResult Win
 -19
 27
 WResult WinLResult LossLResult LossWResult WinLResult LossLResult Loss
-19Hellas Verona
-30
-3
-9
-18
-22
-52
--30
-18
-LResult LossLResult LossLResult LossWResult WinLResult LossLResult Loss
-20Pisa
+19Pisa
 30
 2
 12
 16
 23
 54
+-31
+18
+LResult LossLResult LossLResult LossLResult LossWResult WinLResult Loss
+20Hellas Verona
+31
+3
+9
+19
+22
+53
 -31
 18
