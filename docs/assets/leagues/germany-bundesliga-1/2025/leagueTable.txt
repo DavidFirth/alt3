@@ -69,15 +69,15 @@ DResult DrawLResult LossWResult WinDResult DrawLResult LossLResult Loss
 49
 DResult DrawWResult WinDResult DrawDResult DrawDResult DrawWResult Win
 7Eintracht Frankfurt
-27
+28
 10
-8
 9
-50
-51
+9
+52
+53
 -1
-38
-WResult WinLResult LossWResult WinDResult DrawWResult WinLResult Loss
+39
+LResult LossWResult WinDResult DrawWResult WinLResult LossDResult Draw
 8Freiburg
 28
 10
@@ -98,7 +98,17 @@ WResult WinLResult LossDResult DrawLResult LossWResult WinLResult Loss
 -8
 33
 DResult DrawDResult DrawDResult DrawWResult WinWResult WinWResult Win
-10Augsburg
+10Union Berlin
+28
+8
+8
+12
+32
+47
+-15
+32
+WResult WinLResult LossLResult LossWResult WinLResult LossDResult Draw
+11Augsburg
 28
 9
 5
@@ -108,7 +118,7 @@ DResult DrawDResult DrawDResult DrawWResult WinWResult WinWResult Win
 -17
 32
 WResult WinWResult WinLResult LossLResult LossLResult LossDResult Draw
-11Hamburger SV
+12Hamburger SV
 28
 7
 10
@@ -118,16 +128,6 @@ WResult WinWResult WinLResult LossLResult LossLResult LossDResult Draw
 -9
 31
 LResult LossLResult LossWResult WinDResult DrawLResult LossDResult Draw
-12Union Berlin
-27
-8
-7
-12
-31
-46
--15
-31
-LResult LossWResult WinLResult LossLResult LossWResult WinLResult Loss
 13Borussia M&#x27;gladbach
 28
 7
@@ -149,25 +149,25 @@ LResult LossWResult WinLResult LossWResult WinDResult DrawDResult Draw
 28
 LResult LossWResult WinWResult WinLResult LossWResult WinLResult Loss
 15Köln
-27
+28
 6
-8
+9
 13
-38
-47
+40
+49
 -9
-26
-LResult LossDResult DrawLResult LossLResult LossDResult DrawDResult Draw
-16St. Pauli
 27
+DResult DrawLResult LossLResult LossDResult DrawDResult DrawDResult Draw
+16St. Pauli
+28
 6
-6
+7
 15
-24
-44
+25
+45
 -20
-24
-LResult LossWResult WinWResult WinDResult DrawLResult LossLResult Loss
+25
+WResult WinWResult WinDResult DrawLResult LossLResult LossDResult Draw
 17Wolfsburg
 28
 5
