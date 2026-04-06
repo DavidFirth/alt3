@@ -29,15 +29,15 @@ WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
 69
 LResult LossLResult LossWResult WinWResult WinWResult WinLResult Loss
 3Villarreal
-29
+30
 18
 4
-7
+8
 54
-34
-20
+35
+19
 58
-WResult WinWResult WinLResult LossWResult WinDResult DrawWResult Win
+WResult WinLResult LossWResult WinDResult DrawWResult WinLResult Loss
 4Atletico Madrid
 30
 17
@@ -118,7 +118,17 @@ LResult LossDResult DrawDResult DrawLResult LossLResult LossDResult Draw
 -11
 38
 WResult WinDResult DrawLResult LossLResult LossWResult WinLResult Loss
-12Rayo Vallecano
+12Girona
+30
+9
+10
+11
+32
+44
+-12
+37
+DResult DrawLResult LossDResult DrawWResult WinLResult LossWResult Win
+13Rayo Vallecano
 30
 8
 11
@@ -128,7 +138,7 @@ WResult WinDResult DrawLResult LossLResult LossWResult WinLResult Loss
 -6
 35
 DResult DrawWResult WinDResult DrawDResult DrawLResult LossWResult Win
-13Valencia
+14Valencia
 30
 9
 8
@@ -138,16 +148,6 @@ DResult DrawWResult WinDResult DrawDResult DrawLResult LossWResult Win
 -11
 35
 LResult LossWResult WinWResult WinLResult LossWResult WinLResult Loss
-14Girona
-29
-8
-10
-11
-31
-44
--13
-34
-WResult WinDResult DrawLResult LossDResult DrawWResult WinLResult Loss
 15Alavés
 30
 8
