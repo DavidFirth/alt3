@@ -18,46 +18,46 @@ Form, Last 6 games, Oldest first
 45
 72
 WResult WinWResult WinLResult LossDResult DrawDResult DrawWResult Win
-2AC Milan
-30
-18
-9
-3
-47
-23
-24
-63
-DResult DrawLResult LossWResult WinWResult WinLResult LossWResult Win
-3Napoli
-30
-19
+2Napoli
+31
+20
 5
 6
-46
+47
 30
-16
-62
-DResult DrawLResult LossWResult WinWResult WinWResult WinWResult Win
-4Como
-30
-16
+17
+65
+LResult LossWResult WinWResult WinWResult WinWResult WinWResult Win
+3AC Milan
+31
+18
 9
+4
+47
+24
+23
+63
+LResult LossWResult WinWResult WinLResult LossWResult WinLResult Loss
+4Como
+31
+16
+10
 5
 53
 22
 31
-57
-DResult DrawWResult WinWResult WinWResult WinWResult WinWResult Win
+58
+WResult WinWResult WinWResult WinWResult WinWResult WinDResult Draw
 5Juventus
-30
-15
+31
+16
 9
 6
-52
-29
-23
 54
-LResult LossLResult LossDResult DrawWResult WinWResult WinDResult Draw
+29
+25
+57
+LResult LossDResult DrawWResult WinWResult WinDResult DrawWResult Win
 6Roma
 31
 17
@@ -69,15 +69,15 @@ LResult LossLResult LossDResult DrawWResult WinWResult WinDResult Draw
 54
 WResult WinDResult DrawLResult LossLResult LossWResult WinLResult Loss
 7Atalanta
-30
-13
+31
+14
 11
 6
-41
+44
 27
-14
-50
-WResult WinWResult WinLResult LossDResult DrawDResult DrawWResult Win
+17
+53
+WResult WinLResult LossDResult DrawDResult DrawWResult WinWResult Win
 8Bologna
 31
 13
@@ -109,15 +109,15 @@ DResult DrawLResult LossWResult WinWResult WinWResult WinDResult Draw
 42
 WResult WinWResult WinLResult LossLResult LossDResult DrawWResult Win
 11Udinese
-30
+31
 11
-6
+7
 13
 35
 42
 -7
-39
-LResult LossLResult LossWResult WinDResult DrawLResult LossWResult Win
+40
+LResult LossWResult WinDResult DrawLResult LossWResult WinDResult Draw
 12Torino
 31
 10
@@ -139,15 +139,15 @@ LResult LossWResult WinLResult LossWResult WinLResult LossWResult Win
 35
 WResult WinDResult DrawDResult DrawLResult LossLResult LossDResult Draw
 14Genoa
-30
+31
 8
 9
-13
+14
 36
-42
--6
+44
+-8
 33
-DResult DrawWResult WinLResult LossWResult WinWResult WinLResult Loss
+WResult WinLResult LossWResult WinWResult WinLResult LossLResult Loss
 15Fiorentina
 31
 7
@@ -168,17 +168,7 @@ WResult WinLResult LossDResult DrawWResult WinDResult DrawWResult Win
 -12
 30
 DResult DrawDResult DrawLResult LossLResult LossLResult LossLResult Loss
-17Lecce
-30
-7
-6
-17
-21
-40
--19
-27
-WResult WinLResult LossLResult LossWResult WinLResult LossLResult Loss
-18Cremonese
+17Cremonese
 31
 6
 9
@@ -188,6 +178,16 @@ WResult WinLResult LossLResult LossWResult WinLResult LossLResult Loss
 -20
 27
 LResult LossLResult LossLResult LossLResult LossWResult WinLResult Loss
+18Lecce
+31
+7
+6
+18
+21
+43
+-22
+27
+LResult LossLResult LossWResult WinLResult LossLResult LossLResult Loss
 19Hellas Verona
 31
 3
