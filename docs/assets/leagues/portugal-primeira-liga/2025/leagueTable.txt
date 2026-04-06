@@ -29,15 +29,15 @@ WResult WinWResult WinDResult DrawWResult WinWResult WinDResult Draw
 68
 WResult WinWResult WinWResult WinDResult DrawWResult WinWResult Win
 3Benfica
-27
+28
 19
-8
+9
 0
-58
-17
+59
+18
 41
-65
-WResult WinWResult WinWResult WinDResult DrawWResult WinWResult Win
+66
+WResult WinWResult WinDResult DrawWResult WinWResult WinDResult Draw
 4Sporting Braga
 27
 14
@@ -69,15 +69,15 @@ WResult WinDResult DrawWResult WinWResult WinWResult WinDResult Draw
 45
 LResult LossLResult LossDResult DrawDResult DrawLResult LossWResult Win
 7Estoril
-27
+28
 10
 7
-10
-48
-44
-4
+11
+50
+47
+3
 37
-LResult LossWResult WinLResult LossDResult DrawWResult WinLResult Loss
+WResult WinLResult LossDResult DrawWResult WinLResult LossLResult Loss
 8Moreirense
 28
 10
@@ -98,7 +98,17 @@ LResult LossDResult DrawDResult DrawLResult LossLResult LossLResult Loss
 -8
 35
 LResult LossDResult DrawLResult LossLResult LossLResult LossWResult Win
-10Alverca
+10Arouca
+28
+9
+5
+14
+37
+57
+-20
+32
+WResult WinLResult LossLResult LossLResult LossWResult WinWResult Win
+11Alverca
 28
 8
 8
@@ -108,7 +118,7 @@ LResult LossDResult DrawLResult LossLResult LossLResult LossWResult Win
 -17
 32
 DResult DrawDResult DrawDResult DrawDResult DrawLResult LossWResult Win
-11Rio Ave
+12Rio Ave
 28
 7
 9
@@ -118,16 +128,6 @@ DResult DrawDResult DrawDResult DrawDResult DrawLResult LossWResult Win
 -19
 30
 LResult LossDResult DrawWResult WinWResult WinWResult WinLResult Loss
-12Arouca
-27
-8
-5
-14
-34
-55
--21
-29
-LResult LossWResult WinLResult LossLResult LossLResult LossWResult Win
 13Estrela
 28
 6
@@ -159,15 +159,15 @@ DResult DrawDResult DrawWResult WinWResult WinWResult WinLResult Loss
 25
 LResult LossLResult LossDResult DrawLResult LossLResult LossWResult Win
 16Casa Pia
-26
+27
 5
-9
+10
 12
-26
-48
+27
+49
 -22
-24
-DResult DrawWResult WinLResult LossDResult DrawDResult DrawLResult Loss
+25
+WResult WinLResult LossDResult DrawDResult DrawLResult LossDResult Draw
 17Tondela
 27
 4
