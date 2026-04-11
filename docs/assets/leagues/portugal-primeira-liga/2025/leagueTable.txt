@@ -19,15 +19,15 @@ Form, Last 6 games, Oldest first
 73
 WResult WinWResult WinDResult DrawWResult WinWResult WinDResult Draw
 2Sporting CP
-27
-21
+28
+22
 5
 1
-72
+73
 17
-55
-68
-WResult WinWResult WinWResult WinDResult DrawWResult WinWResult Win
+56
+71
+WResult WinWResult WinDResult DrawWResult WinWResult WinWResult Win
 3Benfica
 28
 19
@@ -89,16 +89,26 @@ WResult WinLResult LossDResult DrawWResult WinLResult LossLResult Loss
 36
 DResult DrawDResult DrawLResult LossLResult LossLResult LossDResult Draw
 9Vitória Guimarães
-28
+29
 10
-5
+6
 13
-34
-42
--8
 35
-LResult LossDResult DrawLResult LossLResult LossLResult LossWResult Win
-10Arouca
+43
+-8
+36
+DResult DrawLResult LossLResult LossLResult LossWResult WinDResult Draw
+10Rio Ave
+29
+8
+9
+12
+31
+48
+-17
+33
+DResult DrawWResult WinWResult WinWResult WinLResult LossWResult Win
+11Arouca
 28
 9
 5
@@ -108,7 +118,7 @@ LResult LossDResult DrawLResult LossLResult LossLResult LossWResult Win
 -20
 32
 WResult WinLResult LossLResult LossLResult LossWResult WinWResult Win
-11Alverca
+12Alverca
 28
 8
 8
@@ -118,36 +128,26 @@ WResult WinLResult LossLResult LossLResult LossWResult WinWResult Win
 -17
 32
 DResult DrawDResult DrawDResult DrawDResult DrawLResult LossWResult Win
-12Rio Ave
-28
-7
-9
-12
-29
-48
--19
-30
-LResult LossDResult DrawWResult WinWResult WinWResult WinLResult Loss
 13Estrela
-28
+29
 6
 10
-12
+13
 33
-47
--14
+48
+-15
 28
-LResult LossDResult DrawDResult DrawLResult LossWResult WinLResult Loss
+DResult DrawDResult DrawLResult LossWResult WinLResult LossLResult Loss
 14Santa Clara
-28
+29
 7
 7
-14
+15
 26
-35
--9
+37
+-11
 28
-DResult DrawDResult DrawWResult WinWResult WinWResult WinLResult Loss
+DResult DrawWResult WinWResult WinWResult WinLResult LossLResult Loss
 15Nacional
 28
 6
@@ -179,11 +179,11 @@ WResult WinLResult LossDResult DrawDResult DrawLResult LossDResult Draw
 20
 DResult DrawWResult WinDResult DrawLResult LossDResult DrawLResult Loss
 18AVS
-28
+29
 1
-8
+9
 19
-18
-61
+19
+62
 -43
-11
+12
