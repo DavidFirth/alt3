@@ -28,7 +28,17 @@ WResult WinWResult WinDResult DrawWResult WinWResult WinWResult Win
 31
 64
 LResult LossWResult WinWResult WinWResult WinWResult WinLResult Loss
-3RB Leipzig
+3Stuttgart
+29
+17
+5
+7
+60
+38
+22
+56
+WResult WinDResult DrawWResult WinWResult WinLResult LossWResult Win
+4RB Leipzig
 29
 17
 5
@@ -38,16 +48,6 @@ LResult LossWResult WinWResult WinWResult WinWResult WinLResult Loss
 20
 56
 WResult WinWResult WinLResult LossWResult WinWResult WinWResult Win
-4Stuttgart
-28
-16
-5
-7
-56
-38
-18
-53
-DResult DrawWResult WinDResult DrawWResult WinWResult WinLResult Loss
 5Bayer Leverkusen
 29
 15
@@ -79,25 +79,25 @@ LResult LossWResult WinDResult DrawLResult LossLResult LossDResult Draw
 42
 WResult WinDResult DrawWResult WinLResult LossDResult DrawWResult Win
 8Freiburg
-28
-10
+29
+11
 7
 11
-41
+42
 47
--6
-37
-WResult WinLResult LossDResult DrawLResult LossWResult WinLResult Loss
+-5
+40
+LResult LossDResult DrawLResult LossWResult WinLResult LossWResult Win
 9Mainz 05
-28
+29
 8
 9
-11
+12
 35
-43
--8
+44
+-9
 33
-DResult DrawDResult DrawDResult DrawWResult WinWResult WinWResult Win
+DResult DrawDResult DrawWResult WinWResult WinWResult WinLResult Loss
 10Augsburg
 29
 9
@@ -119,16 +119,26 @@ WResult WinLResult LossLResult LossLResult LossDResult DrawDResult Draw
 32
 LResult LossLResult LossWResult WinLResult LossDResult DrawLResult Loss
 12Hamburger SV
-28
+29
 7
 10
-11
+12
 32
-41
--9
+45
+-13
 31
-LResult LossLResult LossWResult WinDResult DrawLResult LossDResult Draw
-13Borussia M&#x27;gladbach
+LResult LossWResult WinDResult DrawLResult LossDResult DrawLResult Loss
+13Köln
+29
+7
+9
+13
+43
+50
+-7
+30
+LResult LossLResult LossDResult DrawDResult DrawDResult DrawWResult Win
+14Borussia M&#x27;gladbach
 29
 7
 9
@@ -138,26 +148,16 @@ LResult LossLResult LossWResult WinDResult DrawLResult LossDResult Draw
 -14
 30
 WResult WinLResult LossWResult WinDResult DrawDResult DrawLResult Loss
-14Werder Bremen
-28
+15Werder Bremen
+29
 7
 7
-14
-31
-49
--18
+15
+32
+52
+-20
 28
-LResult LossWResult WinWResult WinLResult LossWResult WinLResult Loss
-15Köln
-28
-6
-9
-13
-40
-49
--9
-27
-DResult DrawLResult LossLResult LossDResult DrawDResult DrawDResult Draw
+WResult WinWResult WinLResult LossWResult WinLResult LossLResult Loss
 16St. Pauli
 29
 6
