@@ -19,25 +19,25 @@ Form, Last 6 games, Oldest first
 74
 WResult WinWResult WinLResult LossLResult LossWResult WinWResult Win
 2Feyenoord
-29
+30
 16
-6
 7
-61
-40
+7
+62
+41
 21
-54
-WResult WinLResult LossDResult DrawWResult WinDResult DrawDResult Draw
+55
+LResult LossDResult DrawWResult WinDResult DrawDResult DrawDResult Draw
 3NEC
-29
+30
 15
-8
+9
 6
-71
-47
+72
+48
 24
-53
-DResult DrawLResult LossWResult WinWResult WinDResult DrawWResult Win
+54
+LResult LossWResult WinWResult WinDResult DrawWResult WinDResult Draw
 4Twente
 30
 14
@@ -59,26 +59,16 @@ WResult WinWResult WinLResult LossWResult WinWResult WinWResult Win
 51
 DResult DrawLResult LossWResult WinDResult DrawLResult LossWResult Win
 6AZ
-29
-13
+30
+14
 6
 10
-49
+52
 45
-4
-45
-WResult WinLResult LossLResult LossWResult WinLResult LossWResult Win
-7Heerenveen
-29
-12
-8
-9
-53
-47
-6
-44
-LResult LossWResult WinWResult WinWResult WinDResult DrawWResult Win
-8Utrecht
+7
+48
+LResult LossLResult LossWResult WinLResult LossWResult WinWResult Win
+7Utrecht
 30
 12
 8
@@ -88,6 +78,16 @@ LResult LossWResult WinWResult WinWResult WinDResult DrawWResult Win
 13
 44
 WResult WinDResult DrawWResult WinWResult WinLResult LossWResult Win
+8Heerenveen
+30
+12
+8
+10
+53
+50
+3
+44
+WResult WinWResult WinWResult WinDResult DrawWResult WinLResult Loss
 9Groningen
 30
 12
@@ -119,25 +119,25 @@ LResult LossDResult DrawLResult LossWResult WinDResult DrawLResult Loss
 36
 WResult WinLResult LossWResult WinLResult LossWResult WinDResult Draw
 12Fortuna Sittard
-29
+30
 10
-5
+6
 14
-43
-54
+44
+55
 -11
-35
-WResult WinWResult WinLResult LossWResult WinLResult LossLResult Loss
+36
+WResult WinLResult LossWResult WinLResult LossLResult LossDResult Draw
 13PEC Zwolle
-29
+30
 8
-9
+10
 12
-38
-58
+40
+60
 -20
-33
-DResult DrawDResult DrawDResult DrawDResult DrawWResult WinLResult Loss
+34
+DResult DrawDResult DrawDResult DrawWResult WinLResult LossDResult Draw
 14Volendam
 30
 7
@@ -149,15 +149,15 @@ DResult DrawDResult DrawDResult DrawDResult DrawWResult WinLResult Loss
 28
 WResult WinLResult LossLResult LossLResult LossDResult DrawLResult Loss
 15Excelsior
-29
+30
 7
-6
+7
 16
-29
-49
+31
+51
 -20
-27
-LResult LossLResult LossLResult LossLResult LossDResult DrawLResult Loss
+28
+LResult LossLResult LossLResult LossDResult DrawLResult LossDResult Draw
 16Telstar
 30
 6
@@ -169,15 +169,15 @@ LResult LossLResult LossLResult LossLResult LossDResult DrawLResult Loss
 27
 WResult WinWResult WinLResult LossWResult WinLResult LossLResult Loss
 17NAC Breda
-29
+30
 5
-9
+10
 15
-29
-50
+30
+51
 -21
-24
-WResult WinLResult LossDResult DrawLResult LossLResult LossDResult Draw
+25
+LResult LossDResult DrawLResult LossLResult LossDResult DrawDResult Draw
 18Heracles
 30
 5
