@@ -69,15 +69,15 @@ DResult DrawWResult WinWResult WinWResult WinWResult WinWResult Win
 68
 WResult WinLResult LossWResult WinDResult DrawDResult DrawLResult Loss
 7Wrexham
-41
+42
 17
 13
-11
+12
 63
-58
-5
+60
+3
 64
-LResult LossWResult WinLResult LossWResult WinDResult DrawLResult Loss
+WResult WinLResult LossWResult WinDResult DrawLResult LossLResult Loss
 8Derby County
 42
 18
@@ -148,7 +148,17 @@ LResult LossLResult LossWResult WinDResult DrawDResult DrawWResult Win
 -4
 57
 WResult WinLResult LossLResult LossDResult DrawDResult DrawWResult Win
-15Stoke City
+15Birmingham City
+42
+15
+11
+16
+51
+52
+-1
+56
+WResult WinDResult DrawLResult LossLResult LossLResult LossWResult Win
+16Stoke City
 42
 15
 10
@@ -158,7 +168,7 @@ WResult WinLResult LossLResult LossDResult DrawDResult DrawWResult Win
 3
 55
 DResult DrawWResult WinLResult LossWResult WinLResult LossDResult Draw
-16Sheffield United
+17Sheffield United
 42
 16
 6
@@ -168,16 +178,6 @@ DResult DrawWResult WinLResult LossWResult WinLResult LossDResult Draw
 0
 54
 LResult LossDResult DrawLResult LossDResult DrawLResult LossWResult Win
-17Birmingham City
-41
-14
-11
-16
-49
-52
--3
-53
-LResult LossWResult WinDResult DrawLResult LossLResult LossLResult Loss
 18Charlton Athletic
 42
 12
