@@ -28,7 +28,17 @@ LResult LossWResult WinWResult WinLResult LossWResult WinWResult Win
 27
 59
 LResult LossDResult DrawWResult WinLResult LossWResult WinLResult Loss
-3Marseille
+3Lille
+29
+16
+5
+8
+49
+34
+15
+53
+WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
+4Marseille
 29
 16
 4
@@ -38,17 +48,17 @@ LResult LossDResult DrawWResult WinLResult LossWResult WinLResult Loss
 20
 52
 WResult WinWResult WinWResult WinLResult LossLResult LossWResult Win
-4Lille
-28
+5Olympique Lyonnais
+29
 15
-5
+6
 8
-45
-34
-11
-50
-WResult WinWResult WinDResult DrawWResult WinWResult WinWResult Win
-5Rennes
+43
+29
+14
+51
+LResult LossDResult DrawDResult DrawLResult LossDResult DrawWResult Win
+6Rennes
 29
 14
 8
@@ -58,7 +68,7 @@ WResult WinWResult WinDResult DrawWResult WinWResult WinWResult Win
 8
 50
 WResult WinWResult WinLResult LossDResult DrawWResult WinWResult Win
-6Monaco
+7Monaco
 29
 15
 4
@@ -68,16 +78,6 @@ WResult WinWResult WinLResult LossDResult DrawWResult WinWResult Win
 7
 49
 WResult WinWResult WinWResult WinWResult WinWResult WinLResult Loss
-7Olympique Lyonnais
-28
-14
-6
-8
-41
-29
-12
-48
-LResult LossLResult LossDResult DrawDResult DrawLResult LossDResult Draw
 8Strasbourg
 28
 12
@@ -89,25 +89,25 @@ LResult LossLResult LossDResult DrawDResult DrawLResult LossDResult Draw
 43
 WResult WinDResult DrawDResult DrawDResult DrawWResult WinWResult Win
 9Lorient
-28
+29
 9
 11
-8
+9
 38
-42
--4
+44
+-6
 38
-DResult DrawDResult DrawDResult DrawWResult WinLResult LossDResult Draw
+DResult DrawDResult DrawWResult WinLResult LossDResult DrawLResult Loss
 10Toulouse
-28
+29
 10
 7
-11
+12
 39
-35
-4
+39
+0
 37
-DResult DrawLResult LossLResult LossWResult WinWResult WinLResult Loss
+LResult LossLResult LossWResult WinWResult WinLResult LossLResult Loss
 11Brest
 28
 10
@@ -139,25 +139,25 @@ WResult WinDResult DrawDResult DrawWResult WinDResult DrawWResult Win
 33
 LResult LossWResult WinLResult LossLResult LossDResult DrawLResult Loss
 14Le Havre
-28
+29
 6
-10
+11
 12
-23
-36
+24
+37
 -13
-28
-LResult LossLResult LossLResult LossDResult DrawLResult LossDResult Draw
+29
+LResult LossLResult LossDResult DrawLResult LossDResult DrawDResult Draw
 15Nice
-28
+29
 7
-6
+7
 15
-33
-55
+34
+56
 -22
-27
-DResult DrawLResult LossLResult LossWResult WinLResult LossLResult Loss
+28
+LResult LossLResult LossWResult WinLResult LossLResult LossDResult Draw
 16Auxerre
 29
 5
