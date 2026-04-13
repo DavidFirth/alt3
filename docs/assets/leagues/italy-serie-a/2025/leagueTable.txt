@@ -89,15 +89,15 @@ LResult LossDResult DrawDResult DrawWResult WinWResult WinLResult Loss
 48
 WResult WinLResult LossWResult WinLResult LossWResult WinWResult Win
 9Lazio
-31
-11
-11
-9
 32
-29
-3
+11
+11
+10
+32
+30
+2
 44
-DResult DrawLResult LossWResult WinWResult WinWResult WinDResult Draw
+LResult LossWResult WinWResult WinWResult WinDResult DrawLResult Loss
 10Udinese
 32
 12
@@ -148,7 +148,17 @@ LResult LossWResult WinWResult WinLResult LossLResult LossWResult Win
 -17
 36
 DResult DrawDResult DrawLResult LossLResult LossDResult DrawDResult Draw
-15Cagliari
+15Fiorentina
+32
+8
+11
+13
+37
+44
+-7
+35
+LResult LossDResult DrawWResult WinDResult DrawWResult WinWResult Win
+16Cagliari
 32
 8
 9
@@ -158,16 +168,6 @@ DResult DrawDResult DrawLResult LossLResult LossDResult DrawDResult Draw
 -11
 33
 DResult DrawLResult LossLResult LossLResult LossLResult LossWResult Win
-16Fiorentina
-31
-7
-11
-13
-36
-44
--8
-32
-WResult WinLResult LossDResult DrawWResult WinDResult DrawWResult Win
 17Cremonese
 32
 6
