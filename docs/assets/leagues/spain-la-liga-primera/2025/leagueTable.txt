@@ -79,15 +79,15 @@ WResult WinLResult LossDResult DrawLResult LossWResult WinLResult Loss
 42
 WResult WinLResult LossWResult WinLResult LossWResult WinDResult Draw
 8Getafe
-30
+31
 12
 5
-13
+14
 27
-31
--4
+32
+-5
 41
-LResult LossWResult WinWResult WinLResult LossWResult WinWResult Win
+WResult WinWResult WinLResult LossWResult WinWResult WinLResult Loss
 9Osasuna
 31
 10
@@ -188,7 +188,17 @@ LResult LossLResult LossDResult DrawWResult WinDResult DrawDResult Draw
 -8
 32
 DResult DrawLResult LossLResult LossWResult WinLResult LossWResult Win
-19Real Oviedo
+19Levante
+31
+7
+8
+16
+35
+50
+-15
+29
+WResult WinDResult DrawDResult DrawWResult WinLResult LossWResult Win
+20Real Oviedo
 31
 6
 9
@@ -197,13 +207,3 @@ DResult DrawLResult LossLResult LossWResult WinLResult LossWResult Win
 48
 -24
 27
-LResult LossDResult DrawWResult WinLResult LossWResult WinWResult Win
-20Levante
-30
-6
-8
-16
-34
-50
--16
-26
