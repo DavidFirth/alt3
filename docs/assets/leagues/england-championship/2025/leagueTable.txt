@@ -19,15 +19,15 @@ Form, Last 6 games, Oldest first
 85
 WResult WinLResult LossWResult WinWResult WinDResult DrawDResult Draw
 2Ipswich Town
-40
+41
 21
 12
-7
+8
 71
-40
-31
+42
+29
 75
-DResult DrawDResult DrawWResult WinDResult DrawWResult WinWResult Win
+DResult DrawWResult WinDResult DrawWResult WinWResult WinLResult Loss
 3Millwall
 42
 21
@@ -38,7 +38,17 @@ DResult DrawDResult DrawWResult WinDResult DrawWResult WinWResult Win
 9
 73
 WResult WinLResult LossDResult DrawWResult WinLResult LossDResult Draw
-4Middlesbrough
+4Southampton
+42
+20
+12
+10
+73
+50
+23
+72
+WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
+5Middlesbrough
 42
 20
 12
@@ -48,16 +58,6 @@ WResult WinLResult LossDResult DrawWResult WinLResult LossDResult Draw
 20
 72
 LResult LossDResult DrawDResult DrawLResult LossDResult DrawLResult Loss
-5Southampton
-41
-19
-12
-10
-70
-50
-20
-69
-DResult DrawWResult WinWResult WinWResult WinWResult WinWResult Win
 6Hull City
 42
 20
@@ -188,17 +188,27 @@ LResult LossDResult DrawLResult LossDResult DrawLResult LossWResult Win
 -12
 49
 WResult WinDResult DrawLResult LossLResult LossDResult DrawLResult Loss
-19Blackburn Rovers
+19Portsmouth
 42
 12
 12
 18
-38
-50
--12
+43
+57
+-14
 48
-LResult LossWResult WinDResult DrawWResult WinDResult DrawDResult Draw
-20West Bromwich Albion
+LResult LossLResult LossDResult DrawDResult DrawWResult WinWResult Win
+20Blackburn Rovers
+43
+12
+12
+19
+38
+53
+-15
+48
+WResult WinDResult DrawWResult WinDResult DrawDResult DrawLResult Loss
+21West Bromwich Albion
 42
 11
 13
@@ -208,16 +218,6 @@ LResult LossWResult WinDResult DrawWResult WinDResult DrawDResult Draw
 -14
 46
 DResult DrawWResult WinWResult WinDResult DrawDResult DrawDResult Draw
-21Portsmouth
-41
-11
-12
-18
-41
-57
--16
-45
-LResult LossLResult LossLResult LossDResult DrawDResult DrawWResult Win
 22Oxford United
 42
 10
