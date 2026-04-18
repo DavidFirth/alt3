@@ -19,15 +19,15 @@ Form, Last 6 games, Oldest first
 78
 LResult LossDResult DrawDResult DrawWResult WinWResult WinWResult Win
 2Napoli
-32
+33
 20
 6
-6
+7
 48
-31
-17
+33
+15
 66
-WResult WinWResult WinWResult WinWResult WinWResult WinDResult Draw
+WResult WinWResult WinWResult WinWResult WinDResult DrawLResult Loss
 3AC Milan
 32
 18
@@ -59,25 +59,25 @@ DResult DrawWResult WinWResult WinDResult DrawWResult WinWResult Win
 58
 WResult WinWResult WinWResult WinDResult DrawLResult LossLResult Loss
 6Roma
-32
+33
 18
-3
+4
 11
-45
-28
+46
+29
 17
-57
-DResult DrawLResult LossLResult LossWResult WinLResult LossWResult Win
+58
+LResult LossLResult LossWResult WinLResult LossWResult WinDResult Draw
 7Atalanta
-32
+33
 14
-11
+12
 7
-44
-28
+45
+29
 16
-53
-LResult LossDResult DrawDResult DrawWResult WinWResult WinLResult Loss
+54
+DResult DrawDResult DrawWResult WinWResult WinLResult LossDResult Draw
 8Bologna
 32
 14
@@ -88,7 +88,17 @@ LResult LossDResult DrawDResult DrawWResult WinWResult WinLResult Loss
 5
 48
 WResult WinLResult LossWResult WinLResult LossWResult WinWResult Win
-9Sassuolo
+9Lazio
+33
+12
+11
+10
+34
+30
+4
+47
+WResult WinWResult WinWResult WinDResult DrawLResult LossWResult Win
+10Sassuolo
 33
 13
 6
@@ -98,26 +108,16 @@ WResult WinLResult LossWResult WinLResult LossWResult WinWResult Win
 -3
 45
 LResult LossLResult LossDResult DrawWResult WinLResult LossWResult Win
-10Lazio
-32
-11
-11
-10
-32
-30
-2
-44
-LResult LossWResult WinWResult WinWResult WinDResult DrawLResult Loss
 11Udinese
-32
+33
 12
 7
-13
+14
 38
-42
--4
 43
-WResult WinDResult DrawLResult LossWResult WinDResult DrawWResult Win
+-5
+43
+DResult DrawLResult LossWResult WinDResult DrawWResult WinLResult Loss
 12Torino
 32
 11
@@ -128,7 +128,17 @@ WResult WinDResult DrawLResult LossWResult WinDResult DrawWResult Win
 -17
 39
 WResult WinLResult LossWResult WinLResult LossWResult WinWResult Win
-13Genoa
+13Parma
+33
+9
+12
+12
+24
+40
+-16
+39
+DResult DrawLResult LossLResult LossDResult DrawDResult DrawWResult Win
+14Genoa
 32
 9
 9
@@ -138,16 +148,6 @@ WResult WinLResult LossWResult WinLResult LossWResult WinWResult Win
 -7
 36
 LResult LossWResult WinWResult WinLResult LossLResult LossWResult Win
-14Parma
-32
-8
-12
-12
-23
-40
--17
-36
-DResult DrawDResult DrawLResult LossLResult LossDResult DrawDResult Draw
 15Fiorentina
 32
 8
