@@ -29,25 +29,25 @@ LResult LossWResult WinWResult WinLResult LossWResult WinWResult Win
 62
 DResult DrawWResult WinLResult LossWResult WinLResult LossWResult Win
 3Lille
-29
+30
 16
-5
+6
 8
 49
 34
 15
-53
-WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
+54
+DResult DrawWResult WinWResult WinWResult WinWResult WinDResult Draw
 4Marseille
-29
+30
 16
 4
-9
+10
 58
-38
-20
+40
+18
 52
-WResult WinWResult WinWResult WinLResult LossLResult LossWResult Win
+WResult WinWResult WinLResult LossLResult LossWResult WinLResult Loss
 5Olympique Lyonnais
 29
 15
@@ -89,15 +89,15 @@ WResult WinWResult WinWResult WinWResult WinWResult WinLResult Loss
 43
 WResult WinDResult DrawDResult DrawDResult DrawWResult WinWResult Win
 9Lorient
-29
-9
+30
+10
 11
 9
-38
+40
 44
--6
-38
-DResult DrawDResult DrawWResult WinLResult LossDResult DrawLResult Loss
+-4
+41
+DResult DrawWResult WinLResult LossDResult DrawLResult LossWResult Win
 10Toulouse
 30
 10
@@ -129,35 +129,35 @@ WResult WinWResult WinWResult WinLResult LossLResult LossLResult Loss
 35
 WResult WinDResult DrawDResult DrawWResult WinDResult DrawWResult Win
 13Angers SCO
-29
+30
 9
-6
+7
 14
-25
-39
+26
+40
 -14
-33
-LResult LossWResult WinLResult LossLResult LossDResult DrawLResult Loss
+34
+WResult WinLResult LossLResult LossDResult DrawLResult LossDResult Draw
 14Le Havre
-29
+30
 6
-11
 12
-24
-37
+12
+25
+38
 -13
-29
-LResult LossLResult LossDResult DrawLResult LossDResult DrawDResult Draw
+30
+LResult LossDResult DrawLResult LossDResult DrawDResult DrawDResult Draw
 15Nice
-29
+30
 7
-7
+8
 15
 34
 56
 -22
-28
-LResult LossLResult LossWResult WinLResult LossLResult LossDResult Draw
+29
+LResult LossWResult WinLResult LossLResult LossDResult DrawDResult Draw
 16Auxerre
 29
 5
