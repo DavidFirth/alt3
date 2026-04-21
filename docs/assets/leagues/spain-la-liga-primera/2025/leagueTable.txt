@@ -19,15 +19,15 @@ Form, Last 6 games, Oldest first
 79
 WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
 2Real Madrid
-31
-22
+32
+23
 4
 5
-65
-29
-36
-70
-LResult LossWResult WinWResult WinWResult WinLResult LossDResult Draw
+67
+30
+37
+73
+WResult WinWResult WinWResult WinLResult LossDResult DrawWResult Win
 3Villarreal
 31
 19
@@ -49,15 +49,15 @@ LResult LossWResult WinDResult DrawWResult WinLResult LossWResult Win
 57
 WResult WinWResult WinWResult WinLResult LossLResult LossLResult Loss
 5Real Betis
-31
-11
+32
+12
 13
 7
-45
-38
-7
-46
-DResult DrawLResult LossDResult DrawLResult LossDResult DrawDResult Draw
+48
+40
+8
+49
+LResult LossDResult DrawLResult LossDResult DrawDResult DrawWResult Win
 6Celta Vigo
 31
 11
@@ -88,17 +88,37 @@ WResult WinLResult LossWResult WinLResult LossWResult WinDResult Draw
 -5
 41
 WResult WinWResult WinLResult LossWResult WinWResult WinLResult Loss
-9Osasuna
-31
+9Athletic Club
+32
+12
+5
+15
+34
+45
+-11
+41
+LResult LossLResult LossWResult WinLResult LossLResult LossWResult Win
+10Osasuna
+32
 10
 9
-12
+13
 37
-38
--1
 39
-LResult LossDResult DrawLResult LossWResult WinDResult DrawDResult Draw
-10Espanyol
+-2
+39
+DResult DrawLResult LossWResult WinDResult DrawDResult DrawLResult Loss
+11Girona
+32
+9
+11
+12
+35
+48
+-13
+38
+DResult DrawWResult WinLResult LossWResult WinDResult DrawLResult Loss
+12Espanyol
 31
 10
 8
@@ -108,27 +128,27 @@ LResult LossDResult DrawLResult LossWResult WinDResult DrawDResult Draw
 -11
 38
 DResult DrawDResult DrawLResult LossLResult LossDResult DrawLResult Loss
-11Girona
-31
+13Valencia
+32
 9
-11
-11
-33
-45
+9
+14
+35
+47
 -12
-38
-LResult LossDResult DrawWResult WinLResult LossWResult WinDResult Draw
-12Athletic Club
-31
-11
-5
+36
+WResult WinLResult LossWResult WinLResult LossLResult LossDResult Draw
+14Mallorca
+32
+9
+8
 15
-33
-45
--12
-38
-DResult DrawLResult LossLResult LossWResult WinLResult LossLResult Loss
-13Rayo Vallecano
+40
+49
+-9
+35
+DResult DrawWResult WinLResult LossWResult WinWResult WinDResult Draw
+15Rayo Vallecano
 31
 8
 11
@@ -138,26 +158,6 @@ DResult DrawLResult LossLResult LossWResult WinLResult LossLResult Loss
 -9
 35
 WResult WinDResult DrawDResult DrawLResult LossWResult WinLResult Loss
-14Valencia
-31
-9
-8
-14
-34
-46
--12
-35
-WResult WinWResult WinLResult LossWResult WinLResult LossLResult Loss
-15Mallorca
-31
-9
-7
-15
-39
-48
--9
-34
-LResult LossDResult DrawWResult WinLResult LossWResult WinWResult Win
 16Sevilla
 31
 9
@@ -169,15 +169,15 @@ LResult LossDResult DrawWResult WinLResult LossWResult WinWResult Win
 34
 DResult DrawDResult DrawLResult LossLResult LossLResult LossWResult Win
 17Alavés
-31
+32
 8
 9
-14
-35
-46
--11
+15
+36
+48
+-12
 33
-LResult LossLResult LossDResult DrawWResult WinDResult DrawDResult Draw
+LResult LossDResult DrawWResult WinDResult DrawDResult DrawLResult Loss
 18Elche
 31
 7
