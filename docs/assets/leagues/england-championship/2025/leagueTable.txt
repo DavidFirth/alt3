@@ -18,7 +18,17 @@ Form, Last 6 games, Oldest first
 46
 89
 WResult WinWResult WinDResult DrawDResult DrawDResult DrawWResult Win
-2Millwall
+2Ipswich Town
+43
+22
+13
+8
+75
+45
+30
+79
+DResult DrawWResult WinWResult WinLResult LossDResult DrawWResult Win
+3Millwall
 44
 23
 10
@@ -28,16 +38,6 @@ WResult WinWResult WinDResult DrawDResult DrawDResult DrawWResult Win
 13
 79
 DResult DrawWResult WinLResult LossDResult DrawWResult WinWResult Win
-3Ipswich Town
-42
-21
-13
-8
-73
-44
-29
-76
-WResult WinDResult DrawWResult WinWResult WinLResult LossDResult Draw
 4Southampton
 44
 21
@@ -49,15 +49,15 @@ WResult WinDResult DrawWResult WinWResult WinLResult LossDResult Draw
 76
 WResult WinWResult WinWResult WinWResult WinWResult WinDResult Draw
 5Middlesbrough
-43
-20
+44
+21
 13
 10
-64
+65
 44
-20
-73
-DResult DrawDResult DrawLResult LossDResult DrawLResult LossDResult Draw
+21
+76
+DResult DrawLResult LossDResult DrawLResult LossDResult DrawWResult Win
 6Wrexham
 44
 19
@@ -98,7 +98,17 @@ WResult WinLResult LossWResult WinLResult LossWResult WinLResult Loss
 8
 64
 WResult WinDResult DrawWResult WinLResult LossWResult WinWResult Win
-10Swansea City
+10Birmingham City
+44
+16
+12
+16
+54
+54
+0
+60
+LResult LossLResult LossLResult LossWResult WinDResult DrawWResult Win
+11Swansea City
 44
 17
 9
@@ -108,7 +118,7 @@ WResult WinDResult DrawWResult WinLResult LossWResult WinWResult Win
 -4
 60
 LResult LossDResult DrawDResult DrawWResult WinLResult LossWResult Win
-11Bristol City
+12Bristol City
 44
 16
 11
@@ -118,7 +128,7 @@ LResult LossDResult DrawDResult DrawWResult WinLResult LossWResult Win
 -1
 59
 LResult LossWResult WinWResult WinDResult DrawLResult LossDResult Draw
-12Queens Park Rangers
+13Queens Park Rangers
 44
 16
 10
@@ -128,26 +138,16 @@ LResult LossWResult WinWResult WinDResult DrawLResult LossDResult Draw
 -8
 58
 WResult WinWResult WinDResult DrawDResult DrawLResult LossLResult Loss
-13Sheffield United
-43
+14Sheffield United
+44
 17
 6
-20
-61
-59
-2
+21
+62
+62
+0
 57
-DResult DrawLResult LossDResult DrawLResult LossWResult WinWResult Win
-14Birmingham City
-43
-15
-12
-16
-52
-53
--1
-57
-DResult DrawLResult LossLResult LossLResult LossWResult WinDResult Draw
+LResult LossDResult DrawLResult LossWResult WinWResult WinLResult Loss
 15Watford
 44
 14
@@ -159,15 +159,15 @@ DResult DrawLResult LossLResult LossLResult LossWResult WinDResult Draw
 57
 DResult DrawLResult LossDResult DrawLResult LossLResult LossLResult Loss
 16Preston North End
-43
+44
 14
 15
-14
-50
-55
--5
+15
+51
 57
-LResult LossWResult WinDResult DrawDResult DrawWResult WinLResult Loss
+-6
+57
+WResult WinDResult DrawDResult DrawWResult WinLResult LossLResult Loss
 17Stoke City
 44
 15
@@ -188,7 +188,17 @@ LResult LossWResult WinLResult LossDResult DrawLResult LossLResult Loss
 -9
 52
 WResult WinDResult DrawDResult DrawDResult DrawWResult WinWResult Win
-19Portsmouth
+19Blackburn Rovers
+45
+13
+13
+19
+42
+55
+-13
+52
+WResult WinDResult DrawDResult DrawLResult LossDResult DrawWResult Win
+20Portsmouth
 44
 13
 12
@@ -198,26 +208,16 @@ WResult WinDResult DrawDResult DrawDResult DrawWResult WinWResult Win
 -17
 51
 DResult DrawDResult DrawWResult WinWResult WinWResult WinLResult Loss
-20Charlton Athletic
-43
-12
-14
-17
-40
-52
--12
-50
-DResult DrawLResult LossLResult LossDResult DrawLResult LossDResult Draw
-21Blackburn Rovers
+21Charlton Athletic
 44
 12
-13
-19
-39
+14
+18
+41
 54
--15
-49
-DResult DrawWResult WinDResult DrawDResult DrawLResult LossDResult Draw
+-13
+50
+LResult LossLResult LossDResult DrawLResult LossDResult DrawLResult Loss
 22Oxford United
 44
 10
@@ -239,11 +239,11 @@ LResult LossDResult DrawDResult DrawWResult WinLResult LossLResult Loss
 42
 DResult DrawDResult DrawDResult DrawLResult LossLResult LossDResult Draw
 24Sheffield Wednesday
-43
+44
 1
 12
-30
+31
 26
-83
--57
+84
+-58
 -3
