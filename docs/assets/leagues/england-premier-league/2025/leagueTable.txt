@@ -109,15 +109,15 @@ WResult WinDResult DrawDResult DrawDResult DrawDResult DrawDResult Draw
 47
 WResult WinWResult WinLResult LossWResult WinDResult DrawLResult Loss
 11Sunderland
-33
+34
 12
 10
-11
+12
 36
-40
--4
+45
+-9
 46
-DResult DrawWResult WinLResult LossWResult WinWResult WinLResult Loss
+WResult WinLResult LossWResult WinWResult WinLResult LossLResult Loss
 12Fulham
 33
 13
@@ -159,15 +159,15 @@ LResult LossWResult WinWResult WinLResult LossLResult LossLResult Loss
 40
 LResult LossDResult DrawDResult DrawWResult WinWResult WinDResult Draw
 16Nottingham Forest
-33
-9
+34
+10
 9
 15
-36
+41
 45
--9
-36
-LResult LossDResult DrawDResult DrawWResult WinDResult DrawWResult Win
+-4
+39
+DResult DrawDResult DrawWResult WinDResult DrawWResult WinWResult Win
 17West Ham United
 33
 8
