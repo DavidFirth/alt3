@@ -9,15 +9,15 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1Porto
-30
-25
+31
+26
 4
 1
-61
-14
-47
-79
-DResult DrawWResult WinWResult WinDResult DrawWResult WinWResult Win
+63
+15
+48
+82
+WResult WinWResult WinDResult DrawWResult WinWResult WinWResult Win
 2Benfica
 31
 22
@@ -29,35 +29,35 @@ DResult DrawWResult WinWResult WinDResult DrawWResult WinWResult Win
 75
 WResult WinWResult WinDResult DrawWResult WinWResult WinWResult Win
 3Sporting CP
-29
-22
-5
-2
-74
-19
-55
-71
-WResult WinDResult DrawWResult WinWResult WinWResult WinLResult Loss
-4Sporting Braga
 30
+22
+6
+2
+75
+20
+55
+72
+DResult DrawWResult WinWResult WinWResult WinLResult LossDResult Draw
+4Sporting Braga
+31
 16
 8
-6
-58
-29
-29
+7
+59
+31
+28
 56
-DResult DrawLResult LossWResult WinWResult WinDResult DrawWResult Win
+LResult LossWResult WinWResult WinDResult DrawWResult WinLResult Loss
 5Famalicão
-30
-13
+31
+14
 9
 8
-38
+39
 27
-11
-48
-WResult WinWResult WinWResult WinDResult DrawDResult DrawDResult Draw
+12
+51
+WResult WinWResult WinDResult DrawDResult DrawDResult DrawWResult Win
 6Gil Vicente
 30
 12
@@ -99,15 +99,15 @@ LResult LossLResult LossLResult LossDResult DrawWResult WinLResult Loss
 38
 DResult DrawLResult LossWResult WinWResult WinLResult LossWResult Win
 10Estoril
-30
+31
 10
 7
-13
+14
 51
-51
-0
+52
+-1
 37
-DResult DrawWResult WinLResult LossLResult LossLResult LossLResult Loss
+WResult WinLResult LossLResult LossLResult LossLResult LossLResult Loss
 11Arouca
 31
 10
@@ -128,7 +128,17 @@ LResult LossWResult WinWResult WinLResult LossWResult WinLResult Loss
 -19
 34
 WResult WinWResult WinLResult LossWResult WinDResult DrawLResult Loss
-13Nacional
+13Santa Clara
+31
+8
+8
+15
+28
+38
+-10
+32
+WResult WinWResult WinLResult LossLResult LossDResult DrawWResult Win
+14Nacional
 31
 8
 7
@@ -138,26 +148,16 @@ WResult WinWResult WinLResult LossWResult WinDResult DrawLResult Loss
 -7
 31
 LResult LossLResult LossWResult WinLResult LossWResult WinWResult Win
-14Santa Clara
-30
-7
-8
-15
-26
-37
--11
-29
-WResult WinWResult WinWResult WinLResult LossLResult LossDResult Draw
 15Estrela
-30
+31
 6
 10
-14
-33
-49
--16
+15
+34
+51
+-17
 28
-DResult DrawLResult LossWResult WinLResult LossLResult LossLResult Loss
+LResult LossWResult WinLResult LossLResult LossLResult LossLResult Loss
 16Casa Pia
 30
 5
@@ -179,11 +179,11 @@ DResult DrawLResult LossDResult DrawLResult LossDResult DrawLResult Loss
 21
 LResult LossDResult DrawLResult LossDResult DrawLResult LossLResult Loss
 18AVS
-30
+31
 1
-10
+11
 19
-21
-64
+22
+65
 -43
-13
+14
