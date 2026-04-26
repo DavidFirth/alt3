@@ -79,15 +79,15 @@ LResult LossWResult WinLResult LossWResult WinWResult WinDResult Draw
 47
 WResult WinWResult WinDResult DrawWResult WinLResult LossWResult Win
 8Utrecht
-30
+31
 12
 8
-10
+11
 49
-36
-13
+41
+8
 44
-WResult WinDResult DrawWResult WinWResult WinLResult LossWResult Win
+DResult DrawWResult WinWResult WinLResult LossWResult WinLResult Loss
 9Groningen
 31
 12
@@ -138,7 +138,27 @@ LResult LossWResult WinLResult LossLResult LossDResult DrawLResult Loss
 -25
 34
 DResult DrawDResult DrawWResult WinLResult LossDResult DrawLResult Loss
-14Telstar
+14Excelsior
+31
+8
+7
+16
+36
+51
+-15
+31
+LResult LossLResult LossDResult DrawLResult LossDResult DrawWResult Win
+15Volendam
+31
+8
+7
+16
+33
+50
+-17
+31
+LResult LossLResult LossLResult LossDResult DrawLResult LossWResult Win
+16Telstar
 31
 7
 9
@@ -148,26 +168,6 @@ DResult DrawDResult DrawWResult WinLResult LossDResult DrawLResult Loss
 -10
 30
 WResult WinLResult LossWResult WinLResult LossLResult LossWResult Win
-15Volendam
-30
-7
-7
-16
-31
-50
--19
-28
-WResult WinLResult LossLResult LossLResult LossDResult DrawLResult Loss
-16Excelsior
-30
-7
-7
-16
-31
-51
--20
-28
-LResult LossLResult LossLResult LossDResult DrawLResult LossDResult Draw
 17NAC Breda
 31
 5
@@ -179,11 +179,11 @@ LResult LossLResult LossLResult LossDResult DrawLResult LossDResult Draw
 25
 DResult DrawLResult LossLResult LossDResult DrawDResult DrawLResult Loss
 18Heracles
-30
+31
 5
 4
-21
+22
 34
-77
--43
+79
+-45
 19
