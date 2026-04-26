@@ -9,15 +9,15 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1Inter Milan
-33
+34
 25
-3
+4
 5
-78
-29
+80
+31
 49
-78
-LResult LossDResult DrawDResult DrawWResult WinWResult WinWResult Win
+79
+DResult DrawDResult DrawWResult WinWResult WinWResult WinDResult Draw
 2Napoli
 34
 21
@@ -29,26 +29,36 @@ LResult LossDResult DrawDResult DrawWResult WinWResult WinWResult Win
 69
 WResult WinWResult WinWResult WinDResult DrawLResult LossWResult Win
 3AC Milan
-33
+34
 19
-9
+10
 5
 48
 27
 21
-66
-WResult WinLResult LossWResult WinLResult LossLResult LossWResult Win
+67
+LResult LossWResult WinLResult LossLResult LossWResult WinDResult Draw
 4Juventus
-33
+34
 18
-9
+10
 6
 57
 29
 28
-63
-WResult WinWResult WinDResult DrawWResult WinWResult WinWResult Win
-5Roma
+64
+WResult WinDResult DrawWResult WinWResult WinWResult WinDResult Draw
+5Como
+34
+17
+10
+7
+59
+28
+31
+61
+WResult WinWResult WinDResult DrawLResult LossLResult LossWResult Win
+6Roma
 34
 19
 4
@@ -58,16 +68,6 @@ WResult WinWResult WinDResult DrawWResult WinWResult WinWResult Win
 19
 61
 LResult LossWResult WinLResult LossWResult WinDResult DrawWResult Win
-6Como
-33
-16
-10
-7
-57
-28
-29
-58
-WResult WinWResult WinWResult WinDResult DrawLResult LossLResult Loss
 7Atalanta
 33
 14
@@ -99,15 +99,15 @@ WResult WinLResult LossWResult WinWResult WinLResult LossLResult Loss
 47
 WResult WinWResult WinWResult WinDResult DrawLResult LossWResult Win
 10Sassuolo
-33
+34
 13
-6
+7
 14
 41
 44
 -3
-45
-LResult LossLResult LossDResult DrawWResult WinLResult LossWResult Win
+46
+LResult LossDResult DrawWResult WinLResult LossWResult WinDResult Draw
 11Udinese
 33
 12
@@ -129,35 +129,35 @@ DResult DrawLResult LossWResult WinDResult DrawWResult WinLResult Loss
 42
 LResult LossLResult LossDResult DrawDResult DrawWResult WinWResult Win
 13Torino
-33
+34
 11
-7
+8
 15
-37
-54
+39
+56
 -17
-40
-LResult LossWResult WinLResult LossWResult WinWResult WinDResult Draw
+41
+WResult WinLResult LossWResult WinWResult WinDResult DrawDResult Draw
 14Genoa
-33
+34
 10
 9
-14
+15
 40
-46
--6
+48
+-8
 39
-WResult WinWResult WinLResult LossLResult LossWResult WinWResult Win
+WResult WinLResult LossLResult LossWResult WinWResult WinLResult Loss
 15Fiorentina
-33
+34
 8
-12
+13
 13
 38
 45
 -7
-36
-DResult DrawWResult WinDResult DrawWResult WinWResult WinDResult Draw
+37
+WResult WinDResult DrawWResult WinWResult WinDResult DrawDResult Draw
 16Cagliari
 33
 8
