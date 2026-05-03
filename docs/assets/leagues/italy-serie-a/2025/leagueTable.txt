@@ -9,15 +9,15 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1Inter Milan
-34
-25
+35
+26
 4
 5
-80
+82
 31
-49
-79
-DResult DrawDResult DrawWResult WinWResult WinWResult WinDResult Draw
+51
+82
+DResult DrawWResult WinWResult WinWResult WinDResult DrawWResult Win
 2Napoli
 35
 21
@@ -29,25 +29,25 @@ DResult DrawDResult DrawWResult WinWResult WinWResult WinDResult Draw
 70
 WResult WinWResult WinDResult DrawLResult LossWResult WinDResult Draw
 3AC Milan
-34
+35
 19
 10
-5
-48
-27
-21
-67
-LResult LossWResult WinLResult LossLResult LossWResult WinDResult Draw
-4Juventus
-34
-18
-10
 6
-57
+48
 29
+19
+67
+WResult WinLResult LossLResult LossWResult WinDResult DrawLResult Loss
+4Juventus
+35
+18
+11
+6
+58
+30
 28
-64
-WResult WinDResult DrawWResult WinWResult WinWResult WinDResult Draw
+65
+DResult DrawWResult WinWResult WinWResult WinDResult DrawDResult Draw
 5Como
 35
 17
@@ -78,7 +78,27 @@ LResult LossWResult WinLResult LossWResult WinDResult DrawWResult Win
 15
 55
 WResult WinWResult WinLResult LossDResult DrawLResult LossDResult Draw
-8Lazio
+8Bologna
+35
+14
+7
+14
+42
+41
+1
+49
+LResult LossWResult WinWResult WinLResult LossLResult LossDResult Draw
+9Sassuolo
+35
+14
+7
+14
+43
+44
+-1
+49
+DResult DrawWResult WinLResult LossWResult WinDResult DrawWResult Win
+10Lazio
 34
 12
 12
@@ -88,17 +108,7 @@ WResult WinWResult WinLResult LossDResult DrawLResult LossDResult Draw
 4
 48
 WResult WinWResult WinDResult DrawLResult LossWResult WinDResult Draw
-9Bologna
-34
-14
-6
-14
-42
-41
-1
-48
-WResult WinLResult LossWResult WinWResult WinLResult LossLResult Loss
-10Udinese
+11Udinese
 35
 13
 8
@@ -108,26 +118,16 @@ WResult WinLResult LossWResult WinWResult WinLResult LossLResult Loss
 -3
 47
 WResult WinDResult DrawWResult WinLResult LossDResult DrawWResult Win
-11Sassuolo
-34
-13
-7
-14
-41
-44
--3
-46
-LResult LossDResult DrawWResult WinLResult LossWResult WinDResult Draw
 12Parma
-34
+35
 10
 12
-12
+13
 25
-40
--15
 42
-LResult LossLResult LossDResult DrawDResult DrawWResult WinWResult Win
+-17
+42
+LResult LossDResult DrawDResult DrawWResult WinWResult WinLResult Loss
 13Torino
 35
 11
@@ -159,15 +159,15 @@ LResult LossLResult LossWResult WinWResult WinLResult LossDResult Draw
 37
 WResult WinDResult DrawWResult WinWResult WinDResult DrawDResult Draw
 16Cagliari
-34
+35
 9
-9
+10
 16
 36
 49
 -13
-36
-LResult LossLResult LossLResult LossWResult WinLResult LossWResult Win
+37
+LResult LossLResult LossWResult WinLResult LossWResult WinDResult Draw
 17Lecce
 35
 8
@@ -189,15 +189,15 @@ LResult LossLResult LossLResult LossDResult DrawDResult DrawWResult Win
 28
 LResult LossWResult WinLResult LossLResult LossDResult DrawLResult Loss
 19Hellas Verona
-34
+35
 3
-10
+11
 21
-23
-56
+24
+57
 -33
-19
-LResult LossLResult LossLResult LossLResult LossLResult LossDResult Draw
+20
+LResult LossLResult LossLResult LossLResult LossDResult DrawDResult Draw
 20Pisa
 35
 2
