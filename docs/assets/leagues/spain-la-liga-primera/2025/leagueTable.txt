@@ -19,15 +19,15 @@ Form, Last 6 games, Oldest first
 88
 WResult WinWResult WinWResult WinWResult WinWResult WinWResult Win
 2Real Madrid
-33
-23
+34
+24
 5
 5
-68
+70
 31
-37
-74
-WResult WinWResult WinLResult LossDResult DrawWResult WinDResult Draw
+39
+77
+WResult WinLResult LossDResult DrawWResult WinDResult DrawWResult Win
 3Villarreal
 34
 21
@@ -49,35 +49,35 @@ WResult WinLResult LossWResult WinDResult DrawWResult WinWResult Win
 63
 LResult LossLResult LossLResult LossLResult LossWResult WinWResult Win
 5Real Betis
-33
-12
+34
+13
 14
 7
-49
+52
 41
-8
-50
-DResult DrawLResult LossDResult DrawDResult DrawWResult WinDResult Draw
+11
+53
+LResult LossDResult DrawDResult DrawWResult WinDResult DrawWResult Win
 6Celta Vigo
-33
+34
+12
 11
 11
-11
-45
-43
-2
+48
 44
-DResult DrawLResult LossWResult WinLResult LossLResult LossLResult Loss
+4
+47
+LResult LossWResult WinLResult LossLResult LossLResult LossWResult Win
 7Getafe
-33
+34
 13
 5
-15
+16
 28
-34
--6
+36
+-8
 44
-LResult LossWResult WinWResult WinLResult LossWResult WinLResult Loss
+WResult WinWResult WinLResult LossWResult WinLResult LossLResult Loss
 8Athletic Club
 34
 13
@@ -109,26 +109,16 @@ WResult WinLResult LossWResult WinDResult DrawLResult LossDResult Draw
 42
 WResult WinDResult DrawDResult DrawLResult LossWResult WinLResult Loss
 11Rayo Vallecano
-33
-9
-12
-12
-33
-41
--8
-39
-DResult DrawLResult LossWResult WinLResult LossWResult WinDResult Draw
-12Espanyol
-33
+34
 10
-9
-14
-37
-49
--12
-39
-LResult LossLResult LossDResult DrawLResult LossLResult LossDResult Draw
-13Valencia
+12
+12
+35
+41
+-6
+42
+LResult LossWResult WinLResult LossWResult WinDResult DrawWResult Win
+12Valencia
 34
 10
 9
@@ -138,16 +128,26 @@ LResult LossLResult LossDResult DrawLResult LossLResult LossDResult Draw
 -13
 39
 WResult WinLResult LossLResult LossDResult DrawWResult WinLResult Loss
+13Espanyol
+34
+10
+9
+15
+37
+51
+-14
+39
+LResult LossDResult DrawLResult LossLResult LossDResult DrawLResult Loss
 14Elche
-33
+34
 9
 11
-13
-44
-50
--6
+14
+45
+53
+-8
 38
-LResult LossWResult WinLResult LossWResult WinWResult WinWResult Win
+WResult WinLResult LossWResult WinWResult WinWResult WinLResult Loss
 15Mallorca
 34
 10
@@ -199,11 +199,11 @@ LResult LossLResult LossLResult LossWResult WinLResult LossLResult Loss
 33
 WResult WinLResult LossWResult WinWResult WinDResult DrawLResult Loss
 20Real Oviedo
-33
+34
 6
 10
-17
+18
 26
-51
--25
+54
+-28
 28
