@@ -39,15 +39,15 @@ WResult WinDResult DrawWResult WinWResult WinWResult WinDResult Draw
 73
 WResult WinWResult WinWResult WinLResult LossDResult DrawDResult Draw
 4Sporting Braga
-31
+32
 16
-8
+9
 7
-59
-31
+60
+32
 28
-56
-LResult LossWResult WinWResult WinDResult DrawWResult WinLResult Loss
+57
+WResult WinWResult WinDResult DrawWResult WinLResult LossDResult Draw
 5Famalicão
 32
 14
@@ -59,15 +59,15 @@ LResult LossWResult WinWResult WinDResult DrawWResult WinLResult Loss
 52
 WResult WinDResult DrawDResult DrawDResult DrawWResult WinDResult Draw
 6Gil Vicente
-31
+32
 13
-10
+11
 8
 46
 32
 14
-49
-DResult DrawLResult LossWResult WinDResult DrawLResult LossWResult Win
+50
+LResult LossWResult WinDResult DrawLResult LossWResult WinDResult Draw
 7Moreirense
 32
 12
@@ -88,7 +88,17 @@ LResult LossLResult LossDResult DrawWResult WinLResult LossWResult Win
 -5
 42
 LResult LossLResult LossWResult WinDResult DrawWResult WinWResult Win
-9Alverca
+9Estoril
+32
+10
+8
+14
+52
+53
+-1
+38
+LResult LossLResult LossLResult LossLResult LossLResult LossDResult Draw
+10Alverca
 32
 10
 8
@@ -98,16 +108,6 @@ LResult LossLResult LossWResult WinDResult DrawWResult WinWResult Win
 -16
 38
 LResult LossWResult WinWResult WinLResult LossWResult WinLResult Loss
-10Estoril
-31
-10
-7
-14
-51
-52
--1
-37
-WResult WinLResult LossLResult LossLResult LossLResult LossLResult Loss
 11Arouca
 32
 10
@@ -119,15 +119,15 @@ WResult WinLResult LossLResult LossLResult LossLResult LossLResult Loss
 36
 WResult WinWResult WinLResult LossWResult WinLResult LossDResult Draw
 12Rio Ave
-31
+32
 8
-10
+11
 13
 33
 52
 -19
-34
-WResult WinWResult WinLResult LossWResult WinDResult DrawLResult Loss
+35
+WResult WinLResult LossWResult WinDResult DrawLResult LossDResult Draw
 13Santa Clara
 32
 8
@@ -159,25 +159,25 @@ LResult LossWResult WinLResult LossWResult WinWResult WinLResult Loss
 28
 WResult WinLResult LossLResult LossLResult LossLResult LossLResult Loss
 16Casa Pia
-31
+32
 5
 11
-15
+16
 29
-55
--26
+56
+-27
 26
-LResult LossDResult DrawLResult LossDResult DrawLResult LossLResult Loss
+DResult DrawLResult LossDResult DrawLResult LossLResult LossLResult Loss
 17Tondela
-31
-4
+32
+5
 10
 17
-23
+24
 52
--29
-22
-DResult DrawLResult LossDResult DrawLResult LossLResult LossDResult Draw
+-28
+25
+LResult LossDResult DrawLResult LossLResult LossDResult DrawWResult Win
 18AVS
 32
 2
