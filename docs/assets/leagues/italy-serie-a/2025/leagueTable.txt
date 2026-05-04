@@ -48,7 +48,17 @@ WResult WinLResult LossLResult LossWResult WinDResult DrawLResult Loss
 28
 65
 DResult DrawWResult WinWResult WinWResult WinDResult DrawDResult Draw
-5Como
+5Roma
+35
+20
+4
+11
+52
+29
+23
+64
+WResult WinLResult LossWResult WinDResult DrawWResult WinWResult Win
+6Como
 35
 17
 11
@@ -58,16 +68,6 @@ DResult DrawWResult WinWResult WinWResult WinDResult DrawDResult Draw
 31
 62
 WResult WinDResult DrawLResult LossLResult LossWResult WinDResult Draw
-6Roma
-34
-19
-4
-11
-48
-29
-19
-61
-LResult LossWResult WinLResult LossWResult WinDResult DrawWResult Win
 7Atalanta
 35
 14
@@ -78,7 +78,17 @@ LResult LossWResult WinLResult LossWResult WinDResult DrawWResult Win
 15
 55
 WResult WinWResult WinLResult LossDResult DrawLResult LossDResult Draw
-8Bologna
+8Lazio
+35
+13
+12
+10
+39
+34
+5
+51
+WResult WinDResult DrawLResult LossWResult WinDResult DrawWResult Win
+9Bologna
 35
 14
 7
@@ -88,7 +98,7 @@ WResult WinWResult WinLResult LossDResult DrawLResult LossDResult Draw
 1
 49
 LResult LossWResult WinWResult WinLResult LossLResult LossDResult Draw
-9Sassuolo
+10Sassuolo
 35
 14
 7
@@ -98,16 +108,6 @@ LResult LossWResult WinWResult WinLResult LossLResult LossDResult Draw
 -1
 49
 DResult DrawWResult WinLResult LossWResult WinDResult DrawWResult Win
-10Lazio
-34
-12
-12
-10
-37
-33
-4
-48
-WResult WinWResult WinDResult DrawLResult LossWResult WinDResult Draw
 11Udinese
 35
 13
@@ -148,17 +148,7 @@ LResult LossWResult WinWResult WinDResult DrawDResult DrawLResult Loss
 -8
 40
 LResult LossLResult LossWResult WinWResult WinLResult LossDResult Draw
-15Fiorentina
-34
-8
-13
-13
-38
-45
--7
-37
-WResult WinDResult DrawWResult WinWResult WinDResult DrawDResult Draw
-16Cagliari
+15Cagliari
 35
 9
 10
@@ -168,6 +158,16 @@ WResult WinDResult DrawWResult WinWResult WinDResult DrawDResult Draw
 -13
 37
 LResult LossLResult LossWResult WinLResult LossWResult WinDResult Draw
+16Fiorentina
+35
+8
+13
+14
+38
+49
+-11
+37
+DResult DrawWResult WinWResult WinDResult DrawDResult DrawLResult Loss
 17Lecce
 35
 8
@@ -179,15 +179,15 @@ LResult LossLResult LossWResult WinLResult LossWResult WinDResult Draw
 32
 LResult LossLResult LossLResult LossDResult DrawDResult DrawWResult Win
 18Cremonese
-34
+35
 6
 10
-18
-26
-51
--25
+19
+27
+53
+-26
 28
-LResult LossWResult WinLResult LossLResult LossDResult DrawLResult Loss
+WResult WinLResult LossLResult LossDResult DrawLResult LossLResult Loss
 19Hellas Verona
 35
 3
