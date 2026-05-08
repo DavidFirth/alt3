@@ -99,15 +99,15 @@ WResult WinDResult DrawLResult LossWResult WinDResult DrawWResult Win
 49
 LResult LossWResult WinWResult WinLResult LossLResult LossDResult Draw
 10Sassuolo
-35
+36
 14
 7
-14
-43
+15
 44
--1
+46
+-2
 49
-DResult DrawWResult WinLResult LossWResult WinDResult DrawWResult Win
+WResult WinLResult LossWResult WinDResult DrawWResult WinLResult Loss
 11Udinese
 35
 13
@@ -118,7 +118,17 @@ DResult DrawWResult WinLResult LossWResult WinDResult DrawWResult Win
 -3
 47
 WResult WinDResult DrawWResult WinLResult LossDResult DrawWResult Win
-12Parma
+12Torino
+36
+12
+8
+16
+41
+59
+-18
+44
+WResult WinWResult WinDResult DrawDResult DrawLResult LossWResult Win
+13Parma
 35
 10
 12
@@ -128,16 +138,6 @@ WResult WinDResult DrawWResult WinLResult LossDResult DrawWResult Win
 -17
 42
 LResult LossDResult DrawDResult DrawWResult WinWResult WinLResult Loss
-13Torino
-35
-11
-8
-16
-39
-58
--19
-41
-LResult LossWResult WinWResult WinDResult DrawDResult DrawLResult Loss
 14Genoa
 35
 10
