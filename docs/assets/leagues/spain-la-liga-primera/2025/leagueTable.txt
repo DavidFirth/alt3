@@ -99,15 +99,15 @@ WResult WinLResult LossLResult LossWResult WinLResult LossWResult Win
 43
 LResult LossWResult WinDResult DrawLResult LossDResult DrawLResult Loss
 10Osasuna
-34
+35
 11
 9
-14
-40
+15
 42
--2
+45
+-3
 42
-WResult WinDResult DrawDResult DrawLResult LossWResult WinLResult Loss
+DResult DrawDResult DrawLResult LossWResult WinLResult LossLResult Loss
 11Rayo Vallecano
 34
 10
@@ -178,7 +178,17 @@ LResult LossWResult WinDResult DrawLResult LossLResult LossLResult Loss
 -14
 37
 LResult LossLResult LossWResult WinLResult LossLResult LossWResult Win
-18Alavés
+18Levante
+35
+9
+9
+17
+41
+57
+-16
+36
+LResult LossWResult WinWResult WinDResult DrawLResult LossWResult Win
+19Alavés
 34
 9
 9
@@ -188,16 +198,6 @@ LResult LossLResult LossWResult WinLResult LossLResult LossWResult Win
 -13
 36
 WResult WinDResult DrawDResult DrawLResult LossWResult WinLResult Loss
-19Levante
-34
-8
-9
-17
-38
-55
--17
-33
-WResult WinLResult LossWResult WinWResult WinDResult DrawLResult Loss
 20Real Oviedo
 34
 6
