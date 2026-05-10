@@ -9,15 +9,15 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1Porto
-32
+33
 27
 4
-1
-64
-15
-49
+2
+65
+18
+47
 85
-WResult WinDResult DrawWResult WinWResult WinWResult WinWResult Win
+DResult DrawWResult WinWResult WinWResult WinWResult WinLResult Loss
 2Benfica
 32
 22
@@ -89,25 +89,25 @@ LResult LossLResult LossDResult DrawWResult WinLResult LossWResult Win
 42
 LResult LossWResult WinDResult DrawWResult WinWResult WinLResult Loss
 9Estoril
-32
+33
 10
-8
+9
 14
-52
 53
+54
 -1
-38
-LResult LossLResult LossLResult LossLResult LossLResult LossDResult Draw
+39
+LResult LossLResult LossLResult LossLResult LossDResult DrawDResult Draw
 10Alverca
-32
+33
 10
-8
+9
 14
-34
-50
+35
+51
 -16
-38
-LResult LossWResult WinWResult WinLResult LossWResult WinLResult Loss
+39
+WResult WinWResult WinLResult LossWResult WinLResult LossDResult Draw
 11Arouca
 32
 10
@@ -179,11 +179,11 @@ DResult DrawLResult LossDResult DrawLResult LossLResult LossLResult Loss
 25
 LResult LossDResult DrawLResult LossLResult LossDResult DrawWResult Win
 18AVS
-32
-2
+33
+3
 11
 19
-24
-66
--42
-17
+27
+67
+-40
+20
