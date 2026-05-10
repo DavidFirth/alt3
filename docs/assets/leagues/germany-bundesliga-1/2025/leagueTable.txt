@@ -69,15 +69,15 @@ LResult LossDResult DrawWResult WinWResult WinDResult DrawWResult Win
 58
 WResult WinWResult WinLResult LossWResult WinWResult WinLResult Loss
 7Freiburg
-32
+33
 12
 8
-12
-45
-53
--8
+13
+47
+56
+-9
 44
-WResult WinLResult LossWResult WinWResult WinLResult LossDResult Draw
+LResult LossWResult WinWResult WinLResult LossDResult DrawLResult Loss
 8Eintracht Frankfurt
 33
 11
@@ -99,16 +99,36 @@ DResult DrawWResult WinLResult LossDResult DrawLResult LossLResult Loss
 43
 DResult DrawDResult DrawWResult WinDResult DrawWResult WinWResult Win
 10Mainz 05
-32
+33
 9
 10
-13
-41
-50
--9
+14
+42
+53
+-11
 37
-WResult WinWResult WinLResult LossDResult DrawLResult LossWResult Win
-11Borussia M&#x27;gladbach
+WResult WinLResult LossDResult DrawLResult LossWResult WinLResult Loss
+11Hamburger SV
+33
+9
+10
+14
+39
+53
+-14
+37
+DResult DrawLResult LossLResult LossLResult LossWResult WinWResult Win
+12Union Berlin
+33
+9
+9
+15
+40
+58
+-18
+36
+DResult DrawLResult LossLResult LossLResult LossDResult DrawWResult Win
+13Borussia M&#x27;gladbach
 33
 8
 11
@@ -118,36 +138,16 @@ WResult WinWResult WinLResult LossDResult DrawLResult LossWResult Win
 -15
 35
 DResult DrawLResult LossDResult DrawDResult DrawWResult WinLResult Loss
-12Hamburger SV
-32
-8
-10
-14
-36
-51
--15
-34
-LResult LossDResult DrawLResult LossLResult LossLResult LossWResult Win
-13Union Berlin
-32
-8
-9
-15
-37
-57
--20
-33
-LResult LossDResult DrawLResult LossLResult LossLResult LossDResult Draw
 14Köln
-32
+33
 7
 11
-14
-47
-55
--8
+15
+48
+58
+-10
 32
-DResult DrawDResult DrawWResult WinDResult DrawLResult LossDResult Draw
+DResult DrawWResult WinDResult DrawLResult LossDResult DrawLResult Loss
 15Werder Bremen
 33
 8
@@ -168,7 +168,17 @@ LResult LossLResult LossWResult WinDResult DrawLResult LossLResult Loss
 -26
 26
 LResult LossLResult LossWResult WinDResult DrawDResult DrawLResult Loss
-17St. Pauli
+17Heidenheim
+33
+6
+8
+19
+41
+70
+-29
+26
+DResult DrawWResult WinLResult LossWResult WinDResult DrawWResult Win
+18St. Pauli
 33
 6
 8
@@ -177,13 +187,3 @@ LResult LossLResult LossWResult WinDResult DrawDResult DrawLResult Loss
 57
 -29
 26
-DResult DrawLResult LossDResult DrawLResult LossLResult LossLResult Loss
-18Heidenheim
-32
-5
-8
-19
-38
-69
--31
-23
