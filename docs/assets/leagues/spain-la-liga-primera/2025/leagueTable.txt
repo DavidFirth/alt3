@@ -39,35 +39,35 @@ LResult LossDResult DrawWResult WinDResult DrawWResult WinLResult Loss
 69
 LResult LossWResult WinDResult DrawWResult WinWResult WinDResult Draw
 4Atletico Madrid
-35
-19
+36
+20
 6
 10
-58
-38
-20
-63
-LResult LossLResult LossLResult LossWResult WinWResult WinLResult Loss
+60
+39
+21
+66
+LResult LossLResult LossWResult WinWResult WinLResult LossWResult Win
 5Real Betis
-35
-13
+36
+14
 15
 7
-54
-43
-11
-54
-DResult DrawDResult DrawWResult WinDResult DrawWResult WinDResult Draw
+56
+44
+12
+57
+DResult DrawWResult WinDResult DrawWResult WinDResult DrawWResult Win
 6Celta Vigo
-35
+36
 13
 11
-11
-49
-44
-5
+12
+51
+47
+4
 50
-WResult WinLResult LossLResult LossLResult LossWResult WinWResult Win
+LResult LossLResult LossLResult LossWResult WinWResult WinLResult Loss
 7Getafe
 35
 13
@@ -109,15 +109,15 @@ LResult LossLResult LossWResult WinLResult LossWResult WinLResult Loss
 43
 WResult WinLResult LossWResult WinDResult DrawWResult WinDResult Draw
 11Osasuna
-35
+36
 11
 9
-15
+16
+43
+47
+-4
 42
-45
--3
-42
-DResult DrawDResult DrawLResult LossWResult WinLResult LossLResult Loss
+DResult DrawLResult LossWResult WinLResult LossLResult LossLResult Loss
 12Valencia
 35
 11
@@ -139,15 +139,15 @@ LResult LossLResult LossDResult DrawWResult WinLResult LossWResult Win
 40
 LResult LossWResult WinLResult LossLResult LossWResult WinWResult Win
 14Elche
-35
+36
 9
 12
-14
-46
-54
--8
+15
+47
+56
+-9
 39
-LResult LossWResult WinWResult WinWResult WinLResult LossDResult Draw
+WResult WinWResult WinWResult WinLResult LossDResult DrawLResult Loss
 15Mallorca
 35
 10
@@ -158,7 +158,17 @@ LResult LossWResult WinWResult WinWResult WinLResult LossDResult Draw
 -9
 39
 WResult WinWResult WinDResult DrawLResult LossWResult WinDResult Draw
-16Espanyol
+16Levante
+36
+10
+9
+17
+44
+59
+-15
+39
+WResult WinWResult WinDResult DrawLResult LossWResult WinWResult Win
+17Espanyol
 35
 10
 9
@@ -168,7 +178,7 @@ WResult WinWResult WinDResult DrawLResult LossWResult WinDResult Draw
 -15
 39
 DResult DrawLResult LossLResult LossDResult DrawLResult LossLResult Loss
-17Girona
+18Girona
 35
 9
 12
@@ -178,7 +188,7 @@ DResult DrawLResult LossLResult LossDResult DrawLResult LossLResult Loss
 -15
 39
 WResult WinDResult DrawLResult LossLResult LossLResult LossDResult Draw
-18Alavés
+19Alavés
 35
 9
 10
@@ -188,16 +198,6 @@ WResult WinDResult DrawLResult LossLResult LossLResult LossDResult Draw
 -13
 37
 DResult DrawDResult DrawLResult LossWResult WinLResult LossDResult Draw
-19Levante
-35
-9
-9
-17
-41
-57
--16
-36
-LResult LossWResult WinWResult WinDResult DrawLResult LossWResult Win
 20Real Oviedo
 35
 6
