@@ -9,95 +9,95 @@ Goal Difference
 Points
 Form, Last 6 games, Oldest first
 1Paris Saint-Germain
-33
+34
 24
 4
-5
-73
-27
-46
+6
+74
+29
+45
 76
-LResult LossWResult WinWResult WinDResult DrawWResult WinWResult Win
+WResult WinWResult WinDResult DrawWResult WinWResult WinLResult Loss
 2Lens
-33
-21
+34
+22
 4
 8
-62
+66
 35
-27
-67
-LResult LossWResult WinDResult DrawDResult DrawWResult WinLResult Loss
+31
+70
+WResult WinDResult DrawDResult DrawWResult WinLResult LossWResult Win
 3Lille
-33
+34
 18
 7
-8
+9
 52
-35
-17
+37
+15
 61
-WResult WinWResult WinDResult DrawWResult WinDResult DrawWResult Win
+WResult WinDResult DrawWResult WinDResult DrawWResult WinLResult Loss
 4Olympique Lyonnais
-33
+34
 18
 6
-9
+10
 53
-36
-17
+40
+13
 60
-DResult DrawWResult WinWResult WinWResult WinWResult WinLResult Loss
-5Rennes
-33
+WResult WinWResult WinWResult WinWResult WinLResult LossLResult Loss
+5Marseille
+34
+18
+5
+11
+63
+45
+18
+59
+WResult WinLResult LossDResult DrawLResult LossWResult WinWResult Win
+6Rennes
+34
 17
 8
+9
+59
+50
+9
+59
+WResult WinWResult WinWResult WinLResult LossWResult WinLResult Loss
+7Monaco
+34
+16
+6
+12
+60
+54
+6
+54
+LResult LossDResult DrawDResult DrawWResult WinLResult LossLResult Loss
+8Strasbourg
+34
+15
 8
+11
 58
 47
 11
-59
-WResult WinWResult WinWResult WinWResult WinLResult LossWResult Win
-6Marseille
-33
-17
-5
-11
-60
-44
-16
-56
-LResult LossWResult WinLResult LossDResult DrawLResult LossWResult Win
-7Monaco
-33
-16
-6
-11
-56
-49
-7
-54
-WResult WinLResult LossDResult DrawDResult DrawWResult WinLResult Loss
-8Strasbourg
-33
-14
-8
-11
 53
-43
-10
-50
-WResult WinLResult LossWResult WinLResult LossDResult DrawWResult Win
+LResult LossWResult WinLResult LossDResult DrawWResult WinWResult Win
 9Lorient
-33
+34
 11
 12
-10
+11
 48
-49
--1
+51
+-3
 45
-DResult DrawLResult LossWResult WinLResult LossDResult DrawWResult Win
+LResult LossWResult WinLResult LossDResult DrawWResult WinLResult Loss
 10Toulouse
 33
 12
@@ -109,65 +109,65 @@ DResult DrawLResult LossWResult WinLResult LossDResult DrawWResult Win
 44
 LResult LossLResult LossLResult LossDResult DrawWResult WinWResult Win
 11Paris FC
-33
-10
+34
+11
 11
 12
-45
-49
--4
-41
-DResult DrawWResult WinWResult WinLResult LossWResult WinLResult Loss
-12Brest
-33
-10
-8
-15
-42
-54
--12
-38
-LResult LossDResult DrawDResult DrawLResult LossLResult LossLResult Loss
-13Angers SCO
-33
-9
-8
-16
-28
 47
+50
+-3
+44
+WResult WinWResult WinLResult LossWResult WinLResult LossWResult Win
+12Brest
+34
+10
+9
+15
+43
+55
+-12
+39
+DResult DrawDResult DrawLResult LossLResult LossLResult LossDResult Draw
+13Angers SCO
+34
+9
+9
+16
+29
+48
 -19
-35
-DResult DrawLResult LossDResult DrawLResult LossLResult LossDResult Draw
+36
+LResult LossDResult DrawLResult LossLResult LossDResult DrawDResult Draw
 14Le Havre
-33
-6
+34
+7
 14
 13
-30
-44
--14
-32
-DResult DrawDResult DrawDResult DrawDResult DrawDResult DrawLResult Loss
-15Auxerre
-33
-7
-10
-16
 32
 44
 -12
-31
-DResult DrawDResult DrawDResult DrawLResult LossWResult WinWResult Win
-16Nice
-33
-7
+35
+DResult DrawDResult DrawDResult DrawDResult DrawLResult LossWResult Win
+15Auxerre
+34
+8
 10
+16
+34
+44
+-10
+34
+DResult DrawDResult DrawLResult LossWResult WinWResult WinWResult Win
+16Nice
+34
+7
+11
 16
 37
 60
 -23
-31
-LResult LossDResult DrawDResult DrawDResult DrawDResult DrawLResult Loss
+32
+DResult DrawDResult DrawDResult DrawDResult DrawLResult LossDResult Draw
 17Nantes
 33
 5
@@ -179,11 +179,11 @@ LResult LossDResult DrawDResult DrawDResult DrawDResult DrawLResult Loss
 23
 DResult DrawDResult DrawLResult LossLResult LossWResult WinLResult Loss
 18Metz
-33
+34
 3
-7
+8
 23
 32
 76
 -44
-16
+17
