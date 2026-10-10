@@ -9,7 +9,7 @@ sidebar:
   - text: "Click on the *team name* to see graphically how any team's schedule strength evolves through the season."
 ---
 
-{% include leagues/new-season-message.md %}
+<!-- {% include leagues/new-season-message.md %} -->
 
 {% include leagues/update-time.md %}
 
@@ -17,7 +17,7 @@ sidebar:
 
 {% include leagues/england-championship/alt3-table.html %}
 
-Sheffield Wednesday are subject to a 18-point deduction, Leicester City to a 6-point deduction, and West Brom to a 2-point deduction.  These have been accounted for in the _Rate_ calculation.
+Southampton are subject to a 4-point deduction.  This has been accounted for in the _Rate_ calculation.
 
 <style>
 .svg-wrap {
