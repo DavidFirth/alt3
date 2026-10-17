@@ -58,7 +58,17 @@ DResult DrawLResult LossWResult WinDResult DrawWResult WinWResult Win
 6
 17
 LResult LossDResult DrawDResult DrawDResult DrawDResult DrawWResult Win
-6West Bromwich Albion
+6Wolverhampton Wanderers
+10
+5
+2
+3
+18
+15
+3
+17
+DResult DrawWResult WinWResult WinLResult LossLResult LossWResult Win
+7West Bromwich Albion
 10
 5
 2
@@ -68,7 +78,7 @@ LResult LossDResult DrawDResult DrawDResult DrawDResult DrawWResult Win
 2
 17
 WResult WinWResult WinDResult DrawLResult LossLResult LossWResult Win
-7Southampton
+8Southampton
 10
 6
 2
@@ -78,7 +88,7 @@ WResult WinWResult WinDResult DrawLResult LossLResult LossWResult Win
 11
 16
 DResult DrawWResult WinWResult WinLResult LossWResult WinWResult Win
-8Stoke City
+9Stoke City
 10
 5
 1
@@ -88,7 +98,7 @@ DResult DrawWResult WinWResult WinLResult LossWResult WinWResult Win
 1
 16
 WResult WinDResult DrawWResult WinWResult WinWResult WinLResult Loss
-9Blackburn Rovers
+10Blackburn Rovers
 10
 4
 3
@@ -98,16 +108,6 @@ WResult WinDResult DrawWResult WinWResult WinWResult WinLResult Loss
 2
 15
 LResult LossLResult LossWResult WinDResult DrawWResult WinWResult Win
-10Wolverhampton Wanderers
-9
-4
-2
-3
-16
-14
-2
-14
-LResult LossDResult DrawWResult WinWResult WinLResult LossLResult Loss
 11Millwall
 10
 4
@@ -209,15 +209,15 @@ LResult LossDResult DrawLResult LossWResult WinLResult LossWResult Win
 9
 WResult WinWResult WinLResult LossLResult LossLResult LossLResult Loss
 21Burnley
-10
+11
 1
 5
-4
-15
-19
--4
+5
+16
+21
+-5
 8
-LResult LossDResult DrawLResult LossDResult DrawWResult WinDResult Draw
+DResult DrawLResult LossDResult DrawWResult WinDResult DrawLResult Loss
 22Watford
 10
 2
