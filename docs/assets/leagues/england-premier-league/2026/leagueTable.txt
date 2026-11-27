@@ -79,15 +79,15 @@ DResult DrawLResult LossDResult DrawWResult WinLResult LossWResult Win
 17
 LResult LossDResult DrawDResult DrawLResult LossWResult WinWResult Win
 8Chelsea
-11
+12
 5
 1
-5
-20
-20
-0
+6
+22
+23
+-1
 16
-WResult WinWResult WinLResult LossWResult WinLResult LossLResult Loss
+WResult WinLResult LossWResult WinLResult LossLResult LossLResult Loss
 9Everton
 11
 4
@@ -138,7 +138,17 @@ DResult DrawWResult WinWResult WinDResult DrawDResult DrawDResult Draw
 -3
 13
 LResult LossLResult LossWResult WinLResult LossDResult DrawDResult Draw
-14Coventry City
+14Nottingham Forest
+12
+3
+3
+6
+12
+17
+-5
+12
+LResult LossDResult DrawLResult LossWResult WinLResult LossWResult Win
+15Coventry City
 11
 4
 0
@@ -148,7 +158,7 @@ LResult LossLResult LossWResult WinLResult LossDResult DrawDResult Draw
 -8
 12
 WResult WinLResult LossLResult LossWResult WinLResult LossWResult Win
-15Fulham
+16Fulham
 11
 2
 5
@@ -158,7 +168,7 @@ WResult WinLResult LossLResult LossWResult WinLResult LossWResult Win
 -2
 11
 LResult LossWResult WinWResult WinDResult DrawDResult DrawDResult Draw
-16Ipswich Town
+17Ipswich Town
 11
 3
 2
@@ -168,16 +178,6 @@ LResult LossWResult WinWResult WinDResult DrawDResult DrawDResult Draw
 -7
 11
 WResult WinLResult LossDResult DrawDResult DrawLResult LossLResult Loss
-17Nottingham Forest
-11
-2
-3
-6
-9
-15
--6
-9
-LResult LossLResult LossDResult DrawLResult LossWResult WinLResult Loss
 18Sunderland
 11
 2
